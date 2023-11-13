@@ -39,6 +39,12 @@ MEDIA_SET = [
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
 DATE_RANGE = (datetime(2018, 10, 1), datetime(2019, 10, 31))
 
+DATABASE_CON = sqlite3.connect("../db/podcasts.db")
+DATABASE_CURSOR = DATABASE_CON.cursor()
+DATABASE_CURSOR.execute("CREATE TABLE Media(media_id, title)")
+DATABASE_CURSOR.execute("CREATE TABLE Episode(episode_id, media_id, timestamp, episode_name, platform, transcript)")
+DATABASE_CON.commit()
+
 def main():
     for media in MEDIA_SET:
         print(media_to_videos(media))
@@ -72,7 +78,7 @@ def media_to_videos(media):
                     id,
                     media,
                     timestamp,
-                    None,
+                    "",
                     API_SERVICE_NAME,
                     transcript_fname
                 )
@@ -96,7 +102,7 @@ def media_to_videos(media):
                 id,
                 media,
                 timestamp,
-                None,
+                "",
                 API_SERVICE_NAME,
                 transcript_fname
             )
