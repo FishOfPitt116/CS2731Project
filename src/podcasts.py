@@ -42,12 +42,18 @@ DATE_RANGE = (datetime(2018, 10, 1), datetime(2019, 10, 31))
 DATABASE_CON = sqlite3.connect("../db/podcasts.db")
 DATABASE_CURSOR = DATABASE_CON.cursor()
 
+"""
+Main method which fetches podcast information for all podcasts listed in MEDIA_SET which have not already been added to db
+"""
 def main():
     create_db_tables()
     for media in MEDIA_SET:
         if write_to_media_db(media):
             media_to_videos(media)
 
+"""
+Method which creates Media and Episode database tables if they aren't already present in ../db/podcasts.db
+"""
 def create_db_tables():
     media_exists = DATABASE_CURSOR.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Media';")
     if media_exists.fetchone() is None:
@@ -59,6 +65,12 @@ def create_db_tables():
 
     DATABASE_CON.commit()
 
+"""
+Method which writes a media object to the Media database table.
+
+@param media: Media object to be added to ../db/podcasts.db
+@return: True if entry is successfully added, False if entry is already present
+"""
 def write_to_media_db(media: Media):
     media_exists = DATABASE_CURSOR.execute(f"SELECT media_id FROM Media WHERE media_id='{media.media_id}'")
     if media_exists.fetchone() is not None:
@@ -68,11 +80,28 @@ def write_to_media_db(media: Media):
     DATABASE_CON.commit()
     return True
 
+"""
+Method which writes an episode object to the Episode database table.
+
+@param episode: Episode object to be added to ../db/podcasts.db
+@return: True if entry is successfully added, False if entry is already present
+"""
 def write_to_episode_db(episode: Episode):
+    episode_exists = DATABASE_CURSOR.execute(f"SELECT episode_id FROM Episode WHERE episode_id='{episode.episode_id}'")
+    if episode_exists.fetchone() is not None:
+        return False
     print(f"INSERT INTO Episode VALUES ('{episode.episode_id}', '{episode.media_id}', '{str(episode.timestamp)}', '{episode.episode_name}', '{episode.platform}', '{episode.transcript}')")
     DATABASE_CURSOR.execute(f"INSERT INTO Episode VALUES ('{episode.episode_id}', '{episode.media_id}', '{str(episode.timestamp)}', '{episode.episode_name}', '{episode.platform}', '{episode.transcript}')")
     DATABASE_CON.commit()
+    return True
 
+"""
+Method which fetches YouTube videos given a media object and generates transcripts for all videos it possibly can.
+Transcripts are only generated for videos in DATE_RANGE
+
+@param media: Media object for which Episodes should be generated
+@return: List of YouTube video IDs which were fetched
+"""
 def media_to_videos(media: Media):
     channels_request = YOUTUBE.channels().list(
         part="contentDetails",
@@ -111,6 +140,13 @@ def media_to_videos(media: Media):
             break
     return video_ids
 
+"""
+Method which generates a transcript for video with video_id and puts it into a file at ../scripts/channel_id/video_id.txt
+
+@param channel_id: ID for channel which video comes from
+@param video_id: ID for video which transcript is generated for
+@return: Name of file where transcript is located
+"""
 def generate_script(channel_id, video_id):
     try:
         transcript_object = YouTubeTranscriptApi.get_transcript(video_id)
