@@ -11,7 +11,7 @@ import googleapiclient.discovery
 import googleapiclient.errors
 
 from datetime import datetime
-from src.structs import Episode, Media
+from structs import Episode, Media
 import sqlite3
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 
@@ -41,15 +41,39 @@ DATE_RANGE = (datetime(2018, 10, 1), datetime(2019, 10, 31))
 
 DATABASE_CON = sqlite3.connect("../db/podcasts.db")
 DATABASE_CURSOR = DATABASE_CON.cursor()
-DATABASE_CURSOR.execute("CREATE TABLE Media(media_id, title)")
-DATABASE_CURSOR.execute("CREATE TABLE Episode(episode_id, media_id, timestamp, episode_name, platform, transcript)")
-DATABASE_CON.commit()
 
 def main():
+    create_db_tables()
     for media in MEDIA_SET:
-        print(media_to_videos(media))
+        if write_to_media_db(media):
+            media_to_videos(media)
 
-def media_to_videos(media):
+def create_db_tables():
+    media_exists = DATABASE_CURSOR.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Media';")
+    if media_exists.fetchone() is None:
+        DATABASE_CURSOR.execute("CREATE TABLE Media(media_id string primary key, title string)")
+
+    episode_exists = DATABASE_CURSOR.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Episode';")
+    if episode_exists.fetchone() is None:
+        DATABASE_CURSOR.execute("CREATE TABLE Episode(episode_id string, media_id string, timestamp timestamp, episode_name string, platform string, transcript string, foreign key(media_id) references Media(media_id))")
+
+    DATABASE_CON.commit()
+
+def write_to_media_db(media: Media):
+    media_exists = DATABASE_CURSOR.execute(f"SELECT media_id FROM Media WHERE media_id='{media.media_id}'")
+    if media_exists.fetchone() is not None:
+        return False
+    print(f"INSERT INTO Media VALUES ('{media.media_id}', '{media.media_title}')")
+    DATABASE_CURSOR.execute(f"INSERT INTO Media VALUES ('{media.media_id}', '{media.media_title}')")
+    DATABASE_CON.commit()
+    return True
+
+def write_to_episode_db(episode: Episode):
+    print(f"INSERT INTO Episode VALUES ('{episode.episode_id}', '{episode.media_id}', '{str(episode.timestamp)}', '{episode.episode_name}', '{episode.platform}', '{episode.transcript}')")
+    DATABASE_CURSOR.execute(f"INSERT INTO Episode VALUES ('{episode.episode_id}', '{episode.media_id}', '{str(episode.timestamp)}', '{episode.episode_name}', '{episode.platform}', '{episode.transcript}')")
+    DATABASE_CON.commit()
+
+def media_to_videos(media: Media):
     channels_request = YOUTUBE.channels().list(
         part="contentDetails",
         id=media.media_id
@@ -64,7 +88,7 @@ def media_to_videos(media):
     video_ids = []
     with open("sample_response.json", "w") as file:
         json.dump(uploads_response, file)
-    while "nextPageToken" in uploads_response:
+    while True:
         print(uploads_response['nextPageToken'])
         for video in uploads_response['items']:
             id = video['contentDetails']['videoId']
@@ -72,17 +96,10 @@ def media_to_videos(media):
             print(timestamp)
             transcript_fname = None
             if DATE_RANGE[0] <= timestamp <= DATE_RANGE[1]:
-                transcript_fname = generate_script(id)
-            video_ids.append(
-                Episode(
-                    id,
-                    media,
-                    timestamp,
-                    "",
-                    API_SERVICE_NAME,
-                    transcript_fname
-                )
-            )
+                transcript_fname = generate_script(media.media_id, id)
+            episode = Episode(id, media.media_id, timestamp, "", API_SERVICE_NAME, transcript_fname)
+            write_to_episode_db(episode)
+            video_ids.append(episode)
         uploads_request = YOUTUBE.playlistItems().list(
             part="contentDetails",
             playlistId=channels_response['items'][0]['contentDetails']['relatedPlaylists']['uploads'],
@@ -90,23 +107,8 @@ def media_to_videos(media):
             pageToken=uploads_response['nextPageToken']
         )
         uploads_response = uploads_request.execute()
-    for video in uploads_response['items']:
-        id = video['contentDetails']['videoId']
-        timestamp = datetime.strptime(video['contentDetails']['videoPublishedAt'], DATETIME_FORMAT)
-        print(timestamp)
-        transcript_fname = None
-        if DATE_RANGE[0] <= timestamp <= DATE_RANGE[1]:
-            transcript_fname = generate_script(id)
-        video_ids.append(
-            Episode(
-                id,
-                media,
-                timestamp,
-                "",
-                API_SERVICE_NAME,
-                transcript_fname
-            )
-        )
+        if "nextPageToken" not in uploads_response:
+            break
     return video_ids
 
 def generate_script(channel_id, video_id):
