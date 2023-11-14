@@ -33,7 +33,8 @@ YOUTUBE = googleapiclient.discovery.build(
     API_SERVICE_NAME, API_VERSION, credentials=CREDENTIALS)
 
 MEDIA_SET = [
-    Media("UCnQC_G5Xsjhp9fEJKuIcrSw", "The Ben Shapiro Show")
+    Media("UCnQC_G5Xsjhp9fEJKuIcrSw", "The Ben Shapiro Show"),
+    Media("UCKRoXz3hHAu2XL_k3Ef4vJQ", "Pod Save America")
 ]
 
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
