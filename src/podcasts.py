@@ -11,6 +11,7 @@ import googleapiclient.discovery
 import googleapiclient.errors
 
 from datetime import datetime
+from pathlib import Path
 from structs import Episode, Media
 import sqlite3
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
@@ -34,7 +35,9 @@ YOUTUBE = googleapiclient.discovery.build(
 
 MEDIA_SET = [
     Media("UCnQC_G5Xsjhp9fEJKuIcrSw", "The Ben Shapiro Show"),
-    Media("UCKRoXz3hHAu2XL_k3Ef4vJQ", "Pod Save America")
+    Media("UCKRoXz3hHAu2XL_k3Ef4vJQ", "Pod Save America"),
+    Media("UCIveFvW-ARp_B_RckhweNJw", "Louder with Crowder"),
+    Media("UC1yBKRuGpC1tSM73A0ZjYjQ", "The Young Turks")
 ]
 
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
@@ -149,6 +152,7 @@ Method which generates a transcript for video with video_id and puts it into a f
 @return: Name of file where transcript is located
 """
 def generate_script(channel_id, video_id):
+    Path(f"../scripts/{channel_id}").mkdir(parents=True, exist_ok=True)
     try:
         transcript_object = YouTubeTranscriptApi.get_transcript(video_id)
         with open(f"../scripts/{channel_id}/{video_id}.txt", "w") as file:
