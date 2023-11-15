@@ -1,0 +1,282 @@
+well Dave and I are here today to talk
+about patreon and so I'll start we've
+been engaged in lengthy series of email
+exchanges with all of the people in our
+network and no one is happy at all with
+what's been happening and so we've been
+determining what our options are and we
+looked at subscribe star but it looks
+like PayPal decided to cut funding out
+from them and so it doesn't look like
+moving to an alternative provider an
+alternative commercial provider that's
+out of our bailiwick out of our control
+is going to be viable so Dave why don't
+you describe what we talked about today
+yeah well first I think we should just
+make it very clear for everybody
+how significant what happened to Carl
+Benjamin sargon of akkad is it doesn't
+matter what you think of him or whether
+you agree with him or any of that stuff
+the banning of him for doing something
+that was not on the patreon platform
+that wasn't even done on his channel
+because of a word he said where he was
+using the word against the alt-right or
+the neo-nazis or whatever you want to
+call them he's a massive move of that
+line of what's acceptable now there's
+all sorts of debates we can have and
+we've had them of what lines should be
+if there should be lines at all but the
+fact that this guy got booted with no
+chance of recourse with no warning just
+just like that it's just an extension of
+everything else that we've all been
+talking also and also given that it's
+also the case that he didn't break
+patrons rules of engagement the ones
+that they stated and that conte had
+talked to you about the fact that that
+wasn't going to happen and that patreon
+hasn't responded well to this well look
+look he jack conte came into my studio
+in my home and said he said a phrase
+that I had never heard before maybe you
+had heard it before manifest observable
+behavior so you had never even heard
+that phrase before right I thought I
+thought maybe this was just something
+that went past me okay
+now of course manifest observable
+behavior mo be mob you can't I mean
+that's it there's a there's a really but
+but so the point was that it had to be
+about behavior and then in their Terms
+of Service it also had to be about
+what was happening on platforms so at
+every firewall here of what would have
+been acceptable patreon failed and
+they've put us in a position where look
+I told I called you last Saturday and
+when this was really catching fire and I
+said you know patreon is about 65 to 70%
+of my Reb that's I have a company now
+with with employees you know full timers
+part-timers I was actually considering
+deleting it right then and there no one
+in their right mind would do no business
+person would do and I've taken big risks
+in the past you know before I was on
+patreon we were at or at EBI me and my
+producer in my record we all quit our
+jobs lost our health insurance all of it
+to join patreon so I'm not I like taking
+risks but then I realized alright we
+have to figure out a plan and that's
+exactly why we're doing this right yeah
+well and we would have moved faster but
+we well and I did set up as subscribes
+to our account although I never quite
+finished setting it up partly because
+subscribe stars seemed to fall apart
+almost immediately under attack and and
+also it wasn't obvious that I also read
+their Terms of agreement and it wasn't
+obvious that we weren't going to be just
+in exactly the same situation again and
+there's only so many mistakes you can
+make before the mistakes start to become
+fatal so we wanted to come up with a
+serious and and and and stable solution
+and I've been working on for months
+literally for months it's been six
+months I've been working on a system to
+allow authors and other people who
+engage publicly on intellectual issues
+to interact more effectively with their
+readers and viewers and listeners and it
+occurred to me this week that with a bit
+of modification that that can serve
+exactly the function that we're hoping
+it would serve so what we're going to
+try to do as fast as we possibly can is
+to set the system up on a subscriber
+model that's analogous to patreon it'll
+have a bunch of additional features
+which I don't want to talk about right
+now and I don't want to over promise but
+the system is is because the system is
+new but we're gonna try to get that
+rolled out as fast as we possibly can so
+and we have a number of people who are
+interested in hypothetically interested
+in moving their their subscription
+service over
+to it Dave and I are very seriously
+planning to do this as soon as we can do
+it in an intelligent way and so yeah and
+you you know by the way one of the
+interesting things here we haven't
+talked about this but I'm guessing your
+experience is just like mine the amount
+of emails that I have received and of
+course tweets and everything else but
+mostly emails from developers from
+investors from regular people from
+engineers I mean just anyone going this
+is the one because you know the issue
+with all of these free speech things is
+it's like you don't want to swing too
+early before you realize that the
+problems gotten to critical mass ask but
+then most likely you're gonna swing too
+late the lines will have so far that we
+may be on the outside of them and that's
+why this one I think was so interesting
+because Carl you know years ago five or
+six years ago when I started waking up
+to what was going on with the left
+obviously and all of the free speech
+stuff everyone said you've got to talk
+to sargon of akkad
+he's a guy so this is the guy that's
+been ahead of all of this sargon ii was
+like he was big he was very helpful to
+me when I was first under attack you
+know and he's a brave guy and and so and
+it's a real mistake what patron has done
+to him and and as I said everybody in
+our network is extremely upset about it
+like we've been sending e-mails back and
+forth well probably with 30 or 40 people
+and so as Dave said earlier we wanted to
+make this video today to let everybody
+that we're communicating with know that
+we have not been sleeping on this front
+man people are trying to figure out what
+to do so this stops happening and and so
+and we have a good plan and and we're
+gonna try to implement it as as soon as
+possible so I would ask everybody who's
+listening to be you know reasonably
+patient imagine that this will take
+somewhere between a week and a month to
+sort out properly all we're going to try
+to get something up in the next week
+hopefully before Christmas if we can't
+manage that you know because when you
+implement something like this there are
+technical complications that might
+emerge that you don't foresee but I
+don't want people to get the impression
+that we're taking this lightly or lying
+down and that we're not looking for a
+permanent alternative because we are and
+I think we can come up with a better
+alternative
+and that's the plan yeah that that's
+exactly what I would say I would just
+add that it was like we were waiting for
+a moment you know we've watched these
+doors slowly closing on it all of us
+whether it's Twitter whether it's
+Facebook who's getting banned who's
+getting shadow banned payment processing
+everything else and we are taking this
+as seriously as possible of course you
+know Jordan who's working harder than
+anyone on the face of the planet somehow
+you managed to also partly build a
+platform over the course of the past
+year in the middle of all I knew that
+this we knew that this was lurking in
+the background and that this was going
+to be a problem and Dave you've spent
+lots of time talking to investors and
+developers about building alternatives
+to these platforms that seem to be
+willing to throw their weight around in
+an increasingly arbitrary manner but
+it's not like it's a simple thing to do
+people want somebody to say enough is
+enough and I I mentioned this in a live
+stream I did the other day but you know
+I've watched my patreon dropped we've
+lost around 600 patrons I think about
+5,000 bucks a month but in a weird way
+I've actually been inspired by it
+because I'm watching yeah I agree for
+themselves so it's like on one hand
+people are emailing me and they're
+saying I'm dropping my patronage and I'm
+really pissed and it's not about you and
+I want to support you and on the other
+hand my business side is going that's
+not great but you know but we will solve
+this thing I I've lost a thousand
+subscribers and I feel exactly the same
+way it's like well they're telling
+patreon to go to hell and you know it's
+it's not so good for me on the financial
+front although that's not too big a
+catastrophe at the moment they're
+they're taking the right stand and and
+encouraging us let's say or encouraging
+someone to do something about this so
+anyway ah that's what I like I like what
+you said if we can just ask you guys to
+be reasonably patient we're talking to
+everybody that you can think of and some
+people that you can't think of we're
+gonna fix this we're gonna yeah well
+we're gonna or at least we're going to
+do our best to fix it there's gonna be
+some bumps along the way man because
+we're now we have to speed this process
+up too so we'll have to consider this a
+beta version but at minimum we hope to
+provide an easy way of switching to a
+new subscription service within the next
+very short while so and thank you
+everyone for your content
+patience and your continued support and
+your attention and your thoughts and
+your reaction to all of this and and
+it's it's very much appreciated and it
+does help us I would say maintain
+motivation to continue doing this
+constantly you know the fact that I have
+all these patreon subscribers certainly
+is one of the reasons that I try to put
+my youtube channel
+I wouldn't say first and foremost
+because it's had to take a backseat to
+this lecture tour but man its way to
+hell up there on my priority list
+absolutely and it gives us all sorts of
+flexibility to do all sorts of things it
+gave me a little bit of flexibility to
+join you on this tour so I'm incredibly
+humbled and appreciative of everybody
+that does that Jordan I will I will see
+it in a couple days in West Palm Beach
+please ladies stake I will take you out
+first
+good good good well I found a good steak
+place here so I'm looking forward to
+seeing you Dave and Ewing the two array
+because we're gonna continue the tour in
+in California yeah great three venues in
+California and January and then the two
+in Australia New Zealand we're gonna add
+additional dates and hopefully Seoul and
+Singapore
+maybe the Philippines we've got all
+sorts of additional things planned we
+doing anything on the moon well not so
+far but but I have some connections to
+you long bus okay man I'll talk to you
+soon we'll get this up right away
+great okay bye bye

@@ -38,7 +38,25 @@ MEDIA_SET = [
     Media("UCKRoXz3hHAu2XL_k3Ef4vJQ", "Pod Save America"),
     Media("UCIveFvW-ARp_B_RckhweNJw", "Louder with Crowder"),
     Media("UC1yBKRuGpC1tSM73A0ZjYjQ", "The Young Turks"),
-    Media("UCy6kyFxaMqGtpE3pQTflK8A", "Real Time with Bill Maher")
+    Media("UCy6kyFxaMqGtpE3pQTflK8A", "Real Time with Bill Maher"),
+    Media("UCXKjhxsfFQUqlNVQzLVnpEA", "FiveThirtyEight"),
+    Media("UC-3jIAlnQmbbVMV6gR7K8aQ", "The Majority Report with Sam Seder"),
+    Media("UCJdKr0Bgd_5saZYqLCa9mng", "The Rubin Report"),
+    Media("UCokqzNPBJ65raczldVuHAww", "Chapo Trap House"),
+    Media("UCL_f53ZEJxp8TtlOkHwMV9Q", "Jordan B Peterson"),
+    Media("UCNAxrHudMfdzNi6NxruKPLw", "Making Sense with Sam Harris"), # this is the last podcast being currently generated
+    Media("UC554eY5jNUfDq3yDOJYirOQ", "Destiny"),
+    Media("UCldfgbzNILYZA4dmDt4Cd6A", "Secular Talk"),
+    Media("UCNvsIonJdJ5E4EXMa65VYpA", "Contrapoints"),
+    Media("UCvixJtaXuNdMPUGdOPcY8Ag", "The David Pakman Show"),
+    Media("UCLtREJY21xRfCuEKvdki1Kw", "H3 Podcast"),
+    Media("UCzQUP1qoWDoEbmsQxvdjxgQ", "The Joe Rogan Experience"),
+    Media("UCzpwkXk_GlfmWntZ9v4l3Tg", "The Ramsey Show"),
+    Media("UCzuqE7-t13O4NIDYJfakrhw", "Democracy Now!"),
+    Media("UC3M7l8ved_rYQ45AVzS0RGA", "The Jimmy Dore Show"),
+    Media("UC3XTzVzaHQEd30rQbuvCtTQ", "Last Week Tonight with John Oliver"),
+    Media("UCoS-mm5bC5eY07AaKntKzgw", "Human Rights Watch"),
+    Media("UClt01z1wHHT7c5lKcU8pxRQ", "hbomberguy")
 ]
 
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"

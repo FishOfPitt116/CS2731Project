@@ -1,0 +1,829 @@
+[Music]
+everyday casual Friday that means Monday
+is casual Monday Tuesday casual Tuesday
+Wednesday casual hump day Thursday
+casual Thurs that's what we call it and
+Friday casual Shabbat gommage our day
+report with sam Sita
+[Laughter]
+it is Friday November 23rd 2018 my name
+is Sam cedar this is the five-time
+award-winning majority report we are
+broadcasting live to tape steps from the
+industrially ravaged Gowanus Canal in
+the heartland of America downtown
+Brooklyn USA folks I cannot tell a lie
+we are not here we are still basking and
+what do they call that tryptophan the so
+hackneyed so tired of hearing about
+tryptophan we had turkey yesterday some
+of us maybe did not have turkey some of
+us head maybe tofurkey something like
+that hopefully your Thanksgiving was
+pleasurable you made it through dealing
+with your relatives if that's what you
+chose to deal with I am quite sure that
+I will have some stories to tell on
+Monday but I may not tell them to you
+because they may be inappropriate it may
+be inappropriate and that I want to
+single out any of my family members all
+that said folks we do have a new
+interview for you today on the program
+an interview I did a couple days ago
+with Alex Rosenblatt
+author of uber land how algorithms are
+rewriting the rules of work it's an
+ethnographic look into ruber the
+author's she spent a lot of time driving
+around with the uber drivers talking to
+them and thinking about the implications
+of work fascinating stuff we will get
+there in just a minute first I should
+tell you that today's support for
+today's show comes from be frugal if
+you're an online shopper you have to try
+be frugal be frugal lets you earn cash
+back from over 5,000 stores including
+Amazon Walmart Target Macy's and more
+simply find the online store click on
+the be frugal comm link that's B e FR ug
+al.com to activate cashback and complete
+your purchase or you can download the be
+frugal extension for your browser to
+automatically apply coupon codes and
+activate cashback as you shop they add
+the best deals from around the web every
+day and you'll earn the highest cashback
+rates guaranteed up to 40% accessible
+via PayPal direct deposit gift card or
+cheque find everything from electronics
+clothing and footwear to home goods
+beauty toys travel more all of it
+you're already shopping online why not
+get paid for it even earn cashback on
+your holiday shopping visit be frugal
+dot-com / majority and get a $10 bonus
+when you join for free that's be frugal
+dot-com / majority ok we're gonna take a
+quick break when we come back
+Alex Rosenblatt author of uber land how
+algorithms are rewriting the rules of
+work and we will be back live on Monday
+with the full complement of majority
+report
+HQ staff as opposed to the non HQ staff
+okay quick break be right back we are
+back Sam cedar on the majority report on
+the phone it's a pleasure to welcome to
+the program Alex Rosenblatt she is a
+researcher at the data and society
+Research Institute she is a technology
+ethnographer and of course author of the
+book uber land how algorithms are
+rewriting the rules of work Alex welcome
+to the program a pleasure to be here so
+alright let's just start with this what
+exactly did you do in the course of
+writing essentially this this study of I
+guess of uber drivers in their
+experience well for since about 2014
+I've been doing an ethnography of uber
+drivers and that basically means that
+I've been learning from strangers so I
+have traveled across more than 25 cities
+in the United States and in Canada more
+than traveled more than 5,000 miles
+riding around in cars and interviewed
+over a hundred and 25 drivers observed
+hundreds more on the road in addition
+I've actually spent a lot of time online
+drivers have formed networks and groups
+on the Internet where they share
+information so the group's I follow
+which could be Facebook group so they
+could include driver dedicated websites
+collectively had about 300,000 members
+by the end of 2017
+so why like what drew you to this what
+was the when I mean I think when
+ethnographers go into the field as it
+were they don't necessarily have any or
+maybe they do some pre-existing
+assumptions or thesis ease but what whoa
+how did you enter into this and why when
+I was starting on this project
+uber was still the darling of the
+business and tech beat and it was a very
+prom
+missing example of the sharing economy
+which was a sort of movement in the
+early well just after the Great
+Recession and after the Great Recession
+people had experienced broad losses they
+might have lost their jobs there were
+foreclosure crises and in that moment
+goober and Airbnb and other technology
+companies emerged onto the scene and
+said hey we've got a solution we can
+offer you know temporary ways to earn
+money or we can offer in ubers case
+entrepreneurship for the masses by using
+technology to scale opportunities for
+people to share underutilized assets or
+skills and make some money at a time
+when people really needed that and so I
+was really captivated by the rhetoric of
+sharing because it seemed like a promise
+that might be masking something at the
+same time because when you ask people to
+work you call it sharing there's always
+something just a bit suspicious about
+that but initially I was quite drawn
+into one promise that seemed to hold up
+quite well which is that there had been
+long-standing problems for people to be
+able to hail a cab particularly for
+people of color and especially for men
+of color who might be passed over by a
+cab driver who might instead choose to
+pick up a nearby white passenger and so
+there was a constant issue of curbside
+discrimination and uber came along and
+said hey we've got a policy of blind
+passenger acceptance and so drivers have
+limited information about the passenger
+before they accept the dispatch and that
+seemed to resolve a problem which was
+really neat and so we started at the
+time myself and my a research partner I
+would start started looking into uber as
+an example of the promise of the sharing
+economy to examine you know its actual
+impact and because it seemed to have a
+social contribution to society that
+would promote equality and it turned out
+that that policy that we were so
+interested in actually was one of a
+larger system of policies that were
+either implicit or explicit on inverse
+platform that affected how drivers were
+managed at work okay and that that last
+sentence is is is is pretty loaded and I
+want to get there I just want to put a
+pin in that for
+because we should also there's because
+there there seems to be a distinct
+there's there's a there seems to be a
+significant distinction between
+so-called ride-sharing companies which
+are really you know or let's just leave
+the you know you know except that for
+the moment ride-sharing companies and
+uber is a distinction right there's a
+specific culture associated with uber as
+there is you know that may or may not be
+indicative of all ride-sharing and
+there's also a distinction between uber
+and and sort of I guess the the gig
+economy but starting at that level like
+to what extent did you find in the
+course of your research what what were
+broad-stroke sharing economy sort of
+principles that you found in terms of
+the relationship between I guess well I
+mean they claimed not employer but what
+we're broad strokes or you know gig
+economy points did you find well I would
+say that uber has been a dominant market
+play factor for a ride hailing and I'm
+not sure that other right healing
+companies with similar health or that
+distinct from uber and its own practices
+I would say the difference is that uber
+has been engulfed in many more scandals
+but the employment practices across
+ruber and then maybe you crossed lyft
+and across you know for example which is
+a local one to New York City have a lot
+in common even while they carve out some
+distinct differences like better
+customer service for example towards
+drivers but ride-sharing which is more
+popular term to describe uber is part of
+how it participated in the sharing
+economy promise and the sharing economy
+was about you know creating access to
+new job opportunities new income earning
+opportunities but through a type of work
+that wasn't necessarily a job it was
+through the form of social contribution
+or social reciprocity
+and it drew on a longer legacy of
+cooperative Commerce like circling or
+couchsurfing except it's banked on our
+assumptions about what that looks like
+on the internet and so a good example of
+that might be Wikipedia where you have
+crowds of strangers who are contributing
+edits to form a global encyclopedia of
+knowledge and that idea that we're all
+just contributors is an assumption that
+uber leveraged a sort of style B of
+working with offering as a form of
+sharing but upon closer inspection
+drivers aren't of course driving you
+from A to B because they want to share
+their car even while they might also
+enjoy the effective benefit of talking
+to passengers like the social benefits
+at the end of the day they're largely
+doing it for money I mean you know it's
+it's tough coming from New York in terms
+of like my perspective of these
+ride-sharing and I happen to use Juno
+you know just because there's something
+about uber that I find not good but the
+all a lot of these it's not it's it's
+it's fundamentally different isn't in in
+some of the big cities relative to other
+places because most of the the Juno
+drivers they seem to be you know
+professionals on some level that that
+speak to that that that difference you
+know regionally as to you know who does
+these that helps to do more with New
+York which is a bit of an anomaly across
+New Berlin New York has had a robust
+taxi industry and a lot of the drivers
+who started working for uber and lived
+in Juno and others came from an
+occupational background of driving they
+might previously have experiences taxi
+drivers or even a truck drivers and
+another major distinction is that the
+cost to entry in New York City is higher
+than it is in other places because it's
+regulated the drivers have to obtain
+licenses and permits through the New
+York City Taxi and Limousine Commission
+they have to undergo some training they
+have to
+LP license plate I have to get
+commercial insurance and in other cities
+drivers just need a you know a driver's
+license a car that meets the world lift
+standards and personal insurance they
+have to pass a like background check and
+they can be on the road and working in a
+couple of days which is quite remarkable
+but in New York City the cost entry is
+higher because you have all of these
+additional requirements and so it's not
+quite you know the pool of drivers who
+might say ok let me try and do this for
+two hours a week or two hours a week the
+majority of drivers in New York City are
+doing this to earn their livelihood and
+so okay so what those for those people
+who are not like the drivers in New York
+what when when they do this like how
+does their where do their expectations
+start and and where do they end up or I
+should say what what are those
+expectations met I'd say there's some
+variation for how drivers have their
+expectations begin boys are what they
+want for a minute I mean there's drivers
+like said se who was in Washington DC
+and he used to take lift home at the end
+of the night at the bar and so he was
+familiar with it and thought you know
+why don't I try driving these services
+as well when I met him he was driving
+for lyft and also you know considering
+driving for uber in other cases you know
+people have seen advertisement like you
+could make $90,000 a year you could make
+$30 an hour and they thought hey you
+know like let me give us a shot for
+people who are coming out of an
+environment where they felt quite
+monitored and surveilled and like a call
+center uber and lyft and the like felt
+like a more independent opportunity to
+potentially earn more money for a driver
+like Nathan who was in LA he's a trained
+as a social worker and provides
+psychotherapy sessions for his clients
+and he started driving ride held because
+he wanted to have a social connection
+with passengers that was lighter than
+what he had to absorb from passing firms
+masters and patients who had really
+serious mental health concerns and
+distress like PTSD and so
+you get it kind of a wide variety I mean
+I remember meeting drivers who just had
+leisure time or a spare vehicle sitting
+in their driveway and they said hey you
+know my son is kind of teasing me for
+having this big old SUV in my driveway
+I'm going to show him and like go sign
+up to drive rupert's are driving people
+around do you got quite arrange and then
+there'd be people who you know whose
+business owner and they needed to find a
+source of income really quickly did
+those different types of people who go
+in do they have like did they have a
+fundamentally different experience or or
+how they experienced the relationship
+with uber was it markedly different or
+similar I would say it's quite different
+the people who feel I think most
+successful on these platforms are either
+the optimizers who are really good at
+being responsive to the different
+gamified forms of work that these
+platforms have so when there's
+particular incentive that you can get
+paid a premium to work at a particular
+place at a particular time like they
+were very responsive to those naked Oh
+II got a pretty decent income or at
+least they were excited by the challenge
+and there were there's others for whom
+if they're not economically dependent on
+driving to earn their livelihood they
+tend to have a bit of a better
+experience because they might be doing
+it for supplemental money I could be to
+pay discrete bills even though when
+those bills are quite important like
+you're paying a healthcare bill you're
+saving up for your daughter's college
+tuition or because you want to start
+your own business you still might have
+another job and so you're not quite as
+reliant on it which means that when uber
+unilaterally changes the rate at which
+you earn per minute and per mile which
+it does and it's often implemented rate
+cuts that drivers really chafe at you're
+not as affected by those rate cuts if
+you're a part-time driver rather than if
+you're a full-time driver who relies on
+this work more so for those I mean let's
+talk about the concept of you know
+allowing these people to perceive
+themselves or to be entrepreneurs I mean
+how does that
+is that promise real in the sense that
+like the if there is that dynamic of
+uber can just change the rate structure
+overnight or something like that is
+there is there genuine room for
+entrepreneurship or are they just
+basically just uh you know providing
+labor what I found in my research with
+drivers over four years is that drivers
+do not have entrepreneurial
+freedom to make decisions in their own
+best interest and that's because they
+have both information and power
+asymmetries from the platform so for
+example uber is in charge of setting the
+rates and drivers can negotiate lower
+pay but not higher when they have to
+accept a dispatch they don't know where
+the passenger wants to go or how much
+the value of that trip is if they
+decline a trip because they're sitting
+in a surge pricing zone and there they
+specifically went there they could try
+and get a premium on our next ride and
+uber dispatches them you know an on
+surge pricing that says hey you know
+we're gonna deactivate you if you keep
+up this surge manipulation and
+deactivate is just a word that means
+suspended or fired and so when I started
+to find was that driver is in fact
+didn't have the information he needed to
+make it for my vision and even when they
+did try to you know exert their autonomy
+there were situations in which you
+Burwood threatened to punish them such
+as by firing them if they did that so
+how I mean so how are the algorithms
+like changing the work dynamic it sounds
+like the algorithms are just basically
+you know the the person who works for
+the boss and the boss doesn't want to be
+the bad guy that's a little bit like
+that I mean instead of having hundreds
+of or thousands of human supervisors who
+monitor drivers and you know help them
+do a better job you have algorithms that
+are basically just rules encoded in
+software and when I say you know
+algorithms are managing drivers it's
+really about ecosystem where there's a
+number of algorithms and also you know
+automated customer support and like
+they're part of an ecosystem in which
+the interaction of the relationship
+between uber drivers is one that is
+connected through automated or technical
+technical communications and so you have
+like different Bieber's to try and get
+drivers to create in particular ways and
+to standardize the services they provide
+across you know hundreds of cities
+without having a human manager looking
+over your shoulder on the other hand
+having an app collect data on your every
+move can be a much more granular form of
+workplace surveillance than you might
+experience in a comfortable setting with
+a human boss
+and that's kind of interesting because a
+lot of drivers might prefer the feeling
+of Independence that comes you know
+choosing when to get in the car and
+start working and they enjoy and benefit
+from the scheduling flexibility they
+have on the other hand they have you
+know a boss who's going to intervene
+when they brake too harshly or
+accelerate too quickly it's gonna send
+them an in-app notification or an email
+or a text message and it'll do the same
+when drivers try and log off for example
+you might be tired kind of ready to go
+home or you have to go pick up your
+daughter and another ride request comes
+through but maybe it is even a technical
+problem maybe when it's supposed to be
+on your screen for fifteen seconds it's
+only there for like two seconds and then
+it counts against what's called your
+ride acceptance rate and so there's
+increasingly like detailed aspects to
+the rules where if drivers have signed
+up for example to be paid an incentive
+like a guarantee of forty dollars an
+hour if you behave in the following
+listicle of ways but then they miss the
+ride acceptance and that could ding them
+for the whole night and make them lose
+the entire set that they were working
+towards and so they have to keep working
+you know like this is not a perfect
+technical system but there's also a lot
+of ways in which you burr has carved out
+forms of shift work for drivers who then
+have to match the incentives by
+performing particular behaviors so I
+mean aside from what sounds like a very
+good argument that uber drivers are
+misclassified as a way of uber trying to
+avoid you know taking the responsibility
+that employer has for employees well how
+do the how do the drivers themselves
+how do they how conscious are they of
+the dynamic you just spoke of that in
+some respects they're being more
+efficiently monitored and corralled and
+just like with flexible hours
+essentially I think it can take some
+time I think there's different sort of
+evolutionary stages of the driver
+experience at the beginning it might
+feel more free you know you can log in
+and log out at well but you know you
+might be that if you're working in a job
+or your working conditions or a
+reflection of changes in the market that
+might mean that the premium time to work
+is when you have to pick up your kids in
+school and so you might be trying to
+engage in on-demand work because of the
+flexible schedule but you might be
+corralled into working at particular
+times in particular places anyways if
+you're dependent on this work to earn
+your livelihood I would say that where
+drivers sort of meet the algorithm I
+faced a Phineas's almost where they when
+they have a problem and so while they
+were quick to get started working they
+rarely have all the information they
+need to manage all of the exigencies of
+this job so if you've a pastor who
+harasses you or smokes in your vehicle
+what you do and there's not really a
+good form of grievance channels for
+drivers and that's when they started to
+become more aware that although they're
+being monitored you know there's not a
+lot of accountability in that system of
+surveillance and that's when there's
+more chase because we start to run into
+issues of fairness like hey I wasn't
+paid for 11 trips that was paid for 10
+you have to email back and forth with a
+remote customer service agency possibly
+located in the Philippines to try and
+get you know your payment and so you
+start to see that despite the fact that
+there's an overlay of technology that
+creates distance between you branded
+drivers and their working relationship
+there's also their typical workplace
+issues that come up which is like what
+are you doing things go wrong how do you
+handle harassment how do you handle
+discrimination how do you handle
+potential wage that how much I mean it
+does strike me as like one of those like
+classic scenes at the at the restaurant
+where the customer can say let me see
+your manager and the manager comes over
+and the customer gets some satisfaction
+from
+but there's no opportunity for that
+person who's working there to go to
+their manager and say it's this this
+customer is acting like a jerk there's
+just no there's no opportunity there
+only goes one way well look let me ask
+you this with all the monitoring I mean
+you talked about how the you write about
+how the the phone you know can measure
+how how gracefully they stop at
+stoplights and etc etc I mean down to
+every action they take when they take
+their breaks when they log on to work
+and whoa log off to xub or sell that
+information like they have data on the
+customers but they also seem to have an
+enormous wealth of data on their workers
+and I would imagine they have sort of
+supplementary data to sort of say like
+someone who makes this amount of money
+you can expect them to work this much or
+you know like do they have data on their
+workers that they sell to other
+enterprises I don't know whether or not
+they sell that data but certainly the
+collection of it should give a lot of
+people pause and not just drivers for
+example when right now companies offer a
+promotion to drive you to the polling
+authority to like to vote you know you
+got a Wonder okay now maybe either they
+acquire list of people who are gonna
+vote and maybe which direction I might
+go to like who knows there's lots of
+ways in which data collection for one
+purpose can be converted into another
+application that consumers of technology
+might not consider appropriate yeah one
+point uber was using it as a way of
+basically leveraging the coverage they
+got right because they there was the
+story of the reporter and they were they
+were spying in some reporters right
+there's a I mean they were they did
+track the arrival of a reporter
+different meeting with one of the four
+regional managers and of course they've
+had to enter into consent decrees with
+the Federal Trade Commission Oh
+data privacy violations they're
+certainly not unique in having
+challenges when it comes to data
+collection and issues of privacy
+consumer privacy and social norms around
+data use but they've really stood out
+because they've had so many scandals in
+a lot of instances uber basically came
+in broke local laws right and just sort
+of created facts on the ground I also
+developed a lot of political
+relationships both with like you know
+national parties and whatnot to what
+extent and we've seen this you know sort
+of almost like with Airbnb as well to a
+lesser degree but in some instances
+you've got like you know small towns
+where hotels are saying like hey wait a
+second we've got a we've got all these
+regulations this is just a way of
+skirting it to what extent to the the
+drivers do they have a perspective on
+that on whether or not drive it oh yeah
+I mean to what extent do they have a
+consciousness of the way this business
+model was settled was basically to break
+the laws and to what extent are they
+aware that some of these laws were built
+to protect people like myself so this
+also depends on the evolutionary stages
+of drivers across Overland and I'll give
+you an example when I was doing
+fieldwork in Montreal Quebec back in
+early 2016
+drivers were risking fines and attacked
+by aggressive taxi drivers and fines and
+having their cars impounded by the
+transportation police to work on the
+uber underground because when uber first
+arrives to a new city it argues that
+it's identified as a technology company
+and therefore the rules that regulate
+the transportation industry and their
+transportation competitors like the taxi
+business do not apply and so it still
+has to
+creet of face and so what it does is it
+recruits drivers to work on the end
+around and it compensates them for the
+risk they take by paying their fines or
+replacing their vehicles if their
+impounded no until they become
+legitimate in the city after they've you
+know established a base of services and
+to do that
+don't leverage their popular support
+with consumers and use them almost like
+a political constituency you know hexam
+are right the messages and say you know
+hey this city or this particular
+government official or this regulator
+wants to shut us down and like take away
+these services that benefit everyone so
+much No why don't you call over like
+help vote in our favor for any pending
+legislation that might affect its
+business model in ways it doesn't like
+and so there's an interesting dynamic
+where there can be this moment of
+regulatory forbearance
+even when a laws exist that could be
+used to constrain activities that might
+be considered illegal even while they're
+quite popular you know there's a moment
+of pause because it does provide you
+know an efficient service and a lot of
+people really enjoy and so you want to
+be the regulator who says like I'm
+shutting this thing down that you enjoy
+so much and so it plays this kind of a
+game and drivers are initially enlisted
+participate in the cause by working on
+the underground I mean they're signed up
+to work in cities were hasn't even
+officially arrived I've been
+interviewing taxi drivers you know in
+Cooper years ago who have youtuber app
+on their phones for years and that's
+because they're ready for when were
+finally launches there and that's where
+is you know playbook right if it gets to
+new city recruits and it tries to launch
+before it's legal and that's a strategy
+and then by the time there's a sort of
+full hearted objection to its services
+it's already popular and it says well
+here you really gonna shut us down and
+that's when they enter into conflicts
+with city that try and say okay let's
+accommodate you but also we would like
+to safeguard our constituents such as by
+requiring that your drivers have
+fingerprint-based background checks as
+the City of Austin did and at that
+moment we were and even left in awesome
+case might say hey if you
+try and pass this legislation and you
+succeed
+work it applaud account which is
+remarkable because you know everyone's
+quite familiar with the mostly
+apocryphal story of a factory it says
+hey if you don't give me a tax break I'm
+gonna leave like I'm gonna first in
+Mexico or something like that but in the
+case I'm gonna leave I'm gonna leave
+Washington State and go to South
+Carolina
+you know if I'm Boeing your site happens
+right and they can just set off the app
+you know it's remarkable you don't
+benefactor you can make everybody
+stranded which is exactly what happened
+to both drivers you would relied on the
+further income and the passengers you
+know in Austin when they left in 2016 so
+you find that like the sense of
+awareness that people have about what it
+means for a disruptive Silicon Valley
+company to arrive can really evolve over
+time and do the drivers though come to
+see like hey wait a second this may be a
+problem we could use some regulation or
+no I mean my understanding is I haven't
+been to Austin since that happened but I
+understanding in Austin that they
+they've come up with all sorts of
+different alternatives they did Austin
+was very quick to source alternative
+other I think uber and lyft are back now
+and so it's kind of tricky because even
+if a local startup is successful you
+know as soon as it were and lyft
+returned it's like well we've got this
+like global contingent of passengers who
+already have this app download entire
+phone so they have this quite
+significant Marketplace power even if
+there are local alternatives and there's
+you know when I was in Austin drivers
+didn't particularly object to taking you
+know fingerprint-based background checks
+which they had like many months to do
+and they were passed it because they
+felt that the cities that the company
+had pulled out of town without regard to
+how drivers rely on it so their income
+they might have bought new cars to start
+this work that kind of thing on the
+other hand uber made morally persuasive
+arguments that fingerprint-based
+background checks would basically feed
+into a criminal justice system that
+disproportionately affects people of
+color and African Americans and so their
+argument with that you know we shouldn't
+have to impose this on our work for
+but if you look just slightly beneath
+that logic the adults the fact that
+super and let's rely on a very high turn
+of drivers through a system their
+business model relies on people being
+able to sign up and get to work you know
+in under a week for example and singer
+print based background checks are a much
+more stringent form they have to go here
+like I record for example they can take
+four months and so you wouldn't be able
+to sign up drivers as readily you know
+if you permitted this accommodation that
+the city was legislating towards yeah I
+probably take a little bit of a
+jaundiced view on on their on a new
+burrs concern for for social justice but
+be that may be more of a reflection of
+me than them but all right so lastly let
+me ask you this did you ever come across
+any attempt of drivers to basically form
+some type of co-op version of uber or to
+unionize in some fashion because if it
+is just the technology at the end of the
+day the technologies can be replicated
+certainly like I say I use Juno it's
+just in New York and it's really just a
+question of adoption but if all the
+drivers you know had decided that
+they're going to use a you know a co-op
+type of system that seems to be to be
+feasible in some way but was there ever
+talk of that or did or our people who
+you know who want to drive for a living
+tend to be sort of more independent in
+some fashion I would say that a lot of
+drivers have an idea of independence
+that even if they haven't achieved it
+super unless fibers you know desire and
+I would also reflect that I think a lot
+of the discussions about coops I
+probably come from more like political
+views or academics who are interested in
+platform co-operativism and in sort of
+bringing out the promise of the sharing
+economy I don't think it's a popular
+alternative among drivers although
+certainly in different cities Oh taxi
+companies have developed their own apps
+which is not to say that they're a co-op
+and also there's in local solutions
+across different cities but that doesn't
+get at the global and network effects
+interesting well the book is uber land
+how algorithms are rewriting the rules
+of work Alex Rosenblatt thanks so much
+for your time today I really appreciate
+it it was great acuity fans thank you

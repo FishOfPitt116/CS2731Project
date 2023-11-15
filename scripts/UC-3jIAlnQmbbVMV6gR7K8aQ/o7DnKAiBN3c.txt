@@ -1,0 +1,765 @@
+[Music]
+Sam cedar on the majority report on the
+phone it's a pleasure to welcome to the
+program Margaret O'Mara she's an
+assistant associate professor of history
+at the University of Washington and
+author of the code Silicon Valley in the
+remaking of America Margaret welcome to
+the program it's great to be here Sam
+thanks for having me so let's start with
+of why why California I mean what are
+the stories or you know in fact let's
+before we even get there let's just talk
+very broadly for a moment about the
+myths that you perceive that are out
+there about the whole genesis of Silicon
+Valley and those creators yeah well we
+you know close our eyes and think about
+Silicon Valley the sort of faces that
+immediately pop in your brain perhaps
+our Steve Jobs Mark Zuckerberg these
+sort of iconic singular entrepreneurs
+founders leaders you know there who were
+celebrated not only beyond Silicon
+Valley but but by Silicon Valley itself
+and and also a kind of free market tech
+no libertarian story this is what
+happens when you let the creative
+entrepreneurial folks do their thing and
+when government gets out of the way and
+there's actually that's the only part of
+this story and so what I wanted wanted
+to show in this book was not only
+showing how how the story we know about
+Silicon Valley also fits into this much
+broader tapestry and the government is
+part of that all right well let's I mean
+let's start with just why why did it
+land in in Silicon Valley in California
+as opposed to say Route 128 in
+Massachusetts yeah well for the first
+you know first few decades of Silicon
+Valley's existence as a tech hub Boston
+was very much in the picture and
+actually Boston and the valley had a
+kind of a symbiotic relationship that
+was beneficial for Bo
+both places grew elect drew into
+electronics hubs because of the Cold War
+and that was something that the federal
+government does in the beginning of the
+1950's which it has never done before
+which was start to make major peace time
+if you can call the Cold War peacetime
+major peacetime investments in
+scientific research and development not
+only in defense spending and spending on
+very high-tech equipment for the
+military and for the space program but
+also investing in higher education in
+colleges universities those on the
+research side and the teaching side and
+and some of the biggest beneficiaries of
+that bounty were in Boston Harvard and
+MIT and in the Bay Area Stanford and
+Berkeley so we're I mean what happens
+with all those things that get developed
+they're like I mean you know I mean the
+money's going into educating to funding
+research theoretically they find stuff
+right a lot of that we have invested I'm
+an investor I paid taxes I paid taxes in
+Massachusetts at one point where's my
+bounty well the bounty is I mean this is
+an only in America story and I think it
+is one that is is it really instructive
+particularly we think about the rest of
+the world that has tried to build
+Silicon some things and continues to do
+so and hasn't quite replicated the the
+what has played out on the west coast of
+the United States and so it's a matter
+of a lot of government funding and and
+you know keep in mind this was not
+altruistic this wasn't necessarily
+entirely in the pursuit of you know
+higher truth in a commitment to higher
+education all had to do with competing
+with the Soviets not only in terms of
+building more sophisticated weapons but
+also producing more scientists there was
+a lot of chatter in the 50s and 60s
+about you know not only you know beating
+the Soviet space to the moon but also in
+you know how many scientists the the
+Soviet Union was producing and the u.s.
+needed to keep up and this was you know
+this was a matter
+of national pride and also part of the
+larger project of showing why you know a
+capitalist democracy was a better system
+than than socialism so so there was a
+lot of kind of this firehose of money
+flows in the direction of science and
+research but it being America and keep
+in mind the 50s this is the McCarthy era
+this is not a time when large government
+schemes are in fashion you know part of
+the whole Cold War project is you know
+do you don't want to be seen as
+socialistic in any way and Dwight
+Eisenhower you know with no fan of big
+government he was someone who who was
+suspicious of large centralized schemes
+and and and railed against them yet
+under his watch there was this this
+great expansion of what he later terms
+the military-industrial complex but how
+it flows is not just building big
+federal research laboratories which
+certainly existed but in addition
+slowing that money indirectly through
+universities through private industry
+and this is the key thing I mean this is
+really how the flywheel starts going and
+if you look at the valley in particular
+you see not only one University Stanford
+that kind of remakes its entire
+curriculum to be a receiving entity for
+this new federal money and building up
+electronics building up physics building
+up you know the small electronics and
+communications technologies that the
+that the valley starts specializing in
+from the very beginning but also flowing
+to big defense contractors like Lockheed
+which locates its space and missiles
+division in the valley in the mid 50's
+and also these smaller companies these
+companies that become the grandparents
+of every venture back startup that
+follows companies like Fairchild
+Semiconductor which is not a defense
+contractor per se but it's founded in
+the late 50s right as Sputnik is
+rocketing into space and it it has a big
+book of business from the Apollo program
+in NASA among other places so that's
+kind of this this relationship between
+public and private is something that we
+miss in the story and it's really
+important it's fascinated me III I
+almost I mean I I laughed when you said
+like we
+we wanted to beat we want to prove that
+free market capitalism could beat
+socialism so the government poured all
+this money into the market and I wonder
+if that is actually what free market
+capitalism is like I mean I don't happen
+to believe that free market capitalism
+actually exists yeah it's just a
+question of who's gonna get the largesse
+from the the government / the people and
+what are they gonna get back for it and
+I mean I'm happy that we were I mean I
+feel a certain amount of pride I guess
+that we led this technological
+revolution but it's not like these other
+countries don't necessarily get access
+to that technology now yeah they
+certainly do and look we're you know
+we're at a moment of you know people
+aren't feeling particularly great about
+the tech industry said so much so that I
+find myself trying to you know remind
+some critics of well you know we are
+carrying around super computers in our
+pockets like there have been some
+upsides to this whole operation but but
+you're right there's always been a
+government presence and it's both in the
+kind of Keynesian you know pour money
+into the system of the you know
+pre-1970s period and and very much you
+know around defense and in aerospace and
+then after the 70s the government is
+still there in its you know in you know
+how is the other way what's the other
+way the American government state aids
+enterprise and individuals it's through
+the tax system so you have you know stat
+tax breaks for you know capital gains
+taxes that benefit venture capitalists
+and other investors you have you know
+tax breaks for that are some some of
+which are targeted towards the
+electronics industry or for scientific
+based industry that again are very
+generative but also are you know shows
+that there is there's effectively a
+federal you know the the government
+giving a boost to to these industries
+but doing it in a way that allows for
+enough creativity iteration and you know
+a private enterprise to flourish and and
+people to try and
+fail that and also does it in such an
+indirect way that oftentimes the people
+who are the beneficiaries of it feel
+like they did it on all on their own
+right that seems to me to be highly
+problematic because when we get when go
+out when California let's say or when
+when the federal government gives
+capital gains break to these companies
+or any type of tax breaks what they're
+really doing is saying we're giving you
+free services right it's because it's
+not just where we're giving you a tax
+break it's like we're providing you all
+the things that you need in terms of an
+environment in which to create this
+stuff we're just not going to charge you
+for it and so it's we're giving you
+services in kind really as an investment
+rather than a tax break we're just
+giving you free services and the other
+thing that strikes me too about why
+California succeeded and it goes to show
+that that I think from from a statutory
+standpoint this provision where it where
+it did not where where it did not allow
+for non-compete clauses and contract law
+will you explain that because that I
+think is is is huge and it's still very
+much like those type of questions are
+you know are still very much highly
+relevant across American society it's it
+seems to me and it's a very good
+indication we talked about the
+government stepping in to the to the
+so-called freedom of contract this was
+really huge it seems to me in terms of
+the development of Silicon Valley we
+will you walk us through that yeah so
+non-compete clauses essentially are you
+know things that are appended to
+employment agreements saying you cannot
+leave our employ and then go to a direct
+competitor you can't be you know in a
+particularly in a knowledge sector where
+the people and the ideas are the raw
+materials it's really limiting that that
+free movement of people and ideas across
+companies California does not allow
+those and this is an entry you know I'm
+in Seattle Washington State for example
+does you know it does allow non-compete
+and and you can even see this kind of
+reflected in the two ecosystems of these
+two tech hubs which is you know Seattle
+has been long been its
+changing now but it was kinda it's kind
+of a town dominated by one company at a
+time you know first Boeing the Microsoft
+now Amazon although that's changing
+quite a bit but down in the valley you
+have this this perpetual job hopping and
+you have people moving from one firm to
+another starting from the 1550s on that
+you know and with that they're sharing
+ideas they're creating this network
+which for which is really critical to
+you know going back to your why
+California question or why the valley
+you know one thing the valley has that
+the Boston does not is this it grows in
+isolation it's a very sort of
+specialized economy and very tight small
+and tightly networked everyone knows
+each other everyone you know their kids
+playing Little League together they go
+and drink beer after work together they
+work together not just one company but
+multiple companies and then they go on
+to become a venture capitalist that
+funds the next generation of companies
+and on and on and non-compete this legal
+environment contractual environment is
+very important there are also so many
+other California specific things that
+are feeding in you know the the Pat
+Brown era investment in social
+infrastructure broadly defined
+everything from public public schools to
+higher education kind of the Clark Kerr
+era the higher educated expansion of
+public higher ed in California during
+the during the fifties and sixties the
+building of roads building of public
+infrastructure of all kinds it enables
+this this society of these this past for
+tremendous upward mobility for so many
+people who happen to be there at the
+time where you see these you know
+someone like Steve Jobs who comes from a
+family and his dad at a high school
+education and he's a product of
+California public schools but heck there
+was a there was a computer lab in his
+high school in the late 60s and and this
+is you know he's able to kind of get on
+this incredible escalator because in
+part because of this public investment
+which of course changes dramatically
+after the late 1970s well I'd tell us
+how well I'm before we get to how that
+public investment changes but you you
+write that the homogeneity of the of
+Silicon Valley was both its
+it's greater strength and it's its
+greatest weakness we explain that for us
+yeah well but you know I refer to the
+valley as this entrepreneurial Galapagos
+it grows up
+I mean it's first of all it starts off
+very it's very remote it's rural and you
+know it's far far away from Wall Street
+in Washington did the national papers
+don't report on Silicon Valley unless
+they're putting it in air quotes until
+like the early 1980s it's it's you know
+it's very kind of off to the side of the
+main action and that allows these very
+distinctive species to expert to to
+develop a nice in isolation of sorts not
+only tech companies and in engineering
+focused businesses but law firms and
+venture capital firms and marketing
+firms that are all undivided two to two
+bringing up these these companies and
+there's a there's a very specific
+personal dimension to all of it because
+the model of venture-backed startups is
+you find a person who would promise with
+a promising idea and oftentimes they're
+a young man in his early 20s who has no
+business experience he comes with an
+engineering degree he's never really run
+anything and so you need this whole kind
+of concert of services and firms that
+are helping you mentoring you in many
+different ways and when you're making a
+bet on an untested person you're often
+going with gut you're going with okay
+this person graduated from Stanford
+masters and whatever that's a
+recognizable you know that produces good
+people this person is you know knows
+used to work at this other company or
+know someone I know and so there's a lot
+of hiring and investing based on
+existing social networks and ties so
+when you're starting from a place to a
+world that is entirely male and almost
+entirely white in the 1960s the world of
+engineering a world in which you know
+women were not a department chair could
+sort of decide they weren't going to
+allow women in their classes there were
+very very few technical women in in the
+world then and those that were kind of
+on the job but despite obstacles and so
+you have this very homogeneous pool that
+you're picking from and when it becomes
+a multi-generational phenomenon I mean
+the the real talent of that the magic
+Silicon Valley is time that you have
+multiple generations of people making
+making it big in a company they founded
+or being part of a very successful
+enterprise then they become the
+investors of the next generation they're
+picking the winners they're looking at
+the younger you know 20-somethings who
+are coming up with big ideas and saying
+all right I'm going to invest in this
+person and oftentimes it's investing in
+the man investing in the person as much
+as the idea and so this is how you know
+when you're again going with what you
+know it's very hard to let some new
+voices and new people in the room right
+and you're just not I mean you're not
+you know it's not dealing there you just
+there's no physical proximity like
+you're just not now bumping into these
+people on some level you're not you're
+not well how much of it I mean how much
+of that because I guess that you know
+the value in understanding that dynamic
+right is to also understand like the
+implications of that dynamic down the
+road like there's no reason why in 2020
+let's say that a similar dynamic
+couldn't exist where if that community
+had you know now presumably more women
+who are in those fields but also people
+of color who are in those fields they're
+all living in that that same era I mean
+would be interesting if we had the
+ability to sort of like say like what
+would the trajectory of the of the tech
+as we know it today have changed if
+there was more diversity of experience
+and thought and perspective in the
+beginning there right because we have
+now what has clearly become a severe
+consolidation of this right like the the
+the the utopia of democratization
+while it's there on some level you know
+Twitter I think democratizes the
+political arguments to a certain extent
+but we're really I mean we've created
+these behemoths and they are so powerful
+that we don't we have society has not
+been able to sort of figure out what to
+do with them and much of that it seems
+to me has been driven by a sense of
+conquest and of accumulation and in many
+respects to the extent that there ever
+was this sort of notion of like we're
+going to have a community with a bunch
+of different things growing that ethos
+seems to have gone away where uh it
+turns out like I'm the Bigfoot and I'm
+going to eat all of these other small
+companies and bring them in the fold as
+it were and in some of them I'll kill
+off good ideas that exist because I'm
+not prepared in my entity to compete
+with them so I'm just gonna kill them so
+I don't have to and I'll get back to
+this in five years yeah well you know
+it's interesting yeah I mean
+counterfactuals are pretty difficult to
+prove but you know what if there have
+been different people in the room at the
+beginning would it have changed I mean I
+don't know I I think that maybe the the
+the types of technologies would have
+might might have been different the
+questions obviously when you have
+different people in the room you're
+asking different questions or
+identifying different problems to be
+solved with the kind of the drive to
+bigness to scale the incredible
+competitiveness of Silicon Valley which
+is again part of it secret this
+incredibly sharp elbowed you know move
+fast and break things which is not you
+know was not a sort of philosophy
+invented by Facebook it's a it's one
+that is very much baked in to the
+culture it goes all the way back to the
+chip making industry of the 1960s where
+you did have to move really fast you had
+to have it was a it was an extremely
+hard charging environment of unvarnished
+criticism it was kind of this you know
+what frat house meets scientific lab
+make meets military barracks and it
+would could be a very inhospitable place
+for people who didn't have an extremely
+thick skin
+and for people who were trying to you
+know balance a life outside of work and
+also kind of became a very you know a
+very incredibly masculine environment
+and with a sort of the normative you
+know did the norm was to be a sort of
+tough guy and and that was celebrated
+Andy Grove the the legendary CEO of
+Intel you know what if his he wrote a
+book called only the paranoid survive
+which I think kind of sums up both the
+the market imperative you know this is
+how the the industry had to operate in
+order to scale and to do what it did but
+also shows how different different
+approaches might have been foreclosed
+now you know I think you know here's
+where I see daylight and I see some
+really interesting things and I and
+again I don't think that if there'd been
+women in the and people of color in the
+room at the beginning you know if Yummie
+who knows I think there were some some
+moments where those possibilities were
+foreclosed you look to the very early
+personal computing movement in the early
+1970s where people are coming out of
+places like Berkeley and Stanford and
+the baby boom era Vietnam era
+technologists saying hey let's take
+computing power and let's make it
+personal let's you know we can use these
+machines as tools to solve all of the
+social problems we see before us and
+there were a lot of women in that
+conversation initially and they had more
+idealistic and less profit focused ideas
+about how to go about it and they kind
+of fell you know fell out they didn't
+become part of the industry that emerged
+from it and there was this techno
+optimistic presumption that really
+starts you know you see throughout the
+entire history of Silicon Valley which
+is that the tech is going to solve
+things that society is messy it's yes
+it's unequal yes there are these
+problems but if we have these machines
+and if we connect them and if we can all
+have free-flowing communication you know
+get rid of the gatekeepers get rid of
+the bureaucracies get rid of the you
+know the military brass and the
+politicians at the top then we're going
+to fix all of it and of course this was
+in
+in light of you know the world of 2019
+seems absurdly idealistic but that is
+the that has been this driving
+if Silicon Valley has a political
+philosophy that is it and it is one
+shared by both men and women by you know
+by technologists across the spectrum
+it's just that the the more idealistic
+voices and if got got a clipped by the
+ones who were you know it's been it's
+been so easy to make so much money well
+that's that's a problem I mean it sort
+of feels like that in and granted right
+you had a bunch of very intelligent
+people who were who gathered at the
+exact you know at the moment when the
+technology became sort of realistic and
+in the wake of the massive investment
+that came with world war two it seems to
+me and the how how fast that pushed
+technology forward to the point where
+these where were semiconductors and
+computers became sort of realized I
+think you know much earlier than they
+probably would have if we didn't have
+that massive you know World War two
+industrialization I guess but it also
+occurs to me I just can't get over the
+you know the it's one thing to say I
+want to get everybody out of the way
+after they give me the cash and all the
+benefits of all the work they're doing
+and we should all say there's a story
+about immigrants to oh it's a huge story
+I mean I think the 1965 the hard sell
+our act which is the immigration reform
+Act that lifts the quotas that in place
+in place since the 1920s it had so so
+restricted immigration and restricted it
+on a on a racial and ethnic basis and
+geographic basis that is you know I
+think it's perhaps one of the most
+important economic policy acts of the
+last sixty years and of course it was
+not designed to be such it was kind of
+this crossing the T's and dotting the
+eyes on civil rights it was making you
+know making a wrong right and what it
+does is it opens up it precipitates
+these new waves of immigration and you
+see this particularly vividly in Silicon
+Valley where you have a great wave of
+immigrants many of them from South and
+East Asia who moved to the valley in the
+70s and 80s and after that are not only
+the engineering backbone of these
+companies but also in a disproportionate
+rate found companies and their children
+found companies and so the children the
+immigrants and refugees and their
+children are really the kind of
+lifeblood of I mean they are Americans
+don't have haven't cornered the market
+on being you know good technologists
+it's that the United States allowed the
+free movement of people and capital and
+opened its doors to so many people from
+around the world and made it a place
+where if you're a really smart
+technologist and you know named your
+other country your goal is to get to the
+valley and and the current the current
+mood and the current political climate
+in the United States is not only
+actively you know creating barriers to
+that but also actively dissing
+technologists from doing that and also
+doing that at a time when other places
+have reached critical mass where you
+could stay in your home country and have
+a successful a career as you might have
+had if you'd moved to the United States
+a generation ago and wasn't there also
+like a significant number I don't know
+if they were documented or undocumented
+immigrants who were actually
+manufacturing were the workers in the
+manufacturing the chips absolutely yeah
+so so that you know look this the Santa
+Clara Valley before the Silicon Valley
+was Silicon Valley it was just plain old
+Santa Clara Valley it was an
+agricultural value Valley in California
+it has had you know look was part of
+Mexico so there's been a
+mexican-american population there before
+the Anglo population but they're also
+spending a significant Latino and
+asian-american population there since
+the nineteen did the early 20th century
+working in agriculture working in the
+canneries and then after beyond that
+four successive waves of new immigration
+that yes in the you know in the 50s 60s
+70s and into the 80s the valley was a
+manufacturing region it was a place
+where the dominant industry with
+semiconductors microchip makers that was
+computer hardware that was making stuff
+and that manufacturing
+the tech is still a you know it still
+has a giant blue color workforce it's
+the submerged iceberg underneath the you
+know again what we think of when we
+think of tech we think of these
+white-collar engineers but the go-juice
+is not just assembly line workers who
+now are in Taiwan or Shenzhen or other
+places but also the you know Mechanical
+Turk considered at the gig workers the
+that the great the Amazon warehouse
+workers this incredibly large blue
+collar workforce that is made been
+essential to making a place like Silicon
+Valley and a place like Seattle run for
+so long yeah I mean it it's it's sort of
+stunning in a way because my
+understanding I think it was from a book
+by I'm driving me crazy I think it was
+Louis Hyman
+yeah great book discussed the role of
+undocumented workers in in building that
+that labor force that could produce that
+stuff and then the idea of something
+like Palantir right which is Peter teals
+company which is now basically does a
+lot of other things stuff that I don't
+like but now they basically developed
+the technology for ice to find those
+very people who probably made their
+technology possible yeah yeah and
+Palantir it's all kind of embodies the
+contradictions that are so baked into
+Silicon Valley I mean Peter Thiel's is
+outspoken libertarian you know when you
+think of Silicon Valley libertarianism
+you often think of Peter Thiel it's one
+of its most outspoken proponents and the
+outspoken supporter of Donald Trump kind
+of the loan the loan Trump supporter in
+2016 in the valley and or at least the
+sort of the loudest one and and his
+company Palantir is is you know built
+its book of business and continues to
+have you know a significant chunk of
+business from the national security
+complex that you know the Kalin tier was
+launched through CIA contracts and and
+it's just grown from there and so
+there's this dissonance between again
+the kind of free free market free
+enterprise ethos
+of the valley and this this very deep
+intertwining with government and
+particularly with the defense complex
+which by the way never went away
+I think one of the things I I really
+fully reckoned with when I was writing
+this book because this is my third book
+I've been looking at the tech world for
+20 years now and I had you know I knew
+the and been writing about the Cold War
+history for a long time and but what
+this really drove home to me kind of my
+book goes all the way up to 2018
+essentially when I turned in the
+manuscript and to send it to the
+printers is is that the Defense
+Department never went away
+Lockheed missiles in space remains the
+biggest employer in the valley through
+the 80s in the in the 80s and 90s you
+know DARPA was extraordinarily important
+particularly and in giving support to
+basic research and computer science at
+Stanford and elsewhere these
+foundational technologies that on which
+the big companies of today have grown
+including Google it you know came from
+this money not to say that they've
+always been engaged in defense work but
+it's it's really hard to separate out
+and the government's never gone away and
+that's I think one of the reasons I want
+technologists to really understand this
+history is not to say oh you guys didn't
+you know entrepreneurship doesn't matter
+it does matter I think that that we need
+to recognize how you know there are
+there is a reason that Apple and
+Microsoft kind of broke away from the
+pack they have these extraordinary
+leaders that had a particular skillset
+and talent that that need to be
+recognized but there also is this role
+of the state and society that that any
+story of American business enterprise
+whether it be agriculture or steel or
+high-tech you can't take the state out
+without and and in business history it's
+all connected yeah I suspect that the
+more knowledgeable of those are our
+fully aware of like the the the origins
+of that neoliberal thought as they came
+out of like Mont Pelerin that was none
+of none of what they're doing is
+inconsistent with that vision it was
+never about getting the the government
+out of the mire it was to have the
+government filter basically as
+certain amount of control to a certain
+set of players and and keep it there and
+that sort of feels like what's happened
+to a certain extent but there is a lot
+of mass delusion and I hope a lot of
+those people read your book I hope that
+Margaret O'Mara the book is the code
+Silicon Valley in the remaking of
+America thanks so much for your time
+today I really appreciate it it's been
+great talking to you Sam thanks so much
+oh boy

@@ -1,0 +1,864 @@
+a phone it's a pleasure to welcome to
+the program Virginia Eubanks she's an
+associate professor of political science
+at the University of Albany SUNY and the
+author of among other books automating
+inequality how high-tech tools profiled
+police and punish the poor Virginia
+welcome to the program Sam thank you so
+much I'm really excited to be here now
+your first chapter is from poorhouse
+to database just will you remind people
+just because you're using it as as an
+important metaphor I think here what
+what what is a poorhouse
+yeah so it's amazing cuz we we all kind
+of know what a poorhouse is cuz it shows
+up in our language right like oh you
+kids are gonna send me to the poorhouse
+or it shows up on our roads right there
+still roads and many communities called
+like poor farm road or poor house Road
+but we also kind of don't know what they
+are so it's this really interesting sort
+of cultural phenomenon I think of the
+way we we we the way we think about poor
+houses and I used the digital poorhouse
+as sort of a metaphor in the book
+because I think the tools that I'm
+looking at in public assistance are
+really sort of more evolution than
+revolution and I really wanted to put
+the tools in context and that context
+ends up going way way way back in our
+history like as far back as 1819 if not
+earlier and basically what was happening
+in 1819 is this huge economic depression
+this economic dislocation and economic
+elites did what they do when this
+happens and they had they sort of put
+out a bunch of studies and the question
+they were asking in the studies was like
+what's the problem really is it poverty
+that it sort of lack of access to
+resources or is it proper ISM which
+meant at the time sort of that you would
+ask for help when you were struggling
+struggling economically and not
+surprisingly for a bunch of studies that
+came out of Harvard and Yale studies all
+came back saying you know the real
+problem is not poverty it's paper ISM
+it's the fact that people are asking for
+support and so they invented at the time
+of a solution for that problem which was
+to create this system of County poor
+houses which were brick-and-mortar
+institutions that basically incarcerated
+poor people as a condition for receiving
+help so in order to enter the poorhouse
+if you have the right at the time you
+had to give up your right to vote and
+hold office you couldn't marry you were
+separated from your children who were
+then sort of farmed out as free labor
+for it as domestics and agricultural
+laborers and also the death rate that
+some of these institutions were really
+astronomical like 30 percent a year so
+that distinction that poor houses
+created the sort of deep social
+programming I think we invented at that
+time is this idea that the first thing
+our public services should do is make
+distinctions between the sort of
+deserving and the undeserving poor and
+that is why I use that metaphor to place
+these new tools in sort of that history
+that what they do is the same thing that
+County poor houses were doing in 1819
+which is raise barriers to receiving
+help so high that nobody but the
+absolute most desperate people well yeah
+it's fascinating and I have to admit
+like you know be like I I was exactly
+one of those people who would you you
+know it's sort of new poorhouse I was in
+the the concept but I had no idea until
+reading your book about the you know
+where I start to that that notion of
+poor houses being basically
+reformatories and we definitely hear the
+the echoes of that just rhetorically I
+can't help but think of Paul Ryan and
+sort of like his story about the the kid
+who would rather have a lunch rather
+than you know a brown bag lunch rather
+than free lunch at school like there
+there is some type of moral
+righteousness to not being poor
+essentially or and asking for help is
+you know is is a sign of some lack of
+of moral righteousness or righteousness
+period and and so the the argument
+you're making is that we no longer have
+these the these poor houses but that
+technology in I guess you tell me if I'm
+wrong about this is is creating is in
+some way sort of allowing us to
+reconstruct the poor house without it
+being so clear that's what we're doing
+right yeah
+so I'd say that what we're really doing
+is building so talk about it in the book
+is a digital poor house with these sort
+of new statistical models with
+artificial intelligence with machine
+learning algorithm ik decision-making
+specifically in public service program
+so I look at Canisius suspension and
+supplemental nutritional assistance or
+food stamps I look at homeless services
+in on house communities and I look at
+child protective services as well that
+we're building these sort of invisible
+institutions that contain people like
+it's physically in space that profile
+their future behavior and that police
+and surveil they're sort of everyday
+lives and I think that's very similar to
+what the poor house did in 1819 so yeah
+I do think we're starting to sort of
+recreate those systems but in a much
+harder to see way which is I think one
+of the things that makes these new tools
+so dangerous
+yeah and I want to return to that sort
+of a broad critique but first let's
+let's go through the examples that you
+you use you start in Indiana and like
+you mentioned you are you basically
+recount the introduction of a new system
+that essentially governs these various
+benefits that folks living in poverty
+get from
+via the indiana state government and and
+you look at and before you get into the
+details I mean with specifically I want
+to talk maybe about the the stipes
+family and you also a woman Omega young
+but you you you made a decision to sort
+of enter into these processes sort of
+from the the customer base rather than
+sort of looking at it
+the perspective is from the customer
+base if you will as opposed to sort of
+like the managerial perspective yes I
+think it's really important I
+particularly just in the last sort of
+year or two there's been some really
+incredible work that's come out that is
+sort of taking a second look at
+technological systems like machine
+learning like artificial intelligence
+like we're in the middle of like a
+critical reexamination I think it's
+really important this moment but one of
+the things that was frustrating to me
+about those conversations is that we so
+rarely heard from the people who are
+most impacted by these systems so I
+think of it as you know we usually hear
+from designers we often hear from policy
+makers sometimes the users in the sense
+of like frontline caseworkers who use
+the systems but we pretty much never
+hear from people who see themselves as
+targets of these systems and I think
+it's just really crucial to hear their
+voices both in terms of understanding
+their experience and understanding their
+sort of analysis of what's happening
+because I find they have a lot less to
+lose and sort of playing nice around
+these arguments and they have some
+really compelling analyses of like
+what's happening in the world and one of
+the stories I tell at the beginning of
+the book is actually about some work I
+did in this area long time ago now
+20-plus years ago now it was probably
+2000 and I was sitting in a tech lab
+that I helped build with a community of
+women who lived in a basically a single
+room occupancy hotel and I was sort of
+shooting the breeze with one of the
+women who had worked on the project with
+me and we were talking about technology
+and I was asking her about her
+electronic benefits transfer card her
+EBT card which is a sort of debit like
+card you get public assistance benefits
+on now
+and they were new at the time and so
+it's asking her about them and she said
+oh yeah you know it's good and some
+a little bit more convenient maybe
+there's less stigma at the grocery store
+but also my caseworker uses the sort of
+digital record of my purchases that it
+produces to track all of my movements
+and question all of my spending and I
+must have had this like crazy shocked
+naive look on my face because she just
+like pointed at me and laughed for like
+two solid minutes and then she got
+really serious and she's like Oh
+Virginia you guys should be paying
+attention to what's happening to us
+because they're coming for you next and
+I really feel like that analysis is
+really spot-on and in like 15 years
+before anyone else had it so I think
+there's really important reasons morally
+to pay attention to what the experiences
+are of people who are most affected by
+these tools but I also just think if we
+want to be smart about what's going to
+happen in the future
+around these tools we need to be looking
+in these communities that are seen as
+sort of where it's okay to experiment
+exactly right and it's fascinating
+because I I have a system with my
+daughter where I give her allowance on a
+like a debit card and I see wherever she
+spends and I try to tell her like here
+just let me give you some cash to so
+that you might just have this ability to
+go and you know I don't know go to
+Starbucks and buy a coffee without me
+knowing it or something to that effect
+and this is it's becoming ubiquitous I
+think in many respects but alright let's
+so let's go into this the story of of
+Indiana
+there is a 1.4 billion dollar contract
+with with high-tech companies and there
+there seems to be like sort of like
+competing narratives going on here with
+this that are both like they do this
+because this is a way you know there
+there's the the sort of the classic
+story of like oh the way we're going to
+deal with our school is to build more
+stuff because I'm friends with the guy
+who owns the cement company in town and
+also there is this is a way where we can
+we can impose our biases
+in our we can make political decisions
+that don't look like political decisions
+yeah I think that's exactly right it's
+one of the things that happens when we
+look at these tech systems it's not that
+the tech systems you know that they're
+necessarily Texas airily better or worse
+than the current politics we have it
+really depends on the system I think one
+of the real dangers is they pretend
+they're like stories pretending they're
+not stories or it's politics pretending
+it's not politics like oh this is just
+like an administrative change it's just
+a little tweak it's more objective it
+doesn't it's we're not making policy but
+the reality is these are political
+decision making pains I'll give you an
+example from Indiana
+so in Indiana in 2006 then Governor
+mitch Daniels contracted with IBM and
+ACS and a number of other companies to
+what they called what they said at the
+time was a modernization of the public
+assistance eligibility programs in the
+state of Indiana
+meaning how you applied for and were
+judged eligible or not eligible for
+public services like cash benefits or
+food stamps and the system that they
+built one of the sort of understandings
+that got built into this system was that
+if you at any point failed to give the
+system information it needed to make a
+determination in your case then that was
+a failure to to Stata to basically
+cooperate and establishing your
+eligibility for the program which could
+then be used as a way to kick you off
+the program because there's this really
+old rule on the books that basically was
+there if somebody who was applying just
+like refused to come to meetings over
+and over or or you know was just being
+so difficult that you had to deny them
+they basically built that rule into any
+kind of failure in the system was
+understood as this intentional failure
+to cooperate with establishing
+eligibility in the program which was
+enough reason to deny you services so
+for example Omega Young was an
+african-american
+and mother of two grown sons she's on
+Medicaid she had after the new system
+had been brought online they moved from
+one-on-one meetings with caseworkers in
+person to meetings that were scheduled
+through sort of a telephone scheduling
+system and that you then received a call
+from a call center from a worker and a
+call center to do your eligibility or
+your recertification interview so she
+was unable to make the time they picked
+for her she called her County office to
+say hey I can't make that time they
+somehow didn't get that message they
+called her at the or the call center
+called her at the set time she wasn't
+there she wasn't there to get the call
+and so they checked the box that said
+failure to cooperate and establishing
+eligibility and they denied her all of
+the benefits that she was already on so
+Medicaid food stamps free transportation
+to medical appointments it would put her
+in incredible jeopardy because the
+reason she missed the appointment was
+she was in the hospital with terminal
+ovarian cancer so she was denied all the
+benefits that were supporting her while
+she was sick she actually died on March
+1st 2009 two days later there was a
+hearing on the denial of her benefits
+because she did actually appeal that
+decision there was a hearing and they
+recognized that it was their mistake and
+returned all of her benefits two days
+after he died and and so this is the you
+know the I guess the the in the
+alternate universe the older universe
+she's meeting with a caseworker she has
+a direct relationship with them they
+understand that she's in the hospital
+the this is not a time we would schedule
+it for I would never cut this person off
+the caseworker would would would react
+theoretically you would hope so right
+and certainly described frontline
+discretion in casework has historically
+been a place where racial discrimination
+has entered the system and also
+discrimination against single parents or
+people who are sexual minorities or
+migrants like lots of places for human
+bias to enter the system the reality
+of the system in Indiana is that it
+denied 1 million applications in the
+first three years of the experiment
+which was more than a 50% increase and
+that there were from the 3 years before
+the experiment so that it basically all
+rather than shifting the way public
+assistance works it just sped up sort of
+the worst part of the system which
+resulted in just incredible human
+suffering for these families and and and
+to what extent I mean when we look at
+something like this this seems to me to
+be and and certainly you know I have
+some familiar with Pence as governor in
+Indiana this seems to be like mission
+accomplished right like we were able to
+privatize these funding by by paying
+these tech firms and we were able to
+call our Medicaid rolls i its block
+grant I would assume that they're
+working on a block grant and we were
+able to call our Medicaid rolls and we
+can divert those funds where we want et
+cetera et cetera like this is mission
+accomplished yes so I often say when I
+talk about the book that I don't know
+what was in mitch Daniels his heart when
+he made the decision to sign this
+contract so I can't speak directly to
+his intentions but one of the folks I
+interviewed for the book this Medicaid
+attorney in Bloomington I think put it
+really well he said look if we had a
+system that had been built to deny
+people on purpose it wouldn't have
+worked any better than the system that
+we got and so at a certain point
+intentions don't really matter what
+matters is the impact on people and
+that's why I sort of as the cases in the
+book develop the sort of intention gets
+much murkier is because I wanted to step
+people through this process of
+recognizing like it's not necessarily
+that their politicians are you know
+misusing technology it's that this deep
+social programming and the technology
+keeps reimbursing in a way no matter
+what your intentions
+and that acts that forces us to ask some
+really tough questions and what
+ultimately I mean what ultimately
+happened with the program well there's a
+good sort of good news in this case
+which is the people of Indiana like sort
+of found out what was happening and just
+wouldn't stand for it and so there was
+basically a big movement in the state of
+Indiana that came out of a series of
+town hall meetings where people who were
+affected came together to talk about
+their stories they pushed back on the
+governor he was forced to cancel this
+10-year contract three years into the
+contract and in many ways the people of
+Indiana won the sort of afterword is a
+bit sad though which is after the
+governor broke the contract IBM turned
+around and sued the state for breach of
+contract and in the first several rounds
+through the courts actually won they
+finally worked it out that the damages
+went in the way of the state but it
+wasn't much is a maybe a hundred million
+dollars coming back to the state they
+you know spent half a billion dollars to
+deny a million people benefits in the
+long run unbelievable all right well so
+let's move to Los Angeles where you
+where you look at the the question of
+housing where where does the where does
+the automation where does the algorithm
+come in here yes so the system I studied
+in LA is a system called a coordinated
+entry system and it's not just happening
+in Los Angeles actually sort of standard
+practice just about everywhere in the
+United States and increasingly abroad as
+well but it was really interesting to
+look at it in LA because Los Angeles
+County has one of the highest on house
+populations in the country I think it's
+something like as the last point in time
+counts close to 60,000 people who are on
+housed in Los Angeles County and
+something like 75% of them are
+completely unsheltered meaning they have
+no access to emergency shelter they're
+just living in tents or cars or under
+bridges so it's an extraordinary
+humanitarian crisis the housing crisis
+in LA and I looked at that system so
+it's known by its proponents as the
+match calm of home
+services and the intention is quite good
+the intention is to because there are so
+many unhoused people in LA and so few
+resources it attempts the intention is
+to risk rate all of the unhoused people
+in terms of their vulnerability to some
+of the worst outcomes of being homeless
+and those are pretty severe death and
+medical issues and mental health crises
+and community violence all kinds of
+horrible things that can happen to you
+in your own house and then to match
+folks based on their vulnerability score
+with a the most appropriate available
+housing resource that is out there for
+them and so it's actually serving some
+people very very well so people really
+close to the very top of the scale
+basically weren't served well by the
+system before because they are hard to
+work with um and so most of the time
+they wouldn't get resources that
+caseworkers might say for slightly
+easier to deal with clients people at
+the bottom of the scale the least
+vulnerable are actually doing pretty
+well because they're being matched with
+very time and resource limited resources
+like what was known as rapid rehousing
+but the reality is something like 30,000
+people in the middle have been surveyed
+by this very intrusive instrument that
+they use to vulnerability rank people
+and aren't seeing any resources at all
+come out of it and I really wanted to
+talk to them about what their experience
+is go talk to a guy named Gary
+Boatwright and goes by the nickname
+uncle Gary in Skid Row in LA and he said
+he was really concerned for example with
+where his information was going because
+this survey they have to fill out asked
+questions like are you currently trading
+sex for drugs or money are you thinking
+about hurting yourself or someone else
+if there's someone out there who thinks
+you know they that you owe the money are
+there open warrants on you and then they
+ask if they can take a picture and then
+they ask where you can be found at
+different times of the day and uncle
+Perry told me hey it feels like I'm
+being asked to incriminate
+sells in exchange for a slightly higher
+lottery number for housing and it's
+actually a real again a really good
+analysis because it turns out that the
+database that they keep this information
+and it's called the homeless management
+information service system sorry HMIS
+under federal data law can be accessed
+with no warrant based only on a rural
+request by law enforcement so there's
+some real issues about where this data
+goes who it's shared with and whether or
+not the people who are giving up their
+data really have a choice in whether
+it's really voluntary they sign an
+informed consent form but the reality is
+this is pretty much the only way to get
+into housing in Los Angeles County so
+everyone's going to say yes even if
+they're not comfortable with sharing
+such intensely personal information
+about themselves and this is another
+example of essentially the policing
+right I mean that I mean I think we're
+basically talking about policing without
+police yeah so that's definitely how
+many of the unhoused people I talked to
+felt about it I mean there were
+definitely folks I talked to who were
+like this was a gift from God I'm so
+glad it happened because they got a
+house and that's a really big deal but a
+lot of the folks who had gone through
+the survey and had participated in the
+system and had received no resources at
+all started to sit back and sort of
+think like wait what are they using this
+for really and I think it's a it's a
+really legitimate question to ask about
+the system there's no reason that law
+enforcement should have access to that
+information no reason except for if you
+want a police on house people if you
+want to be able to arrest and
+incarcerate it on housing people and and
+and are we seeing that I mean in this
+program maybe not in LA but in other
+municipalities where they're using it
+yeah the coordinated entry is actually
+pretty common across the country it is a
+fairly easy fix though like we could fix
+the federal data rules that say that law
+enforcement can access the homeless
+management
+and system we could fix that tomorrow we
+could just be like no you can't we know
+but do we know that it that there are
+police departments that are accessing it
+and using it as a way of dealing with
+their you know dealing with their
+homelessness problem so currently I only
+know about Los Angeles but currently
+LAPD says they do not themselves access
+data and HMIS but they are legally
+allowed to walk into a social service
+center and ask caseworkers for
+information out of the system
+caseworkers are not required to give it
+to them and I think that's really
+important but they are allowed to give
+to them and many of them do and so I
+would say they are accessing the system
+when they are looking at criminal
+justice cases or looking at looking to
+make an arrest
+they'd absolutely go into homeless
+shelters and ask for information out of
+agent way out and we should say that
+this is we can see what's happening with
+let's say ice in many respects what the
+implications of this are and when you
+know President Trump says we're gonna
+move into California he seems to have
+dropped this idea for the time being but
+we're gonna do something about the
+homelessness there that would be the
+mechanism they would use yeah I think so
+I think actually I'm so glad you brought
+that up because I think when we have
+this conversation about intention one of
+the things that's really important is to
+understand that these systems will work
+no matter what the intention is so the
+best example I think is actually the
+daca database the deferred action on
+childhood arrival database right so
+under Obama administration the idea was
+to collect names of people to protect
+them from deportation but when the
+administration changed all the sudden
+there is a database of 800,000
+undocumented people that is are in the
+hands of an executive with a very
+different idea about what to do with
+that information and so one of the
+things that I think a lot about when I
+think about solutions is having kind of
+a what Dana Boyd would call like a
+hacker mindset which is like fake first
+how do I break this system not like how
+is it going to work if everybody's like
+holding hands and singing Kumbaya all
+have the same idea that what
+but like how do I use this against its
+intention and if you can do that but
+don't do it how do we harden these
+systems against uses that even the
+designers would find deplorable because
+once it's out there it's out there right
+what what do you do if Donald Trump is
+running it that's basically all right
+well lastly let's talk about the just
+briefly the Allegheny County the you you
+went to Allegheny County in Pennsylvania
+and there's a system that Flags
+for potential neglect abuse of children
+what what was problematic about that
+system well so the system is called the
+Allegheny family screening tool and it's
+supposed to be able to predict which
+children might be victims of abuse or
+neglect in the future I think everybody
+would agree actually that's a really
+important question and so it really felt
+like the stakes of this were incredibly
+high both in terms of protecting
+children and in terms of keeping
+families intact and healthy so this is a
+system that is built on top of a data
+warehouse the county built back in 1999
+that collects information from like 29
+different county and state programs so
+like adult and juvenile probation the
+housing authority drug and alcohol
+services the police department office of
+mental health bunch of a bunch of other
+things school districts for example and
+then on top of that data they hired a
+team of economists and computer
+scientists from New Zealand and on and
+off of the u.s. to design a system that
+could red flag who they think are the
+most vulnerable the most the riskiest
+families in terms of potential future
+abuse or neglect the problem though is
+so it's basically comes up on like a
+thermometer or sort of green on the
+bottom and red on the top and if your
+score is in the red if it's high enough
+on a 0 to 20 scale they actually
+automatically open an investigation on
+your family so that it refers your
+family for for investigation unless it's
+overridden by a supervisor the problem
+though is that it doesn't actually
+model child maltreatment because we have
+actually very limited data on children
+who are actually physically emotionally
+or sexually abused what it does and not
+enough information to basically build a
+viable model so it uses proxies which
+basically just means sort of a stand-in
+for actual neglect or abuse and
+originally one of the proxies it used
+was called call re-referral and
+basically all that means is a call has
+been placed on the child to sort of
+hotline its screened out by their call
+screeners is not sort of crucial enough
+to step in or as not actually abuse and
+neglect and then there's a second call
+placed to on the same child within two
+years and that seems reasonable except
+that it's really open information in
+most poor working-class neighborhoods
+most neighborhoods that are affected by
+child protective services that vendetta
+calling happens a lot so like a neighbor
+has a party and you're pissed you call
+Child Protective Services you're
+breaking up with somebody and it's not
+going well you call Child Protective
+Services like sometimes children call
+child protective services on their
+parents like exert some control and
+their and their family divorce
+I would imagine - is the doors all the
+time absolutely and so the fact that
+they thought this might be an
+appropriate stand-in for abuse and
+neglect actually occurring it's actually
+incredibly troubling because it says
+that these data scientists and
+economists actually don't know a lot
+about the system that they're trying to
+model so they're modeling the wrong
+things and that get those choices are
+made invisible when all call screeners
+are seeing is this thermometer that says
+Oh 17 out of 20 right like it's out of
+your hands we're just opening an
+investigation like that doesn't show up
+so again it's a way that we like we hide
+these actually political decisions
+behind the sort of Matlock facade of
+like clean objective numbers and the the
+lack of sort of like ongoing contact
+right that would that would make these
+the it's true it's really the lack of
+discretion in the in these context or is
+it I mean it's just abroad now the the
+the discussion as we start to wrap up
+here a little bit the the it seems
+there's like a a multitude of problems
+with these things that range from the
+assumptions that people make at the
+beginning that are both political and
+just sort of I guess maybe detached
+right I mean like there's a quality to
+that that Allegheny system which is sort
+of indicative of like maybe some
+elements of education reform where it's
+you know we're doing this based on data
+and we don't have any real-world
+educational experience and so we just
+you know I guess apply a metrics that
+don't really have anything to do with
+this I mean so there's there's multiple
+different levels it seems to me that
+this can go wrong is how do we how do
+you fix it
+or can you like it is it is it possible
+to to rely on technology to do these
+things without it obscuring the problems
+yes so I think one of the big points
+that I want people to take away from the
+book is that we often sort of talk about
+these systems as disruptors or as
+equalizers even right like this is
+evidence-based policymaking this is this
+is more objective this is removing human
+discretion but in the cases that I look
+at in public services the reality is
+they act much more like intensifiers or
+amplifiers of the systems we already
+have in place and so changing the way
+these technologies operate is not as
+easy as you know having better
+intentions at the beginning or even you
+know train
+computer engineers to understand more
+about sort of social inequality but it's
+going to require really deep cultural
+and political change but in the meantime
+we need to create systems that do less
+harm or we need to give people the
+ability people in communities to give
+the ability to have the ability to say
+no to things that don't fit their
+community values so it feels like rather
+than trying to go the route of taking
+all of our values out of these
+technologies which just means you're
+building them for the status quo but
+what we need to do is actually build
+them with our values front and center
+unfortunately right now by default we're
+building these systems with only values
+like efficiency and cost savings but we
+should be building them from the point
+of view of equity justice and fairness
+and human dignity and self-determination
+so you get a really different system if
+you design from the principle that
+public services actually should be a
+floor under everyone that is a human
+rights approach that says no one is
+allowed to you know have their family
+broken up because a parent couldn't
+afford a child's medication or like
+allow someone like Gary Boatwright to
+live in a tent on the street in Los
+Angeles for two decades at any point we
+can say that's unacceptable the reality
+is these tools just reproduce this idea
+of the moral thermometer right they just
+say we're gonna we're coming at this
+from a triage approach which says
+there's not enough resources for
+everyone we have to decide who really
+deserves them when in reality the most
+complicated math is what activist Cheri
+honkala calls the belly button algorithm
+which is like who deserves housing do
+you have a belly button then you deserve
+housing right there do you have a belly
+button right the reality is I believe
+we're using these systems as a kind of
+empathy override right they allow us to
+think the most horrifying situations are
+getting corrected but everybody else
+maybe kind of deserves it and maybe they
+should go to jail or maybe they should
+lose their kids and the reality is
+no one should go to jail for being poor
+and no one should live lose their kids
+for being poor and that's the that's the
+basic assumption we have to make when we
+build programs or these digital tools I
+mean I guess these these tools they both
+function to obscure uh the the values
+that are inputted into them but they
+also I guess your book helps put them in
+stark relief and certainly is an
+argument like you say for for the for
+something like the belly button rule
+well where maybe we don't need a process
+to determine who is eligible for this
+maybe we should just provide enough that
+making that process obsolete on some
+level so that everybody is eligible and
+we just put our resources into that yeah
+I think we all deserve better
+that's why I wrote the book it's a
+fascinating piece of work Virginia
+Eubanks the book is automating
+inequality how high tech profile police
+and punish the poor we will put a link
+to that at majority dot F M thanks so
+much for your time today I really
+appreciate it thanks so much for the
+conversation
