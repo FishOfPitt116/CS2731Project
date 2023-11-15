@@ -37,7 +37,8 @@ MEDIA_SET = [
     Media("UCnQC_G5Xsjhp9fEJKuIcrSw", "The Ben Shapiro Show"),
     Media("UCKRoXz3hHAu2XL_k3Ef4vJQ", "Pod Save America"),
     Media("UCIveFvW-ARp_B_RckhweNJw", "Louder with Crowder"),
-    Media("UC1yBKRuGpC1tSM73A0ZjYjQ", "The Young Turks")
+    Media("UC1yBKRuGpC1tSM73A0ZjYjQ", "The Young Turks"),
+    Media("UCy6kyFxaMqGtpE3pQTflK8A", "Real Time with Bill Maher")
 ]
 
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
