@@ -14,3 +14,18 @@ class Episode:
     episode_name: str
     platform: str
     transcript: str
+
+@dataclass
+class Post:
+    media_id: str
+    post_id: str
+    timestamp: datetime
+    content: str
+
+@dataclass
+class Comment:
+    media_id: str
+    post_id: str
+    user: str
+    content: str
+    timestamp: datetime

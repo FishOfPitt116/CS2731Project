@@ -1,5 +1,6 @@
 __pycache__
 .DS_Store
 .env
+.zip
 client_secret.json
 sample_response.json
