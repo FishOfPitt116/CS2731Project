@@ -1,0 +1,4126 @@
+hey guys welcome to startups episode 2
+I'm joined by my wonderful co-host Dan
+and we have an exciting guest today Ted
+Juba who is running for the California
+State Senate Senate in district 1 and we
+are gonna be talking about his past
+history with business and then his
+current I guess kind of political
+positions in terms of how he feels about
+things now that he's running for a state
+senator position in California you an
+introduce yourself Ted yeah hey so
+thanks for having me on the show
+I am a startup guy
+I've started a handful of companies here
+in California and now it's time for me
+to move on to something else so I'm
+moving into government and numbering
+like you said for a California state
+Senate District one which is the largest
+Senate District in the entire state it's
+about 28,000 square miles such as 11
+counties runs from Lake Tahoe all the
+way up to the Oregon border and there
+are nine hundred and eighty thousand
+people in the district and it's going to
+be a special election coming in March
+what's the special election for so the
+the fellow who is in the seat also
+incidentally named Ted he just won Board
+of Equalization which is California's
+elected Tax Commission and he was sworn
+in earlier I guess this week which means
+he resigned a Senate seat
+so constitutionally governor Newsom has
+two weeks to declare a special election
+for the vacancy gotcha all right so so
+startup guy this has start as podcast
+we've saved the latter half for
+political memes I suppose but you the
+thing I remember you from the most is I
+guess I want to say it's about a decade
+ago now is that right is is uncover a
+yeah very popular blog that hoped fun
+everything in Silicon Valley and did it
+in a very smart way it was very widely
+read I think correct me if I'm wrong but
+I feel like that was gang sourced more
+than even very large things like
+Valleywag and things like that at the
+time yeah I became friends with the
+folks at Valleywag through uncut I met a
+bunch of them
+and we would hang out and they tried to
+hire me a couple of times I said no
+thanks because I didn't want to be a
+writer for a living I was just doing it
+for fun honestly and it kind of took off
+and you you had another guy working with
+you they were like a chi or something
+like that yeah so these were two guys
+that I went to college with Matt and
+Kyle and concurrently with this uncut
+thing which I was doing most of the
+writing for it they would chime in here
+and there but the three of us were
+developing a AI machine learning based
+news recommendation service before
+machine learning was you know popular it
+went nowhere but we've all moved on to
+different places and uncover when I shut
+it off eventually because it just became
+too much to manage and they want to
+write it anymore
+now was that was uncovered I call it a
+startup but did you have other startups
+before that as well and before the
+machine learning thing and and how did
+you get into all this I guess we should
+go right back to the beginning yeah so
+college or something so I graduated
+college I got my degree in mathematics
+and came out to California because I
+knew I wanted to start a company here
+during my junior year at college I did
+an internship at Google and they hired
+me back full-time and then I went there
+after I graduated and I stayed for about
+a year and then quit to start this
+company with my two other friends who
+had just graduated college they were a
+year behind me real quick what it was
+uncut about like what was the bug about
+for those that haven't heard of it or
+haven't read it yeah it was what I would
+do is I'd go on to if you guys are
+familiar with TechCrunch it was like the
+sort of big Silicon Valley tech blog
+where everyone when it announced their
+new products I'd go in there every
+morning and read whatever review
+whatever like oddball company like
+social network for cats was being
+launched and then I would just write my
+own review of it and I would take I
+don't know an hour and a half in the
+morning and just have fun and put some
+fun like image memes on there and just
+write a semi technical review of the
+thing that drew a really big audience
+from developers and so
+Valley because they thought it was funny
+the only time where it kind of went
+weird was where you had like founders
+who were super super type-a and couldn't
+really take any criticism like they
+would get into it with me and that was
+really cool but most people like almost
+everybody got the joke and they thought
+it was funny and they appreciated the
+exposure mm-hmm I felt also like you you
+went it wasn't just that you made like
+[ __ ] memes about like oh it's a social
+network for cats like you went into it
+and like actually found the problem
+basically a lot of times people are
+flat-out lying about what their stuff
+did and things like that as well or you
+know just went in there completely you
+know saying they have a lot of funding
+and then you find out me like you have a
+hundred thousand dollars of funding from
+your dad type of thing so it was
+interesting on that hard as well yeah
+you would get stuff like that and a lot
+of it was sort of poking fun at the
+Silicon Valley culture where people like
+patting themselves on the back for you
+know raising twenty million dollars in
+venture capital which okay yes sure
+that's good you can build your company
+but it also means that you no longer
+have control right and how much equity
+did you give up for that and at the time
+everyone was kind of treating it like
+winning the lottery and I just thought
+that was stupid and I felt like back
+then raising money a decade ago
+very different than now there is no like
+founder friendly convertible note sheet
+it was like we're gonna go ahead and
+take 30% of your company on your seed
+round type of thing and give you almost
+no money so yeah it's very interesting
+yeah it was I mean back then it was
+certainly much harder to raise your seed
+financing for our machine-learning
+startup we raised thirty thousand
+dollars in seed financing from a single
+angel investor and you know we it was
+three of us and we lived you know ramen
+noodles and we burned through that we
+lived on that for like a year it was
+awesome but we after that was done you
+know the Series A environment at the
+time was like you needed to raise ten
+million bucks or something for a series
+a round and we just weren't there so so
+going back to before so tell us you know
+you just got out of college what's next
+what's your path and how does it lead
+you into doing startups and so I got out
+of college and I went to work at Google
+because I've been an intern there my
+junior year
+and I worked with a really great team of
+people I mean everybody at Google was
+really intelligent and it was kind of
+nice going into meeting rooms and I
+would sit down at a meeting table with
+with other engineers on some project and
+realized that everybody in the room knew
+like 10 times more about computer
+science than I did and it was like oh
+man like this is I'm in a different
+environment here so either like step up
+or step out and I used it as an
+opportunity to learn a whole lot of
+stuff about how to make production
+quality software and how to organize
+teams and how to do source control and
+in the end what am i stayed for my god
+go ahead I was gonna ask what was
+hearsay what was your background like in
+programming like before all of this like
+is this what you went to college for no
+I went to college for math okay um I got
+my degree in computational mathematics
+but before that when I was in high
+school myself and three other guys over
+the course of two summers when we were
+like 16
+we developed a electronic medical record
+system for one of the guys his mother
+was a physician and it was just four of
+us in a basement making this system in
+PHP and my sequel we had no idea what we
+were doing like we were just so amateur
+programmers but we made it work like we
+made a thing that like sort of kept
+electronic medical records and over two
+years we developed this and when we all
+went to college at the same time we
+didn't have the time to keep up with it
+anymore so we just put it out there made
+open-source you like GPL the whole thing
+and it it took off it's nuts it's called
+open EMR and I check on it on it
+regularly and today there's like 200
+million people in the world whose
+medical records are in some open EMR
+installation somewhere and this all just
+sprung from this open source thing that
+the four of us made over the course of
+two summers in high school I kind of
+doubt there's any of the original code
+still left in the codebase but still the
+point was it was there were no other
+like free EMR systems that were usable
+at the time so ours kind of took off are
+you still like mentioned are credited
+with this
+why is her name not in the Wikipedia
+page that you should so if you go to
+look at PDF page it mentions the little
+company that we started called cinetech
+and you know like I think I might have a
+stock certificate somewhere for that
+company but we ended up dissolving it a
+year after we went to college because we
+didn't want to pay the franchise taxes
+anymore
+that's crazy though you essentially you
+created it so is this like this standard
+now I mean it certainly looks like if
+we're looking at this at this page like
+this is the standard for storing of you
+know I guess ended that Thursday there's
+a bunch of commercial EMRs like the big
+one today is called epic and there's a
+another like practice Fusion is another
+one but as far as open source stuff open
+EMR is still one of the more popular
+ones because physicians can have their
+own installation of it like they put a
+server somewhere in the back room and
+somebody can show up and make a business
+out of customizing this for doctors
+which they're very normal people out
+there do like that's their job now right
+think of it like WordPress Riley
+everyone has their own like WordPress
+site and installation and like yeah you
+can get it hosted or you can get it on
+Prem but you can customize it to your
+heart's desire and the same is true with
+open EMR so what what was next for you
+after this so you kind of have been in
+this or you know left it out there just
+to be supported by thousands of people
+so what where do you move on well then I
+went to college spent four years getting
+a degree in math and it was actually my
+junior year I got an internship at
+Google which was great and I came out to
+California and and did that and I
+thought that was a lot of fun and when I
+went back to school towards the end of
+my senior year
+I was waiting for the full-time offer
+from Google I wasn't sure if I was gonna
+get it and they're like notoriously slow
+for offering somebody a full-time job
+like they take months to evaluate your
+packet I think they still do so at the
+same time that I was waiting for a
+response from Google I was in the
+process of applying for a job at the
+National Security Agency which a lot of
+people in our math department
+and you know I'm with Ruth like a couple
+of phone calls with with NSA and the
+first one I thought I'd just completely
+bombed because the guy was asking me all
+these abstract algebra questions and
+quickly found the edge of what I knew
+about math and I thought I mean this is
+a disaster but then they called me back
+but like hey we want you to come down to
+Fort Meade to do like the polygraph test
+and all that stuff but before we could
+schedule that I got a FedEx envelope
+which was a full time offer from Google
+so I said you know what like thanks but
+no thanks
+I always wanted this and you might have
+some clarity on this so the general
+public assumes especially when you see
+things like television and movies things
+to bite it brightest than the best
+they're just working at the NSA and the
+CIA and I always think to myself like I
+really don't think that that's true
+because these guys if you're the
+brightest and the best you would
+literally make 10 to 20 times more
+working in the private sector so there's
+a lot of like inherent like oh the
+government has your back we have the
+best we have the NSA has cracked this
+encryption 20 years ago and it's like
+you know I I really don't think so like
+what's your take on all that I would say
+don't complete intelligence with wealth
+right just because somebody is super
+intelligent doesn't mean that they're
+going to make a lot of money you know
+there are plenty of people who are
+incredibly intelligent who you know
+don't they're not at the top 1% of you
+think that that's because they're do you
+think that that's because they're
+they're content and they want to work at
+the NSA or is it because there's not
+enough jobs for these specific types of
+you know skill sets that they have I
+think it's like content is part of it
+and the other part is just the different
+skill sets greatly you can have somebody
+who is just a master of like Galois
+field theory which is what you need to
+solve these encryption problems and like
+could never in a million years negotiate
+a term sheet with an investor or make a
+pitch to raise a million dollars for a
+company because they're very very
+different skill sets so simple raw
+intelligence that only gets you so far
+right you have to be able to step
+outside of the things you know about the
+world and and try new things and apply
+your intelligence to newer things
+but that being said I mean the folks at
+the NSA are super bright and if you are
+somebody who like it is your life stream
+to just do abstract algebra all day long
+the NSA is really the only organization
+it's gonna pay you to do that what did
+you um when you went to school for math
+what did you think you were gonna get a
+job like working for Google or the NSA
+or like I'm just curious because I've
+talked to a few math majors and careers
+always seem to be really weird from
+there with like actuarial science or
+sometimes computer related stuff or did
+you have a clear idea of this going on
+yeah you know I I didn't want to do
+computer science because it was a little
+too neckbeard II but my major was oh you
+you'd be surprised man like the man said
+not to hate on math majors by the way
+sorry credibly chill okay the like
+software engineering computer science as
+neckbeard as it gets I'm talking like
+wearing shorts in the wintertime
+neckbeards in upstate New York okay so I
+knew I wanted to go into math because in
+high school it was hard for me and I'm
+not the type to like be content with
+like a communications degree or
+something like that like I wanted to do
+something that I knew was gonna be
+difficult so I signed up for a math
+major and it ended up working out yeah I
+really enjoyed it I was terrible at
+calculus like absolutely terrible until
+I got to the more abstract stuff like
+real analysis abstract algebra and then
+it sort of clicked so after so where do
+you go from Google how long were you at
+there was it for a year enough to take
+like a handful of stock off the table
+and I sold that and I used that to sort
+of finance myself to do this startup
+thing with my two friends who had just
+graduated when I was at Google like I
+was having a lot of fun I was learning a
+lot of things but at the same time this
+Web 2.0 thing was really heating up in
+Silicon Valley and I knew I'd come out
+to California you can start a company
+anyway and having Google on your career
+is like it's basically like having a
+master's degree right like everybody
+kind of
+looks at your resume and they're like oh
+okay like this guy might know something
+for reference around what year was this
+when you did your year in Google oh gosh
+this was 2006 2007 okay
+it was employee number like 11,000 and
+change at Google gotcha
+so I mean I mean not like like super
+rich early but early certainly earlier
+than anything reason where's the rich
+cutoff as far as being an employee at
+Google do you think oh gosh I mean
+anybody who is their pre IPO for sure
+really okay how many employees do they
+have on the IP ad I have no idea that's
+a good question so I heard anecdotally
+that they had to hire more people for
+the IPO because they're like earnings
+per employee was abnormally high so they
+had to hire more people to kind of even
+it out I don't know if that's true or
+not but sort of Silicon Valley lore um
+so Milo I guess Milo came after the
+failed machine learning thing is that
+right was that the the next that was the
+next one yeah so after the machine
+learning thing went sideways I met up
+with the story goes I was I was working
+on a an open-source thing that Facebook
+put out was called thrift it was this
+remote procedure call mechanism that
+they just made open-source and they had
+a bunch of different language bindings
+it was very similar to something that
+that Google has internally so I wanted
+to use it externally at this machine
+learning startup so I became a
+contributor and I got invited to go like
+to Facebook HQ to like meet with a bunch
+of these folks for like a software
+development Meetup and while I was there
+I met their VP of engineering who ended
+up hooking me up with these two guys in
+Palo Alto who were doing something in
+shopping that's all that I knew at the
+time but I said yeah sure like I'll go
+check it out why not
+and the idea wasn't quite formed yet but
+when I met these guys like there was
+like a Facebook app where you could buy
+textbooks socially
+then they added this we added this like
+inventory check thing where you could
+see the textbook you know if it was
+available at Barnes & Noble and what the
+price was and people really liked that
+so we ended up changing the entire
+company Milo to this inventory access
+online thing which is really cool what
+do you mean by that exactly
+so it's Milo was a website where you
+could go and search for products that
+were available in-store around you in
+real time so you could go and type in ok
+I want this particular camera and we
+would show you geo locate your IP and
+show you you know here's all the stores
+physical stores that are around you that
+actually have this thing in stock right
+now and here's their price so you could
+then go to the store and pick it up how
+are you accomplishing that was that
+scraping of like all the local best buys
+and seeing a zip code or what were you
+doing so so to get that product data
+like the titles and the pictures and the
+descriptions we scraped all that stuff
+and we may we maintained a huge huge
+library of scrapers for all these
+different websites but the inventory
+data was harder we had to
+reverse-engineer their inventory systems
+a lot of these stores they had this buy
+online pick up in store functionality
+where you could go on a product page and
+type in your zip code and it would show
+you ok this product is available in
+these stores so that was actually my job
+I reverse engineered every single one of
+those inventory systems and we actually
+in the process of doing that we shut
+down I can say this now because they're
+bankrupt but we shut down RadioShack's
+point-of-sale system nationwide for like
+15 minutes by accident yeah because we
+were like really limited or some [ __ ] or
+you're just gravy too much data yeah so
+so the call and the website would be in
+real time which means you'd get like the
+spinner on the website until the results
+came back from the retailer and we
+wanted to experiment with pre-caching
+all this stuff so we could just render
+it instantly so we said ok we'll do a
+scrape every 24 hours
+so RadioShack I picked them to try it
+with because their site responded the
+fastest to these inventory calls
+and they had something like a hundred
+thousand skews so we ran over every ZIP
+code in the country and every SKU they
+had real quick and you that's like a
+unique product identifier right yeah
+like a like a UPC code like it's not
+keeping unit that check yeah so we ran
+over all their SKU numbers times all
+their zip codes and this was before AWS
+really existed so this was released
+servers in the data center in Dallas and
+I got one with like a hundred megabit
+pop to the internet and I wrote this
+multi-threaded scraper and I pushed go
+and then we went to lunch and lower at
+lunch our CEO is phone rings it's our
+hosting provider and they're like hey we
+had to shut down one of your servers
+because we got a remote abuse complaint
+like oh no okay so we go back we get our
+lunch go back to the apartment and find
+out that RadioShack had called what
+happened was they didn't have like any
+kind of load balancer between their web
+front-end and their inventory database
+like their live inventory database no
+replication nothing to handle web load
+they just sent it right to the live
+inventory database and we overflowed the
+entire thing and shut the inventory
+database out which meant that none of
+the point-of-sale systems in the country
+could like write any data to arive any
+data from it so that means that even so
+then just for people listening to catch
+up so that means that for 15 minutes
+even people in stores trying to make
+sales using point-of-sales is like the
+cash registers and everything weren't
+able to like process any transactions
+basically yeah the whole the whole store
+nationwide and radio circus thousands of
+locations I have no idea we got we start
+off with a very angry phone call from
+somebody in information security who
+thought that we were like hackers trying
+to shut them down and this I did not do
+this I have to give the credit to our
+CEO here this guy has a silver tongue
+like nothing you've ever seen before
+because he talked down the information
+security guy from like wanted to murder
+all of us and got somebody in product
+development on the phone who was going
+to give us a feed of the data instead of
+going to scrape it
+so yeah but you're lucky there we did
+but but honestly we have good intentions
+right like we said hey we're not trying
+to do this to enrich ourselves the goal
+of our website used to help you sell
+more stuff so you know they're kind of
+sympathetic to that once they realize
+that we're not hackers trying to shut
+them down I'm kind of curious um just
+because it seems like the idea of trying
+to reverse engineer this and make your
+own databases must've been a nightmare
+did you ever think to just go to
+companies initially and be like hey
+we're trying to do this thing is there
+way that we can get like a easier access
+to like a database of SKUs and products
+and everything or did you think that was
+I mean we thought about doing it that's
+as an engineer that's what I would have
+wanted to do but we were a three-person
+startup I mean they would have told us
+to get lost okay you're not gonna bother
+with the IT work to make that
+integration so it's a little bit better
+to ask for forgiveness than permission
+shutdown there are stories for 15
+minutes that must have been like
+millions of dollars right over those 15
+minutes you think I don't know I mean
+Swedish acting so hot it was 10 years
+ago
+RadioShack was the [ __ ] back then I
+think maybe this is like after they
+started like RadioShack used to be cool
+because you could go in there and buy
+like transistors and like soldering iron
+and then they just started selling
+cellphones well there there was the
+period the short period of time when
+cell phones first came out where if you
+wanted that nice Nokia brick phone
+you're going to RadioShack because that
+was the only place it wasn't before like
+AT&T and all these guys actually had
+their own stores he would go to Radio
+Shack yes exactly
+yeah interests but no we didn't and that
+was scary yeah we thought we were done
+for but you know if if you have good
+intentions and you can convince people
+that you have good intentions then good
+things happen to you oh we can get a lot
+okay so we have the concept of it you
+had created a service that let consumers
+see what product is available around
+them so how was that going this thing
+it's launched now yes it's gone it's
+launched we had a little bit of seed
+capital we had like 150 K and seed money
+and we ended up raising a Series A round
+wrist we raised four million dollars in
+a Series A and that let us expand the
+team and move into an actual office
+and we ran the company for about two
+years before we were acquired by eBay
+and we're in the process of negotiating
+another round of financing while we were
+negotiating the acquisition with eBay so
+does it use these things to kind of like
+you not play them off each other but you
+want to maintain as much optionality for
+yourself as you can absolutely so so
+what did you have for traction why did a
+bay want to buy your were you raking in
+the cash at this point or no no we
+weren't making any money we had a
+technology that they wanted you BAE
+they wanted to move into local because
+they saw local commerce as an
+opportunity and it's true I mean I've
+years later I ended up going to one of
+our retailers on a different job and I
+saw their internal data for their their
+growth of this like online to offline
+conversion channel and I'm like man we
+sold too soon like it grew faster than
+we projected it to be and we're being
+optimistic because we were you know
+selling the company how many employees
+did you have like as you were nearing
+that sell day to eBay we had 28 oh wow
+and then what was it what would you say
+was like how many uniques
+like users did you have using your
+service at the time oh god I mean maybe
+10,000 maybe but we even had approached
+us earlier that year and said hey we'd
+like to do an integration with you guys
+for the holidays you know so we want to
+well we'll give you some like products
+from our website that we want to feature
+and we like to surface this availability
+data on ebay.com
+so okay cool not really knowing that was
+them feeling us out for an acquisition
+to see if our tech was legit but you
+know we we put a lot of effort on that
+and and we made the integration work and
+they were really happy with it
+and then the conversation kind of
+evolved like hey you know this
+technology is really interesting would
+you guys be interested in joining eBay
+did you guys have like when you say you
+weren't making money do you mean just
+like you weren't profitable or did you
+real it early
+have no monetization scheme at all like
+did you have any plans to make this make
+money or dollar you so we were kicking
+around the idea of affiliate marketing
+so for all the the products that we
+surfaced on our site we could send
+somebody to the retailer say where they
+could do a buy online pick up in store
+and we could make a Philly affiliate
+bucks on that but we ended up not doing
+that because we didn't want to have
+revenue numbers that were too low as we
+were going into raising a series being
+it makes so much sense this is what you
+this is stupidest stuff that you have to
+do when you're in startups right like
+this is why people don't put you wrote
+about this on uncuffed the reason that
+they don't put Google ads on their site
+is why because there's money yes because
+once you have revenue numbers then the
+investors you're courting they are just
+gonna try and you know understand some
+multiple of that instead of it being
+like hey we have this technology we're
+not entirely sure we're gonna do with
+this but we know it's interesting right
+versus this is the spreadsheet business
+and we're making money so what was he
+showing the dream what was the next step
+so let's assume that the eBay thing
+didn't fall through why were the
+investors so on board to put more money
+I assume if you previously raised four
+million that must have been probably a
+ten million dollar series B or something
+like that
+why why were they trying to put money
+into this business that has 10,000 users
+and everything else what if what we're
+what was the vision you're able to sell
+to them saying like you know what this
+is gonna be huge or you just saying
+listen eBay it loves us and other people
+are gonna love us too because I that's a
+hard sell if you don't it's it sucks
+waking up every day not having a lot of
+traction on this thing I know that
+feeling so like it does so how what were
+you thinking in your mind like if 28
+people working on this thing making zero
+money and you're like yeah [ __ ] are we
+doing well the the funding environment
+at the time was still kind of frothy so
+we knew the capital was out there if we
+wanted it and our or series-a investors
+they said that they would be in for a
+series B which I mean you kind of need
+that show of faith or else you know
+other investors are gonna be like well
+why don't they want it for their pro
+rata at the next round like that's a
+little weird so they told us they were
+on board and that was a excellent
+backstop but
+we could show pretty definitively that
+this market we were in was something
+that was new and was growing really fast
+so it wasn't that important for us to be
+going after revenue at the time but we
+had very hard data to show that the
+market was growing and it like I said it
+actually ended up growing faster than we
+thought it was going to do you actually
+regret selling like you say this now do
+you think if you had told eBay to shove
+off and you kept going with it do you
+think that you would have made a larger
+company had a larger exit like were you
+truly the pioneer and yeah
+come eat let me take a step back was
+your service targeted at consumers or at
+other businesses so you provide someone
+to know if a product is available in a
+specific store so are you tracking end
+users like me or a shopping or you
+looking for like businesses somehow
+end-users I mean they're our growth
+metric was in in actual like shoppers
+people who wanted to do some kind of
+transaction so you felt like if you kept
+going that that number was about to blow
+up or something like that all of a
+sudden you know your website this you
+know homepage was gonna be massive and
+people are gonna start using you as a
+shopping port so we knew for a fact at
+the time that if you take the percentage
+of folks who browse online for a product
+like research it online and then go to
+the store to buy it or research
+something online and then do the the buy
+online pick up in store
+we knew that market segment was growing
+faster than ecommerce itself so we knew
+that there was there was absolutely a
+market there to capitalize on and nobody
+was aggravating all of this stuff in one
+spot we were the only folks that were
+doing that but I mean eBay comes along
+and they say hey we really like your
+technology and we would just want to
+take the scale of eBay as a shopping
+site and point it at this technology and
+you know it wasn't like a talent
+acquisition it wasn't like hey we want
+to buy this tech defensively as founders
+they came us to us with a fantastic
+story they said look we really think
+that applying the scale of eBay to
+this technology is going to take this
+even further and that's absolutely true
+so from a perspective of wanting to see
+this idea come to fruition the ebay
+acquisition was the best option so you
+don't know I don't regret it it's good
+to know that we were on the right track
+but I mean obviously hindsight is 20/20
+yeah I was gonna say like you hear so
+many horror stories especially like
+stuff related to Yahoo and whatnot of
+people that like waited too long to sell
+and then end up like tanking and value
+or make horrible decisions like yeah I
+could definitely say at the time like
+being scared of like waiting a little
+bit too long and then I either a
+competitor comes up or the landscape
+dramatically shifts to like online only
+and not the pick up stuff like yeah
+there's a lot of ways I could have went
+wrong so yeah I mean the entire exercise
+of being an entrepreneur is that you
+don't know what you write when you guys
+you don't know what you want you don't
+know what you don't know oh yeah right
+and your job is to decrease uncertainty
+as much as you can and raising money
+certainly helps but being acquired by a
+big company that wants to put you know a
+15,000 person organization behind you
+that D risks a whole lot of stuff to see
+the the product come to fruition so what
+um so eBay by CEO how does this how's
+the integration go do we still see this
+on eBay today and how was it working for
+you know because he basically were the
+boss at your own company and going to
+work for you know super mega Corp or
+your what's your soul crushed or your
+dream so that's that's a fantastic
+question and I've had other
+entrepreneurs who are considering
+selling asking me the same thing so an
+acquisition if you start a company and
+you sell it to you know a big publicly
+traded company the equity in today what
+you make of it
+and we knew off the bat we were going to
+lose about 30% of the people from our
+company which is which is true and you
+know they just they took some money off
+the table we actually negotiated in our
+term sheet that they would vest some
+portion of their stock upfront as soon
+as the sale closed so everybody could
+take some money off the table which was
+nice so yeah about 30% of the folks they
+they left and moved on to other things
+was I don't know if you're able to talk
+about will you
+required to stay on board for that
+acquisition for some number of years
+afterwards or did you just I was I was
+heavily incentivized to stay on board
+okay
+be quiet no okay gotcha yeah some folks
+are on the bill I call it vesting in
+peace I don't know this on the roof type
+of thing but I guess a little bit more
+active oh boy oh I mean much more active
+right it like you first you get there
+the first day and this is so eBay story
+we get there like the first day and they
+had set up all these cubicles for
+everybody and we're like hell no like
+cubicles not gonna work so we call
+workplace resources and we say hey can
+you guys come get these like dividing
+walls out of here and they're like no I
+don't know if we can do that you know
+it's gonna be about eight weeks before
+you can get to something like that
+so we hang up the phone okay we go get a
+screwdriver we take everything apart and
+we drag all these dividers out and just
+put them on the lawn in front of the
+office where you were and we call them
+back and like hey remove the dividers
+out to the law and come get him if you
+want and I I don't know what what went
+on over there but they had someone over
+there real quick and we didn't hear a
+peep out of workplace resources for like
+two years it's kind of ballsy for like
+your first day kind of doing that stuff
+though no I mean they just got a card
+what are they gonna do undersell them
+give them well but you got like that's
+kind of a calculated calculated move for
+your team right because you want to show
+that you've still got some like internal
+drive right that you're not just being
+assimilated into the machine that you're
+here for a purpose that they're not just
+buying your technology they're buying
+your team too and they're buying the
+character of your team so we figure
+stepping on a couple of toes is not
+always a bad thing like it has a purpose
+for the team itself maybe not for the
+rest of the company and okay if
+workplace resources is a little salty at
+us because they got to come and pick up
+some barriers then okay that's a small
+price to pay oh we're showing solidarity
+so how how was it how long did you stay
+I see
+you say to ebay until your investing was
+done but how was that and did your
+product get integrated how you hoped it
+would yeah I did um we we had some
+pretty interesting integrations because
+once we are at eBay then we could call
+back the retailers and say hey we don't
+want to do this like scraping thing
+anymore just give us a feed of your
+inventory data and then since we were
+calling from eBay they picked up the
+phone and they were like okay we can do
+that so the integrations got a lot
+easier which meant the product scaled a
+whole lot better and we were surfacing
+this data on ebay.com so Best Buy was a
+big seller on eBay and we enabled their
+buy online pick up in store
+functionality on eBay through our
+technology and we shipped a couple other
+products to like a local integration for
+businesses that use QuickBooks or
+Microsoft Dynamics to upload their
+inventory data automatically to eBay and
+I'm glad that we were right that putting
+eBay's name and scale did help the
+products take off a lot more because we
+had so much more legitimacy calling from
+eBay versus calling just the start-up
+that nobody had really ever heard of
+which let us get more data a lot easier
+and make the product better so in terms
+of like your personal life you guys had
+28 employees and then you sell to eBay
+are you like are you married at the time
+or dating anybody or are you just still
+kind of hanging on your own over The
+Bachelor life yeah I was married at the
+time you're married is this um we
+financially I guess like coming into
+this much money what were your thoughts
+in terms of like future work and
+everything was this like a big
+life-changing thing for you did you just
+want to carry on business as normal or
+how did you kind of feel about
+everything I didn't know what to think
+at first it seemed kind of surreal yeah
+the whole the whole process of like oh
+my god like we started you know we're
+eating ramen noodles and all of a sudden
+like hey eBay wants to buy your company
+for seventy-five million dollars you
+know what how does your life change and
+I didn't want my life to change that
+much you know I was fortunate to have
+enough money then to go and buy a house
+and still
+Valley like have a good car and a whole
+bunch of other stuff just to have that
+security but you know I'm not the type
+to go out and buy like a Lamborghini or
+something like that
+I got a nice motorcycle but that's
+really it okay I mean but still that's
+you know you had two co-founders or
+mm-hmm
+and yeah it's basically at this point
+[ __ ] you money essentially right like
+you depending on how you want to live
+your life moving forward essentially you
+could never work again if you want um my
+situation you know I still living in
+California which is very expensive I
+still did have to work for sure if it
+wasn't something that I could retire on
+you know and and be good you know twenty
+years down the road but it definitely
+changed my perspective on how how work
+works basically like it's once you have
+a situation where you can have some
+freedom to go and take risks I found
+myself doing a lot more of that
+can I just real quick cuz everybody in
+the shadows going crazy so he sold the
+company for 75 million but you weren't
+you didn't it wasn't all your money
+right a different people have different
+shares of this company it's not like you
+had 75 million yeah okay no I did not
+take home so yeah a lot of people in
+Chad don't understand that process
+because a lot of people Chad are
+wondering how you couldn't retire on
+seventy-five million dollars but that's
+that's not America yeah the entire
+company was sold for seventy-five
+million different employees different
+investors all kind of have their hands
+and a part of that you know that sale
+okay so a lot of people seem to
+understand it no I
+you know the co-founders we each had we
+had different equity stakes as well and
+you know investors had to 40-ish percent
+of the whole thing and just like in our
+modern standards right cuz you only did
+a series a right at that point yeah yeah
+we believe a series a and you know we
+had advisors that had shares and
+everybody said what 20 percent usually
+with the option pool or something yeah
+our option that was option pool I think
+it was like 15 percent yes I mean you're
+talking about before any of the founders
+you have like 60 or 70% of the company
+basically gone right away investors
+always get paid first always yeah um so
+so what happens next
+so you've stated eBay for a few years
+and you leave and what do you what are
+you doing now and you know what where's
+your life at that point what you think
+yeah so I left
+eBay in 2015 and a friend of mine a guy
+who we had hired at Milo to do business
+developments and who came with us all
+the way through eBay and he did some
+great things at eBay he was starting a
+company in fashion the fashion space
+which was pretty cool it was called oak
+labs and the product was this six foot
+tall mirror like an actual mirror that
+had a 4k display behind the glass in an
+rfid reader and a Linux machine to power
+the whole thing and we had this this
+capacitive touch foil that we put over
+the glass that made it the whole thing a
+giant touch screen so you would bring a
+garment into the fitting room where this
+mirror was and before before it
+activated it just looked like a mirror
+because it really what it was but once
+it read the RFID tag off the garment the
+screen would light up and you would see
+this interface that lets you that knows
+what you brought into the fitting room
+because it reads lrf ID tags and it
+gives you a touch screen where you can
+say okay I like this shirt but I wanted
+a different size or these pants
+different color whatever bring me a belt
+to try and with these pants and somebody
+on the floor gets that message they
+bring you what you want to the fitting
+room so by the time I left eBay this was
+like Justin it's still kind of getting
+off the ground and I came on as the VP
+of engineering to you cutout VP veteran
+to run the software team okay this whole
+thing and okay ended up selling about a
+year ago to another company in Arizona
+but that was one of the coolest things
+that I ever worked on because such a
+neat product it was a lot of fun to do
+and I got to go to all these
+these different retailers and talk about
+odd retail technology like a super super
+experimental stuff that they wanted to
+do remember a tie took one trip to
+Minneapolis to go the targets HQ and I
+think I'm still sworn to secrecy about
+all the stuff that I saw but there's
+some cool stuff in retail tech that you
+can do with RFID just kind of looking at
+the trend I'm just kind of curious like
+conceptually or like philosophically do
+you have like internally like this huge
+desire to see tech like hardcore
+integrated in daily activities and ways
+we wouldn't necessarily think it it just
+in terms of like the RFID thing and then
+even the shopping app you did for Milo
+like is this like something like
+internal that you really want to say
+that you're excited about er yeah I want
+to see tech integrated in to activities
+where you don't even know it's there I
+think like putting an iPad on the wall
+in a store is stupid because it's just
+an iPad hanging on the wall right the
+technology shouldn't shouldn't bother
+you to interact with it it should
+present itself to you when you need it
+conveniently and at Oak that's really
+the the ethos that we had about
+technology that stuff like screens on a
+wall or iPads on a wall is just stupid
+because nobody wants to interact with
+the X it's ugly
+they haven't iPad at home who cares but
+something that anticipates what I need
+and what I'm doing that's that is a
+better use of technology because it's
+actually helping you do something it's
+not demanding that you interact with it
+kind of in that same vein what's like
+just like of random stuff whether it's
+with cars or stores or phones what's
+something that you're like really
+excited about today like some tech
+product that you see that like the
+integration is really cool or you hadn't
+necessarily thought of it looks like
+your thing today that you look at that's
+a good question so you know I do a lot
+of stuff related to advertising for this
+this political campaign and it's I think
+that's a topic going to get to later
+Cambridge analytical how far we go
+no but simply okay using technology to
+better understand people mm-hmm that's
+what I'm really interested in so you
+know I can go to my voter I'll see you
+know these are all the registered voters
+you know here's all extended data and so
+on but you can't understand people with
+machine learning right you could sure
+you can show ads to them whatever but
+when it comes to actually to having a
+face-to-face interaction the Machine
+doesn't really do you any favors but it
+could right like you could have machines
+that help you understand you know here's
+how to better connect with people and
+it's something you do as a human if that
+makes any sense like if I go into a
+conversation and I know somebody is very
+concerned about immigration or gun
+control right that's something that I
+can certainly suss out as I'm talking to
+them but going into a conversation with
+more information and being able to
+better connect one-on-one with a person
+without looking at my phone the whole
+time that's that's something significant
+that I think technology has yet to
+tackle and I think that they could
+interesting okay so technology for
+technology's sake I don't think that's
+used
+yeah for sure okay so what happened with
+the oak thing did where it where's that
+at so oak there was a company in Arizona
+Covello that makes kiosks at a huge
+scale and they acquired oak and you know
+this was around the time when I wanted
+to get involved in something else
+and I wanted to get involved in
+government so I did ways without before
+the acquisition and then I assume we
+foray into politics and yeah so tell us
+how that you know pretty radical change
+from a start-up guy who was like you
+know what let's do politics how does how
+does that transition happen okay so this
+this story I got a rewind for for a
+minute
+so I had a brother who died he's four
+years younger than me he passed away in
+2012 and he had a heart condition that
+nobody knew about that was undiagnosed
+and when that happened that that turned
+my whole world upside down at the time I
+worked at eBay right I was I was making
+good money and everything everything was
+great but when something like that
+happens to you it changes how you think
+about yourself and about the world and I
+really struggled to find what made me
+happy in the wake of that and the thing
+that I that I found that pulled me back
+from the abyss right was doing things in
+the service of other people so I was
+fortunate enough to be making a good
+amount of money and I started you know
+giving money to causes that I cared
+about and volunteering for things that I
+cared about and that's what gave me
+satisfaction of life I you know a lot of
+people when they face a personal tragedy
+like that I turned to drugs or alcohol
+or whatever and believe me that was an
+option right like that's something that
+that if you're taking an objective look
+at your life like yeah I see why people
+do that but I knew I couldn't I couldn't
+go down that road that wasn't me so
+getting involved in being of service to
+other people that's what really made me
+satisfied with my life
+and getting it to government is the
+natural extension that's the way to
+scale to scale that that activity right
+to to to do things in the service of a
+lot of people and a lot of they're gonna
+disagree with you and that's fine
+you're gonna catch static for it and
+that's fine but if what you really want
+to do is make the world a better place
+then government is the place to do that
+in my mind so then from there you just
+decided to I'm sorry I should know this
+do you have you been in any sort of
+elected office
+for trying to run for this or is this
+the first elected office here going for
+it the first first I hold an appointed
+office right now a planning Commissioner
+for the city of Placerville where I live
+but it's it's not a policy setting
+position sure but it is a good way to be
+involved in the community so I guess we
+should talk about some of the things
+that you want to see change so you're
+running under the Republican ticket
+obviously and so what are some of the
+things that you see at least in
+California politics that you don't like
+and we'll start debating about it sure
+well immigration is a hot topic right I
+mean that's if you look at the what is
+dominating the news right now
+you hear a lot about illegal immigration
+and especially here in California you
+like yes it's true that we had police
+officers and people killed by illegal
+immigrants who should not have been
+there in the first place right these are
+these are folks who were had already
+been arrested on some crime but because
+California is a sanctuary state they
+were not termed over to immigration
+services they're released back onto the
+street and then they go on to do harm to
+somebody else
+and I just can't fathom any
+justification for that what are you
+think Steve I mean I guess what is your
+I mean I agree obviously people killing
+people as bad I don't know if they're
+legal immigrants killing people it's
+necessarily worse than normal people
+killing people or documented immigrants
+or or citizens or whatever I guess like
+what is your main would it there are so
+many different things to talk about
+we've got daca we've got we've got well
+okay so California focus we could talk
+about the sanctuary mm-hmm right that
+that's that's a law on the books that
+says that local law enforcement in
+California cannot cooperate with
+immigrations sure right if they arrest
+somebody for a crime and that person is
+here
+legally then they are forbidden from
+turning them over to immigration to be
+deported now that's stupid
+and there's a lot of counties in
+California that are have very cleverly
+gotten opted out of the sanctuary State
+I live in one of them El Dorado County
+and the way we have opted out of this is
+our sheriff in our district attorney
+have made the list of people in jail and
+their release dates public information
+which is not that you know they they
+call immigration say hey we picked this
+guy up like come get him
+it's here's a list of people and
+immigration can watch that and identify
+the people who are here illegally and
+then when the police come get them in
+and deport them so kind of like a Mylo
+for illegal immigrants capability
+service ready to be okay if you want to
+call it that I guess I gotta brought her
+on a broader scope I mean like what do
+you think should change about
+immigration in the United States in
+general because I mean the like talking
+about illegal immigration especially
+with Republicans no offense it's usually
+really frustrating because it seems like
+a lot of the things on the table are
+wholly unrealistic so things like we're
+gonna deport 13 million people or things
+that are in my opinion just not
+self-serving like rolling back gun and
+necks been deporting all of those
+children what's like I guess like from a
+broader perspective how would you want
+to see immigration changed in the United
+States look I think legal immigration is
+a fantastic thing that's I'm a third
+generation American that's why I came to
+go there how came here legally from
+Poland do you really think it's that
+fantastic because it seems like in order
+to get here from some places you're
+literally on like a decade-long waiting
+list it seems like legal immigration is
+pretty messed up in the US unless you're
+like of exceptional financial background
+at the moment it depends on Avenue in
+which you come in and people people seek
+asylum and there's different numbers of
+people that come in from from different
+countries but the the point is that
+legal immigration is a way of self
+selection this is a way that people who
+genuinely want to come to the United
+States and to seek the American dream
+can show and demonstrate that that's
+what they want to do and that they have
+the wherewithal to do it because it's
+yes okay if you are of means it's
+certainly easier for you to do a lot of
+things in the world but folks who come
+here legally and who go through the
+proper channels they're showing that
+they have a respect for the rule of law
+and you can't integrate yourself into
+American society if you don't come here
+with respect to the rule of law I think
+everything that this country has built
+and all the opportunity that the people
+have here is based on having a very
+solid respect to the rule of law if you
+go to a country where there's not a
+mature legal system where everything is
+based on bribes so very hard to get
+ahead in that world versus America if we
+believe in equality of opportunity then
+we have to we have to have respect for
+the rule of law to believe in equality
+of opportunity it's not going to work
+otherwise I mean we say respect for rule
+of law but hasn't a lot of American
+history literally been built on I don't
+to say total disregard for law but I
+mean like literally our entire
+revolution you know was in part
+instigated by our refusal to pay taxes
+because we didn't feel we were being
+adequately represented or look at what
+today you know we talked about sanctuary
+cities that kind of buck the federal
+government's you know ice and whatnot I
+mean a lot of states are doing this in
+regards to marijuana right word
+technically every marijuana dispensary
+that exists is doing so in a federally
+legal fashion these can be rated at any
+point in time - I mean it feels like a
+healthy amount of civil disobedience or
+disregard for the law kind of forms
+future American opinion as well no those
+are decisions that are that are rooted
+in democracy I'm talking about decisions
+that are made by the individual it's
+like having a dispensary that sells
+marijuana how is that rooted in
+democracy well it's because that was
+that was passed by California's
+Proposition system right if before that
+if before recreational marijuana was
+legal in California if you opened up a
+weed store you'd get shut down right you
+can't just make that decision
+unilaterally well but good newly I get
+the same about sanctuary cities like we
+elect representatives that enact
+sanctuary City policy is much the same
+as federal as States a lot dispensaries
+to exist as well no
+and we elect representatives that I
+found a sanctuary state okay yeah I mean
+I'd say it seems like things like
+marijuana would fall under the same type
+of um if we want to talk about like
+respect for rule of law or if we want to
+talk about respecting the process or
+American values it seems like the
+dispensaries would exist under the same
+notion of sanctuary cities did where
+some people do feel like this is
+something that is I guess worth voting
+for people and worth kind of defending
+the idea of a sanctuary city of roses
+that marijuana stuff well all of those
+things were voted into law by the people
+rightly or their their elected
+representatives if somebody outside of
+the united states chooses to come in
+here and like commit a crime by coming
+here illegally that is not something
+that the like any portion of the people
+in the united states said was okay right
+that it's not there was not a decision
+that was up to any sort of
+democratically elected body it was a
+decision made unilaterally by an
+individual and if somebody if individual
+doesn't have that kind of respect for
+rule of law they're not going to be a
+good American welfare okay firstly
+that's a huge job I don't know if I
+would necessarily good that but I mean
+like a lot of Americans seem to port
+support things like daca or seem to
+support the idea of sanctuary cities
+which seems to show there's a support at
+least among some Americans for keeping
+people that have made it to this country
+here to work and whatnot your point
+being well that I played well I mean my
+point is that it's I don't know it seems
+like the the idea that an illegal
+immigrant came here unilaterally we're
+not talking about the fact that an
+illegal immigrant came here but the fact
+that there are Americans that seem to
+support this idea that people that come
+here contribute to the economy
+contribute to the country can be just as
+much a contributing American as anybody
+that just happened to be born on
+American soil and therefore has
+citizenship again is there a question so
+the problem is I hear people retreat
+behind this idea of a rule of law a lot
+which this seems like a very vacuous
+position to take because one a lot of
+America is literally found I mean we've
+had civil wars in the past is literally
+founded on the on the bucking of a rule
+of law the whole civil rights movement
+people getting you know married
+illegally as homosexuals until the
+Supreme Court passes gay marriage people
+selling marijuana and then opening
+dispensaries on their knees so like
+there's a lot of American history that's
+rooted in this like being against what
+the current law is and then the laws
+kind of change to accompany the
+the people and it seems like with
+illegal immigration we've also made kind
+of pushes and in that way as well right
+Reagan himself was Pro amnesty for
+certain groups of people you know we've
+got daca that helps get children that
+are here federally filed so that we keep
+track of them and now we've got people
+supporting things like sanctuary cities
+so when you have a lot of Americans
+pushing for kind of integrating illegal
+or undocumented immigrants more into
+American life and there's actual public
+support for it to back up and say well
+this is wrong because of rule of law
+that seems like a vacuous position that
+needs more supporting arguments for it I
+guess it just doesn't seem very
+satisfying for me to hear that if
+somebody came up to you on the street
+and put a gun in your face and took your
+wallet would call them a patriot no but
+I mean an American citizen can do that
+they don't have to be an illegal
+immigrant to do that I mean like if my
+child was killed by a documented person
+rather than an undocumented person I
+don't think I'm necessarily gonna have
+more outrage that they were killed by an
+undocumented person like or if I owned a
+business like and I'm have the ability
+to hire undocumented workers versus not
+even being able to open a business
+because I have no workers to hire I mean
+it seems like there's a lot of these
+issues are more complicated than just
+some illegals come over and commit
+crimes which they do I mean everybody
+commits crimes like what it what is the
+actual crime statistics of illegal
+immigrants versus citizens do we have
+that I don't know but I think I think
+Steve is backing himself into a corner
+here because you know if if you don't
+see that somebody is if you don't think
+that somebody is a patriot for sticking
+a gun in your face and taking your
+wallet how can you call it disrespect
+for the rule of law in American virtue
+well because because disrespect for rule
+of law can mean a lot of things like
+somebody you know jaywalking is
+disrespecting rule I I'm I'm gonna go
+out on a limb here I'm gonna say I just
+respect rule of law a lot when I Drive I
+speed however somebody that is like the
+head of Enron and is disenfranchising
+like investors and [ __ ] also distres
+with rule of law I don't think that all
+of this can fall under the same blanket
+much the same way that an illegal
+immigrant that comes here illegally
+you know disrespects our immigration
+rule of law is gonna be a lot different
+than an illegal immigrant that comes
+here and like rapes and murders someone
+I don't think that these things all fall
+under the same blanket I don't think you
+think that either do you think that
+having a national respect for the rule
+of law makes America a better place no I
+don't think so not necessarily
+I mean having respect for rule of law it
+is
+probably good but I mean a lot of
+countries have respect for rollable I
+don't think America is exceptional in
+those regards
+well I think you should try living in a
+country that doesn't have respect for
+let's see how that works out
+wait wait hopefully I mean I guess when
+I think of like my success for America
+my goal isn't to compare America to like
+a country that is like a literal turmoil
+like you do I mean do we go to like
+sub-saharan Africa or some South
+American countries to find like that
+these are the countries that I usually
+think of like well at least we're doing
+better than them so America is better in
+this regard like I would rather compare
+myself to like Western European
+countries when I that all seemed to
+follow laws pretty well and operate and
+function pretty well the point is is the
+ethos of what it means to be an American
+right what what does it mean to be an
+American to us dude I'm an incredibly
+anti culture anti naturalist so our
+nationalists I don't I don't even have a
+good answer for this one I mean I guess
+if you're about a country how are you
+still involved in national politics
+because it because politics under the
+umbrella of politics is our people and
+people are things that I'm very
+interested in
+I guess people as a whole yeah do real
+quick I wanna before we go too deep in
+this because we spent you know a good
+amount of time in this let's go into it
+just a more of a little bit of a Hot
+Topic thing right now so wait why would
+you move on this topic though I want to
+get into the next segment of the
+immigration here which is the wall so
+where do you stand on the wall knowing
+that right now we do have roughly a
+fence on our large portions of the
+border and do you think that adding
+whatever it is 15 or 20 or 50 feet wall
+that Trump's suggesting do you think
+that it's gonna have should we be
+funding this is that actually you know
+is it worth doing basically I think the
+Democrats were throwing a hissy fit I
+think it's embarrassing for them why do
+you have Pelosi and Schumer up there
+like like mom and dad who just caught
+you sneaking in after curfew and they're
+complaining about spending five billion
+dollars on a wall to keep illegal
+immigrants out I mean do you know what
+Congress spends five billion dollars on
+right California alone today we have a
+21 and a half billion dollar tax surplus
+right in there they're throwing up
+throwing up barriers excuse the pun
+about a five
+for border security this is ridiculous I
+mean it's probably more the message on
+the wall itself I mean like first of all
+the idea that the wall would even do
+anything to alleviate any of these
+problems is already contentious and then
+the fact that I mean Trump is kind of
+holding the functioning of the
+government hostage for getting funding
+for the wall as well I think it's kind
+of weird to say that the Democrats are
+the ones throwing a hissy fit over it
+well I mean in a in a government with an
+executive branch and a bicameral so you
+can't exactly make the finger side to
+say this side is holding things up
+because it takes both to pass a law
+putting the squirt and President Trump
+is pretty disingenuous I mean there were
+times where pence himself walked to
+Congress with a deal that Trump later
+backed out on because there wasn't
+funding for the wall I think everybody
+is ready to move along with the
+government finding and everything except
+for the fact that we're kind of having a
+discussion over this wall like don't you
+think that's a debate that could come at
+a later point in time rather than
+literally holding the funding of the
+government hostage to get this thing
+passed I think that that assertion is
+completely absent of any understanding
+of how government works well I would say
+this okay just do it later I feel like
+there's a fundamental failure on the
+part of the Democrats right now is the
+Democrats know that Trump right now is
+he's now on the longest government
+shutdown we've ever had and he's
+desperate to get this wall which you
+know in the realistic is not a grand
+scheme of things having five billion
+dollars in all this type of stuff in it
+it's you have the Democrats in a
+position right now to demand so much and
+instead they're just taking the line of
+we're not going to negotiate whatsoever
+so I do think it's a failure on part of
+the Democrats knowing how much Trump
+wants us right now not to go and you
+know demand a bunch of [ __ ] to get it
+done and actually close the deal so I
+don't well it's not as Democrats because
+right now it's Trump shut down like
+right now it's playing bad for him from
+a political point of view so I mean
+technically the Democrats are out as
+long as possible for political purposes
+well no because I I do feel though that
+Democrats we have to assume that this
+the government is going to reopen
+eventually why are the would the
+Democrats not to be like it is five
+billion dollars they just don't want
+Trump to have a win I mean that's the
+main reason well they actually it would
+play bad for their constituents as well
+to literally approve funding for the
+wall that all of them are like
+symbolically opposed to I mean
+so yeah that's how this game works no
+that's not how the game should work is
+shutting down the government because you
+can't fund your baby project on the
+border that you promised you know all of
+your people at the rallies when your own
+party stands against you on it I don't
+think that should be how politics works
+I don't know you could point that back
+to the Democrats and so shutting down
+the government because you don't want to
+do something that the president was
+elected to do like that's just as stupid
+I mean you can't you keep pointing it at
+the Democrats while ignoring the fact
+that the Democrats and the Republicans
+had deals on the table that they had
+signed that Trump rejected because he
+listens to people on Fox and Friends I
+mean like we're literally sitting at a
+single issue right now for why the
+budget isn't passed and it's because of
+an election promise that Trump himself
+made that a lot of Republicans
+themselves stand against I don't see how
+you can pin the blame on that when
+Republicans have cells stand against
+Trumbo so you can pin the blame on that
+on Democrats I think you need to come
+with more information like more facts to
+Spiteri Republicans stand against it
+but I mean the fact of the matter is the
+Democrats are standing in the way and
+they're not passing the budget that the
+president wants so whose fault is it
+that the government is shut down
+wait are you ignoring the finger either
+way I mean Trump literally rejected shut
+down deals that Republicans negotiated
+with Democrats like there a deal is on
+the table that these parties both
+negotiated with and Trump on his own
+unilaterally like shot down these deals
+I don't understand how that is like
+blamed on the Democrats not to mention
+and we're completely ignoring the whole
+Mexico would pay for it I think as well
+which I know we all want to forget at
+this point but look the Democrats they
+need to pass a budget right and that
+takes a act of Congress and takes the
+President to sign the bill
+they both have to agree on something
+right so when two parties disagree about
+something you can't say it's one of
+their fault but you can because it's
+Trump that is disagreeing on it I don't
+understand we disagree with this like
+Republicans and Democrats had reached
+deals McConnell won't even hold a vote
+right now on this legislation going to
+Congress I'm not sure if they're at
+veto-proof yet right now for the bills
+that they could pass in terms of the
+budget but this is literally like a
+Trump on his own thing
+I'm not even blaming the Republicans on
+this one and even and even Trump himself
+has even come out on media saying that
+he will own the shutdown so like if
+Trump wants to
+the shutdown if Republicans and
+Democrats have agreed on legislation
+that Trump won't pass I don't see how
+any I don't see how in any world this
+can be blamed on the Democrats because
+they're not the ones passing the bill no
+they did though mr. Connolly wants no it
+didn't
+there's no there's no budget hasn't
+happened yet but there was a budget that
+the Republicans the Democrats agreed on
+it trying to run it down because Trump
+wants to veto it
+either because he doesn't like what's in
+it that's the party because it's not
+funding for the because it's not funny
+for the wall yes welcome to voter
+mandates do you like that's how America
+works
+that's not how America works which is
+evidenced by the fact that this is the
+longest shutdown that has ever occurred
+in the history of the American
+government how can you say this is how
+things work when we are literally at a
+one-off event that has never occurred
+before US history what do you mean it
+works because this is what's happening I
+mean this is how our government
+functions okay well I mean like by
+definition we're not functioning right
+now because there's literally like
+however many millions of federal
+employees that aren't getting paid right
+now because it's not working
+they'll get their back pay when they're
+rehired when the government comes back
+home oh no wait we say back pay well
+eighty percent of Americans live
+paycheck to paycheck
+I mean how I don't know how many federal
+employees are but like back pay isn't
+enough for some people and there are
+some people that aren't working at all
+right now who I don't know if they'll
+get back there or not I mean I don't
+know that seems like a pretty rude
+statement to say like oh well you know
+in about a month you'll get a paycheck
+when a lot of people are tapping credit
+cards and whatnot to pay rent I guess
+I'm looking for a little bit of empathy
+that I get somebody that is a
+multimillion or doesn't have for like an
+average working American right now the
+idea that you have at Trump that
+unilaterally has shut down the
+government which he has because
+Republicans and Democrats have agreed on
+legislation that Trump unilaterally has
+shut down to say that federal employees
+if I extrapolate from America my
+relations eighty percent of whom are
+living paycheck to paycheck who are
+tapping our credit cards family members
+of loans to pay for their rent to tell
+these people that you'll just get paid
+in a month maybe or two whenever we pass
+things I don't know that just comes off
+as a little heartless to me I guess
+Steve I've lived on ramen noodles all
+right I know what it's like to be to not
+have the money to pay the rent I know
+what it's like to wonder you know what's
+going to happen next month am I going to
+be able to pay off this
+credit-card debt so saying they don't
+have empathy for people in the situation
+you know where you where you come up
+with that well people that might not at
+whole might not be paid for a month will
+get paid eventually that's a really big
+deal you know like they're right on
+their ass I'm saying they go I mean if
+you haven't gotten paid for a month you
+kind of are out on your ass I mean isn't
+that the definition of not getting paid
+saying that that you know I don't care
+about folks like this that's I mean
+that's one of those like liberal slights
+of hand right that's that's conflating
+facts with emotions well let me let me
+ask you this do you think that for the
+employees that have been mandated as you
+know I think they call it important or
+required do you think that it's okay
+that those guys have to be forced to
+continue working without pay forces
+there's a certain subset of employees
+right now so they've you know like 75%
+will be furloughed and then 25% were
+deemed essential right so in those ones
+they're deemed essential must continue
+to work I know that there's a lawsuit
+right now where they are there's a union
+representing these people saying it's
+slavery what's your view on on that
+designation of the remaining 25% being
+forced to work without pay working
+without pay and working with deferred
+pay a very different things I worked on
+deferred payment before because I've
+I've been part of a company that you
+know when things are difficult and you
+don't know how you're gonna make pay
+payroll you as the person in charge you
+defer your on pay right and okay fine
+I'll work without pay because it's
+something that I care about there's a
+huge difference between being the owner
+of a company that's trying to make
+payroll versus being like a federal
+employee that can barely make rent
+though right like one of these positions
+you would like to be in and the other
+one is a lot more desperate you've a lot
+less options in the ladder and you know
+and federally furloughed employees like
+aren't gonna be getting back their dogs
+they're not what they're not even
+working well is it okay when you take a
+job with the government why do you do
+what you do
+I haven't I mean I sure it depends
+greatly based on the type of job you
+have I mean I
+some people really love the work some
+people probably thought that's what they
+were best qualified for I don't know it
+depends so how do you presume to know
+what they feel about their situation I
+think that drawing from common human
+experience I can assume that somebody
+that doesn't know where their paycheck
+is coming for next week or or in the
+next few weeks and doesn't have the
+money to survive without that paycheck
+is probably going to be very unhappy I
+think that's like a fair assumption I
+can make being unhappy is one thing
+being fulfilled is another right I mean
+I I've worked in jobs where I haven't
+made a lot of money I've had had to
+defer my own payroll and no I'm not
+happy about that but I know one dude
+something that's worthwhile do you think
+it's possible for a lot of people to
+pursue fulfillment for themselves or
+their family if they literally can't pay
+their rent I've been in that situation
+and I've been pursuing fulfillment okay
+so so you didn't answer my question do
+you think that the average person that
+can't make ends meet that might not know
+if they're gonna be able to feed their
+kids are pay for their apartment or pay
+for their house do you think that these
+types of people can chase fulfilment
+when they're unsure of where or if their
+next paycheck is coming to them I don't
+know what they everybody gets something
+different of life well if we had let's
+say we let's say we had to take a guess
+and let's say that we knew that there
+was a person that had a family that they
+were responsible for and they weren't
+gonna get paid and they don't have money
+to get paid and they're furloughed so
+they're not even like a back paid or
+they don't know when they're gonna get
+paid next do you think that it's
+possible that these types of people are
+probably gonna have a really hard time
+chasing fulfilment I think I expected
+something better than an arbitrary
+strong in no because you see what you're
+doing here Steve is that you're you're
+defining where the goal posts are and
+you're constantly right like again I've
+seen this tactic before before in
+political debate and it's it's cheating
+honestly I'd um I I don't think it's
+cheating for me to I can make of it
+easily is arbitrary of situation we
+don't have to make it up this is a real
+situation that millions of Americans are
+facing right now that we don't have to
+make anything up there are Americans
+that work for the federal government
+that is being held up by funding
+unilaterally by don't we're not even
+talking about Americans that aren't
+getting tax refunds right now because
+the IRS is working with like 12% of
+their staff or whatnot
+I mean I don't know I guess it just
+seems like really really heartless to
+just say like you know it's just money
+who cares when a lot of people
+desperately need this to survive to make
+ends meet to get by for a month-to-month
+not because they're trying to make
+payroll for a multi-million dollar
+company but because like this is the
+money they need to buy food every day or
+pay for their mortgage or pay for their
+rent Steve owns the last time you lived
+up around the noodles when I was 21 I
+was homeless for a couple of weeks and
+then I was a carpet cleaner who was in
+the process of losing his house when I
+was about 22 21 yeah before I got into
+streaming I got incredibly lucky and I
+stumbled into streaming okay did you
+blame anybody for your situation
+no did you feel like you made it out on
+your own absolutely not nobody makes it
+out on their own did you feel like did
+you feel satisfied with your outcome
+maybe you weren't happy but you felt
+like you had some satisfaction with life
+when I was living paycheck-to-paycheck
+in the process of losing my house no I
+wasn't very happy I felt [ __ ]
+miserable I mean it was okay but but
+once you figured your your situation out
+yes satisfying to you yeah once I did
+sure okay that's the guarantee of
+America that's absolutely not a
+guarantee of America what do you mean
+there are people that live poor their
+entire lives the guarantee of America is
+the pursuit of happiness you're not
+guaranteed in America to be able to
+pursue that are you joking like that's
+literally in the Declaration of
+Independence the Declaration of
+Independence doesn't ensure that you
+have enough money to properly pay your
+bills or not like you have access to
+health care or that like and seriously
+the pursuit of happiness
+no it doesn't it's written in there in
+the text but that doesn't mean you
+actually have the ability to do it you
+might get killed when you're nine years
+old you might be I mean there's a
+million different things like everybody
+for doing that the Constitution doesn't
+allow you to pursue listen to yourself
+oh yeah quite often unfortunately in the
+text it's not like no it's there in the
+text but it's not guaranteed just
+because the pursuit of happiness is
+written into the Constitution doesn't
+mean that you're guaranteed the ability
+to pursue that in American life that's
+an incredibly one-dimensional reading of
+existence so you don't think you don't
+think that America is a place where
+people are allowed the pursuit of
+happiness I think that there are certain
+types of people in America that
+absolutely can pursue
+happiness but I think that there are
+other types of people that have a much
+harder time doing it can they pursue
+happiness I mean some people can yeah
+some people who can't I mean it was a
+legal ability to pursue happiness it's
+not a matter of having no ability to
+it's the fact that some people have to
+work so much harder for than others do
+that's what pursuit is that is literally
+definition of pursuit is work towards
+something and what I'd like to expect I
+don't to have like you know some equal
+outcome right is you want to I've never
+in my life so I ever referenced equal
+outcome but it would be nice if you got
+like some sort of no I'm not at all
+describing equal outcome what I'm
+talking about right now is opportunity
+the fact that somebody could be born
+into a very wealthy family and maybe
+have the option to pursue a math major
+in college versus somebody that
+literally doesn't even have the
+opportunity to attend higher education
+doesn't feel like equality of
+opportunity to me I haven't referred to
+outcome a single time I don't think
+everybody in America should be a
+millionaire but you're insane if you
+think that everybody is born with the
+same opportunities or the same ability
+to pursue things in life that everybody
+else is that's insane
+people have different advantages in life
+absolutely I mean there's their
+advantage is that you're born with right
+family money certainly is helpful and
+you know I borrowed every dollar I used
+to go to school I paid it back so let's
+let's talk about one of the bigger
+differentiators when it comes to to
+money which is health care yeah so
+health care right now if you're wealthy
+you don't really worry about it too much
+you can get it through your job you can
+get it from you know you can pay for it
+yourself but you know a lot of poor
+people can't do it I mean obviously
+everyone poor can go into an emergency
+room you're not going to die but what's
+your view kind of on I guess you could
+say single-payer if you will it's stupid
+so what is that assumes is dumb oh I
+know paranoid
+why is single-payer stupid because
+there's no room for innovation how does
+the other how does it firstly that's not
+how innovation works secondly how does
+any other country in the Western world
+function if they have single-payer
+health care
+look Steve the point is is the point I
+mean it works
+why wouldn't we use it it's really
+expensive you've any idea what it costs
+to have the government pay for
+everyone's help I actually have a really
+good idea of what it costs did you know
+that America pays twice as much is like
+the next country for our health care
+overall and we don't get anything for it
+I mean it's not like we're getting
+really really anything except all major
+drug discovery first of all let's mote
+that's mostly private companies that are
+doing that that's not like and when I
+say I did and when I say don't get
+anything for it what I mean is like our
+health care outcomes aren't better than
+other countries in some cases our health
+care outcomes are worse in other
+countries we paid twice as much as the
+next country for all of our health care
+spending even as a percentage of GDP and
+it doesn't seem like we're getting the
+health care outcomes that you would
+expect for a country that spends as much
+money as we do on it what health care
+outcomes do you want better child
+mortality better infant mortality
+raising hospitals better cancer survival
+rates I mean I don't know I can't buy
+any metric cardiovascular disease
+survival rates by any metric the United
+States is either on par or worse with
+other countries that all use
+single-payer healthcare systems and all
+spend half as much or less than us so
+why is health care expensive here I mean
+there's a lot of reasons for why it may
+mean I mean because it's been legislated
+that way that there's enough jobs and no
+politician I would guess would want to
+say hey guess what tomorrow we're
+getting rid of Aetna we're getting rid
+of you know all these health insurance
+companies were getting rid of the
+establishment and now just the
+government pays that would be my logic
+look I mean a lot of countries health
+care health care is something that
+consumers can't really shop effectively
+for right like health care represents
+pretty massive failure that is
+absolutely correct and that is
+absolutely a problem that you cannot
+shop effectively for health care which
+is hell single-payer so moment sir hi
+well yeah because the only one store but
+that's it like that's in mathematics to
+call it the degenerate case I mean
+that's not really an answer
+it absolutely is an answer if you can't
+effectively negotiate for something in a
+market then you use a price control to
+fix it that's literally the book answer
+what do you mean to me the answer is
+innovation okay well it doesn't happen
+yesterday and millions of Americans
+don't have access to health insurance so
+how long do you just let people die or
+destroy their lives whose again afford
+something waiting for an innovation that
+every other country seems to not require
+to make their healthcare work
+single-payer
+it it goes against the American spirit
+of solving a problem a better way
+because you're just depending on the
+government to do it now let's say
+theoretically that we could remove
+enough regulation that made it easy to
+start a health insurance company right
+how do you think that changes American
+health care considering our track record
+with health care so far I'd say probably
+not much well you really don't have a
+whole faith in the American spirit I
+mean you can only go by the empirical
+data that exists right now and the
+empirical data points to the idea that
+single-payer seems to work in every
+single Western healthcare country
+healthcare providing country in the
+world and that the free market or
+whatever we've had in the United States
+has failed miserably empirical data is
+all well and good if you want to work
+but if you want to be involved in
+setting government policy you can't just
+show up like professor geek so instead
+you just say if people can't afford it
+they can just die until some magical
+innovation that even economics wouldn't
+agree with you is ever going to Emir
+absolutely not absolutely not
+I'm saying that we've structured the
+regulation of health care in this
+country so intensely that there's no way
+that anybody in their right mind would
+get involved in starting a health care
+company that's not that's not exactly
+true because new airlines coming up
+quite frequently health care look like
+what was the last new airline you saw
+well I mean there's like mergers and
+there's there's smaller ones that are
+created I'm not talking about creating a
+new Delta or things like that but I
+think there's something like 500
+individual airlines that operate on
+different different tags the legislation
+is there it just takes funding to do
+these things there's certainly a lot of
+health services company that offer
+healthcare and it's difficult there's a
+lot of red tape I just I feel like the
+the crippling part of this is the jobs
+you don't you don't think that that's
+the case that Republicans don't want to
+be the one to cut out you know the
+hundreds of thousands millions of jobs
+that would take from getting rid of the
+insurance industry and the lobbying that
+goes into effect there because I really
+as someone you know unwell off I don't
+want to pay for health care you know I
+do but
+I'd much rather everyone had equal
+footing on the healthcare so I I just I
+don't see the objection
+looking at objectively that everyone
+could have equal healthcare it seems so
+obvious this is a lobbyist thing like
+the reason you know into it we pay taxes
+people lobby and it is this way you
+don't think that's the guy so I think
+that you know you mentioned taking a lot
+of money to just start a company like
+this right like let's say you wanted to
+start it let's say that you had some
+innovative technology that could analyze
+data in a really specific way to make
+fantastic pricing decisions about about
+healthcare outcomes and you wanted to
+start an insurance company to do this
+right to an investor that is like
+radioactive because it is so heavily
+regulated they just don't want to bother
+getting involved you need to hire so
+many people up front just to sort of
+push paper around for government
+regulation that it's insane to to want
+to do that as a business right you can
+you can make a return for your investors
+in so many other ways and that's that is
+directly the government's fault by being
+far too involved in how the market works
+well I mean I agree I think the
+government should take over health care
+much as they have in many ways I think
+the government should take their hands
+entirely off health care this is like
+the classic Republican answer to
+everything every time you point to the
+free-market failing to deliver product
+on something it's always because there's
+too much regulation like I'm pretty sure
+and I don't know your position on it but
+it wouldn't surprise me at all if you
+would say the reason for the 2007 crisis
+was because of government too much
+government regulation as well right that
+it was the government forcing people to
+buy houses or making a low-income
+housing available to people whatever was
+the reason for that well crisis I I
+don't know where you're going with that
+I'm just curious if that's your position
+on it yeah well I mean like to note so
+now we're talking about the mortgage
+crisis carries if you think for the
+mortgage crisis was that due to
+government regulation as well it was it
+was too much regulation and that concept
+I I'm not an expert in the banking
+industry I can say okay listen I wanna I
+want to ask you something Ted and I want
+to say that as I said I've followed you
+for a long time and I hope that you're
+not gonna give me the Republican stance
+on this cuz you seem like a very
+intelligent guy so please don't
+don't disagree with scientists here but
+what are what are your views in general
+one on global warming wait why are we
+moving because it's just well like this
+is like the health care think is really
+important like I don't know it like it's
+really disconcerting to me that the
+United States spent so much on health
+care we get so little for it our
+outcomes are not comparable with any
+other country especially when you
+consider what we spend every other
+country uses single-payer and it all
+seems to be wildly successful in terms
+of how much they spend in their health
+care outcomes and then in the United
+States when you even suggest we try it
+like the answer that a lot of
+Republicans will give is and who cares a
+lot a bunch of people die and maybe
+we'll innovate something in the meantime
+like that just seems like an insane
+answer to provide Medicare who do what
+we effectively have a single-payer
+health care system by Medicare what
+about the working poor that makes too
+much to qualify for there's a huge
+problem the United States we don't even
+know why you would bring that up we both
+know that Medicare doesn't cover you
+know like medical in California is huge
+I don't understand why you're bringing
+this up are we both pretending dude do
+we want to entertain the delusion that
+there aren't like millions of people in
+the United States before the ACA that
+didn't have no you're saying that that
+single-payer healthcare is this like
+magical thing and there are several
+instances of it in the United States and
+they don't see what the magic it because
+we don't have single-payer health care
+the United States really do you live in
+California California is not the United
+States
+California's one state out of 50 in the
+United States single-payer yeah would
+mean that there is a single-payer across
+the entire federal fifty states
+California is a state in the United
+States therefore it is part of the
+United States
+yeah but single-payer in California is
+not single-payer across the federal
+United States
+okay then talk about Medicare Medicare
+is not covering everybody in the United
+States that's not single-payer it's
+Medicare we've even lobbied against
+Medicare so the Medicare can't even
+negotiate for drug prices so it's not
+even like the it doesn't even function
+as a single-payer the same way to save
+the NHS in the UK does where they are
+able to negotiate for drug prices which
+by the way is a price control solution
+for the massive market failure that is
+known as health care I'm not running in
+circles you literally call me a geek for
+pointing towards empirical data
+I don't know Dan no like this is this is
+like a really big thing like there are
+people that literally have their lives
+ruined in the United States because they
+can't afford health insurance payments
+or because they go bankrupt because they
+even if they have insurance the end up
+going bankrupt
+trying to pay for how the charts and
+like to
+fed the answer well we just need to wait
+for some innovation while every other
+country seems to figure this is like
+America's huge problem we fight over
+things that every other country just
+figured out like why are we even
+fighting over health care single-payer
+works it works in every other country
+that tries it
+why don't we still wasting money on it
+okay so you don't like medi-cal as
+single-payer because reasons you don't
+like Medicare as single-payer because
+it's not available to everybody like
+you're going nowhere with this what if
+we went towards single-payer what do you
+need to qualify for medical does it have
+the same problems that Medicare has its
+Medicare is California's Medicaid suit
+you follow me medica okay
+Medical is for when I'm sorry that your
+think about medical is California's
+Medicaid system okay is how poor people
+get insurance okay so in looking this up
+okay we qualify for medical yeah so I'm
+looking us out the eligibility
+eligibility criteria to apply for
+medical is you have to be 65 or older so
+this isn't help what are the eligibility
+criteria to apply for medical I'm
+looking up this is on in Shoob I'd
+ensure by com maybe this isn't correct
+but many common people okay hold on let
+me see if I can find because I because
+the problem with a lot of the income
+stuff is like you can have it you can
+qualify for it but your income literally
+has to be like fifteen thousand a year
+or less like this doesn't cover a lot of
+the working poor families in the United
+States which is one of the criticisms
+aimed at like Medicare for why the
+coverage should be expended to more
+people or Medicaid Medicare anything
+again the goalposts keep on the moving
+no they're not this is my goal post the
+entire time was that health care should
+be made available at affordable to
+everybody in the United States or
+provided by the government via
+single-payer that's that's that's my my
+main goal post the entire time a
+single-payer system I don't notice a we
+think it's not Obama didn't Obamacare
+make it mandatory or you know stop don't
+what do you think we what do you think
+Obama care is Obama care is I mean the
+individual mandate as it's significant
+part of it Obama care is nothing to do
+with single-payer
+okay you've either talking about
+single-payer or you're talking about if
+it may have your mind okay so it seems
+like the only way to make health care
+available to everybody is via
+single-payer I don't understand almost
+legislate into existence like Obama did
+I don't do you think the Affordable Care
+Act was single-payer health care no I'm
+not saying it's single-payer health care
+I'm saying it's health care for all not
+but not but not affordable health care
+not really I mean it did called the
+Affordable Care Act it I mean it made
+strides towards getting more Americans
+insured I think 11 or 12 more million a
+million Americans became insured but it
+still has all of the private health
+insurance industries working here and
+then now it's going to collapse because
+the mandate was just revoked but that
+didn't give a single-payer health care
+which was what we were kind of gunning
+for and initially well no you can't make
+up your mind this is what you want the
+solution to the problem to be do you
+want everybody to have access to health
+care do you want single-payer health
+care that's one way to do it there mom
+okay so for like the fifth time so my
+goal is single-payer health care that
+means the federal government has one
+health program that everybody buys into
+and then like a lot of other countries I
+guess you're gonna private insurance on
+top of the to the site but that's like
+the the goal okay that's the goal post
+is buried and there's concrete
+underneath it it's under the dirt it's
+there okay okay so you want to expand
+Medicare
+yeah expanding Medicare seems to be a
+popular thing that pulls what with both
+parties yeah like a Medicare the Ross
+probably a lot of money but I would
+imagine well I'm gonna come from I mean
+it would have to come from taxpayers I
+imagine so I'll be fund most government
+programs well I mean depending on what
+members of Congress who listen to you
+could just pay for it
+what do you mean you could just pay for
+it I'm talking about Ocasio cortes wait
+what do you mean when you say you could
+just pay for it who is you you you know
+you that's what she said she nobody
+seems to know where to come up with the
+money for this that's how we fund
+everything with the government do you
+mean we where where does money come from
+I mean I don't know maybe you raise the
+higher marginal rates or I mean maybe
+you raise the capital gains rates I mean
+I don't I don't know specifically which
+taxes you would raise to do it but
+there's already a lot of money in
+America that's chasing health care I
+don't know if I mean there's the money
+you really want to pay or health care
+you don't know a whole lot
+here's what I know what I know is that
+every other western country in the world
+can do it I feel like there's probably a
+pretty easy way that America could
+figure out as well whether that's
+raising the marginal rates whether
+that's getting the money from some other
+type of tax I don't know where exactly
+the the money would come from I don't
+know the exact path to fund this but I
+mean I'm sure it could come from
+somewhere else and it's very ironic that
+you're criticizing me for not knowing
+exactly where the funding should come
+from for healthcare when Trump can't
+even come up with five billion dollars
+for a wall so I mean I don't understand
+how I'm the one being criticized for not
+knowing where the funding is coming from
+it's because you know so much that just
+ain't so what what have I said that's
+factually incorrect I mean everything
+you're saying about single-payer health
+care is I mean I have no idea like how
+would you possibly make that work in the
+United States
+how does every other western country
+make it work it seems like everybody's
+figured this out but US are we just that
+slow or behind compared to the rest of
+the world like how do you preserve the
+incentives the American health care
+system I mean other companies like drugs
+come out of the United States do you
+think that's just because of the profit
+motive you don't think there are people
+to get into researching because they're
+genuinely interested you don't think
+there's still money that could be found
+there via government grants via
+government subsidies via private
+incentivization like all that stuff
+Gonzalez is probably quite a bit of
+market probably quite a bit of money
+we're going we're going in circles I'm
+sorry I got a drop so no all right so
+look what we'll come back to the global
+warming question I'll let you think
+before you embarrass yourself too much
+here let's talk about the platforming
+which is something I know both of you
+guys are very passionate about heard you
+got some experience with that he did he
+did he got effectively and I would say
+if you ask my opinion it was well
+deserved so let's talk about the
+platform yeah um it's silly it's like
+it's like a liberal hissy fit in Silicon
+Valley it's like oh my god I don't like
+what somebody says I'm gonna kick him
+off my service really well are you
+saying that people should be mandated to
+keep everyone on their service I'm
+saying that if you're advocating for net
+neutrality but you should apply it all
+the way up see wait what does net
+neutrality have to do with a company
+banning somebody
+their platform think about it for 30
+seconds before you open your mouth again
+okay
+what does net neutrality have to do with
+somebody banning it coming from their
+platform so net neutrality ensures that
+Internet service providers in the United
+States aren't allowed to give
+preferential access to certain web sites
+that the Internet service providers that
+provide you access to the entirety of
+the internet can't preferentially market
+traffic in different areas net
+neutrality has absolutely nothing to do
+with a private entity that hosts other
+people's contents on their servers there
+is nothing in that neutrality
+really yeah really really really okay
+yeah what about the private entity
+that's connecting all the Internet
+together with cables that they on well
+what about it what about it you can't
+they choose to conduct their business as
+they see fit what do you mean what oh my
+god you mean like a logical whole I
+don't understand so you're talking about
+the the fiber operators like level three
+cogent all that type of stuff who
+transit horizon etcetera so you're
+saying what exactly what like why can't
+why can't they why can't they give
+preferential treatment to to traffic on
+their network they own the pipes right
+now well right now they can that's what
+net neutrality would say is like well
+maybe this shouldn't happen right my
+rudimentary understanding of it is that
+it prevents bandwidth providers
+essentially from giving different
+priority access to certain content right
+so if you're you know whatever
+twitter.com I can't say that hey if you
+buy the comcast super spot you know pack
+whatever that's gonna be faster but it
+has nothing to do with the actual
+Comcast Paris right with the actual
+Twitter web site prioritizing anything
+it's all to do with bamboo providers
+you've received major grants to build
+out the infrastructure well I mean
+that's their their company they can do
+what they please with it right well no
+they can't because they took literally I
+think it's tens of billions of dollars
+to build the infrastructure that powers
+most of this across the country so no
+they they have much more than a publicly
+owned entities no even even if even if
+we even if we ignore those subsidies
+right now they do have the ability to
+but the argument that
+is presented for net neutrality is that
+maybe these companies shouldn't have the
+ability to decide this because it only
+represents a demonstrable harm and it
+doesn't seem to provide any value to
+Americans and because of the nature
+we're go ahead
+see also censorship on social media I
+don't think that these two things are
+comparable wait wait but you're you're a
+tech guy you must understand the
+difference between having your local ISP
+deciding what content you can see and
+then trying to change the actual content
+that your you're trying to see in the
+first place there they're two very
+different neutrality is based around the
+fact that your telephone provider or
+your internet provider is not able to
+modify or slow down or change the
+content that you're requesting to
+receive it has nothing to do with the
+content you're requesting the way that
+they operate their business or change
+anything it's totally you just you're
+just like landing at a different spot in
+the TCP stack right but that's what
+these different spots on the TCP stack
+required total are totally different
+economies and the thing that hurts is
+that I know you know this so if we're
+gonna talk about markets the barrier to
+entry to starting a social media site
+like I could literally start one right
+now if I want it to a shitty little site
+on AWS and start getting people to log
+in to start an ISP that actually like
+delivers like Internet to people and
+owns or leases infrastructure that
+barrier to entry that is way way way way
+way higher so the potential for abuse
+there is way way way way higher which is
+why somebody would argue that something
+like net neutrality would help with that
+would prevent some sort of market
+failure there that would cut off a lot
+of people from the internet but for any
+individual social media network where a
+million different other ones could pop
+up that these aren't things that need to
+be regulated in that same sense that
+these represent two totally different
+markets ok so let's talk about like gab
+for example started as a alternative to
+Twitter right they got to be platform by
+their payments provider because they
+didn't like what they were doing ok
+right so so no it's it's not actually
+feasible to go and start a competitor to
+one of these they're only one payment
+provider that they can use no there are
+multiple what the point is like you can
+sure you can start a competitor 20 of
+these things but you're going to deface
+d platforming it every step of the way
+well you know what actually I think I
+kind of agree I think I kind of agree
+with Ted here I think that instead of
+net neutrality I think that all the
+infrastructure should just be publicly
+owned I'm actually in favor of that I
+think that's a really good
+I think that's a better step in the
+direction to go actually really good you
+own all of the infrastructures publicly
+owned and then you lease the last mile
+or whatever out to whatever IP wants to
+open a plan or whatever down the street
+in your city actually there are some
+municipalities that are doing something
+like that in El Dorado County here where
+I live just passed a dick once policy
+where if some utility is trenching for
+some reason we lay fiber along that
+trench as well a lot of the physical
+layer is owned by the county and
+Internet service providers can lease
+like bandwidth on that fiber huh yeah
+you would be you would be against the
+idea of your city directly offering you
+Internet access
+correct I would be against the idea in
+my city having a monopolist what if the
+city owned lines to everybody's house
+and then the thing that the ISP rented
+was literally like like that so the city
+would own fiber coming from your house
+to the top outside up to the node all
+the way and then at the then at the
+plant level these things would be ran by
+ISPs would this be like a system that
+you would be okay with so basically the
+city owns all the infrastructure up to
+like the planet south and then that's as
+long as an ISP I could I could go to it
+and get get fair access okay so look I
+want to make a point here the the
+fundamental difference between the you
+know your ISP and the service provider
+it is is massive so first of all I would
+I don't have the statistics offhand but
+I'd be willing to say a majority of
+places that you live in the United
+States especially rural areas have one
+option for broadband one and it's only
+that one and if you're in a position
+where this provider can set any rules
+that they want on you whatsoever saying
+you know what you have to pay more to
+access liberal websites you have to pay
+more to access Republican websites
+there's no it's not like hey you know if
+some some competitors can come in these
+things are legislated in they've paid
+for the lines it's not possible to have
+another ISP come into there so that's
+why I met neutrality was important for
+that making sure that to simplify this a
+little bit the person you talk to you
+the transmission should not be getting
+modified essentially right now you're
+I'm saying that's a good thing that the
+transmission doesn't get modified you're
+saying that we should be able to modify
+the person saying the thing on the other
+end is well that that should be
+legislated so these these tech companies
+like like Twitter and
+look their distribution channel is so
+huge and so powerful that they have
+crossed the line - we're building
+another one has the same sort of capital
+requirements necessary as building an
+ISP I don't know I know there's
+arguments there are legitimate arguments
+to be made there that I totally see I
+just have no idea how you can't extend
+those to other things like employers in
+the United States or like healthcare in
+the United States like that blows my
+mind like you're basically saying that
+there is a massive market failure
+because some of these companies are so
+huge they control so much of the market
+space that being de platform here
+actually challenges your First Amendment
+right which I think there are legitimate
+arguments there but then when you talk
+about like access to health care you're
+comfortable saying yeah well screw it if
+you can't afford it who carries maybe an
+innovation will come along why can't I
+turn that same with yeah sure so here's
+my here's my challenge to you
+who cares if Twitter and Facebook do
+platform you why can't the free market
+just provide another big social media
+site to come along and innovate because
+Twitter and Facebook are they're so huge
+they're moat is so defensible that it's
+it's simply not feasible to start a
+competitor to them and you don't think
+it's the same with insurance companies
+oh I think but it is the same with
+insurance companies but that's only
+because of government patient so you're
+telling me it's easier to start a
+brick-and-mortar insurance company that
+it would be easy to do that without
+legislation than it is to just start a
+tech startup a social media site I would
+say it's easier to start an insurance
+company that is to build something that
+is on the scale of Facebook today it
+doesn't have to be on the scale doesn't
+necessarily absolutely because that's
+the whole point of the exercise MySpace
+and you know there's been other things
+that have grown Instagram grew at the
+same time Facebook did yes Facebook
+acquired it whatsapp grew at the same
+time Facebook did yes Facebook acquired
+it I mean these are smart business
+decisions you also have you know tinder
+group you have LinkedIn I mean yes these
+companies end up getting acquired but
+they don't have to be there is space for
+innovation and you know what Facebook
+usage you know if there could very well
+be the next Facebook coming out
+I mean people thought my face was
+completely entrenched would never be to
+throne than it was sure I mean if
+somebody wanted to build you know
+something on the scale of Facebook as a
+social network for their cats right
+there's not exactly a controversial idea
+but if somebody wanted to build
+something on this
+gay love Twitter that conservatives
+could express an opinion on that's a
+different matter because they need to
+defend on an entire like constellation
+of other like services and products to
+make that happen
+right so like who gets the D platform
+you right does you does your cloud
+provider get to be platform you does
+your payments writer to get to be
+platform you this is the constants game
+of whack-a-mole does your health
+insurance get 2d platform you do
+hospitals that decide which insurances
+they want to take it too deep platform
+you does the availability of your
+insurance do your work get 2d perfect I
+don't understand how you can't provide
+these exact same arguments in regards to
+health care but you do to social yeah
+your how on earth you connecting these
+together like health care is a business
+that like very heavily regulated by the
+government even if we got rid of the
+regulation the Internet is a business
+that is like basically entirely
+unregulated by the government which
+means we get these stupid things like D
+platforming or whatever right so well D
+plant you college students actually a
+protection of the First Amendment right
+but I mean so how was net neutrality not
+how wasn't it neutral you not what are
+you sorry its artists I was the absence
+of net neutrality not doctor knew first
+Oh neutrality is an attack against the
+first member right but the argument
+there is that the the the industry is so
+heavily monopolized and the barrier to
+entry is so massive that there's just no
+way that anyone could reasonably step in
+a computer much the same way that is
+also Facebook and Twitter that have
+existed for less than that have existed
+for like a decade how long is Twitter
+even existed like when it comes to media
+to wait when it comes are you Mike Kyle
+when it comes to media distribution
+media distribution they're enormous
+right like how would you distribute this
+show without like twitch and Amazon I
+mean you way to use mix it I mean there
+I mean it's the free market right
+another tech startup will come along and
+we'll solve the problem but they all
+decide they don't like you they don't
+like what you have to say what do you do
+then did you go and we move to the next
+planet well I mean what do you do if you
+can't get insured by health insurance
+company what do you do then if you've
+got a pre-existing condition or they
+don't want to show you for some reason I
+mean no we're talking about apples and
+oranges here would not it's directly
+comparable I don't understand how you
+how many is not gonna tell you like show
+you the door because your kids no but
+they could shut well not now thanks to
+the Affordable Care Act or they could
+shut the door because you have like type
+one diabetes
+but the point is that these decisions
+from the tech companies are being made I
+mean so like at the Wynn with with no
+oversight whatsoever like there's we
+know you know that firstly there is no
+how do you know first of all there's
+probably one day they don't like you
+okay but generally when people are
+banned it's usually because of some user
+guideline or whatever and I don't think
+that there's like a mass banning of
+conservatives happening on Facebook or
+Twitter or at least I haven't heard of
+this happening there's certainly no due
+process there's no there's no way that
+you can go and try to convince them
+otherwise if you were to walk into a
+McDonald's I'm sure if you walk into a
+McDonald's and a manager decides to
+throw you out or ban you from Oh
+McDonald's it's not due process there
+either it's a way then you get a Burger
+King okay and if you get kicked off a
+Facebook or Twitter you go to gab
+I mean we're Scotty point by they can
+use another payment provider who also
+has the option if you platforming them
+that's I mean are you trying to say that
+you want more government involved with
+business and more regulation on private
+businesses because that's like oh I know
+that's trying to say that that you can't
+simultaneously support this arbitrary
+platforming and network neutrality that
+they're in direct conflict logically
+with one another okay but you can say
+just as easily that this idea that the
+healthcare industry should be totally
+unregulated and it should be no holds
+bar and anybody do they want you can't
+take that and then also say well social
+media that needs heavy government
+regulation as well these are logically
+in commensurable assuming you have a
+government regulation we then how would
+you keep them from the platforming Papa
+wait how would you give these funny
+people platforming our logic Lincoln's
+okay what is your solution
+I imagine you're upset about a perceived
+the platforming of Republicans on
+Twitter and having to go to gap in other
+places so no maybe not me that that was
+me assuming there so maybe you don't
+give a [ __ ] and that's fine too do you
+think that there's a solution in place
+here for this to happen
+what do you mean the solution place do
+you think there needs to be a solution
+in place or do you think it's fine
+as far as Republicans getting to
+platforms or the view that they are I
+think maybe we're maybe we're in
+agreement on a solution employ I think
+that that at the very least at the very
+bare minimum there needs to be some kind
+of due process
+so some you have accountability like
+personally thing if you own like if your
+Twitter or Facebook right and your your
+kicking off messages that you don't like
+you're effectively exercising editorial
+control therefore you have to have some
+accountability for what is set up so you
+think there should be what is not so
+there should be government oversight for
+social media platforms that ban people
+these are things that I think they're I
+think the proper incentives need to be
+we what is then how the proper
+incentives meaning so for example if you
+are going to kick opinions off your that
+you don't write you are editorializing
+when you do that
+and if you choose to editorialize then
+you bear some culpability for the
+content that remains on your platform
+but if you choose not to editorialize
+then you shouldn't bear any culpability
+for what remains on your platform
+because then you actually are our
+platform so you think that I'm just
+trying to hear you say so you think
+there needs to be government oversight
+over social media there needs to be some
+form of regulation Joe no I'm saying
+that any net oversight but I'm saying
+that a a social media site ought to have
+to choose either you're going to
+editorialize and bear culpability for
+the content that remains on your
+platform or you do not editorialize do
+not be in content in which case you do
+not have any responsibility for what is
+done on your platform I need to hear I
+need to hear this so when you say they
+shouldn't be allowed to editorialize who
+would be in charge of overseeing that if
+they did editorialize who would be in
+charge of that oversight well if you are
+caught like banning content that you
+don't like that is editorial okay so who
+would be in charge of overseeing that
+that they're not doing that what that's
+a private suit that's that's probably
+individual who's being discriminated
+against so there so Facebook could make
+its own private company that would
+oversight itself or know like if you're
+conservative and you're publishing on
+Facebook and you come to find out that
+censor like you then would have recourse
+against that company so you would be
+able to take them to court
+sure and then who would decide whether
+you're right or wrong that is what the
+job of a judge who is part of the
+government so we're talking about more
+government oversight into these types of
+like the the legal system is not
+government oversight it is a means of
+settling disputes because he already has
+oversight Oh sue Twitter constantly like
+there is a recent lawsuit about people
+trying to give Twitter liability because
+they didn't effectively and quickly
+enough being some Isis and that was
+overturned because they said that the
+law doesn't support it that Twitter
+doesn't have to do it so you want to
+create a new law that changes that yes
+what I like to say is if you operate an
+internet service platform like some kind
+of social media platform you have two
+paths one you can choose to to ban
+whatever content you don't like from
+your site right you can editorialize
+your site but in that case you're
+effectively a yeren news publisher at
+that point like you bear some
+responsibility for what is said on your
+site or the other side is you can say
+you know what I I'm a platform for
+people to communicate I am NOT going to
+editorialize and it's a laissez-faire
+environment for and for the free flow of
+information in which case you have legal
+protections over the information that
+flows over your site and the people who
+post the stuff they're the ones who bear
+the responsibility but we have a law for
+this you may be familiar with it because
+you operate this the the CDA the
+Communications Decency Act right yeah
+but it goes the other way it grants
+protections for people who do
+editorialize and I think that's silly so
+you you would repeal this law you think
+well I mean look like I'm running for
+California State so I know that that's
+not your thing I'm just asking you a
+personal view versus if you have this I
+think the law is wrong I think the law
+creates bad incentives for the internet
+I'm surprised about this on a I guess an
+entrepreneurial level so I'm thinking
+about I create startups you did is well
+think about the the onus of having to
+create a start-up now and fit into this
+type of thing so imagine when when just
+think back to what's that stupid new
+thing that the euros have now the GDP
+our GDP our imagine we had to deal with
+that [ __ ] when we were creating our
+stuff back in the day what a pain in the
+ass that is and now you're talking about
+another thing or if I create any social
+media website whatsoever I have to
+somehow be responsible for these
+mother's no I'm saying you have you have
+two choices
+no less I'd be responsible you can but
+saying is vibe and one person right
+let's say someone comes on the site that
+is streaming hardcore porn I can't be on
+this person because if by me banning
+them without a tribunal I now open
+myself up to like mitigation site yeah
+like that you can't there has to be a
+middle ground look anybody who is who is
+using a website or a platform to
+broadcast content that is clearly
+illegal right
+that's a matter for law enforcement oh
+no no I'm torn I'm saying doing
+something blatantly against your Terms
+of Service for the sake of argument
+let's say that you made your own twitch
+and you own twitch and this is a site
+for you to broadcast video games and
+that is the intended purpose and only
+purpose and you are running this website
+and you see that you come on tomorrow
+and guess what
+someone is streaming UFC on one channel
+and then someone else is streaming
+hardcore corn on the other channel in
+your eyes you as the website owner who's
+trying to attract more investors and
+more advertisers things like that you
+would think that I can't be in this
+person because this isn't illegal okay
+right that that person might have the
+copyright for UFC here you might have
+the copyright for that porn I don't know
+I just have to leave that there that
+would be your take on them I mean you
+can you can move it around for sure but
+actually just simply banning somebody
+based on the content that they put on
+your on your platform if you if you
+fancy yourself a platform then like by
+definition it's not up to you to decide
+what goes on your plot I prefer the
+whole like us I guess everything
+relating to the Internet has been thus
+far no what do you mean no I mean look
+at look at like cloud providers right
+like their platforms they're fantastic
+platforms and they get to ignite who's
+on them what do you mean no like you I
+mean there's like porn hosts that I name
+is on first right but and they can deep
+laugh oh if you want to look at even
+even domain registrar's like GoDaddy
+have kicked certain people off of there
+off of being able to own certain domains
+I mean yeah sure this is precedent so
+far this is precedent so far that that
+private companies that have internet
+websites can decide who they want to or
+not want to host like this is so far
+been established for and again to
+clarify I think that's stupid as well I
+don't think the domain provider should
+be in the
+for very extreme things where you have
+the government sending literally like
+this is running a botnet or this is like
+holding you know a terrorist cell I
+don't think that the domain where the
+star should be used for any sort of
+access control whatsoever so I'd agree
+with you on that front but I just think
+that we're talking about very different
+you know sections of the pipe here as
+far as register I mean you must see the
+difference between if I live in you know
+[ __ ] Alabama and I have one way to
+get online that company somehow
+censoring me and I have zero options
+versus you know I get banned on Twitter
+for you know being racist or something
+like that and I can go somewhere else
+that you know there has to be something
+that's that's right let's think of you
+but nothing that I'm not saying that
+Twitter or Facebook shouldn't be able to
+ban content that they don't like I'm
+saying if they do that then they have
+some responsibility for the content that
+remains on there actually it does I mean
+that's what the whole point of the Terms
+of Service and everything is right is
+that they bear responsibility for the
+content or no they don't have legal
+responsibility currently there is no
+legal responsibility for for anything
+the type of content you're talking about
+I mean like if you're talking about like
+they have to take it down if they're if
+they're notified yeah exactly so that's
+yeah so like something like YouTube is
+is is kind of liable for the content as
+well they're not necessarily liable for
+copper anything trans as long as they
+follow what they need to to remain it or
+safe harbor provisions right as long as
+they follow like DMCA takedown requests
+and whatnot but I feel like he's saying
+that they should be liable even if it's
+not reported to them this is my guess
+right if you're gonna go and deep
+platform some people but that just
+sounds like looking at like if you own a
+site that's like a [ __ ] nightmare
+thing like imagine like you bands yeah
+it should be hard to do the stupid thing
+I guess that's just to don't let me let
+me out let me ask you a question here
+cuz this is this is important
+what how should Twitter react let's say
+they come across or reported about an
+account that is a Holocaust denier or
+you know a race realist or something
+like that just something that's very you
+know across the board wrong or extremely
+racist how would you want them to react
+in that case now that's not illegal I
+mean in some countries is in Germany it
+is but not here how would you want them
+to react to the United States if you saw
+you know an anti-semitic
+Twitter account what's the proper action
+well look I mean all that stuff is
+entirely asinine right like that's
+that's not speech that many people want
+to hear myself included but that's
+protected speech under the First
+Amendment yeah you this protected speech
+you're right but it's not certainly not
+to my taste
+I know it's not to the taste of a lot of
+other people I'll be careful of those
+people are gonna be your voters really
+but realistically though what what do we
+do about that let's say that you were
+running Twitter for whatever reason how
+would you how would you handle that if
+you came across that I mean what do you
+do about somebody writing a book that
+you don't like you don't buy it do you
+think that publisher should be compelled
+to publish every single book that's sent
+to that sent their way the same way that
+Twitter you're saying Twitter should be
+compelled to publish well you're saying
+Twitter should be compelled to publish
+every tweet right no I'm saying if
+they're going to editorialize then they
+bear ability so if you're if you're a
+publisher and you decide which books you
+want to publish or which books you don't
+want to publish how's that different
+from Twitter deciding which tweets they
+want to publish or not publish well the
+difference there is that you know if you
+want to stand up and speak on a street
+corner or you want to go to Kinko's and
+make a thousand cup
+it's like asinine racist track like the
+First Amendment does protect you from
+doing that right and you can handle your
+documentation out to anybody you want
+though and they're totally free to throw
+in the trash right but but in a case of
+Twitter this is such humanity has not
+evolved to deal with being able to
+communicate across the world in 600
+milliseconds right is an entirely new
+concept for us to understand in the way
+that we're going about it right now is
+completely haphazard right so it's
+totally unfair to equate something like
+Twitter which is a massive instantaneous
+worldwide distribution channel to
+something like a book publisher what
+they're both publishers are huge and
+published books that are seen all around
+the world as well yeah but they don't
+that information doesn't travel in 600
+millisecond it could it absolutely could
+how how do you move a book from the
+United States to Africa
+okay you're a tech guy you should be
+able to think for two seconds at some
+massive maybe even one of the largest
+tech companies in the world that has a
+way for people to digitally read books I
+know you can think of this is called
+Kindle what if this absolutely happens
+what do you mean
+I just said that comparing paper book
+publishers to the Internet is apples
+oranges all right let's let's move on to
+I think we've gone through what we can
+hear a lot of talk in the news about
+fake news all right
+how do we solve this this perceived
+problem and what's yeah you want it
+that's that's a really interesting one
+so alright I mean fake news is is
+something that is significant but I I
+don't think it requires like banning you
+for a Ministry of Truth the government
+organization no not at all Ministry of
+content hosting though that makes us say
+you have to host content even if you
+don't want sorry my bed so good so look
+fake news the exercise today like I said
+we're not evolved to deal with the way
+the information is distributed around
+them we haven't figured that out as a
+species and thick news is the first real
+instance of that becoming a significant
+problem
+so I mean previously we depended on like
+newspapers and our news anchors to give
+us truth right and and save for some
+instances where that didn't happen in
+general there was faith in the system
+that what you read in the newspaper was
+generally accurate I mean I'm talking
+pre-internet days today who knows
+because you had this wealth of
+information that is available to
+everybody all the time and whether or
+not it's true it's going to take an
+individual a way more time than it's
+worth to go in and research you know
+some screwball article they find them
+we're linked on Facebook so spending the
+time to try to decide what is true is
+not nearly as important as spending the
+time to try to decide who wants me to
+believe that this is true I think that's
+a new social muscle that we have to
+start exercising and it's something we
+have to start teaching teaching kids is
+to not only spend time questioning
+without something's true but question
+who's behind this who wants me to
+believe that it's true what are the
+motivations what is your your thoughts
+on I don't mean to to come out here but
+I'd hoped that you'd agree with parts of
+this that is when Trump would seed news
+that are you know negative towards him
+it would immediately be fake news when
+many times it's certainly not fake news
+it's verified as being the truth and do
+you think that this behavior of calling
+anything out that's negative or
+unfavorable as fake news is is harming
+the public trust in the media and also
+the ability to to get facts and almost
+turning us in a certain manner to
+fascism I have I mean fascism is no it's
+not fashion I mean come on really Dan
+you mean ultra-nationalism around a
+single strong leader that's trying to
+demonize every single other person
+around the doesn't give them what that's
+come on not even closed in yeah we're
+not talking about Nancy Pelosi here
+honestly where are those three a million
+illegal immigrants that Trump said voted
+that you put together the Commission to
+find they had to disband it because
+couldn't find a single instance all
+right but but you must understand that
+that Trump frequently is going on and
+saying things are fake news when they're
+not and and it's harming I think on both
+sides both Republican and Democrat that
+we're not able to verify AB news is true
+and I think you know look there are odds
+that are probably pretty good
+I would guess or at least certainly 5050
+at this point that the next president
+that we have will be a Democrat and I
+think that the damage that's being done
+by Trump by calling things out as fake
+news know this is the original size
+money okay let's say 2024 then okay for
+the sake of argument well we might not
+even be able to get rid of him if the
+government is still shut down then I
+don't even know if we'll have the
+process to deep life you must understand
+that if if a Democrat comes into power
+this fake news mantra that's been
+created now will be extremely dangerous
+for Republicans now whenever we're going
+to Democratic president is in and Fox
+News says hey this guy's doing it you
+say it's fake news and they'll be
+ingredient to society no I think fake
+news is a lazy way of saying that you
+should question who wants you to believe
+this is true and I don't think there's
+anything wrong with that I don't think
+there's anything wrong with questioning
+the motivation for
+content that you see today I think the
+big fear is I think somebody calling you
+out is fake news is saying like hey you
+know you should look into who wants you
+to believe this I don't I think the big
+problem is like with with Trump
+literally like just telling like just
+bold-faced lies I think is the problem
+that we're running into and then
+accusing other people of fake news while
+he like literally publishes things that
+are just demonstrably not true like I
+poked fun at the three million illegal
+immigrant voters earlier like these
+things are like undermining like
+literally institutions of American
+democracy the idea of attacking the you
+know American voting institution to say
+the three million illegals voted like
+that's a pretty scary thing I think I
+mean there's there's there's a lot of
+this stuff I'm just saying I think that
+it's the people should be able to trust
+the media to a certain extent media
+[ __ ] up but I think across the board
+generally they try to do the right thing
+would you agree with that statement no
+do you think that Fox News is more
+honest than for instance like a CNN or
+an MSM I think that media today has a
+single job and that's to make money so
+you would you would equate them as being
+equal so to speak then so like all
+networks are kind of you know just
+because you're on a genuine is okay well
+I mean I guess I can kind of see that I
+mean in it that's a really good fascism
+tactic that's actually I think the
+Soviet Union published literature on
+that one of your guys as a dictator is
+to make it so that every single news
+organization is seen as equally
+ridiculous that's a big thing with when
+you talk about publications like The
+Daily wire or crazy people like Alex
+Jones one of the goals is to trick
+people into thinking because you can
+point out some factual inaccuracies of
+some publication all of a sudden it's
+become just as dumb as every publication
+so you get people saying like CNN and
+the National Enquirer and Alex Jones are
+all the same type of thing isn't that
+what you just said about the president
+what do you mean what did I say about
+the president meaning if you point out
+something like a handfull effect oh wait
+I'm sorry your mic cut off you said if
+you point out a fact like a handful of
+facts you're saying you're saying that
+like with the media you know you call it
+fascist to to say that you know pointing
+out counterfactual things you know
+implies that
+entire thing is rotten oh no the problem
+with Trump is that Trump hasn't just
+like misspoke in a couple times on an
+issue to protraction like I would
+imagine like most major media thinks to
+like it's happened a couple times with
+CNN where people have literally been
+fired over misreporting something and
+then a retraction is posted or whatever
+and I acknowledge that retractions are
+nowhere near as effective as an original
+stories well of course the media
+definitely make mistakes but the problem
+is that with Trump it seems to be more
+of a deliberate process where like you
+know we are I enjoyed what maybe out is
+true I mean I think that like as
+especially over the past couple of years
+I think that most of the major media
+outlets have tried their best to get
+things right for the most part so wopo
+the New York Times CNN MSNBC I think if
+they've tried for the most part to get
+things right that's why that's why when
+people like Ray Holland that's why
+people like a fox news well no it's not
+because people like sean hannity
+intentionally no there's absolutely not
+true because they're pundits people like
+sean hannity well intentionally I mean
+look at when Cohen revealed that that
+Hannity was his his other client in
+court and in handy he literally has this
+guy in a show and never discloses that
+right or they push narratives like van
+Ghazi or uranium one right like no I
+never equate Fox News with somebody like
+CNN or MSNBC only somebody that's
+completely media literate whatever even
+dream of doing that that's absolutely
+insane and thus the bias blooms I mean I
+know it's I mean what do they say
+reality tends to have a liberal bias I
+mean I don't know what to say but the
+problem with Trump was that Trump
+doesn't just make some factual
+inaccuracy sometimes like Trump
+literally tells bold-faced lies to push
+certain narratives and he's been caught
+doing this a number of times and they're
+not mistakes
+they're just intentional Trump lies
+where he lies to sell a narrative the
+media intends to drive a narrative and
+you know their reporting is factual ish
+but the point is that they're they're
+editorializing they're driving a
+narrative so it's worth questioning
+who's behind it it's worth questioning
+what are the motivations for this
+I agree but that doesn't give you carte
+blanche to just make [ __ ] up really it's
+absolutely silly to say that you should
+believe it whatever your evening media
+you know absolutely that without
+questioning even a little bit what the
+motivations are I can't like Steve it's
+amazing to me that you would suggest
+something like that it's amazing you
+think I suggested that I never said
+anything like that what I just said was
+interest I said so that all the liberal
+media outlets are absolutely I say wait
+hole and you might cut out you said
+absolutely what
+you just said that all the liberal media
+outlets are fine I swear to god I'm not
+doing this intentionally do you have
+like a it cut out you said the liberal
+media outlets are absolutely and then
+the mic drops out you said that the
+liberal media outlets are absolutely
+correct
+Coran at Fox News is no I didn't say
+that they were absolutely correct you
+know and just like believes something
+like that wholesale without even
+questioning what motive it so I think
+specifically what I said what the
+specific words I said was that it feels
+like they're trying to get the right
+thing done feels like we're talking
+about facts and that feelings do why do
+you think that facts are like well
+always 100 percent easily discernible I
+don't know what world you live in but
+you just said it feels like media is
+this way feels like that they generate
+well I mean like well the thing is is
+that if I appeal to something like
+PolitiFact you're just gonna say that
+they're probably a politically biased
+institution just like everything that
+disagrees I mean every institution has
+its political bias absolutely that's the
+point I'm making is that it's worth
+questioning what are the motivations
+behind what you're reading sure but that
+statement it's red versus fake news
+which is I'm calling something fake news
+is a very short way of saying you ought
+to question what's behind this no it's
+not would you call something fake news
+you're implying that that is literally
+fake news you're not saying there's a
+difference between like hey you guys
+should definitely put which by the way I
+100 cent agree with you should
+absolutely question the motivations
+behind something because I do agree with
+what you said earlier that the main goal
+of all media is to make money which is
+really [ __ ] up in the United States
+and I do agree the you should question
+like biases behind people that's
+definitely true especially when it comes
+to us reporting on [ __ ] foreign
+policy which is atrocious on every media
+outlet but just because you're
+questioning something doesn't mean that
+it's fake news or just because
+something's written with a bias doesn't
+mean that it's fake news in the same way
+that CNN favorably covering some event
+that happened in the Middle East isn't
+fake news in the same way that Sean
+Hannity saying Hillary Clinton
+unilaterally sold 1/5 of our uranium to
+Russia is fake news these are two
+entirely different types of things is
+omission of information a lies deep it
+really depends but that's not even what
+we're talking about here no that's
+absolutely we're talking about because
+if you're going to present one story and
+not include facts that are relevant to
+the other
+then that's that is what I would call
+fake news because then it's really worth
+questioning why are you reading what
+you're reading okay I don't necessarily
+disagree but I don't think that had
+anything to do with what I just said
+no it has everything to do with you just
+know it has nothing to because I just
+had because if you if somebody publishes
+an article that expresses a particular
+viewpoint and they leave out some
+significant piece of information that
+supports another viewpoint yes that is
+fake news it's not good that I would
+call that biased news it's not fake well
+I'm saying fake news is a way of saying
+you ought to motivate look at that
+that's not how most Americans view it
+when when Americans hear fake news they
+think that everything that's made in
+this publication is fake not that only
+one side is being presented I know and I
+started this conversation by saying that
+fake news is something that we need to
+teach people how to interpret this feels
+like some 1984 like double plus good
+doublespeak that we got going on I'm
+getting lost if somebody tells me that
+something is I'm trying my best cuz the
+conservative doublespeak
+man it took you 20 minutes earlier to
+get you to admit that you want a
+government oversight when you're talk
+about people taking companies to court
+for deep lie forming them so I'm trying
+to understand this here so fake news
+which any same person you talk to if you
+say if you tell somebody hey that's fake
+news they wouldn't say Oh fake news that
+must mean that they probably presented
+one side favorably and they might have
+omitted facts an aside it literally most
+people interpret it as Oh fake news it's
+just invented it's being made up like
+global warming is fake news or
+immigration or diversity of well at
+least let him respond because I just you
+can't let me like do that in an Eleanor
+Smart when somebody says when someone
+says fake news right that like it calls
+that piece of information to question in
+one way or another and the point is you
+can choose to disbelieve something or
+you can choose to question its
+motivations or you can choose to believe
+that maybe there's more to that I'm not
+being told so one is it's something
+worth questioning when Trump calls like
+the Moller investigation like fake news
+like what what is this supposed to do
+for the American public when he's
+literally undermining like sections of
+the government like
+when you say something as fake news it
+means look closer there's something look
+closer okay okay listen now let's really
+let's turn your opinion of me bad or
+good
+tell me about global warming just go
+ahead with it dump is it global warming
+or climate change no one seemed to make
+them I do okay fine sure climate change
+I want to give me your thoughts on it he
+just told you it's odd I think okay so
+so in California we have this this like
+cap-and-trade system so it's alright
+what are what are the proposed solutions
+to this situation I'm not asking about
+change I'm asking do you think no no
+because the proposed solutions kind of
+tell you what's alright so we have this
+notion of cap-and-trade and like carbon
+awesome are been credits can we sell
+those with money
+can we sell this with simply buying
+carbon offsets and carbon credits and
+cap-and-trade I would say yes I would
+hope so yeah okay then it's not a
+problem
+global warming is not a problem if we
+can solve with money it's not a problem
+well but half the US public right now
+doesn't even think global warming is a
+real thing which would make it pretty
+hard to write policy to address okay but
+you're talking to me and I'd have to us
+all like no this is important so do you
+well let me just get this out the way do
+you think that humans are warming the
+earth and that there will be
+catastrophic effects of this and let's
+say in the next hundred I don't know I
+don't know like if there will be
+catastrophic effects in X hundred years
+okay okay do you think that humans are
+warming the earth that our actions of
+what we're doing are causing the global
+temperature to rise if I don't know Ted
+I gotta tell you I as a guy who's a tech
+guy I gotta be a little bit disappointed
+because the reasoning behind this is I
+understand having political lines and I
+understand that china releases more than
+the US could ever hope and you know what
+u.s. doing anything doesn't [ __ ]
+matter because China will release way
+[ __ ] more in one month than we'll do
+in like five years or some crazy [ __ ] I
+get that but you have to look at this
+objectively you know if there is so much
+scientific consensus on global warming
+why would you say that all of these
+scientists are
+are these all like Hillary supporters
+this is obviously it's okay why would
+you why would you not say oh you know
+what I think it's real because every
+scientist I've ever talked to says that
+it's real and that the earth is warming
+and that's the case well okay I haven't
+sat down and study the information but I
+will say that you know humans you cannot
+enter and participate in an environment
+without having an effect on it sure I
+agree with that and certainly dumping
+tons of hydrocarbons into the atmosphere
+is going to affect something right but
+when it comes to the doomsday
+predictions right when it comes to
+saying you know the entire earth is
+gonna be underwater in a hundred years
+whenever somebody says something that
+like call it scary that's when it's time
+to question motivations well I don't
+necessarily think so because I would
+view that most scientists across the
+board could have a very you know diverse
+political stance I don't think that all
+scientists are Democrats I think it's
+absolutely but you have ninety-nine
+percent of scientists the degree that
+not only is global warming real but also
+that this is we're going to see the
+effects in our lifetime and almost
+definitively in your child's lifetime
+and I think that I know there's the
+question asking is okay to to make
+useful policy we need to have some kind
+of accurate prediction of what those
+effects are and when they're going to
+come any any model needs to have some
+amount of predictive power to be useful
+but how are we gonna get to that point
+when we have people in politics flat out
+saying like Trump it's not real it's
+warmer this winter than it's ever been
+or it's but it's colder everybody I'm
+sorry
+you'd say it's really cold there's snow
+today where's the global warming the
+most ridiculous [ __ ] you can do which
+will dissuade so much of the public into
+thinking this isn't real this is a very
+real problem that will you're a man of
+science to a certain extent here this
+would very likely affect your kids this
+is when rather that the the problem I
+have is not so much with
+the scientists right I understand that
+there are very smart people who work in
+that there's a global look there there
+are people there are people who are very
+intelligent who do not have a political
+agenda that are reaching scientifically
+valid conclusions absolutely right good
+the question is how does that manifest
+the policy right well I think what is
+the solution
+the solution is most likely how we deal
+with countries that don't effectively do
+this so obviously you know when you deal
+with China or when you deal with
+Indonesia or these countries which are
+you know 80 percent or whatever it is of
+the you know pollution that we have in
+this case you have serious taxed until
+they curb that type of thing you solve
+the these problems through financial
+incentives where the reason that they're
+burning coal in China right now is
+because it's the cheapest thing to do
+but if all of a sudden you made it not
+that cheap it wouldn't happen anymore as
+a result so I don't I'm not naive into
+thinking that us switching from [ __ ]
+plastic straws and McDonald's to
+cardboard ones is gonna make a
+difference but I do think that the
+United States is in a position to set
+global world policy on something that
+you know could what most likely doing
+the most serious issues we have and I
+don't want to be looking back saying I
+mean the problem is that we're not in
+that position right we are we're
+completely in that position we're the
+biggest consumer we can't tell China
+what to do
+absolutely well not now that we've
+withdrawn for the TPP we can't how do we
+tell China what to do by setting the the
+methods that we deal with them and trade
+in other yeah they're multilateral trade
+agreements yeah I like the WTO okay so
+so what what is it that the United
+States ought to do in this case I would
+say that they should be either there's
+their stick and carrot here okay Ted so
+the carrot is that you provide
+incentives for countries that curb their
+emissions by a certain percent every
+year and then the stick is that you
+punish them when they go in the opposite
+direction or stay the same and I think
+that that's something very effective
+that we could do is you have an offer
+how much well you can make it you can
+make it enough as I said the reason that
+they burn coal and do all this crazy
+[ __ ] in this countries is because it's
+cost of
+for them to do it and if you make it not
+cost-effective they won't do it anymore
+weren't you I mean certainly the the
+free market or the invisible hand who's
+gonna who's gonna force some behavior
+there absolutely well you know you know
+government oversight to do that because
+the market won't force a hand there what
+you have to you have to put a false
+incentive in there like a subsidy or
+something or a tax or whatever in order
+to do it
+you're quite being well I mean wait hold
+on wait my mo my point was you just at
+the free market will take care of it but
+environmentalism no I said I said the
+the invisible hand of the market
+dynamics will will have some effect I
+mean is but that's only if the
+government puts in like some sort of
+penalty for doing it the free market
+doesn't address climate change or
+environmental damn you know my point was
+that was that people were respond to
+economic ins well yeah but Dan's point
+is that in order the government created
+or private yeah but Dan's point is that
+the only way to get that economic
+incentive there is to get people on the
+same board or get people on the same I
+know I was agreeing with that okay I was
+right there with him that if the
+government does acts in a way that
+changes the economic incentives of
+course people have changed
+yeah I mean listen I I think it's
+challenging right now I was I was hoping
+to see more Republicans coming on like
+it bothers me very much that if you want
+to kind of run as a Republican ticket
+that there's a certain you can't just
+I'm not them saying you have these views
+because maybe you don't but you can't
+run as a Republican if you think global
+warming isn't real or I don't hear that
+at all I haven't seen much data cases
+see so many people towing the company
+again John McCain was essentially on his
+way out he could say whatever you wanted
+that's a very kind of bad example to use
+in this case no it was already evidence
+unpopular well any loss but me cameras
+those are pretty unpopular amongst
+Republicans a smile like like it you
+can't be a Democrat in like guns you
+can't be a Republican I think global
+warming is real like I don't understand
+why we can't in some of these cases have
+some of the good parts of American
+ideology with more of the yeah but this
+is this is a problem it was canceled it
+was awful but it bothers me tremendously
+because I you know all the thing is
+you're running for office I can never
+know your real view on anything I can
+know what you tell me is reveal real
+view but it bothers me that you you have
+to even if this wasn't you would have
+to say you can't come out and say
+obviously global warming is real and but
+you know the US can't do much about it
+that's fine but it sucks that we're in
+this place that that can't be the case
+look I said that there's if you look at
+all the the scientific evidence said you
+know like I said there are a lot of
+smart people who had no political bias
+I'm sure some of them do that's right to
+some degree but there's there's
+absolutely consensus that something is
+happening what I'm more focused on is
+what is the legislative remedy to that
+right what are the trade-offs associated
+with handling that problem and that
+involves getting a good idea of the
+scale of the problem okay right so the
+world's gonna end in a hundred years
+maybe I mean is it really or I mean we
+already see like pretty catastrophic
+impacts of climate change today I mean I
+don't know if yeah any very pains a
+weakening the Jetstream led to a whole
+bunch of like pretty negative outcomes
+in in northern Europe across the United
+Kingdom and other countries like I mean
+there have already been like things at
+people point I mean we could look at
+like the bleaching of coral reefs you
+know there's tons of things that have
+gone around the world that people are
+pointing to climate change has been kind
+of the main driver for these things but
+it seems like unless like the world is
+literally on fire people it like yeah I
+mean is it that bad well I'll say is
+that that the environment and the
+ecosystem of there
+this is essentially humanity's tools for
+prospect right and it is up to us to
+make sure that we can pass all these
+tool now how that surfaces as policy
+that's gonna be very specific and very
+much on what the actual problems are and
+what the corresponding trade-offs are I
+totally disagree that I don't think like
+okay no no no the problem is that like
+what you're essentially saying is right
+now we don't know if we can predict like
+a +5 sea change in weather versus a plus
+15 sea change in weather and because we
+don't know that we're gonna do nothing
+like that's not that's not an acceptable
+but that's that is heavily what you're
+implying like the idea that like because
+you wanna solve a problem you need to
+know what the
+is yeah but not necessarily right we
+because know what reduce like shooting
+in the dark
+well the problem is that right now we
+don't know exactly how catastrophic the
+problem will be and a lot of people seem
+to use that as an excuse and in an
+implicit way to do nothing cuz like well
+I don't know justify shutting down an
+economy to solve a problem that you
+don't have a store not heavily
+incentivizing like green energy or
+penalizing people that pollute the
+atmosphere a lot or penalizing countries
+that do it is shutting down the entire
+economy but I think we have another
+absolutely it hasn't affects you but I
+think we have enough data right now
+without knowing if the planet is going
+to end in a hundred years to know that
+this is probably something that is worth
+like heavily looking at like at the very
+least we should all be on the same page
+about it
+we should all say hey you know this is
+probably something that's bad and we
+should probably be pushing in directions
+to to fix this whether that's higher gas
+taxes whether that's incentivizing more
+public transportation or more green
+types of transportation like electric
+cars or whatever like if we could all be
+on the same page for that then I think
+your topic is totally valid if
+somebody's saying like we need to have a
+twenty dollar gas tax because the world
+is ending in ten years then it's like
+okay well hold on is it really that bad
+I could understand that but it seems
+like right now this idea that we don't
+know how bad it's going to be is used as
+like a chilling effect on all sorts of
+conversations about things we can do to
+improve environment it sounds like
+you're agreeing with me then okay I'm in
+green with you I mean I'm agree with you
+explicitly yeah nobody's new straight
+line I agree with you explicitly but
+implicitly it seems like what you're
+doing is kind of saying like because we
+don't know the exact outcomes of climate
+change I don't know if we should do
+anything about it right now because you
+can't tell me exactly what's gonna
+happen extremity they measure it like a
+twenty dollar gas I know you want to go
+over gay marriage guns and money and
+politics that's a lot that's a lot of
+stuff but you can you can choose one if
+you want or we can we can probably we
+can probably want it now cuz they said
+used to go to dinner all right cool well
+we'll do round two this is back this is
+this has been interesting yeah I mean
+you know it's it's kind of it's crazy to
+hear the journey you would have of going
+from kind of texts to protect the
+politics on this but yeah I mean I
+appreciate you coming on the show here
+and you know thanks doing us in with all
+this and you know this one this is
+they practice I guess when you get up
+there and you start hashing it out with
+other Republicans to see who hates earth
+more and I kid I kid but yeah it was
+good thank you for coming on I know got
+a little heated but you know that's not
+here this spirited yeah spirited
+I mean I'll say that like the idea that
+you are considering running for state
+senator position that you would come to
+like an online podcast on a video game
+website to have a conversation give all
+is highly commendable I I really do
+respect that there's a lot of people
+that wouldn't and I'll love you
+criticism at the left a lot of people on
+the Left avoid these types of
+conversation so I really do appreciate
+the the audacity or the bravado to come
+on here absolutely thank you guys for
+the discussion I appreciate it
+you know it's fantastic I really
+appreciate it as well and you know like
+what I want to see in politics is the
+same way a like like Reagan and Tip
+O'Neill where you talk big during the
+day but everybody's friends after 6:00
+okay you know like that's what I like to
+see come back to politics there's no
+reason for people to be mortal enemies
+over something facili politics i totally
+disagree that statement but i mean we
+like i've got fans that are literally
+like daca recipient so do we talk about
+like revoking talk who's like yeah but
+at the end of day it's all cool but i
+don't know but all right I understand
+where you're coming from soon all right
+so Ted is running for the first District
+for Senate in California when are those
+elections happening in case some of the
+audience are in you're the primary is
+probably gonna be a March okay in March
+so go out in either vote for him or
+don't vote for him but you'd appreciate
+your vote if you did all right thank you
+all right thanks for being on everybody
+yeah thanks a lot for joining us guys
+see what everybody

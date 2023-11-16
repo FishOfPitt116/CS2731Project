@@ -44,8 +44,8 @@ MEDIA_SET = [
     Media("UCJdKr0Bgd_5saZYqLCa9mng", "The Rubin Report"),
     Media("UCokqzNPBJ65raczldVuHAww", "Chapo Trap House"),
     Media("UCL_f53ZEJxp8TtlOkHwMV9Q", "Jordan B Peterson"),
-    Media("UCNAxrHudMfdzNi6NxruKPLw", "Making Sense with Sam Harris"), # this is the last podcast being currently generated
-    Media("UC554eY5jNUfDq3yDOJYirOQ", "Destiny"),
+    Media("UCNAxrHudMfdzNi6NxruKPLw", "Making Sense with Sam Harris"),
+    Media("UC554eY5jNUfDq3yDOJYirOQ", "Destiny"), # generating starting here
     Media("UCldfgbzNILYZA4dmDt4Cd6A", "Secular Talk"),
     Media("UCNvsIonJdJ5E4EXMa65VYpA", "Contrapoints"),
     Media("UCvixJtaXuNdMPUGdOPcY8Ag", "The David Pakman Show"),
