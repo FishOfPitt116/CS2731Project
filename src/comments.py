@@ -122,7 +122,7 @@ def write_to_post_db(post: Post):
     post_exists = DATABASE_CURSOR.execute(f"SELECT post_id FROM Post WHERE post_id='{post.post_id}'")
     if post_exists.fetchone() is not None:
         return False
-    DATABASE_CURSOR.execute("INSERT INTO Post VALUES (?, ?, ?, ?)", (post.media_id, post.post_id, post.timestamp, post.content))
+    DATABASE_CURSOR.execute("INSERT INTO Post VALUES (?, ?, ?, ?)", (post.media_id, post.post_id, post.content, post.timestamp))
     DATABASE_CON.commit()
     return True
 
