@@ -1,0 +1,2791 @@
+hello everyone welcome to the new
+startups podcast i'm here with zed and
+stephen and it has got yeah we're gonna
+be doing some good stuff today going
+over arguably the most popular way to
+learn how to program that there is I
+think at this point
+so hello Zed and Steven what's up hey
+how's gone thank you so said for the
+people who don't kind of program out
+there and be good to hear a little bit
+just if you could do kind of a mile high
+intro to yourself and what you do at
+this point
+yeah no problem alright so basically I'm
+a programmer I've been programming for a
+real long time and around 2009 I started
+a series of books called the learn
+Python Ruby JavaScript see like all the
+different part languages I can and it's
+learned programming the hard way and
+learned code the hard way and basically
+I write these books for total beginners
+that assume you know nothing and take
+you from nothing and you can actually
+code when you're done I mean assuming
+you actually get through the book that's
+why I call them the hard way cuz it's
+kind of I don't know it's a challenge
+for some folks to get through it but
+it's structured and you can get through
+it and that's it it's not so much that
+they're difficult it's this that they're
+different
+so other books kind of come from an era
+when you just threw a bunch of problems
+at people and then they sink or swam and
+so people aren't used to that that's
+kind of like how a lot of American
+schools are done and mine is much more
+kind of lockstep structured and logical
+but you kind of have to do what I say so
+I think that's the difficulty for it
+it's funny because in Russia the name of
+my book is learned Python the easy way
+so in Russia I guess they just do it
+this way anyways but in the u.s. it's
+the hard way because they're used to
+what's called a constructivist or
+Socratic method so I'm curious so then
+it like in your books do you give people
+like big problems to work on in the end
+like it seems like we're at the end like
+it seems like in a lot of programming
+books or at least in a little bit
+unfamiliar with usually they're oriented
+around certain types of projects where
+by the end of this you'll be able to do
+like a certain thing do you avoid that
+in your book could you just approach it
+in a different way I approach in a
+different way where I give like small
+incrementally larger projects throughout
+so because I'm starting with total
+beginners I can't be like you know four
+exercises in now write a web app so but
+four exercises in I might try to break
+your code you know and then about
+halfway through I'm like here here's a
+little game and it's like a text
+adventure with three rooms you know so
+by the time you're done you can do a web
+app but also I tell people my books are
+more like after you read my book you can
+handle another book so they're the bits
+all the material that most other
+programming books expect you to already
+know what's your what's your take on
+kind of the proliferation of all of the
+programming schools I think you could
+say cluding boot camps and what have you
+at this point is that doing a harm is
+that a good thing what type of knowledge
+are people kind of getting when they're
+pulling out their you think that you
+know does that hurt you at all they're
+yeah so let's see what's you're doing
+all that not really it's sort of a
+complement to mine and in fact I think
+what I basically did is because my books
+were free or naturally I sort of gave
+those schools their free complements so
+one of the big strategies when you do
+business and programming is you
+commoditize your complement so if your
+main thing is selling an operating
+system then you want to commoditize pcs
+right and you want to make them as cheap
+cheap cheap as possible and so the the
+sort of commodity to a coding school is
+coding curriculum and I basically create
+a curriculum that was free and that sort
+of made it so a lot of people could
+start learning and become interested in
+code schools and then it made it easier
+for code schools to kind of exist so in
+a way it's sort of symbiotic but I think
+one of the things that I don't like is a
+lot of schools are pretty predatory and
+have a lot of sort of like little scams
+that they pull to sort of state ahead I
+know one school they actually got sued
+Flatiron school got sued by the state of
+New York and they had to pay up like two
+hundred fifty thousand three hundred
+fifty thousand dollars and it was
+because it refused refunds and they lied
+about their placement rates and all that
+and then they had to be bought by I
+think we were so yeah if you read that
+lawsuit that's pretty much every school
+you find that people can you hear a lot
+of stories of people like they go
+through your books and they're they're
+getting a job out of that afterwards or
+is that really not the case
+now so I have a sort of like a new
+design where by the time you're done
+you're you're okay but my earlier books
+you know like when you were done I was
+very honest about it when you're done
+with my book you're not gonna get a job
+like you basically know the very basic
+basic basics and then I appointed people
+at like tons other books right and I
+told folks I was really honest about it
+was why I said it was the hard way I was
+like not 24 hours this was like a year
+or two but some people who already have
+a background like if they have a
+background in math and they have a
+background in music literature actually
+surprisingly um other languages those
+folks would tear through my book tour
+through two more and then they'd be off
+getting a job so it's entirely based on
+the individual interesting so kind of
+our second thing here which would be
+very interesting is to hear your history
+because it's not like you're some guy
+who sold the company for a billion
+dollars and then decided you want to
+help people but you were actually a
+certified wage slave for quite a period
+of time and you yeah so what's your
+what's your history can you tell us kind
+of you know where did you get from just
+a wee long we young lassie up to where
+you are these days young lassie yeah so
+actually yeah when I was a kid I was
+very very poor like we I was SuperDuper
+poor I was a foster kid like everything
+and so my big dream when I was growing
+up was to get a desk job coding for like
+$30,000 a year like that was my that was
+my whole goal when I was younger and I
+did that I joined the army and then I
+got him went to college and then after
+college I got jobs and you know slowly
+just kept working at different companies
+and stuff like that I didn't really
+aspire to be famous I didn't aspire to
+do anything other than to just work but
+on the side I loved writing code so much
+I just wrote all this open source and I
+wrote blogs and I just wrote it was just
+like I had to and out of that it started
+getting me more work and then at a
+certain point is sort of like keeping me
+from getting work it was kind of weird
+like the more famous I got an open
+source the harder it was to get jobs
+which is like you'd think not the other
+way is supposed to be all the way around
+and yeah over time I actually was
+working at Bear Sterns and they
+collapsed and I was actually working
+there for like eight months and they
+imploded in like a weekend it was crazy
+well I'm actually curious real quick
+because you mentioned doing a lot of
+open source work so I mean it's
+today as not a programmer seems like the
+open source communities is alive and
+well and there's like massive you know
+reasons you can contribute to well what
+years were you doing kind of like this
+open source work and was the community
+anywhere near is large or healthy as it
+is today or was this like a more niche
+thing or net is so I've been doing an
+open source since I was a kid on BBS's
+since I was like 15 I wrote little daus
+utilities and uploaded them to BBS and
+stuff and um I only had a computer for
+about three years then so I'm from like
+twelve to fifteen and then I didn't have
+one and then we were join the army
+around what years this you want to know
+how old am i okay just like a rough are
+we talking like it okay yeah so that no
+that'd be a eighties eighties oh man I
+think yeah cuz cuz I graduate from high
+school in 92 yeah and then that I
+graduate from high school in 92 man no
+I'm in that weird Gen X that that like
+that team Gen X I think yeah and so no
+there was no community it was all BBS's
+and like I had to buy floppies in order
+to install Linux you know when I joined
+the army a computer when everyone else
+was out buying cars I bought a computer
+you know and I put I got like a huge box
+of floppy disks I think it's mean a half
+inch disks and and there was 72 of them
+and I loaded Linux that way you know so
+this is pre internet this is pre I had
+news groups but I was not in and then
+just every over the years every year I
+had some kind of thing I wrote some kind
+of code a book some book I went through
+once the internet took off I started
+publishing online and it was all like
+the little dumb utilities I just have an
+idea and I go try it I had this idea try
+it I haven't done it and I would kind of
+contribute I'd fix bugs you know but I
+think really um and then I did a lot of
+work in Java that was a time but I think
+really if the open source really didn't
+take off until sort of after Java came
+around I'm gonna say like well so mm
+kind of killed software because you know
+all the tech companies imploded but and
+then that sort of was yeah that was sort
+of like a renaissance for open-source
+because people couldn't get jobs they
+just wanted to hack on
+source and I think from around 2000 2008
+and I would say the modern open-source
+kind of community style came around Ruby
+on Rails I want to say around 2006 when
+that exploded so what was here so you
+were going through your history so you
+had some jobs what was the last job I
+guess that you had before you and what
+happened there um yeah so I was working
+at Dropbox and that was terrible they
+were awful
+they just started there were total
+amateurs it was just it was bad it was
+bad I couldn't handle it I was a wuss
+I went during I thought I picked the
+best company and I did that's very
+interesting because so many people
+romanticize the being on part of the
+founding team of the company that ends
+up being worth billions of dollars but
+why like what part of that really like
+[ __ ] this this is um you know the
+biggest thing and this is sort of one of
+my biggest criticisms of both
+open-source and every tech company
+especially startups especially in the
+valley is they sort of had this weird
+mythological love of : mr. Teflon it's
+like some guy who solved the problem ten
+years ago and they can't they don't want
+to fire him and those people become
+toxic and that was just everywhere and
+and it's sort of like if you go out
+drinking with the boss you're never
+going to get fired that kind of thing
+and so while I was working there I came
+out with my Python book and it was I
+wasn't charging anyone and then I was
+kind of like really hate and Dropbox and
+then I found out I just had a PDF up I
+wasn't even paying attention you'll find
+this is a common pattern I don't pay
+attention to how popular I am and then I
+find out later oh wow oops
+I could have charged for that so it's
+really common but in one year it had
+250,000 downloads of this PDF and at
+that point I was like oh wow
+so I started making videos as her
+finishing it I started charging like two
+or three bucks and that started making
+me enough to quit Dropbox and kind of
+just do my own thing so what is the so
+you've done this thing what was the path
+so for getting on so kind of the neck
+segments of this is starting a business
+so you have wait can I say question I'm
+actually really yes I because a lot of
+people are really good at doing certain
+things whether it's playing video games
+or programming or whatever not a lot of
+people enjoy the aspect of teaching
+things
+why have you always had like a penchant
+for like wanting to show people things
+or did you spend too much time on forum
+something people troubleshoot like why
+why make a book helping other people to
+call like what was the initial
+inspiration for that oh actually I went
+to school to study guitar and the
+teachers are so bad that I had to go get
+this book Miki Baker's jag I'd to jazz
+guitar and I was in jazz classes these
+guys couldn't teach at all they just
+yelled at you that was it
+and so I got this book and he broke the
+playing guitar down into 52 lessons in
+each lesson assumed you know he knew
+nothing and as long as you did what he
+said you could play jazz and so I did
+that over like the summer break for the
+school and when it came back I could
+play all the chords that they said I
+needed to know and I can play and and I
+went to the school basically I did okay
+I found out I was a bad guitar player
+nose bottle I figured out but then when
+I started working for Dropbox in San
+Francisco I had the idea hey you know I
+think I could write a programming book
+that does the same thing as this guitar
+book that carves learning to code in two
+fifty-two exercises and breaks it down
+really really simply so in a lot of ways
+I'm basically copying this weird guitar
+book from the 50s like not a lot of
+people know about it and that was where
+I got into it and then I sort of got
+into AI like a really like reverse
+engineering how people will understand
+things and misunderstand things so I've
+always been good at writing
+documentation writing software that
+people can use I sort of get a kick out
+of that like for me writing software is
+much more about either messing with
+people like I'll do some funny project
+or sort of like figuring out the way
+people are really using something and
+coming up with a new way to do it or an
+idea and much less about sort of like
+solving a technical problem I'm much
+more into like solving a social problem
+I would say not even social just sort of
+like a brain problem that's really cool
+I am I've got a music background too and
+I noticed that um it seems like learning
+music is very much learning how to learn
+you know like breaking things
+to manageable chunks like you really
+have to if you want to make it anywhere
+there so that's pretty interesting you'd
+say that it's interesting I'm also
+taught myself to paint and I did the
+same thing I basically call myself to
+paint that kind of prove out the method
+yeah and it totally works I basically I
+just realized the material in sort of
+the same way I did all my programming in
+my music material and I just went
+lockstep through like several books that
+had it and structured organization
+organized exercises and you know it's
+just a method that works really well for
+getting started I don't think it works
+good for like advanced topics yeah like
+if like if it's really complex things
+but forgetting your basic skills done so
+you can then learn the advanced topics a
+structured logical sort of like system
+it's the way to go and I think that's
+the thing is um I'm a systems guy I make
+AI system systematize all sorts of stuff
+and and I think all it is I just applied
+that same thinking to doing a education
+so I just systematized education and
+then break it down presented to people
+and it works yeah cool all right you
+were gonna talk about yesterday the
+business town yeah yeah
+so you had this popular going through
+your mind what are the steps you you
+have from this small like you must have
+made almost nothing at this point like
+you you weren't even charging for it at
+that point or did you start now so it
+wasn't charging for it yeah so what what
+goes through your mind and you're like
+okay maybe this can be a business enough
+that you're gonna quit your job also
+because you're in San Francisco at this
+point things are expensive if you might
+have to him say things but like this is
+a big jump to make from just having a
+download off of something right yeah
+exactly it's huge and I think the other
+thing too is um when I had that and I
+found out that it was turned 50 or
+350,000 downloads I posted my web logs I
+anonymized them and I posted them the
+hacker news and I was like hey prove me
+wrong this Python book that I've been
+working on has like three hundred two
+thousand downloads and it got a whole
+bunch of replies and then like six
+months later that's when all the code
+Academy and all the sides those code
+teaching started started so uh I suspect
+like I sort of proved that there was a
+market because I don't think any of
+those existed before me and and so
+that's sort of like that's where I was
+like oh man
+I really need to get out there at least
+put free material out there and find a
+way to survive off of it so that way
+people don't have to go to these code
+schools because I was really worried
+that two reasons why I made the book
+free was one I didn't want computers to
+sort of control folks right I wanted
+them to be able to sort of master their
+their domains and use them for things
+that they wanted to do and then also I
+didn't want the code schools to start of
+like take over teaching programming
+because I felt like they just weren't
+really putting enough effort and into it
+and they didn't really have enough care
+as to help people learn can you remind
+us what the market for learning to
+program looks like way back in the day
+of when Dropbox was first starting when
+you did this like how bad was it at that
+point if you wanted to learn to program
+was it literally you're going to a
+Barnes & Noble or a Borders and hang up
+an O'Reilly textbook or what's happened
+yeah so if you take to say learn at me I
+had no internet when I learned to code
+so I had to buy books or borrow books
+from the library I'm mostly from the
+library and then as I was at Dropbox it
+still wasn't much better you still had
+to go get books all the books were
+written only for experts like there is I
+can think of two books ever written for
+beginners and if a book was written for
+a beginner it assumed it was a kid so it
+was all cutesy and had cartoons and
+didn't go deep into the subjects so
+there was nobody doing that if you
+wanted to learn to be a professional you
+had to either go to school and get a
+degree even that didn't guarantee
+guarantee you because all the schools
+have just taught Java or C sharp like
+there was just no diversity at all
+people came out not knowing multiple
+languages not I'm annoying any platforms
+being being basically just thought to be
+work slaves to be honest I don't think
+there's a single computer science
+department that I can think of that
+teaches people to be entrepreneurial if
+in fact I don't think there's a single
+engineering school that does that I'm
+probably wrong I'm pretty sure there's
+some but today we're not a reason back
+in those times back in those days but I
+think even now the vast majority of them
+are not entrepreneurial I think you if
+you want to learn anything about like
+entrepreneurial engineering you have to
+either go to like an incubator a VC
+startup thing or go to the business
+school that's actually where I went
+I've got sick of it and I basically got
+a degree and
+computer information systems so I could
+get business experience and it clarify
+here when you say entrepreneurial are
+you talking about like the ability to to
+work on a project and kind of market and
+on your own and do work independent of a
+major company here yes yes I think
+almost every class I had in the business
+school or the computer science school or
+the engineering school was all about
+group work it was very little about how
+to manage your own projects how to
+manage yourself how to organize
+freelancers how to do things like that
+very little I didn't learn I was in the
+business school and I didn't learn
+anything about how do you start a
+business how do you go like do your
+accounting how do you get an accountant
+how do you do like just basic stuff
+which would be there's a business 101
+that's it's really funny you say that I
+don't I don't know if this applies
+everybody my experience is very limited
+but I noticed when working with
+engineers a lot or developers that it
+it's very strange that them it seems
+like there are people that are very good
+at working at things and very good at
+kind of like taking very direct orders
+but when you kind of leave them with too
+much freedom or or without enough
+direction things can get very lost very
+quickly and I'll see ya and I noticed it
+when you can find that person like
+people that I have working you know like
+David I like it can chat like people
+that can take some direction but then
+can delegate responsibilities and assign
+people to task that's like a very rare
+quality and somebody that can also work
+as like a developer or an engineer it's
+really hard to find less people yeah for
+me I learned those skills in the army to
+be honest I didn't actually learn them
+in school at all and I went and I did
+computer science courses and I did
+engineering courses and business courses
+and not a single time did they teach you
+just basically working on your own and
+and for me I think being able to work on
+your own and complete a project is sort
+of a precursor to being able to work
+with others I don't think it's I don't
+think they have it right that you have
+to that you have to be forced to work in
+a group or you're gonna be a robot
+there's a how to sort of how they think
+swath of books that are out there kind
+of the 4x hour workweek series of stuff
+and you know yeah the four hour or the
+self-help you know just do you think
+there's value in that do you think that
+that whole virtual assistant model is
+scalable or do you think that it's just
+designed to sell books I think a lot of
+that I mean if you look a lot of those
+things are designed to sell books and
+I'm sort of like a firm believer in sort
+of a good example of if you want to get
+ahead or you want to have a life that
+you like you have to sort of work hard
+on your own at it and if you have the
+money yeah you can pay for it you can
+get people to help you can hire
+assistants I do like I have people who
+do copy editing and things like that but
+if if you follow these things were like
+they're telling you you're gonna be
+wealthy if with just four hours of work
+oh you know a week and I'm kind of like
+thinking I kind of like working can I
+work more than four you know it's sort
+of like I don't I don't see you getting
+any value out of that
+I think if it's something that's
+valuable it's difficult right and then
+if it's difficult it's gonna require
+work and you can't just do it for four
+hours a week and then there's other
+things too I know other people who are
+like oh if you just join my open-source
+you can drive race cars like I do and
+I'm like well that guy also got like
+seven million dollars from Amazon and
+has a whole bunch of other things
+helping him out and so you know it's a
+lot of luck that they don't tell you
+about you know and I think that's the
+thing is all those books where they're
+trying to tell you oh yeah here's the
+easy way to making money they don't tell
+you all the luck they had right well
+there's a lot of survivorship bias in
+the industry especially because everyone
+wants to say like I came from nothing I
+made it you can too and I think exactly
+a lot of reminds me a lot of the Bill
+Gates dropped out of high school so I
+should be able to - or whatever you know
+it's like okay well write a million
+other people that dropped out of high
+school and Bill Gates didn't drop out of
+high school because he was failing
+remedial English you know he's because
+he was already doing a ton of other work
+on the side that he deciphers go for
+Hannah a good example is Bill Gates so
+his father was a very high power very
+powerful lawyer in the Seattle area the
+only reason that he was able to make
+ms-dos into a business is because his
+dad sued the good guy who he got ms-dos
+from and then he got the rights to it
+you know so his without his dad doing a
+lot of legal work for him he would have
+been nothing and that's an example you
+know you don't hear about this stuff of
+course you always just never dropped out
+of high school started my startup you
+can do it too if you weren't such a lazy
+exactly right and the me I'm very honest
+I tell people like no I mean I worked
+hard but
+I really liked it but I did get lucky
+because I stumbled on I mean if you
+think about all I did was I copied a
+guitar book and turned it into a
+programming book right there's skill I
+think also in recognizing that so you
+know don't downplay yourself the faculty
+you know yeah right place right time but
+you recognize that it was the right
+place in the right time oh so that's a
+thing remember I let it sit for like a
+year and it had 350 thousand downloads
+so I actually didn't recognize it so I
+was like really late this is a common
+thing I'm like oh hey I'm gonna make
+this thing and it explodes and becomes
+Whopper I'm like wait why do people like
+me so and then oh wait and again just
+years old because I'm the time span is
+very interesting this is around when did
+you start working for Dropbox and quit
+Dropbox 2009 and then I quit like
+probably eight months later I mean not
+very long okay and then before that I
+was going to that guitar school after
+Bear Stearns collapsed and then before
+that I was trying to survive in New York
+and it was weird because I was trying to
+do Java but I became known as a ruby guy
+and then um David Hannum er Hanson he
+had some weird presentation where he
+told Java guys to basically go [ __ ]
+themselves and so like the next day I
+could not get work so and so I was
+running around New York like not really
+getting work and then I got a job at
+Bear Sterns they collapsed and I got a
+severance I turned that into a guitar
+school and studied and then just applied
+for a job after that and at Dropbox so
+that's all like 2008 to 2009 and then I
+quit Dropbox because I thought I could
+do the business and it actually worked
+it actually um basically what it is I
+the first step was I had the product I
+had to finish it and so I started
+interacting with people a lot more
+before I just had it uploaded it was
+just something I heard on when I watch
+TV yeah so it was like it wasn't even on
+a web page really it was just hanging
+off a URL and I would arc sync it up
+whenever I did more work and then I told
+a couple of people in IRC and then it
+exploded from there and I had no idea
+though because it's not really on a page
+nobody had to register to get it I
+didn't do anything
+and so what I did is I took it more
+seriously I fixed it up a copy edited it
+and then finished it off and then I put
+it up on there was some publisher or
+business before any of the Amazon stuff
+and I put up there for paper and then I
+charged I put it on a place that would
+charge for it and I charged like 2 bucks
+and so people started paying for it and
+then and they were it was still free and
+you could go buy it and so folks were
+just buying it mostly just out of
+respect like I totally you have to buy
+it and that's sort of basically paying
+my rent and get me started were you
+paying out of pocket for the host you
+can everything was this a big deal back
+in 2010 wasn't bandwidth a little bit
+more expensive or not oh it's a PDF I
+mean it's like tiny tiny it was yeah no
+I was not expensive to host it back then
+this is 2009 so I mean I was paying like
+20 bucks for hosting thing and I never
+went over their caps at all okay yeah
+there's not videos videos are totally
+different back then like videos turned
+out to be a problem I actually had to
+find somebody who would do the hosting
+for the videos when I start doing that
+well so YouTube then and still now has
+very sort of loose rules about how they
+own your stuff and the number one rule I
+mean actually learn this from Steve I is
+always on your rights so if you make a
+copyrighted thing never put it anywhere
+where they suddenly have the rights wait
+um YouTube has rights on video so you
+upload to their what they have yeah they
+have a Terms of Service that allows them
+to started to redistribute and do
+anything they want to your stuff now
+they don't work because I think that
+would implode their platform if they
+just started reselling your stuff
+without some sort of compensation but
+this is one of the reasons why they can
+just deem on it so I didn't just do
+whatever they want whenever they feel
+like it
+because it just comes down to like sort
+of yeah basically if you upload it
+anywhere read the Terms of Service
+because a lot of times they will screw
+you I actually got screwed by udemy
+they took my content and they said they
+were gonna resell it and I was like cool
+and they made me like a boatload of cash
+like 50 grand in one day so I was happy
+with them for a bit and then a friend of
+mine emails me they're like hey you know
+they're selling your course my thirty
+dollar course they were selling for two
+dollars I'm like what and they go oh but
+it's gonna bring you so many users I'm
+like screw you that means those people
+to support its users only benefit you
+they don't benefit me at all
+and so basically yeah if you don't
+control your content you can have in the
+world of copyright if you don't control
+your rights then someone will screw you
+that's just the way it works so so what
+was the process of this so you first
+step is you're making a website you're
+gonna start charging for the PDF I
+assume it's no longer free or do we keep
+that up or how does that work and how do
+you yeah what's the timeframe of all
+this look like um so basically whenever
+you do any sort of like book there's
+sort of a hierarchy of needs of what
+people will want so if you have HTML
+people will pay the least for HTML
+because HTML has been completely
+devalued with advertising and newspapers
+and whatnot it's like Google and a lot
+of other folks have done a lot of work
+to make HTML worthless basically so HTML
+becomes a marketing thing that's all
+hTML is good for right now
+unless there's some sort of other value
+attached to it right then people will
+pay for a PDF and it's kind of weird
+because I basically just run a script
+and I produce all the outputs so they're
+paying extra for me to run a bash script
+it's kind of strange but they do they'll
+pay for epubs and pdfs and but you can't
+charge much more so I was charging like
+two three dollars and you can get a epod
+and put in a PDF and then I just found a
+company that did that for me right no
+like I've just uploaded it they charge
+the two bucks they took their two cents
+and then they gave people to download
+right just to get started and then the
+next thing people will pay a lot for is
+instructional videos so there's a lot of
+content like if you do a fiction book
+things like that you can't do videos but
+when it comes to programming arts music
+anything we're like reading about it
+it's not as good as watching people do
+it so coding is very interactive like
+watching me actually code helps people
+sort of understand because I can say oh
+you need to actually put you need to
+debug it this way and it put in the book
+and it doesn't make sense but I can do
+in two seconds I'm like it's like this
+button and people see it right so they
+would pay extra for that and so once I
+recorded videos then I started charging
+$30 and and then I got picked up by
+Pearson for publishing it was
+interesting because I had sent Pearson
+my book out of some
+and they said no everyone thinks it
+sucks they sent it to a bunch of PhDs
+who are like no this isn't okay and then
+my book exploded and then they came back
+they're like please please please can we
+publish your book and so I was like okay
+but I get to sell it myself I keep the
+rights they optioned it and then I
+produce I did all the production's I
+could control it and then they only sell
+it in like the places I can't so Amazon
+Barnes & Noble places like that or
+difficult to get into if you're not a
+publisher that's the case I thought you
+can basically self publish on Amazon or
+is that somewhat different and yeah when
+I started that was what much more
+difficult and getting into Barnes &
+Noble and stuff is is pretty hard they
+really only want to work with a few big
+publishers and there's not many
+publishers left anymore so independent
+publishing now is almost all done where
+you basically get your book published
+and there's companies in China and India
+that do really great publishing they'll
+create your books up and send em
+straight to Amazon and then you can
+basically sell a book for say $40.00 and
+cost you 2 bucks a pop and the iof a few
+friends who do that so what are the
+economics of that look like so I guess
+getting a little bit into kind of the
+physical versus digital realm of this
+type of stuff selling a book a digital
+copy versus selling a actual book how
+does that profit affect you specifically
+yeah so that's interesting because I
+have a friend he writes a book called
+two scoops of Django him and his wife
+and they go the paper route and the
+reason why is they originally put the
+first version in their book up for
+download and they don't do videos right
+so you can pirate you can compare at a
+PDF in like two seconds there's no
+problem and so people would actually
+walk up to him at conferences and be
+like haha that's cool in your book you
+know I was like what did at least keep
+it to yourself
+tell me you love my book you know
+incidentally I have a thing we're like
+if people tell me they people feel
+really bad about pirating my book and I
+tell them okay look if you just lie to
+people he'll be Apple you bought it
+that's the most awesome book ever and if
+you get five people to buy my book you
+pay me back more than you then your
+and people do it too they go out and
+they like if they feel bad about sin in
+my book I'm like you know look I can't
+say that's a good thing for you to do
+because you know I got to control my
+copyright but I can't do anything about
+it so just hook me up with some
+promotion or something
+what is your views views piracy in
+general yeah that's interesting do you
+think the laws should be changed like
+what yeah what's your view in general on
+counter well so back to my friend Danny
+so what he did is he solved the
+copyright problem but he found a
+publisher and believed in India they
+published his book they sent it straight
+to Amazon he sells it on Amazon it looks
+like he's a regular publishing company
+and everything and I think it costs him
+I don't know exactly but I think it's
+like a couple dollars per book and he
+sells it for like 40 or something right
+and what ends up happening is he's
+making a pretty decent money off of it
+but also he's limiting the number of
+people who can get to his book so that's
+the trade-off so there's a lot of people
+who just won't go buy a physical book
+they want to just immediate
+gratification and have it show up on
+their Kindle or download it to their
+computer and then the second problem is
+he can't include videos and his book
+definitely would benefit from videos
+right so he would have to raise his
+price or his cost and per book to like
+around ten dollars to get a CD added to
+it or a DVD so that's the trade-off and
+when it comes to piracy so you know my
+issue with it is I sort of don't care if
+it's someone who's poor or they can't
+pay for it because they live in a
+country that's bad you like there's a
+bunch of country that banned PayPal and
+I can't use anything but PayPal it's the
+fraud amount on anything else is so high
+I just can't I tried using several other
+payments yeah all those they they punish
+you for fraud 15 bucks a pop and they
+provide zero fraud protection so you get
+punished for someone else's crime and
+someone else's incompetence and then if
+you get too much fraud they ban you so I
+was getting like because my book is sort
+of needed I was getting maybe like two
+or three fraud things a week and I heard
+of people getting banned after to fraud
+things so I think the only reason why
+maybe I wasn't with the folks at stripe
+and then I switched to PayPal because
+PayPal is very good at fraud prevention
+like they suck at everything else but
+they're very good at pay and fraud
+prevention and doesn't ding you too if
+there is
+you don't have to pay I there were
+months where I had hundreds or there was
+a month where I had $2,000 want some
+stripe fees because somebody did a
+massive stolen credit card charge and
+then build it back and it saying oh well
+surely there must be something I can do
+to not have this and then it's like
+everybody you know shifts on PayPal
+relentlessly and Babel has its problems
+but man if somebody you don't want to do
+a chargeback on PayPal I just click the
+refund button there's no fee exactly
+exactly so PayPal is very good at how
+they manage their finances when I get a
+charge back it's done through an
+arbitration process and then I just
+refund them it's not a problem for me in
+fact I think that's easier for some
+folks if they want a refund they just do
+it through PayPal yep cool that refund
+and nobody's charged anything nobody's
+dinged it happens immediately they get
+it back into their account right away
+they even recharged the refund the fee
+for it so yeah refund the fee you know
+whereas stripe has charged me 15 bucks
+plus the 30 I'm gonna lose you know and
+it's it's just hardcore in fact I tell
+people if they're there like they're
+gonna do an open source project and let
+people tip I'm like no don't because the
+first thing anyone who steals a credit
+card does is it go test it on all these
+open source tip systems mhm and they'll
+like they'll do $2 charge and then if
+you do a lot of those you get charged
+back and then you're Joe you owe 15
+bucks on a $2 charge you know the second
+to collapse a company if you did that
+yeah and that's per charge - so somebody
+doesn't 20 times all of a sudden I want
+to say when I use stripe I thought it
+was $30 or $35 if he ecause I remember
+somebody charging back like 10 or 20 and
+I had like $500 in charge bag fees like
+okay yeah yeah it's insane and then I
+think the the big thing I'm fine okay so
+yeah I have a product that's fraud prone
+right so that's like porn educational
+materials seems to be those things are
+really fraud porn right um I think the
+problem though is that stripe is sort of
+is sort of blaming me for their failure
+because it's not hard like I would look
+and I would see that the zip code is
+totally different from where the dude
+bought it is I would have his IP address
+and he'd be like in you know some
+country in the middle of a Europe but as
+credit cards from California I'm like
+okay it's not hard you could do simple
+geoip couple simple things you could
+probably Brock block all your frog I
+remember when stripe added on their
+sites try finally added to the feature
+to what they I was about the site to be
+fair to stripe they've recently added
+technology
+well like I remember when I always using
+a few years ago
+added a new future and it was like you
+could check a box to verify the zip code
+to ask them that when they did the card
+and I just remember reading I was like
+wait it's a [ __ ] don't you guys do that
+anyway what I think we do the [ __ ]
+gas station really yeah I think I have
+really bad experience with stripe yeah
+the first time they rolled out fraud
+protection they're like hey if you want
+you can use our API to do fraud
+detection like why don't you just do
+that for me ya don't have to why do I
+have to call API use you to do fraud
+prevention I could just roll my own code
+with the free geoip a database and be
+done with it you know yeah anyway so um
+back to the original question or one
+thing that I think you asked me was what
+like when I went to move into making
+money with the product one of the things
+that I ran into the hardest was actually
+charging credit cards because this is
+pre stripe pre everything you have to
+use PayPal and and also accounting for
+it so I was originally gonna do
+donations and I finna trenin had
+numerous people who told me no don't do
+new nations cuz you get hit with fraud
+all the time and then also it's hard to
+explain right so you go to your
+accountant or tax man you're like well
+people give me free money because I'm
+awesome you know whereas if you give
+them anything you can give them like a
+PNG it's been customized what's that
+looks like certificate you given them
+anything in exchange or then yes you can
+say would people buy pngs with with like
+pony drawings on them in their name and
+the IRS was like yeah right it's a trade
+and that's that right so that was the
+main reason I charged for my book I was
+really gonna do donations and then I had
+all these people say don't do donations
+and I just started charging two bucks
+and that was sort of like the gateway
+drug to actually like charging money for
+my stuff so now your business is pretty
+big I mean I've talked to a few people
+especially you know very hardcore comp
+side guys and they're like you know
+learn X the hard way because you have a
+whole series now it's not just learn
+Python the hard way it's learned
+everything it must be strange being one
+guy and also somehow being I guess the
+most popular programming series of books
+that there is it's a very unique
+situation to be in and you know you just
+do I guess what you love full-time at
+this point
+as well right yeah pretty much I mean so
+um it is a one-man shop so the thing
+that I do is I use a lot of programming
+to automate as much as I can and then I
+also I try to use equipment to sort of
+like smooth out all my production so
+that's the key is I'm willing to pay say
+like for example I have a sound system
+by a company called rme this thing is
+like $2,700
+but it gives me the very best sound and
+it's easy to process and I do not have
+to do any Biagio processing when I'm
+done so with my sound gear that I've
+gotta probably Smita make me about 6000
+sound gear I saved myself probably an
+hour of audio processing per video so
+back in the day I used to have to do not
+just audio but like say 30 minutes audio
+processing in 30 minutes editing then
+another 30 minutes video then another 30
+minutes rendering per video and if I
+have to do 62 videos for a book then
+just spending 6 grand is saving me well
+potentially you know 6070 hours so it
+pays for itself immediately and it's all
+about like if you're running things on
+your own it's all about either finding
+someone you can pay to do a thing for
+you or writing code to do it so a lot of
+my automation I just automate the living
+daylights out of everything and also
+keeping things simple so originally I
+try to write this whole sort of like
+website to let people do like a full
+course like in college and all I saw
+anyone doing was logging in and
+downloading they didn't do any of the
+forum stuff any of the questions nothing
+they emailed me so I paired it all down
+to where you you buy it and then you log
+in and you download I even got rid of
+passwords so I set it up so that you do
+an email authentication right and that
+just got rid of like handling people's
+password resets it's all about just
+carving out like getting rid of anything
+that gets in the way of you getting your
+work done and your basic day and that's
+pretty much what I do oh you're a
+controversial dude supposedly I don't
+know that you know I've talked to you
+before but what's what's that all about
+cuz like you even on your Wikipedia page
+there's even like a section like
+controversy and why do programming guys
+get so mad when you say bad things about
+their programming language like yeah
+what's happening and and has that
+affected your business at all um you
+know not really so the wikipedia page is
+funny for a while there I was Canadian
+you know I'm Mike born in Texas and I
+was in the US Army like on Wikipedia for
+like five years I was Canadian I think
+someone was messing with me right yeah
+but anyways I don't know why they
+thought I was Canadian and so this has
+actually been something that I've been
+really really interested in and also
+sort of experiencing and you know for me
+I'm just making stuff you know we're all
+technologists so it's all about pushing
+the envelope of technology and in order
+to do that you have to find out what's
+bad about technology you have to have a
+critical mind towards how it works and
+the thing is is I come in and I'm like
+hmm you know this thing these people are
+making kind of sucks I'm gonna make my
+own thing or I'm gonna be like man that
+sucks and people just lose it they lose
+it and I couldn't figure out why because
+for me if someone comes in and says that
+sucks I'm like oh really well what's
+wrong with it can you tell me oh okay
+yeah you know maybe I can fix this I can
+fix that like I said I'm a systematized
+I fix things that's what I love to do I
+love fixing stuff so I have no problem
+people say something's broken people do
+it all the time the email means like hey
+this isn't working like hmm yeah maybe I
+could drop that and move that over there
+um but other folks when I say yeah this
+this thing sucks why does it do this
+this way they take it very personally I
+think you're under the the fallout from
+the things you've said you're making it
+seem like oh some people are upset like
+you had you had top posts on Reddit on
+hacker news of people essentially saying
+you know just hey hatred 48 saying he's
+eight and that's the part of the
+understand so if all it was was like I
+say Python 3 sucks and then people go
+and write their blog posts and they say
+he's wrong I'm fine with that
+that's discourse that's how it works in
+fact there's one person Edie
+she wrote a great blog post I didn't
+agree with what she said but she just
+went through what I said and disagreed
+with me that's discourse that's what you
+do
+but the people that I have a huge
+problem with of the people who I say
+Python 3 sucks and then they go out and
+tried to destroy my life try to destroy
+my business keep me from making money
+right massive screeds about how much of
+an [ __ ] I am actually like hurt you
+financially yes so there were two I had
+a friend of mine email me the chat logs
+from two guys who contacted him and told
+him hey you need to take Zed Shaw's book
+off your website
+he's like why and they he doesn't like
+Python strings I'm like wait okay so
+you're gonna destroy someone's life
+because they don't like strings what
+kind of a pathetic loser weeny are you
+man like who system ik the Biggest Loser
+ever like what's next like some little
+kid falls down you're like kill that kid
+how dare he fall down it's so weird it's
+bizarre and so I tried to understand
+that I was actually wondering why I
+couldn't figure out why folks sort of
+just had this very huge strong reaction
+and it's fine for people to not like me
+I'm okay with that I can be you know a
+polarizing figure for whatever reason
+just because I disagree with some things
+that's fine they can do whatever they
+want they call me an [ __ ] is fine but
+it's the amount of response so if I say
+I don't like Python strings the proper
+response are to go well you're wrong the
+improper response the over-the-top
+response is to send me a hate mail
+telling me to kill myself and then try
+to get me fired or try to get my
+business destroyed that's insane that is
+so insane I can there's a lot of like
+there's a lot of that especially I guess
+I would say even in the streaming or
+gaming world is if you do something
+wrong no a more prominent case do you
+remember there was that woman who worked
+for a company and she made some like bad
+joke before she got on a plane or
+something like saying like I think I
+don't get AIDS or something in the world
+went crazy and when she got on the plane
+it's like she lost her job and you know
+all this other stuff yeah so look I
+think it's fine to you know disagree
+with people right I think it's totally
+fine to not like someone for their
+opinions I think what what I couldn't
+figure out was why was there this sudden
+desire to destroy a person like
+completely destroy someone but also not
+just destroy them get together with
+hundreds or thousands of your friends
+and destroy them right I couldn't figure
+it out and you know then I started to
+sort of remember back in the day I sort
+of had this thing where there was a
+presentation by David Hannum on Hanson
+where he basically told people I
+weird and angry and I hadn't been doing
+Ruby for years and I had no contact with
+this guy had no idea where this came
+from and I started getting these weird
+sort of like kill yourself death threats
+like what is this guy's problem and I go
+into looking like Oh
+so David's kind of coming after me so I
+started I had been ever since for a
+while sort of like the researching open
+source and how it works and also how the
+pattern used an open source is very
+similar to fascism like the way fascist
+propaganda has done where really yeah
+it's very interesting so there's a book
+called the anatomy of fascism it's the
+best summary of it and basically it
+comes down to they they craft a
+community they imagine some kind of
+humiliation right and they declare
+someone an enemy so that enemy created
+humiliation for you right and then they
+do it they claim they do it for like
+nationalism or the community or whatever
+but really it's for some sort of like
+hidden upside and then they gain power
+through that right so they're try to
+manipulate people through this pattern
+and then when you go and you look at
+open source marketing that's exactly the
+same patter and then use and so I was
+kind of like okay these guys are
+fascists and then I spent a whole year
+traveling around doing presentations
+telling them they were fascist so it's
+kind of funny because I would invite me
+to their conference and I be like yeah
+this is why you guys are fascists like
+oh maybe we are um and then I sort of
+thought well and then incidents like
+this happened where people are going
+crazy over me just saying I don't like
+your software I'm like okay you can you
+can not like me but man trying to tell
+me to kill myself because I don't like
+Haskell because I disagree with 4chan
+and they come on man like just grow a
+pair or something like this too you know
+it's okay for people to not like
+something you do and I started to
+research fascism a bit more and also
+narcissism and so what I started to
+realize was none of these folks that I
+thought I always thought it was the
+leaders like the people in charge of
+open-source who were creating the
+fascist situations and actually none of
+those people would exist if it weren't
+for a group of insecure narcissists and
+so what I've come to realize is there's
+basically anything that has a lot of
+rules right so classical realism is a
+form of art with very accurate drawing
+programming
+music so if everything that see those
+guys are those douchebags shredders who
+can go 300 beats per minute and they
+master it so they think that they should
+be recognized for their genius because
+they can play very fast or you know I'm
+I know everything about everything in
+the C programming languages undefined
+behavior so I should be the guy who is
+famous for C programming right so those
+are insecure narcissists I mean if you
+set up a system where insecure
+narcissists can come and hang out with
+you and memorize all your rules and they
+get power through memorizing your rules
+or if you just promised me power hey
+come join opensource
+we'll give you power then insecure
+narcissists eat it up they love any
+situation where they can become powerful
+without having to put themselves forward
+that's what makes them insecure and they
+feel entitled to it so then it's easy to
+attract them to it and when I come out
+and I'm like yeah you're not special
+your stuff sucks they take it very
+personally because that's how
+narcissists are if you look at anyone
+who's been abused as a child or anything
+like that they talk about abusive
+narcissistic parents and it's always
+like oh my dad beat me because I stole a
+yogurt right it's always something very
+minor and just insignificant you wonder
+like why would anyone do that's so weird
+and then you see the exact same pattern
+with these people who go crazy and open
+sores when they're criticized they're
+basically insecure narcissists who love
+the fascism and you're never gonna get
+them out of it you can never change a
+narcissist and that's the way it is and
+then if you criticize them they just go
+after you you know this looks like that
+is there's a bunch of very good people
+in open-source who are not like this but
+I think because they stand by and allow
+that to happen you can kind of say that
+they are also sort of guilty of this
+right me when I like see these kinds of
+things happening I'm like hey that's
+really wrong you shouldn't do that right
+so for me it's like this combination of
+if you allow it to happen and then you
+allow these insecure narcissists into
+your system and those people go around
+attacking others then you're a fascist
+that's just the way it is right and if
+you think that people should be attacked
+for disagreeing with your community or a
+group you're a fascist right that's like
+the cornerstone of fascism someone isn't
+as of them is an other and they disagree
+with you so then you go out with your
+buddies and attack them right and if you
+weren't fascist
+you'd be like well he just disagrees
+with us that's all right it'd be okay
+that guy disagrees with us there you go
+it feels like one of the big problems of
+this is it like these types of people
+I'm I'm not going to say I guess I'm 110
+positive these types of people have
+always existed but it seems like the
+Internet has kind of given you this
+ability to enact this insanely
+disproportionate response that no
+individual person ever feels responsible
+for exactly like going back I mean even
+when I was in school you know I'm coming
+up on 30 now I can't imagine like doing
+something in high school that would ruin
+my life just because there wasn't like
+the scale like online [ __ ] like Facebook
+was still I think invite-only I think
+you even needed like a naughty tu to get
+in Gmail was invite-only there were
+these massive you use your MySpace and
+live journal pictures were hard to post
+it's like what you know the internet was
+just kind of like a thing and if you did
+something really [ __ ] up and somebody
+posted about it online you know that was
+only gonna be read by like the hundred
+or so people maybe that we're like in
+your class like that's it
+whereas nowadays and and each of those
+people you know might be really upset at
+you and that might suck back then but
+that was it but nowadays when some [ __ ]
+gets posted [ __ ] everybody
+contributes their little part but it's
+like a [ __ ] tsunami and by the time
+you know the totality of all of that
+outrage is collected you've like
+effectively destroyed somebody's life
+because the Internet is so permanent now
+it's so much larger you know that
+destruction lasts forever
+it's permanent now I feel like all the
+stupid [ __ ] we did as kids so it's
+interesting so a my research on fascism
+that this you have a distinct rise in
+fascism
+right right after a new communication
+model comes out so if you go back to
+even before World War two if you look at
+the book as soon as the book was popular
+that's when you get the Protestant
+Reformation 's all those things and then
+you go up to World War two that's radio
+so radio is really popular suddenly all
+the sudden new communications then TV
+came out we had a whole bunch of
+problems when TV came out and then when
+the Internet comes out boom explosions
+and fascism and so it's sort of this
+thing that basically when you get a new
+method to communicate it makes it very
+easy to get insecure narcissists to
+joined a group and then it takes people
+a while to figure out oh hey you know
+what maybe we shouldn't let people just
+be ranting raving idiots on radio
+right all right is this turning into
+some modern thing about how Twitter is
+now this next wave and something there
+no I think actually I saw this same
+pattern before anything like Twitter or
+Facebook or anything like that in fact
+there's a thing called Godwin's law so
+when when the internet was available to
+mostly just people in academics there
+was this thing Godwin's law so the
+probability that any discussion will
+mention Nazis approaches 1/100 as it
+continues so this is not nothing
+anything new but those people were sort
+of precursors or like the you know the
+the canary in the coal mine that you
+know this was a new communication method
+and it will be exploited to control the
+masses and if you're not careful and get
+in front of it and figure out how to do
+that in a positive way then it becomes
+used for fascism right and it's
+interesting because if you look at
+television in the US and UK and places
+like that they got ahead of it and they
+actually passed rules and laws pretty
+quickly to control it spread it out
+break it up make it so that it couldn't
+be controlled by one group they got rid
+of that in 1996 but for a long time you
+could not own you can not have one
+company own radio and TV stations in the
+same area and newspapers right you had
+that diversity so they get it did a good
+job at that and you notice the
+television didn't have quite as much of
+this that you see with like the internet
+or that you saw with radio when it first
+came out and I think that's the big
+thing it's not the only thing that
+causes it but without that without like
+a way to communicate with these people
+there's really not any chance that it'll
+happen makes sense so you try to stick
+away from saying things like that
+they're gonna Braille people like are
+you scared to come out and say you know
+what rust is not needed or something
+like that they say that all the time so
+yeah yeah so I know and well at first I
+was kind of scared when they went crazy
+because when I said about Python 3 was
+pretty normal I said you know it could
+have been better done I don't think it's
+run right and I think it's marketed
+wrong it's super weird right and it
+wasn't like I was saying um you know
+like all the people who there have sex
+with goats or anything like that I was
+just saying like technical arguments
+right just basic technical arguments
+the reaction I got was so scary I was
+like wow this is weird and then I was
+worried it was gonna collapse my
+business but then what happened is my
+sales went up so I was like okay never
+mind I guess they can't do anything to
+me so now and I've always been critical
+of programming languages because of this
+attitude they have of sort of lying to
+people and using this weird marketing
+pattern that's straight up from like the
+Nazi Party to promote their stuff so
+I've always been critical of it but I
+can take what I dish out so people are
+critical to me and I'm like okay yeah
+you're critical of me and I think now
+it's actually gotten to the point where
+I'm secure enough in my business and
+what I do and there's enough people who
+emailed me and contacted me and said
+they appreciate the fact that I'm
+critical that I actually do want to
+start a more formal kind of criticism of
+the programming industry in programming
+languages and how projects are run I'm
+kind of curious because a lot of this
+reminds me I don't remember the exactly
+sure I'm sure both of you remember this
+there was a massive project where there
+was a guy contributing it for the record
+I'm like a socially progressive person
+right like I vote Democrat I'm anti
+Trump I'm very Pro LGBT all of you
+however one thing I thought was very
+strange was that there was a there was a
+contributor to some repo who had who had
+said I guess some transformer core
+homophobic things on Twitter and people
+were saying that all of his
+contributions needed to be removed that
+his code shouldn't be valid anymore dan
+do you ever know what I'm talking about
+do you know what I'm talking about this
+is he there was so many people that were
+um they were upset about this where they
+were basically saying that all of this
+guy's contributions needed to be removed
+trans transphobic maintainer should be
+removed from project from LS sheet this
+is for Opel are you familiar with it
+what that is that did you did either of
+you ever hear about this I thought I
+felt like this is a like if there were a
+lot of people talking about this at the
+time that people gonna start vetting
+people's like social media background to
+see if they should accept their code
+contributions or whatever for projects
+it might have um it might have had to do
+you said Opel is that like is that based
+on Linux er
+like one of the I sent a link in there
+is that what you were thinking on Steve
+I can't I can't click anything I just go
+right now cuz it'll mess everything
+apart okay nevermind I was only if you
+guys had heard anything about that okay
+Lin Linux developer who took on Lin 'us
+Torvalds over abuse quits toxic kernel
+community said that your mic come on
+down there yeah yeah give me a second
+okay so all I can't you pull this one up
+don't you have the thing for the screen
+see that oh I mean uh I just can't click
+a link you send me but I can
+what's your article okay yeah some
+reason uh yeah it's cutting out now yeah
+in and out they can hear me now yes
+yeah wait in the dark it's cutting in
+and out now for some reason yeah yeah
+hold on okay this is a professional
+podcast alright I know I do this
+professionally I should be able to do
+this better
+what was it a six thousand dollar audio
+yeah yeah they're very calm okay how's
+that I just stay there and don't move
+alright or almost do this so so anyways
+yeah this issue here running down this
+one the title was transphobic maintainer
+should be removed from the project so
+people actually wanted this person
+removed and they wanted all of their
+past code contributions removed because
+of this I don't know if this is more
+prevalent now I mean it certainly seems
+like it is now especially with anything
+having to do with gaming anything having
+to do with programming this seems like
+anything online well yeah this yeah
+right now is certainly I don't want to
+say the me to movements but if you say
+something that's you know going the
+wrong way they are trying to delete your
+existence from the internet and make
+sure that you can never feed your family
+again is yeah yeah you know and I think
+that's so it's sort of
+complicated because one of my problems
+with open sores that there are a bunch
+of these total jerks who get in on it
+and they get into it to control it so I
+do think there has to be a code of
+conduct um
+it's just that I think that the reaction
+you violating the code of conduct it's
+just way beyond the pale right like it's
+not moderate and you really only see
+that when people are enough abusive
+people no I'm fine if you're gonna do
+now if you're gonna go after someone for
+being really evil and disagreeing and
+whatnot but you know destroying someone
+completely for an a minor violations in
+a lot of ways is actually sort of I
+don't know I just think it's just
+abusive um instead of like having a
+formal process and doing it very you
+know calmly and what I think it's just
+too much sometimes no now that being
+said like yeah if your project is I know
+if they are very for trans and you will
+get in they're talking a lot of trash
+about people who are trans well then
+eight you suck man you're gone it's it's
+enjoying that project you go
+I guess my I guess my kind of issue with
+it the scary thing for me and this is
+kind of how I've always felt is that
+when I think of things about like being
+held accountable for your social media I
+guess I'm really uncomfortable the idea
+that a company that's not paying me 24/7
+can go and find things that I've said
+like not on the clock and then try to
+hold me accountable for it you know
+that's that's something that I've always
+been not okay with I guess maybe
+contributing to open source projects is
+a little bit different but yeah I don't
+know I mean like if I'm not like the
+face of a company or if I'm not like the
+CEO of a company or something I don't
+know I guess I'm just a little
+uncomfortable with that that that kind
+of idea that all of my social media
+every single thing I say can get me
+fired or removed from a project or a job
+at any point in time yeah I think that's
+actually I think that's and that's
+another thing and so I have no problem
+with the criticism of people who you
+disagree with I mean that this course
+has free speech right let me build
+criticize me all the time yeah but it's
+again the response so someone has some
+something they say you don't like then
+you've responded them by saying
+something and just you know talking to
+them right what I don't like is this
+sort of behind the scenes abusive
+destruction of somebody right when
+they've done nothing really to you or
+anyone else but also
+I think one thing I really don't like is
+if you got a problem with that person
+and then you sit there and you let
+someone who is a leader of the group do
+the exact same thing then you're
+basically a massive hypocrite right so
+if you're taking an underling and you're
+basically destroying his life for an
+opinion he has outside the project but
+then I know that the guy who runs your
+project is also like a massive sexist he
+violates the rules all the time he is
+totally against the code of conduct and
+he you know you back him
+which I've seen over and over then
+that's where the real problem is and I
+can think of a ton of projects we're
+like I know I know of projects where
+people told me rumors about terrible
+things the leaders do and then on
+Twitter they're like oh man I'm super
+woke and I totally hate Trump and and
+then I'm like I know that guy is like I
+think I think he's just like and then
+you'll see people who are followers of
+the project or followers of this group
+or followers of that the in order to
+show like how good of people they are
+that go after people who are kind of
+minor you know like they're easy targets
+and then ignore the things that the
+leaders do article like so what's your
+take on them removing master enslave
+terms from from Python this was about a
+year ago yeah that comes up I mean
+people people change their language they
+changed their standards you know if they
+have a process for that then fine you
+know I mean it's a you know on the flip
+side to that if someone comes in they
+say hey I don't like this whole master
+slave thing we should change it up and
+then someone in the project who's like
+you know it's hot person and should
+never be questioned loses it I'm gonna
+say that dudes a fascist like you can
+discuss it I said well hey why do you
+want why do you want to change it like
+okay well yeah I think it's not too hard
+we kept I just do a grep change
+everything in the files from masters
+live to two other words and then you're
+done it's not a big deal but I think a
+lot of these people anyone who's like I
+hate codes of conduct I'm gone why they
+go cuz it's wrong for them to show up
+and change my stuff like okay you're a
+fascist you set up an us-versus-them
+you've created it so that anyone coming
+in and questioning how you the grand
+Kumba of the project runs things can't
+be questioned anyone questioning that is
+your enemy and then you don't you try to
+say everyone hey we're an open project
+and everyone can show up but you aren't
+you don't punish people in the
+leadership who violate your code of
+conduct and when it comes down to it you
+do sort of like token things but you
+don't actually really care about anyone
+in the project interesting well we got a
+little bit so to get back a little bit
+on here so where you stand today
+arguably the most popular learning sorry
+method to learn how to program online
+certainly I would say the most well
+respected what are the plans that you
+have moving forward I think right now
+how many languages do you currently
+cover I actually lose count so I do
+Python Ruby C working on JavaScript to
+Python books actually Python Ruby C
+JavaScript those are languages I'm doing
+a UNIX book and I have a short course on
+vim
+so I teach kind of random things and
+they do two online live teaching and
+before let me just curious actually yeah
+before because we actually skipped over
+this because we went right into the
+controversy thing oh yeah sorry okay
+well it's the lighting is the lighting
+it makes you want to talk about evil
+this we're pretty a little more dramatic
+than I expected to be on this show but
+yeah earlier you can't you keep
+referencing that you kind of like missed
+what you thought were pivotal pivotal
+moments or you kind of missed some
+opportunities or you're a little late on
+things in going back and looking over
+everything you know everybody has the
+fantasy that they could you know be 20
+again and do everything over what are
+kind of some things that you took that
+that you did really well and some things
+that you did really poorly that you wish
+you could change like that what are some
+of your like best successes like the
+best decisions you made and then some of
+the things that you wish you would have
+been a little bit different on um
+yeah so I think the one thing that I'm
+sort of really proud about I was able to
+carve out a niche that's successful in
+the programming world without sort of
+compromising Who I am right
+so I may I put it out for free I helped
+a whole bunch of people like I wanted
+like about a million people read my book
+and I'm really really proud of that and
+I you know stuck to it I said you know I
+could charge folks but I really wanted
+just to help as many folks as I can you
+know
+and I also did it with humor I didn't
+like dumb down what I talked about I
+didn't I didn't suddenly become all
+worried that people are gonna judge me
+you know I still got on Twitter and told
+people to you know go to hell all the
+time and sort of was myself and because
+I was honest about who I was everyone
+sort of was like that's just how he is
+you know and the people who actually
+appreciated my work had no problem with
+who I was right um
+the thing that I probably should have
+done differently is taking it more
+seriously as a business and honestly I
+think what I should have done when I
+came out and saw that it was 300,000
+downloads I should have kept that a
+secret and I probably should have turned
+that into an online education business
+right there and probably should have
+started looking at okay well how can I
+turn this into a business but at the
+time I was kind of more I've just
+motivated by different things I was
+motivated by you know helping folks and
+getting it out there and I just didn't
+think I was a writer really of
+programming books I just thought I was
+programmer I'm just gonna put this out
+I'm never gonna make money it's on this
+and then sure enough it turns into the
+thing that I'm actually better at I
+would say I'm a I'm a better writer of
+these technology books than I am a
+programmer honestly well do you just and
+then kind of just carry so kind of wrap
+that up I'm just curious um it always
+seems like there was um when you read a
+lot of stories of people that there's
+always like one kind of weird thing that
+happened that like if this thing hadn't
+had happened nothing else would have
+fallen into place do you think that the
+like that jazz guitar music course that
+you took do you think that that was like
+kind of the the big initiator for this
+like had you not done that book would
+one of this have happened or do you
+think it would have found your way in
+this anyway um no actually I think if I
+hadn't gone to that school and sucked so
+bad at it right like sucked so bad at
+guitar jazz guitar and keep mine I'm a
+super nerd right like I'm a huge nerd
+people think I'm cool I'm not cool I'm
+like the least cold guy there is like
+it's it's super dork and so for me like
+I'm in this jazz school although there's
+a cool rock star does you know long hair
+and they're super this whaling and I'm
+all like so if I hadn't have been like
+hey I'm a nerd I read books and gone and
+researched and found that book
+I would have never sort of stumbled onto
+this education method and I was like why
+does this work this is so much better
+right so yeah if I hadn't found that
+book none of this would happen I totally
+owe Micky Baker so much and his his
+music is really cool and yeah was
+totally that cool okay what are you
+laughing about Dan you're there laughing
+no I made the mistake of reading chat I
+have to get back to okay so the easy
+what I like to ask people you know even
+my friends and everyone else when
+they're trying to get an idea of their
+their business stuff is where do you
+want to be in one year from now like
+let's say things are perfect for you
+where are you gonna be in one year from
+now and where you gonna be in five years
+and like real answers like you would be
+so thrilled if this was the case don't
+have to be realistic like just really
+where you want it to be um you know it
+was in one year I really want to get
+this sort of art education set up going
+right so I would really like to be able
+to teach people to paint in the same
+style that I'd taught programming that's
+my like one year goal and then within
+about five years sort of be able to have
+enough of a stable of books and
+resources teaching people that I can
+start maybe working on a new business
+not related to teaching at all I think
+that's my 5-year plan but ultimately and
+then when it comes to art I actually
+think I want to start trying to pursue
+the art angle or so you know you said
+getting show who's doing things like
+that that second thing you said you said
+pursue a business not related to
+teaching did you have something specific
+in mind there or just uh yeah you know
+within the art world they're just
+wofully inadequate when it comes to tech
+and I think there's like a whole bunch
+of just random things from programming
+that I could bring over to art that
+would just completely revolutionize it
+but I don't know I mean I have ideas and
+I tend to be very very early with them
+so I never really revolutionized
+anything I just sort of show up and like
+it this would be cool and then five
+years later someone else does so I don't
+think that's just my goal what about
+goals as far as business cents like do
+you have a certain like you know you
+want to have like ten people working for
+you you still want to be the only
+employee like anything on that are you
+completely happy with the work structure
+you haven't um
+you know I would actually not mind
+having people working on this but it's a
+weird business because it kinda is a
+one-man show
+I've tried recruiting other authors to
+write books and they want very weird
+terms like they want total control and
+they can tell me the go to hell and they
+basically still make my organization but
+then I get nothing out of it and it's
+just difficult to actually hire folks to
+do just about anything but wouldn't that
+be the natural progression of your
+business like yes it's like there's so
+many companies get stuck at this point
+because they're unable to go in and hire
+and train someone to go the next level
+it's so common in pretty much every
+industry is that especially things that
+start as a kind of a local I don't say
+local but like a homegrown startup and
+it's like you're doing everything and
+you don't hire anyone and you're gonna
+you're gonna plateau at this point and
+if you want to grow let's talk realistic
+with me knowing nothing about your
+business I'd say if you want to grow you
+have to hire someone who's like the
+dedicated sea guy who's just gonna
+[ __ ] kick ass at sea and you need to
+hire a dedicated is gonna do this and
+that so is that not the case and it's
+there no goal there it's totally the
+case but the thing is is in order to do
+that there would either have to be an
+infusion of investment money I would
+have to go and get investing right cuz
+hiring people cost money like you know
+if I wanted to hire say like two or
+three people for the year that's like
+what three or four million dollars if
+you pay him a regular salary well it's
+it's the goal of being able to do it
+sufficiently as you go like don't you
+think you would have to identify
+something you think like if I get right
+now I don't have a course on assembly
+you know what and if I got this guy he's
+not the best assembly guy but if I trust
+him and he does it I think I'll make
+more than I spend on him then that's not
+losing money you're just like you're
+taking a bet on that right um but for
+whatever reason it is really difficult
+to get programmers to write live in this
+style it's a lot of training on my part
+it's actually easier for me to just
+write the stuff so if I were to hire
+people it would be in secondary things I
+already hire someone for copy editing I
+do a lot of the audio and video myself
+because it's not complicated it's a
+screencast so I brought her for someone
+for that hiring people to handle my tech
+support but even that's really low like
+I've done a good job of keeping it low I
+think the thing for me if I were to hire
+folks right would be in if it was a push
+towards bigger
+educational setup where it was more like
+a school and the school was run a
+certain way and I had two other teachers
+and they taught math online with me that
+would be the direction to go if I were
+to hire folks but as far as my business
+I can do it all myself it's if I want to
+push it in a new direction right and
+it's sort of like I am the blocker on
+the books but in a way I'm the reason
+people buy the books you know so it's
+like I'm it's sort of a cult of
+personality you know it's sort of like
+if you're asking some famous rock band
+if they could just outsource the music
+to someone else right it just doesn't
+work but everything on the side right
+all the production stuff I could push
+out if I had the money no no that that's
+absolutely true but I I look at are you
+do you watch any um you seem like a
+pretty computer savvy guy are you
+familiar with someone that called - from
+- tech tips but no not really
+so he's he's a popular youtuber and
+essentially what he's done is he
+introduces more people into the work
+kind of I don't wanna say his side
+characters but if people who will come
+onto the videos and do things as that
+and these things end up spinning out
+into their own products as a result of
+that so yeah I would just you know it's
+interesting I mean the natural way as I
+said me not understanding your business
+would say the way to expand would be to
+have more courses of the same quality
+coming out or even like running a guy in
+like in a book like I don't know exactly
+how they structured but if you have like
+example projects like having those being
+written by another person as a way to
+introduce them to an audience and then a
+book and then having them eventually
+spun off into their own books is right
+so I was gonna do that with two books
+and I just I tried to get a guy to write
+a book and then he just totally failed
+at it and the big thing for him was
+recording the video so then I went with
+I got two or three people to come in and
+I was like look you write the book I'll
+do the videos and the copyright and the
+contract behind that was just heinous
+and they could not agree to it so they
+just would not do it so if I do the next
+version of that what it's gonna be is
+I'm gonna put together the structure of
+my books I'm gonna have it there and I'm
+gonna hire a ghostwriter and be like
+convert this to go and that's gonna be
+it and they're gonna get zero rights I'm
+gonna pay them a flat fee and be done
+with it because that seems to be the
+only way to do it and like I said
+there's a lot of people who really
+desperately want to be famous for having
+written a book like this
+and when I tell them yeah but like you
+can't really sell the book I have to
+sell it for you it sort of gets really
+weird and they don't want to sign any
+contracts or do anything about it I
+think it's possible to find that people
+looking for but it it is a lot of work I
+mean um I I used to do I used to do like
+um this sounds really dumb like video
+game lessons video game training but but
+I mean coming from the music background
+like I'm pretty sure that we viewed this
+very similarly and that I see a lot of
+other people that kind of give like
+people that are really good at things
+don't understand the process of becoming
+good at them at all they think that just
+because they're good you know they want
+to take a beginner and they do well here
+just do like all of these things that I
+do and you know I'll help you do all the
+things that I do and you'll be really
+good it's like well no you have to walk
+way back to the beginning and show them
+you know in baby steps how to go through
+the fundamentals one at a time so I
+totally empathize with the difficulty in
+finding somebody to kind of also
+understand that I think they're out
+there though and I think that's Dan's
+frustration it's like it's the
+difference between kind of like growing
+I don't know like geometrically versus
+exponentially is when you finally start
+and hiring out other people and get more
+comfortable off loading onto them is
+when you really like explode I guess in
+terms of your earnings potential whatnot
+but I mean it ultimately comes down to
+what you value at the end of the day too
+um you know one thing about that is it's
+also a factor of money it's so like I'm
+poor myself really well but not enough
+to really hire people on this weird
+middle ground so that's why it would
+have to be like a loan or some
+investment because if I had the money
+then it wouldn't be problem for me to
+hire other people to manage the authors
+that write the books so I could hire
+dedicated lawyers copy editors publisher
+type people right and those people are
+not very expensive than another
+programmers where like they want 300,000
+a year they're happy with like the lower
+pay and they love making books and they
+know how to do this production stuff me
+it works because I'm the only person who
+does it so I don't have to coordinate
+with someone else but the second you've
+got to wrangle some other editor some
+other writer it becomes work and so if I
+were to expand out I would have to hire
+people to manage the authors that's what
+I'm learning I guess let's drop into
+some viewer Q&A if that's alright with
+you yeah totally go for it with you
+Steven unless you have anything else
+no I mean I think that's good you
+alright we're gonna go through these I'm
+gonna try and get rid of some of the
+[ __ ] ones okay laughing at something
+someone said there's a lot of show me
+later yeah I think so this is hosted in
+my so just a background I do a lot of
+very very heavy political content it's
+like a big thing so the insides the side
+content into fascism or whatever is
+something that is obviously very
+relevant right now in u.s. politics so
+we do a lot of diving into this so
+there's a lot of people kind of moving
+or joking about just every it's
+basically yeah it's sort of interesting
+on that fascism side um
+I was act in like 2010 I'm sorry your
+mics out for a second you were what in
+2010 oh yeah so on the fascism part of
+things I actually sort of saw that
+rising within programming communities in
+2010 and so when I saw it rising in the
+American political spectrum I was like
+oh we're screwed this is totally gonna
+work and then I saw it working and
+working and working I was like we're
+screwed we're screwed we're screwed and
+I was telling all my friends like no no
+way not gonna win and I'm like nope he's
+gonna win you watch he's doing
+everything and I would try to tell them
+and I'm like sayers the marketing
+pattern and would just totally ignore me
+and then sure enough it worked yeah well
+just don't go full Scott items okay I
+I'm very against just made sure I'm like
+you I'm very progressive and I did not
+vote for Trump and I'm very against
+anyone who's doing fascism or racism so
+yeah okay okay all right so what's that
+what's the yeah those good questions Dan
+yeah give us the Q&A I feel like the
+website programming [ __ ] is
+laden with hyperbole is that a correct
+assessment said or do you actually
+believe planning tools and methodologies
+for example JIRA support XP scrum have
+no place in software development because
+of change developers if so how do you
+meet release dates and customer
+commitments without said planning tools
+planning tools just not to commit to
+anything I hate that planning ship - and
+I wish all I would do is code and design
+work but I
+they're using place in software
+development so long as the management of
+it is not bad okay so yes so first off
+programming [ __ ] it was actually
+a joke because I gave a presentation in
+Utah and I told everyone here's how this
+fascist marketing pattern works and they
+like and then on Hacker News my
+presentation got up and they're like now
+you can't do it now go watch so I went
+in and I took a slightly popular blog
+post I turned it into program every
+[ __ ] [ __ ] com
+and if you look I'm using the fascist
+propaganda technique go read the page
+it's like we are this they are them it's
+all that technique I create a community
+and we've been humiliated by that it's
+like straight up out of the PlayBook and
+I posted it hacker news and it went jump
+to the top and then the people who are
+at the conference are like wow okay then
+it sort of took on a life of its own and
+I started getting invited to debate
+people at agile conferences about this
+joke and if you look at the methodology
+the methodology do you make a list of
+stuff and then you do each part of the
+list and then you make sure that it
+worked I mean that's the the simplest
+methodology you can it's not even a
+methodology right it's it's it was a
+totally a gag that just took on a life
+of its own however I do believe that
+tools like JIRA and a lot of these other
+management are sort of they're designed
+for managers to not do their jobs so me
+I think for example go look at JIRA any
+kind of Jura thing and you see it's like
+forty fields like people feel like crazy
+fields in it and not a single one of
+them is being used to manage anything so
+the easiest thing to manage is a shared
+to-do list of stuff and you don't find
+that anywhere when I do project
+management or I do my own work it's
+mostly just a to-do list that's really
+all you need so something like a Trello
+or work instead what I find with a lot
+of the agile methods a lot of the
+management methods and a lot of these
+other things is that they try to control
+personal process with team process and
+that's where I think the the problem is
+it's not that you shouldn't have gene
+processes and organization is that your
+team process shouldn't infringe on your
+personal process for getting your work
+done that's where it becomes abusive so
+for example pair programming
+so if someone is telling you demanding
+that you have to always forcefully pair
+with people right then that's basically
+a changing right well here I got a
+question for you on that one
+go for what is the negative connotation
+with force pair programming I always
+thought it was a good way to crank out a
+complicated task with a diverse
+perspective the negative connotation is
+they the people who came out with agile
+we're sort of doing what I call Ponton
+Bailey saumon Bailey is where it's a
+rhetorical technique where you put
+forward some sort of like untenable
+position I look over all of this stuff I
+love this this is my favorite this is my
+favorite ghost ever
+so am on Bailey as you go programmers
+are robots who if left alone will never
+talk to anyone they'll be in the
+basement cowboy coders you go I don't
+know I talk to people a time man like I
+just kind of work with him when I need
+to and I ask for help and they go yeah
+but I mean what I mean is if you pair
+then you have the best communication
+that's right
+so the thing is is forced pair
+programming is you are forced to do it
+all the time whereas there's no research
+to shows that that's better than just
+letting people collaborate the way they
+do all the time so just let them pair if
+they're in the same room they're in a
+pair right this is the way it is it's
+it's sort of rude to say that I'm gonna
+just be a robot right but then the flip
+side to it is there are a ton of things
+that you sort of just have to have
+solitude and salt and like calm to work
+on your own and not have someone yelling
+in your ear you forgot to say me : you
+forgot a semicolon like every 10 seconds
+most Perigord are having is someone just
+looking at the text editor turning stuff
+red and going you forgot that it was
+just for people that don't know in chat
+cuz I didn't know and I just look at
+this I have I have made the assumption
+that pair programming was like two
+people were assigned to the same task or
+something but I but I just looked it up
+because I was curious pair programming
+is an agile software development
+technique in which two programmers work
+together at one workstation one the
+driver writes code while the other the
+observer or navigator reviews each line
+of code as it has typed in I feel like I
+would kill myself if I had to do this I
+don't know anything about programming
+with this honest-to-god sounds like the
+worst [ __ ] idea this sounds like some
+shuffle oh my god but this is how much
+like Silicon Valley's like has it stuff
+fed like
+well it's interesting our sake because
+in a junior programmer situation like a
+training situation this is very very
+good right so you let the gene and run
+the keyboard and you instruct them but
+I'm a professional so if I'm going to
+use vim and code with my tools all that
+matters is I got the job done
+right and that's where I say like if you
+come in with your team process of I
+gotta use eclipse and JIRA and code with
+this guy who didn't shower and just
+yells at me for red squigglies on a text
+editor then you're just killing my
+productivity right the other problem is
+the stated goal of that stuff is to make
+me work way harder than I would want to
+normally so there that's why it's a
+chain gang right I was gonna say to be
+fair just a little bit that I talked to
+devs now it seems like this seems like
+some really I feel like programmers
+today in their work and like the larger
+companies generally have more freedom
+than it seems like they used to at least
+you know we're like you're typically
+allowed to work on your I know at least
+for Facebook cuz I have a friend now
+that I I got to watch how they were
+working and I was always under the
+assumption that these guys are all like
+cubicle dudes but it seems like they're
+a big fan now of like and I think Google
+does this tool you've got open campuses
+people kind of choose and they want to
+work on you're not like hardcore
+restricted to a certain schedule and you
+just get it kind of like you're by
+yearly reviews or whatever where they
+kind of make sure or you're half year
+reviews or your reviews to make sure
+that you're kind of like working on
+stuff and one other that seems to be the
+way that people larger people at least
+are going do you remember for a while
+everyone was pushing these open work
+spaces where it was like complete cancer
+to get anything done hey that's my
+facebook Facebook has an open workspace
+I don't know it looks really nice man
+and no one there I look scatters you
+don't think you don't think that you're
+not a fan of it no that's absolutely I
+would rather work personally I'd rather
+work in a cubicle and then an open work
+space really yeah where I have like ten
+dudes like sitting next to me no that
+sounds I mean but damn you have the
+headphones for it you have the
+headphones for open workspace it just
+sounds god forbid I clicked the wrong
+reddit link or something like that and
+my wife is over or you know that's one
+thing I tell people is you have a
+separate computer for work and nothing
+personal is on that computer like bring
+it to work yeah only you know and also I
+think as you mentioned this has changed
+and I think that's the differences the
+agile stuff was created for people who
+are consult
+and consultants aren't working on
+anything that has a direct impact on
+themselves right so they're just working
+on someone else's stuff and I think the
+big change that you see is that
+programmers are working for companies
+that have stock options and so if the
+company succeeds they succeed so it's
+much easier to get them to be motivated
+to work on things you don't have to have
+some babysit them constantly uh-huh yeah
+I was just reading some of the there are
+a couple huge reddit threads I got
+posted on that programming [ __ ]
+website some of these comments are very
+cute that one of those top level comment
+says the become a programming
+[ __ ] part of the site actually
+has a lot of good resources and then the
+guy beneath them says they are good
+resources the learn X the hard ways
+excellent for beginners I'm a huge fan
+of that author and I guess the guy
+doesn't realize it actually route the
+site that's good yeah so one thing I
+wanted to do with that is um I know that
+I'm sort of like getting close to the
+end of one of my books I sort of want to
+do like a live show called the Brock
+mofo show
+we're busy I just ripped people's code
+and I talked about tech and stuff like
+that oh you need more haters on the
+Internet is that yeah I mean it's
+working for me because they find my
+stuff until I go back that book is
+really great I'm gonna go for it which
+of which of your books do you think
+would be if someone just wants to start
+programming what's the one that you
+recommend what language so I sort of had
+this thing where I say like it totally
+doesn't matter right so it's sort of
+like if you get your kid a bike it's the
+first bike doesn't matter right it's
+just that they learned to ride a bike
+right and then after that they can get a
+better bike in a car whatever so when I
+tell folks is if you have no money my
+Ruby book is free so just go learn Ruby
+like it doesn't really matter like the
+book is the Ruby book is really similar
+to a python book so don't spend the 30
+bucks just go read the ruby book people
+do just fine doing Ruby it works it does
+all sorts of stuff and then until folks
+if you're in sort of like science or
+things like that you have to do math e
+stuff I thought is sort of like the big
+thing right now for doing that so go
+ahead and learn Python but I really
+think soon my JavaScript bug is going to
+have the best design so all the stuff
+I've learned from teaching online live
+is gonna be packed in this book it's
+basically going to be I have a book
+that's learned Python and learn more
+Python and it's those two books combined
+streamlined a lot cleaner and
+with all sorts of extra things like it
+just all sorts of concepts I came up
+with on how to teach it even better so
+I'm actually once that book is done I'm
+gonna push it as the book that you
+should learn because when you're done
+with that javascript book you're gonna
+be basically a pretty competent
+programmer you learn algorithm build
+tools you learn how to build all kinds
+of things where's the Python book you
+come out of it able to go through
+another book interesting all right three
+general if you have something you want
+to build and you can find a programming
+language that or an example project
+that's in the language and has kind of
+already done that then just go with that
+so like I tell people yeah PHP rocks man
+is crank out PHP just do whatever work
+it's dangerous to say that though how
+these days because there's so like
+everyone's like oh you use PHP I don't
+want to touch you I'm like you know like
+yes you know you can give me the worst
+program language ever and I'm a
+professional programmer who knows make
+quality and I will make quality code and
+you can take the language that's
+supposed to be the most robust I like
+you say Haskell or Erlang or anything
+like that and hand it to like a terrible
+programmer and they will turn that stuff
+into a massive turd it'll be a very
+typesafe turd but it'll still be a turd
+so the language kind of doesn't matter
+right yeah
+so has your stance on Python three
+changed since you released the book
+learn Python three the hard way no not
+really I mean so what I did around some
+of the problems I had right and and for
+the background I wrote a essay where I
+said I disagreed with how Python 3 was
+promoted but also what they changed Enix
+I didn't really change much it's not a
+massive improvement and they have a lot
+of things that are bad for beginners
+like five different ways to format
+strings I don't know why it's so strange
+so what I did is I just kind of worked
+around it but now I don't really feel
+the direction of Python 3 is really all
+that good and I think technologically
+it's not really going anywhere they seem
+to have problems with their pets the way
+they do they're modifying it even to the
+point where ghido he just quit he got so
+sick of managing the Python pet process
+he just quit and so that's why
+pushing the JavaScript book I don't
+think javascript is like a such a great
+community but the people who manage the
+language are motivated to actually
+improve the language so es6 and yet x7
+actually make the language a lot better
+you see things coming in from typescript
+from Microsoft they do a lot of work
+they're at least trying to make it
+better right and actually make it
+productive for real programmers whereas
+I see the Python 3 folks are just kind
+of making it good for them you know then
+like not really caring about what's
+useful for other folks or or you know
+making it faster or like there's not a
+whole lot that they're doing and they
+also ignore projects that could help
+like say the pipe eye project which is
+Python and Python and they sort of
+largely ignore that project even though
+it's better it's super strange what's
+your view of the current hiring process
+that's typical Silicon Valley right now
+for instance how many golf balls fit in
+a bus I think it's terrible um I
+actually sort of stumbled onto an idea
+from teaching folks that I think the
+best way to sort of test if a programmer
+is good without making them do fake work
+is to present them with a debugging
+problem so you present them with broken
+code that you know how to fix and you
+see how many bugs they can find because
+like honestly like I'd say is 70 to 80%
+of the work that you do as a programmer
+on a long-term project so a project has
+been around is fixing other people's
+[ __ ] yes exactly
+fixing refactoring finding bugs I'm like
+the one thing I'm very very good at is
+actually finding bugs and so I teach my
+beginners how to do that like and and
+then also because I spent so much time
+learning how to find bugs and debug
+things I actually figured out how to
+sort of try to prevent them so defensive
+coding but the actual way they hire is
+just lame like the year about all these
+all these people who are like super good
+programmers and then these super do good
+programmers can't get work because how
+to reverse a red-black tree or something
+like that and you're just like I mean
+who cares I'll look that up in a
+textbook like present me with something
+that's actually what I'm gonna be doing
+in my day to day work you know and
+debugging is it debugging is a big thing
+that you're doing your day to day work
+it's like 90% of programming at this
+point googling unlike Stack Overflow
+yeah
+but googling for what bugs right so
+googling for an error it's like if you
+if you can do that and you can find bugs
+and you can find the problems then you
+know you're probably gonna be fairly
+good at a company that's trying to fix
+their stuff especially some of these
+startups who have terrible code and they
+need to hire people who can fix it you
+know I can I can think of tons of
+startups who had chances to be acquired
+and couldn't because their code was so
+terrible
+I had an ex I worked in kind of defense
+and talking to her about the the
+nightmare [ __ ] legacy [ __ ] that was
+like around from [ __ ] decades ago
+that you'd have to like hunt down people
+to ask them questions for what the [ __ ]
+was going on it sounds like a [ __ ]
+nightmare holy [ __ ] it's awful yeah I
+mean I sort of get a kick out of that
+like I'm the guy who you hand me tangled
+string and I'll sit there for six hours
+peeling it apart while I watch TV I love
+stuff but yeah if I ever if I'm like
+going to use some project or something
+like that I go work at a company that's
+just totally mangled code I'm kind of
+like yeah bucks you know and it's it's
+it's a big skill and actually I'd say
+probably this one of the reasons my my
+career has been successful it's because
+like the first thing I do when I work on
+a project is a hit the bug list and it
+just starts solving bugs like I just go
+in and I just do the all the terrible
+crap work nobody wants to do you should
+become a video game developer man
+there's a lot of companies that could
+right now I would love to learn how to
+make video game playing artistic skill
+but it seems like a lot of background
+work that I just sorta don't have time
+to do you started getting into art
+lately painting you simply taught
+yourself from now you're decent artist
+yeah yeah thank you yeah um yeah I
+basically I started teaching myself
+about six years ago and is a while ago
+yeah yeah yeah yeah I put in a lot of
+work for it I mean I guess I've probably
+put in like three to four hours a day
+for like five years you know and I went
+to a school for a little while like a
+kind of crappy classical realism school
+basically they're the Nazis of the art
+world like if you can't draw a sphere
+perfectly then they're just like you're
+uh yeah well it's kind of down right now
+zette shot calm / category / art yeah
+there's some of that I would say my
+Instagram is the best so Zedd Shah and
+Instagram that's where most of the art
+is and then I'm kind of revamping it but
+is that shot art I actually recorded a
+bunch of videos of me painting outside
+you know just kind of fun stuff but
+Instagram is the best is that y'all on
+Instagram okay cool
+any controversial statements you want to
+say so we can get some extra stress out
+of this um I don't know so it's sort of
+funny cuz like what people are like oh
+man that guy's so controversial I'm like
+what about the guy he doesn't like
+Python strings like wow okay you have a
+really warped perspective of what's
+actually like controversial like I can
+come up with way more controversial that
+happens within the general world but
+otherwise no I mean I would say about
+the only thing is just you know my views
+on open source being just I don't know
+after years of trying to do it I just
+actually believe that Oh almost every
+project by the nature of open source is
+run kind of like fascism and the people
+who are in it seemed to be fascist and
+people who run it seemed to be fascist
+the marketing behind it is always that
+way there's nothing you can do about it
+so yeah I mean it's something I've kind
+of had to deal with and come to terms
+with myself you know being a big open
+source contributor and supporter and so
+now I'm kind of like just wrestling with
+that these days just to be clear you're
+still like a supporter of open source in
+general right or so it's it's funny yeah
+it's like I have this love-hate
+relationship and a lot of it is now I
+sort of tell folks like if you do I
+think right now open source is that like
+the peak of the way it's run currently I
+think it's gonna change or die and then
+I also think that I tell people look if
+you're just looking for experience it's
+fine to go and join open source project
+and contribute but just keep in mind
+that they have a tendency to take
+advantage of people so get in get your
+experience get out and then it's all
+also folks I'm just like you know but
+you can also start your own projects and
+you learn a lot making your own stuff
+and making copies of other people's code
+and that's more fun and you don't really
+have to worry about being in a community
+I think community is overrated I think
+you can hang out with your friends
+can just make random weird stuff and
+that's just as good absence paces tabs
+or spaces ah I have very specific easy
+to argue for spaces so with everybody
+you're a programmer exactness exactness
+and specificity is what we do if we have
+any sort of discrepancy or ambiguity it
+causes problems right that's what
+computers are about okay so tabs are
+ambiguous spaces half of your potential
+fans yeah no seriously spaces are exact
+right so spaces if four spaces is four
+spaces is four spaces everywhere but if
+you take some text editors like Emacs
+and you say oh my tabs are three Emacs
+we'll try to optimize it and then you'll
+end up with six spaces and two tabs and
+then someone else will go and open it
+like eight spaces and nine tabs and so
+spaces only because it's the most exact
+way to write your code that's it cool
+are there people that on ironically
+argue for tabs I mean like it seems like
+tabs are totally expressional with
+spaces like you can use spaces to make
+tabs but tabs seem to have problems why
+do people is it just because it's
+simpler to tiger so for me it's totally
+practical I super don't care but I know
+every time I get us a file with tabs in
+it it gets mangled so I'm just after
+years of like getting files with tabs
+they get mangled like dude just two
+spaces no like and remember what I tell
+you a lot of people who join open-source
+projects are certainly these insecure
+narcissists so they want to be like you
+know it's all about me and my Tech
+Center and I have to have nine point
+five spaces for my tabs or else I'm
+gonna go cry okay just just you work
+with other people just use spaces and no
+they have a huge issues with it big
+debates I'm kinda like I don't care I
+got I'm gonna go do some painting or
+something okay what else Danny anything
+else are we good is that it no more
+questions you have any politics stuff
+you want to bring up says okay you know
+when do politics may have no way no I'm
+trying to
+we've already lost like half of our
+audience I think we have like a quarter
+of the initial one you know with
+everything you've done so far for lovely
+fascist now we're people who like tabs
+we're down to a few people now that's
+alright alright well look said I want to
+thank you for coming on this is a kind
+of the first episode on this new channel
+here we're trying to anything I
+appreciate you hopping on and I think we
+had a good discussion and hopefully we
+can have you back soon okay thank you
+very much
+yeah maybe if we start an investment
+podcast you can get money for your
+hiring out work I think it'd have to be
+I'd have to be less controversial and
+play the game be getting better so maybe
+I'll wear a suit next time and I'll be
+on the stage and we'll do it that time
+cool all right well thank you for coming
+on and uh cheers thanks everyone
+yeah thanks for joining thank you all
+right

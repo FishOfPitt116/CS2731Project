@@ -1,0 +1,3394 @@
+hey guys what's up this is startups
+episode 4 joined by my co-host and we
+have special guest Luis rossmann today
+how are you doing how's it go I'm doing
+well we have this is actually pretty
+exciting this is gonna be like the first
+time we've had like I think like a
+really big like computer tech guy that's
+been kind of like all over reddit I'm
+sure you're aware a lot of your videos
+get posted on a lot of the subreddit and
+everything so yeah do you want to like
+introduce yourself or people in chat
+that don't know exactly who you are yeah
+my name is Luis Grossman I have a
+general electronics repair shop in New
+York City it started off when I realized
+that the recording and studio business
+was not going to be a great way to make
+money going forward and I noticed that a
+lot of people had Apple products that
+they were using for music as you know
+consoles and tape machines and all of
+that stopped being used so I started
+working servicing that those products I
+eventually went down the rabbit hole of
+just from doing normal basic repairs to
+doing component level repairs that most
+other places didn't want to do using the
+knowledge that I had learned from the
+recording studio technicians that I had
+worked with and then as time went on I
+went down the rest of the rabbit hole
+which is the extent to which the
+companies do not want you to work on
+your own stuff I was I decided that I
+was going to start posting videos of
+what I was doing
+I thought that I would have a max of 50
+to 300 viewers worldwide because of the
+just an itch nature of the content and
+my boring presentation and now there's
+about eight hundred twenty thousand
+people watching and it's definitely went
+far further than I thought it would okay
+do you want to I guess do you want to
+kind of get into how you went from so
+did you own a recording studio or did
+you just work in one as an employee or
+how did that work I guess I wanted to be
+a recording engineer so I wound up going
+on the doors of almost every studio in
+New York City or showing up or calling
+and I wound up getting hired a
+progressive music which was kind of a
+dump and then I got hired as an intern
+in Avatar studios which at least before
+they got bought by Berkeley was one of
+the best recording studios in the world
+they had you know that that's where
+Bruce Springsteen did all hauls
+recordings Liza Minnelli and it was the
+last place at left in New York City that
+could actually fit an orchestra into one
+room so the I got started there as
+and that was about 2007 do you have like
+a music background you play anything or
+do you just like audio engineering
+alright no I just I just like music I
+have I don't have much of an audio
+backgrounds I'm not I mean a music
+background I can't play music at all so
+that's why I eventually was pushed away
+from the recording engineer production
+assistant were all into the role of
+technician because I was I was good at
+that
+I was awful at music just because even
+even if you're a recording engineer even
+if you're not actually making the music
+if they say you know go to the bridge
+you have to actually know what what the
+bridge is and I was just so not
+knowledgeable about music that I was
+useless as a recording engineer
+really interests me of all like the tech
+related jobs you could get what I guess
+between doing anything related to some
+programming or any other number of I
+don't know how many other like physical
+Hardware drums there would be what drew
+you to trying to do like recording I'm
+curious just without having a music
+background I well I really enjoyed
+listening in music and I enjoy it and I
+wanted to know why does it that this
+album sounds like this and that album
+sounds like that or especially from one
+group I would wonder why does this album
+sound really amazing and this wouldn't
+sound like garbage because before I knew
+any better I just thought that the band
+got in a room one microphone was put up
+and then that was just published because
+you know that was an ignorant teenager
+and then when I realized that there's
+actually an art form in a science as to
+why it is one album is gonna sound
+different from another and that there
+are people that have input in this
+process I thought that that was very
+interesting I wanted to be a part of
+that process and I was interested in
+just because I was I didn't like
+listening to albums from groups that I
+liked that sounded like trash so I
+thought you know I would I want to learn
+this and I want to become good at it and
+I want to be able to do better okay cool
+did you go to school for anything
+related to this I took I had a very
+brief stint at one of those scam audio
+schools called IAR but I wound up
+dropping out before finishing and one of
+the things that was interesting is that
+one of my teachers there was actually a
+technician at Avatar studios about 11
+years before I worked there and they
+knew him by name they he had messed up
+so much stuff that they actually still
+knew him by name 11 years later and they
+decided they were going to reteach me
+everything that I learned once they
+realized I had taken electronics course
+with that guy God cheese
+so what was the process of
+the switch from from bats and moving
+towards electronics repairs it seems
+like I'm very technically oriented
+difficult learn skillset to just kind of
+make that's well I was I had it was much
+better at with a soldering iron and
+reading schematics and things like that
+then I was at dealing with clients I was
+socially awkward that's one part you
+need to be a recording engineer I also
+didn't know a lot about music that's
+another thing you needed so I was kind
+of goaded in that direction the other
+thing that pushed me in that direction
+at avatar studios one of the pinnacle
+points for me was that a lot of the
+people this is probably offensive but I
+don't know I was the phrase that a lot
+of the people who are the production
+assistants and the recording engineer
+assistants assistant engineers they were
+very much so hipsters you know that they
+they wore the you know they they it was
+kind of that aura of well you wouldn't
+know this book because it's not
+mainstream if you ask somebody what the
+name of a book was rather than just
+telling you what the name of the book
+was so that you can look it up for
+yourself that kind of thing it was the
+very that hipsterish culture the very
+kind of elitist hipster rich culture and
+I did not get and I didn't get along
+with them and I tried to but I was
+different they didn't dressed the same I
+didn't talk the same I wasn't invited
+I wasn't a part of it so I you know I
+got made fun of quite a bit and then
+there were the technicians that worked
+there they were kind of the old-school
+plumber types they were all about 20
+years older they all they kind of spoke
+like you would imagine an old-school New
+York plumber would talk and I got along
+at them very well and they were not that
+that stereotype so I got along with them
+and one day I was cleaning one of the
+toilets in the room and the guy said you
+know you've been in there forever can I
+use the bathroom and I said well just
+give me one sec almost done cleaning and
+the guy says you're cleaning the toilet
+and I said yeah that's my job and he
+said nobody else here does that and then
+I shook his hand and I told him I was
+really interested in what he was doing
+with this one figured if I think was in
+Nev 22:54 compressor or something like
+that and I told him I thought it was
+really cool that he was able to
+troubleshoot and figure something out
+with it and he said yeah man you can
+come by and check out what we're doing
+so that was that was really interesting
+to me because on one hand I had a group
+of people who kind of ignored me weren't
+exactly very fond of the
+that I was working there and that I
+didn't know how to relate to at all
+because every time I try to relate to
+them there'd be this kind of elitism of
+you know where hipsters we know
+understand aspects of culture that you
+don't we wear ironic shoes and all that
+and then I had this other group of
+people that actually admired the fact
+that I was doing my job that liked me
+that appreciate that what we're saying
+here you can come into the room and
+check out what we're doing so that was
+did that shift me away from the
+recording side or the my pursuit of
+becoming an assistant engineer and our
+production assistant assistant engineer
+in the recording engineer over to being
+a technician and that was in fall of
+2007 interesting that happens over the
+course of how many year so I got my
+internship best music and May of 2007
+I've got internship at our Studios our
+member doesn't wait and we're I'm sorry
+we're kind of falling it's like lagging
+like just a little bit sorry about that
+I'm just waiting a second for to settle
+down okay try again okay so I could you
+could you oh man yeah so I started at
+around May of 2007 it was I learned a
+lot there I learned a lot about common
+sense of business and thing but studio
+was for lack of a better way to say it
+all and then I wanted to get I wanted to
+get experience at a place that of those
+hoeing somewhere I could learn more
+that's where I think that's why I
+started it so I started there in
+September 2007 okay and I hope to become
+it and that month then is when
+technicians I think it was Phil yeah
+Phil not he to work at Polk Audio you
+notice that I actually cared and he come
+and check out anytime you want and
+around one or two months I'm sorry oh my
+god it's like come on just wait let's
+just wait like 10 seconds I don't know
+if I'm on the bottom left of your
+discord thing is there like a green or
+red indicator does it say if it's like
+where it says like connected it says
+video connected 17 milliseconds in one
+bar or like oh it's one bar okay hold on
+we just have to wait a second there's no
+way to like switch to servers where the
+call is they're down we could redo the
+call I think just like every now and let
+your voice let you like turning
+mr. Roboto I don't know why his video is
+completely frozen from around now also
+hi Lois okay wait okay I'm gonna try
+switching the servers and the top right
+we're on us east i'll try switching to
+central hold on one sec oh okay does
+this work hello yeah hello
+Oh oh my God thank God okay yeah now I
+have green ice agree amazing oh my god
+okay I thought this is gonna be a
+nightmare okay awesome
+okay so I keep going yeah so and then I
+started at a I started at Avatar in
+September 2017 around October 2007 it's
+2007 not 17 2007 is where the tech
+people started to trim you know notice
+me and treat me differently and that's
+and that's when I started getting way
+more interested in working in that area
+and then one of the managers said would
+you rather work towards the you know be
+the path of becoming a technician rather
+than the path of being an assistant
+engineer or production assistant and
+since the texts were the people that I
+got along with and the assistants
+engineers and were you know just for the
+apps everything that you can imagine the
+negative stereotype of a Williamsburg
+hipster being I jumped at the
+opportunity to work in the tech room god
+yeah how long did you work in the tech
+room after before you moved on to kind
+of like starting your own shop or is
+this pretty fun this is about four or
+five months I wound up quitting in March
+or April of 2008 it was funny because I
+gave two weeks notice one of the things
+I noticed is that anybody who was under
+the age of 26 or 27 would get called one
+of the kids and I was 18 so I figured I
+could stay here for seven years and
+still be getting called the kid and
+there were some people there that were
+you know 20 to 30 years older than me
+and while it was a great opportunity I
+learned a lot there was a lot to learn
+there and a lot of great people to work
+around it seemed to be something where I
+could work there for 20 years and go and
+go nowhere so I learned I think 80
+percent of what there was to learn I
+gave my two weeks notice
+and I they say I said why because I
+imagine nobody has ever quit a place
+that was so prestigious for without you
+know being offered a lottery or
+something and I said you know I really
+appreciate the opportunity it's just I
+think I've learned that about 90% of
+what I'm going to learn I don't think
+that there's going to be
+a lot of future for me here a lot of
+places for me to go and and I really
+appreciate it I just wanted to move on
+so and I and he said okay or thank you
+very much and then I left and then I got
+a call the next day saying yeah you
+actually don't come back you're fired
+they were there with from because they
+were they were that offended that
+somebody actually quit and didn't want
+to work for 750 an hour for the rest of
+their life really because then you can
+actually claim unemployment insurance as
+a result yeah I could have it because
+the thing is again one of the people who
+was working there with me was 12 years
+older than me he had a master's degree
+and he was making about twelve to
+fourteen dollars an hour so I looked at
+the way I looked at is I thought I could
+be here for 12 more years and I will go
+from seven to twelve and it wasn't even
+just about the money was just about the
+idea that for the neck if you call if
+you have a company culture where you
+call everybody below a certain age the
+kids and I understand why that is you
+know the experience gap between the
+old-school engineers and the production
+assistants but I don't want to be 25 I
+don't want to be here seven years later
+and getting called one of the kids so I
+left and I went back to work at the
+other small studio progressive music to
+try to make it better the financial
+crash occurred at the end of 2008 so
+that place will end up closing and I
+found myself entirely without work I had
+bought a MacBook because I wanted to
+finish up a session that I was doing for
+somebody that I was using logic for it
+showed up broken I fixed it I wound up
+not needing the machine anymore and I
+sold it and I made about two or three
+hundred dollars of profit and that was
+where I thought to myself you know okay
+I don't have it I can't go back to
+Avatar because they're they're very
+salty that I quit yeah I can't go back
+to this other place because I make
+because they're out of business well
+crap but I just made two to three
+hundred dollars for about twenty minutes
+of work let's try that again and then it
+is so it's a job that occurred by
+accident did exist back then I'm trying
+to remember for Best Buy Geek Squad did
+I actually had applied for a job at Best
+Buy not even as Geek Squad
+this was about two thousand six or seven
+I just applied for a job as a regular
+clock when they were hiring the low
+level people and I didn't even get that
+I got like I was really close to like
+getting into like computer repairs like
+actually as part of my early streaming
+career I did I built computers for
+people and then I touch like a
+commission on everything and the I
+remember looking at the prices for the
+Geek Squad stuff and it was like I think
+to like it too
+to install and service a hard drive they
+would search like $80 or $100 for
+something it was literally like 5 to 10
+minutes of work tops like we're just
+like sliding a hard drive into a
+computer we said that was like really
+crazy the the charges that they would do
+early on it was based on that I was a
+geek spot guy back in 2002 I heard 2003
+and yeah it's the bottom of the Rhine
+the people that are hiring to do that
+we're just using pre-made tools they
+didn't really I don't think they did any
+of the type of repairs he's doing if
+[ __ ] didn't work bad capacitor we just
+say goodbye on your motherboard or
+something yeah when it comes to the
+basics things like drive installs I
+always try to preface it by saying this
+is something you can do yourself here is
+how you can do it but the reality is if
+I'm going to stop you know working on
+something that is really important to
+put a drive in install the operating
+system then answer all the the post
+questions then usually we will build
+something where we make about a hundred
+dollars of profit for it just because
+there is there there is usually a lot of
+post sales support so this you know
+where is this application how do I set
+up my email how do I do this how do I do
+that
+I was marking like I was talking for
+like it you can charge this much but I
+understand that like even installing a
+hard time can be a daunting task a lot
+of people but the thing is what would
+bother me is that they wouldn't just be
+honest and say here's how you can do it
+here's where you can buy it here's how
+you can do it yourself I would I don't
+try to upsell people on it like you know
+do you want me to do this other thing
+for you it's only once somebody says if
+somebody says yeah I can do this I was
+like okay cool
+and when I say here's how you install
+the operating system and their eyes
+glaze over as I say operating system
+then I'll take the business but if it's
+somebody who's somewhat savvy I'll just
+say here's an Amazon link here's where
+to buy it
+here's the screwdriver you need go sure
+now the difference is on the newest
+machines with that Apple's making where
+they glue the screen into the computer I
+don't know if you've seen that like the
+new iMacs where the screen is about $600
+it's held in by adhesive and it's very
+easy to break because you're removing it
+that type of stuff is just I see that as
+a middle finger to the customer but so
+so so the skill set for doing this type
+of stuff it's not just knowing how to
+use a soldering iron I know how to use a
+soldering iron but as far as being able
+to determine like hey the reason that
+this LCD is not turning on is because
+you can see right here as you trace this
+down and you go to here obviously the
+voltage on this capacitor like that's
+that seems crazy to me I've seen your
+videos to get that level of knowledge to
+be able to do that replacement without I
+would say basically having to go to a
+school specifically to learn that level
+of stuff how did you pick that up and
+also be able to take a jump to same and
+do this full time well the first thing
+was the knowledge that I got from
+working at avatar under the like the
+Rick Ricky begins the ROI Hendrickson's
+in the Philips comes with having being
+having that internship where I could
+work under people who were best-in-class
+as technicians that that definitely
+jumped me forward several years because
+I didn't have to go to college for
+Electrical Engineering and all of that I
+got to learn all the minor the the finer
+aspects of troubleshooting without yeah
+like with 1960s and 70s equipment okay
+you know it's totally different working
+on an EVD 88 from 1976 in a MacBook but
+a lot of the same general concepts of
+troubleshooting of how to isolate an
+issue how to isolate which circuit is
+responsible for it a lot of those things
+came from the other thing is when it
+comes to liquid damage repair a lot of
+it is what I try to get across in the
+channel is that this stuff is easier
+than it's made out to be I don't want
+you to think that you need to know what
+a Coulomb and frauds and all that stuff
+is to just basically get started but if
+any message could get delivered from my
+channel it's the message that you can
+get started on it without having to know
+all of these things with just some basic
+common sense and detective work so when
+I start you know it's a lot of it is
+cleanup in Aisle seven because there's
+corrosion on this thing rather than you
+know the FIR odd measurement of this
+specific capacitor is off by five
+percent and I found this using my Mensa
+IQ so for example if it's liquid damage
+and I see that there is liquid on this
+specific section I have liquid on this
+section and I have this problem so now
+I'm making a pattern recognition
+Association in my head
+this circuit probably has something to
+do with this thing so then I'll just ask
+myself okay what is what is this you
+know and then I'll look at it and go I
+have no idea what that is so I'll make a
+list okay figure out what this specific
+type of drawing what is this circuit
+even called before I even understand it
+and then I would decide okay what is the
+what are the individual
+in the circuit called what is this thing
+supposed to do and then I'll kind of go
+from there and then I would also compare
+a working one to a dead one before I
+really knew what every single signal was
+for so that I could try and figure out
+where the problem was I didn't start I
+definitely didn't start out with this
+great understanding of electronics
+engineering it was really just oh this
+corrosion here clean up in Aisle five
+and then I would make a list for myself
+every time I said why I couldn't do
+something of why it was so you know I
+would fix this but I don't know what
+this circuit is okay so I would make a
+list of what is this thing called print
+screen it posted on Stack Overflow ask a
+friend whatever it is try to get an
+answer to it and then it would say okay
+I would fix this I know what this
+circuit is called if only I knew how it
+was supposed to operate now okay so now
+my excuse for not being able to do it
+was I don't know how the specific
+circuit is supposed to operate so let me
+find a known good one make measurements
+of it and then contrast and compare it
+to this one so that I could see how it
+works so I buy a board or I'd find one
+that's a customer had left that they had
+recycled and then I'd make all my
+measurements and compare this one to
+that one and then from that and I would
+kind of fill in the gaps to try to learn
+everything rather than just going the
+college way of let me learn every single
+piece of the building block from scratch
+I would kind of just I knew nothing and
+I was just filling in the spots that I
+needed to know as I went so tell me take
+me through the process you've left your
+job or we made something real specific
+to that I'm just really curious go for
+it right so in some of your videos I'm
+almost positive I've watched you hold up
+like a schematic I'm certain like Apple
+boards and whatnot is that stuff like
+easy to acquire or is that like hard
+core proprietary or why didn't you start
+with like actual like schematics instead
+of trying to like figure out everything
+by yourself well a lot of what I was
+figuring out what I myself was not even
+was with the schematic it was just I
+didn't I didn't know what a buck
+converter was you know I had when I
+after I had spend six to ten months
+working on pole techs from 1951 or LA
+two ways or Neve eighty eighty eight's
+there's no such thing as a switching
+power supply in any of these things it's
+60 years old so I just didn't know what
+this stuff was and I hadn't gone to
+college I was 20 21 years old I was
+clueless so even if I had the schematic
+in front of me I'd say okay that's a
+transistor that the chip what the hell
+does this do so I like at some point I
+needed to even know what is a buck
+converter what is it DC to DC booth
+circuit what does this thing do
+but now when it comes to schematics
+that's a separate question and getting
+them was difficult around 2014 was when
+I realized I had this this mind-blowing
+experience that most engineers are just
+gonna laugh at how ignorant and stupid I
+was which was that I didn't even know
+that there was a such thing as a poured
+view because there was a schematic that
+showed these are the names of all the
+components this is how they're
+interconnected these are their values
+but I would look at the motherboard
+which was unlabeled and not know which
+one was which and I had thought at that
+time okay the people who know which one
+are which those but those are the men
+segrete people those are the 160 plus IQ
+electrical engineers that are doing this
+I'm just an idiot and then I found out
+that there's this website where all the
+they had the board view so they would
+say okay this is resistor 10 on the
+schematic here's where it's sitting on
+the board and I went hallelujah finally
+I figured it out
+and it was I but I actually celebrated
+that moment as stupid as it was that I
+didn't even know that board visa existed
+for this stuff but the schematics and
+board views are very difficult to come
+by usually somebody in China somewhere
+winds up leaking it and then it winds up
+on some Romanian a Russian FTP server
+and then it eventually leaks down to
+people like us that want to buy them for
+five bucks apiece but yet it's a lot of
+it is it a pelant us to have access to
+that if a site is hosting them Apple
+would ask them to take it down they very
+much so are of the belief that that
+stuff should not be shared and it's you
+know it's their property it's their
+intellectual property how dare you share
+it and they're just for the audience I'm
+guessing the difference between board
+view and schematic is like schematic is
+actually like laying out how everything
+is actually connected but the board view
+shows you where on the actual board that
+particular six yes so the yeah so like a
+schematic would say that that this
+resistor is attached to this capacitor
+and then this resistor so and this is
+the value of each whereas the board view
+tells you this is which resistor on this
+board is that actual one because if you
+open your phone or your your MacBook or
+any sort of laptop you'll just see this
+thousands of components in the board but
+none of them are labeled so how do you
+know which one is which I in the
+beginning I was so ignorant so that I
+thought that the way that you told which
+one was which was you were just born in
+a genius and you know gacho's I didn't
+know any better okay and once I got the
+board views that was when I really
+started accelerating my my path to being
+good at it because I had the information
+so take us through you just left your
+job
+now the decision is essentially you're
+gonna open up a store doing computer
+repair how does that process happen
+that's a pretty big jump signing a lease
+buying equipment you need all that so
+yeah that's that that's not even
+something that was in my head at the
+time so I lost my job and I decide I
+bought this machine I wound up reselling
+it on Craigslist to another suit studio
+owner I think it's Pete McNeal makhni
+olia mispronouncing his name sorry Pete
+he owns a studio called Metro sonic in
+Brooklyn that was my first sale and he I
+just thought okay let me try this again
+so I'm gonna buy a machine again like I
+did that's advertised as broken I'm
+going to make it work and then hopefully
+sell it for more than that on Craigslist
+or Ebay or something so I figured I'm
+not even fit to offer a server a pair
+service there are other repair shops
+that do that nobody knows who I am
+I have no credibility nobody's gonna
+want to pay you know a kid in Staten
+Island wearing basketball shorts from
+job to job that doesn't have any
+experience or license to want to do this
+so I'm just gonna buy it and then I'm
+gonna sell it and I did that for about
+two or three months up until March of
+2009 and that's when I realized that
+buying and reselling was not good for me
+because there was risk involved and I
+did not have an I did not have the
+capital to buy something and then if if
+it didn't work you know just eat eat the
+cost of it yeah so I decided to try now
+I did have feedback on eBay from having
+purchased a few and sold a few so I
+would use that as my credibility so I
+decided to put together this pathetic
+looking little website and pathetic
+looking a little back page Craigslist
+and Kijiji and OLX ad that said this is
+the one service I do this is my price
+this is the île I took a print screen of
+my eBay feedback and I put it there and
+I tried to figure out what the pain
+point of the customers was this one book
+by Jim camp called start with no that
+says don't advertise according to why
+you think you're good
+advertise according to the customer pain
+point so the one when I had spoken to
+people real quick there are a few is
+this like the big thing that a customer
+has issue with that they would pay
+somebody to solve as I which made my
+pain point a pain point just being the
+parts of the experience that suck when
+you're trying to get the service done so
+for example there was one place that
+advertised they will do this for 149 you
+show up and when you show up they say oh
+it's 149 for the part you have to pay me
+an additional hundred to put it in so
+one of the pain points is
+you don't want to deal with somebody
+who's lying one of the other pain points
+is that that same place would then say
+it will take a week for us to order it
+so one of the pain points is waiting so
+my little ad said here's wife good
+because my feedback because I know
+you're concerned about credibility but
+the price that's listed here is the in
+total price you will pay to leave with a
+working device it does not change and I
+will show up and I will get this done
+within 20 minutes this is for the basic
+stuff like screens or keyboards I will
+do the job in 20 minutes I have the part
+with me and you will you will not have
+to wait or leave your machine so I made
+my little website that had that
+advertised according to the pain points
+of the customer is based on the
+competition and I got I started getting
+business that way and I think I was
+making 40 or 50 dollars of profit per
+job at the time and I wound up moving
+out and then I just offered this as a
+house-call business so I didn't have
+money for a store I have money for rent
+I think I had about two hundred sixty
+eight dollars left so I bought two or
+three parts I would buy them as I needed
+them I would schedule house calls with
+customers I'd show up at their place at
+their business their home and work there
+and I didn't even get started thinking
+about the idea of having a location to
+work out of until late 2009 around then
+there was a another studio that one of
+my friends was working at and all of the
+gear there was always broken because the
+person who owned the studio spent all of
+his money on cocaine so this was on West
+30th Street and what used to be one of
+the Music Building that's now the tech
+startup condo whatever building and and
+what you've been doing this for the the
+repair thing for about two years then at
+this point kind of on your own yeah the
+independent thing I've been doing for
+about a year so I started doing it in
+the end of 2008 started doing it for
+clients around March 2009 and this was
+around September or December 2009 I made
+a deal with the guy where I said I will
+make sure that everything here works all
+the time you don't have to spend any
+money I was taking tubes out of the
+guitar amps and throwing it at a little
+piece of padding on the wall having it
+fall sit the carbon would go away
+instead of buying a new tweeter
+I would cut up the coil and then retie
+it together I made sure that everything
+would work so clients wouldn't complain
+and he wouldn't have to charge money and
+he wouldnt have to spend money on
+maintenance in exchange I wanted to be
+able to use the space from my own
+customers because I was getting to the
+point where three or four people would
+want a house call all within the same
+one hour time window and I'm traveling
+around New York City on the train
+I couldn't make that work so we made
+that agreement and that worked for about
+two or three years until I got thrown
+out of the space after I made a
+reference to the fact that his new
+partner was making their money selling
+cocaine not off of a studio business
+while I was on the phone with him I
+thought I had hung up I was actually
+cleaning my bathtub and it pocket-dialed
+him back and they heard that and I got
+kicked out immediately so it was at that
+point I had been two or three years in
+and my business was on wait hold on I
+can't I can't go out so for that did we
+ever worry when you like worked here
+that like somebody would show up to like
+either like raid you guys or like some
+gangsters would show up to like [ __ ]
+with your shop or what this was this
+have our concerns not really no no it
+wasn't a concern because I mean every
+every recording studio would have some
+number scribbles in the tech shop wall
+upside down or something that call this
+number and weed or something will show
+up its ends the other thing is that it
+wasn't it the company that decided to
+buy this recording studio it wasn't like
+that was their primary business I would
+just see people show up that just
+happened to have lots of drugs on them
+and one of the people who worked for
+that new company was saying this is how
+you should run a studio you're doing it
+wrong and I remember saying okay okay I
+got off the phone I was complaining to a
+woman I was dating at the time saying I
+don't understand this you guys you know
+by all means you make your money off of
+whatever the hell drugs you're selling I
+why don't you just let us do what we do
+well and they heard that and because the
+pocket-dial because the phone was wet
+and yeah yeah yeah so I the thing is now
+at the time I had also had a partnership
+with with a second company that was
+supposed to sell LCD screens rossmann
+supply group that I was working with out
+of there so I had a little bit more
+money in my pocket than I otherwise
+would have had and my repair business
+was on the kind of steady ground now or
+at least I had two to four thousand
+dollars in the bank at any given time
+rather than minus one thousand and two
+hundred so I managed to get a space next
+door that was about 3,300 dollars a
+month from john gross barred at planet
+to planet studios and i was sharing that
+with two other people who were kicked
+out of the same studios who were sharing
+the rent and i was doing that for about
+six to eight months in 2011 and that was
+a big jump for me because i had you know
+i collected rent from two people
+we shared the space so i had maybe one
+or two thousand in my bank account
+I paid one or two thousand dollars of
+friends that that did get that was a
+kick in the ass for me that I have
+thirst that this I'm either going to be
+a house-call business forever and go
+back to where was two years ago or I
+have to find a way to do more so I I no
+longer advertised by appointment only
+you could show up at any time of day I
+showed up at 8:00 in the morning I left
+at 11 o'clock at night I offered
+services that I didn't offer before and
+it worked
+except you know sharing a recording
+studio with an electronics repair shop
+in a basement that smells like we this
+just it just wasn't very compatible so
+as time went on we all went our separate
+ways and that was when I found the store
+that I leased now that place was
+thirty-five hundred dollars a month in
+the beginning he only wanted a two or
+three month deposit and it was a
+complete and utter [ __ ] box but it could
+be refurbished or I mean renovated into
+something it looks decent so that there
+was a two to three year gap it wasn't
+just I'm just going to open a store
+after I lose my job a store is expensive
+you need a client base to have the
+income to be able to pay for the store
+before you open it so there was a two to
+three year time period there of me going
+you know just do it advertising doing
+house calls state you know and working
+12 to 14 hours a day just so that I
+could have that little 1000 a three
+thousand dollar buffer that would even
+allow me to move someplace yeah right
+now it is it's in the East Village
+that's a pretty I mean that's pretty
+decent rent I guess at the time human
+back then 3500 was was practically free
+it's just I don't have pictures of the
+beginning of it but in the beginning of
+it it was kind of like one of those
+1970s cars that's rusting away will you
+look down and you can see the street you
+could see it you know I could see to the
+basement from my floor when I first got
+there but I still I have it I could
+either make that better and use that or
+I could find to twenty thousand dollars
+a month for something else which is just
+simply not an option I was broke that
+that was not an option so I had to make
+that work and one of the ways that I was
+able to come up with the rent for that
+space was I actually sold a bunch of
+board repair services online at a
+discounted price I think I lowered the
+board repair price to 129 to 159
+and I said it will take six to twelve
+weeks to complete the board repair it's
+being done at a discount and I got a
+bunch of people to pay for the boarder
+pairs upfront but the idea that it would
+take a little longer to get done and I
+used that money to pay the down pay the
+security deposit and the rent on the
+space but then I had to wind up doing
+the services so I was kind of pre
+selling mice mice my success to pre
+selling the idea that I would be
+successful in order to pay for the space
+because if I paid for the space using
+that money but then I got no but then
+the customers didn't continue coming
+through or I didn't do the work then I
+would not be able to pay rent and I'd be
+destitute bankrupt back where I started
+so that you know that the $3,500 of rent
+in the two to three month security
+deposit that wasn't something I just had
+in my pocket that was something you know
+I had to find a way this wouldn't have
+worked out right well what I say yeah I
+don't run a ponzi scheme on the
+customers I run a Ponzi scheme on my
+time because now I have to not only do
+all those repairs that people have
+already paid for I also have to deal
+with all the incoming customers so you
+know in order to yeah so I had a deal
+with about a hundred or 200 prepaid
+repairs that were at a ridiculous
+discount and I also had to deal with all
+the incoming customers as well with what
+I had I had one employee at the time so
+I would get to work at 8:00 in the
+morning and I would leave at 1:00 or
+2:00 in the morning and that was just
+the way it was for a very very long time
+and that was around 2012 I'm gonna carry
+us right now for your shop if you can
+say how many employees do you have or do
+you have employees I have eleven or
+twelve do they do like the same type of
+like heavy lifting repair work you do or
+are they more kind of like on busy body
+work schedules or four of them do the
+same the board repairs that I do one of
+them is more basic the other three do
+that one of them does data recovery work
+on hard drives and SSDs which is I don't
+even know how to do that is he's smarter
+than I am his name is Steve he's the
+manager and the rest will do either
+customer service or the reassembly and
+the basic repairs you know the keyboard
+replacement screen replacement so
+there's a distinction between open-ended
+and repetitive so let the repetitive
+stuff we'll you know how it's starting
+and ending every time is handled by one
+section of staff and the open-ended
+where you have no idea what the problem
+is it's different every time is handled
+by the another section of staff gotcha
+do you still do like do you spend the
+vast majority of every times
+doing physical repair work or do you
+manage to YouTube we do you manage your
+business or what is your time spent on
+it's definitely split a lot more than it
+used to be so I used to spend a lot of
+time in the beginning doing the
+repetitive stuff like screen replacement
+keyboard a placement customer service I
+was it wasn't even like I had employees
+it was kind of like I was just the
+co-worker of the people who were there
+because like you know I couldn't afford
+to just be a manager and sit back in my
+recliner all day then as time went on I
+stopped doing the repetitive ones I got
+people to do that and then I was the
+only one doing the board repairs in the
+open ended once and then as time went on
+I was doing less of just open-ended
+repairs and I spent more time on coming
+up with stuff that I could create for
+YouTube so I would prepare it I'd find
+boards that I thought would be good
+examples for the channels and and I
+would work on those I would focus on you
+know that's building the channel
+building the the online store building
+the website but I still do spend a lot
+of my time fixing things dealing with
+customers you know and the reason that I
+there's this idea that as a business
+owner you should not be doing any of the
+low-level practices at your business you
+should you know the ideal business is
+the one where you don't have to do
+anything but the one thing that I like
+about being able to about saying in the
+in the low level jobs at times is I get
+to see what it's like for the employee
+so if there's a certain way to deal with
+customers where I think we would reduce
+friction or we would make people happier
+I sit I can actually come up with the
+way to do that if I'm sitting next to
+the person who's doing customer service
+and I'm doing it with them or if there's
+something that we could - we could buy
+that would make border pair much more
+comfortable and better for everybody if
+I'm actually doing the border pairs and
+I'm sitting with the people doing the
+border pairs then I can say you know I
+think would be really easy if you had
+this type of stencil rather than this
+crap that you're using so being able to
+actually be there with the people who
+are working and you know not just you
+know sitting in my recliner doing SEO or
+whatever from home because I get to see
+what you've done is amazing with the
+online presence at this point because
+even me being in Florida if I had a
+computer that had a motherboard problem
+and if like an expensive laptop the only
+place I can think of honestly that I
+could send off something like this to be
+fixed is you guys so I'm curious how
+much of your business is actually I
+guess people mailing in stuff because
+we're you know what it's either you were
+sending it to Apple or
+something along those is not Apple
+product where do you even get him
+motherboard fixed it's about 60/40 so
+the last time I looked at QuickBooks it
+was about 60/40 mail and repair versus
+walk-in so the walkins is about 60% the
+mailings are about 40% we do get a whole
+lot more mailing than walk-in when it
+comes to just a number of devices but
+I'm just talking about invoiced weight
+because a lot of the devices that we get
+mailed to us or I watched your video I
+thought I could do it you did in whoops
+and those are not a lot of those are not
+invoice table but yeah it's about and
+about 40% male and 60% walk-in and even
+before the YouTube channel became
+popular I really was trying to push mail
+in as much as I could
+I don't like New York very much I don't
+want to spend the rest of my life here
+so I wanted to figure out how many
+income how what can I do while I have a
+business that's in New York so that I
+could build as you know piggyback as
+many non New York revenue streams onto
+it so that some day if I would like I
+can move to some place where the air is
+clean and people are happy and it's not
+twenty six hundred dollars a month for a
+apartment the size of a shoebox
+interesting so your your goal is
+eventually to move this out of New York
+then at this pointer to open another
+store or what yeah at some point I'd
+like to be able to move out of New York
+entirely just because I lived my entire
+life here for thirty years there were
+things that I liked about New York
+but any time I visit another part of the
+US it's just the people are nicer the
+stores are nicer the houses are nicer
+things are cheaper that the wood the
+weather is nice or the everything is
+just nicer when you leave New York City
+so I would so eventually I would want to
+move either the business or at the very
+least myself out of out of New York City
+when you say move out of the business
+team in your current place who do you
+want to get out of like this prepare
+business completely
+I mean like maybe I could open a store
+in another city or state and then I
+could manage the walk-in business of
+that business somewhere else or if it's
+we the mailing gets to a point where
+it's way more than walk-in then I could
+just manage the mail in facility that's
+you know 1,000 miles away from here and
+a place where that actually looks nice
+but I think I go ahead sorry no I go for
+it finish with that I forgot what it was
+okay are you like are you happy with the
+size of your business with the revenue
+you generate now and everything
+do you have like a goal to like make
+more money or expand uh yes and no I
+think I definitely would want to be able
+to service more customers I but I
+wouldn't want I wouldn't want to do that
+in a way that's not sustainable like I
+don't want it to be like one of those I
+fix in repair or you break I fix
+franchises where they handle the very
+very basic stuff but a lot of the more
+difficult things that will will get
+botched I want the standard to be the
+same so I would if I were to expand I
+would want the standards that I have for
+this facility of people using their
+brain and speaking to customers like
+human beings and not reading off of a
+script and not outsourcing things that
+are too difficult to do I want to keep
+that standard oh I would want to figure
+out how to keep that standard if I grow
+and I don't know if that's necessarily
+possible because if you would the more
+you look at the businesses that
+everybody likes to make fun of for not
+being good at what they do everybody
+likes to make fun of geek squad because
+they're not very knowledgeable and they
+screw things up but they're also working
+on this ridiculously large scale of you
+know stores all over the country and the
+same is true for the Genius Bar so if I
+were to do that I would want to scale it
+in a manner where it's where I'm allowed
+to keep the same standards but it scales
+and I almost don't think it's going to
+be something that's doable by just the
+traditional opening a franchise and
+something like that I think it's
+something where people would be able to
+learn from the YouTube videos start
+their own businesses in their own areas
+that are similar to this one where they
+they keep that same standard and I make
+money some other way
+like for example Tim Herman has this
+business called TC RS circuit he started
+watching my videos at 16 he's 18 he has
+a store in California and he actually
+got a board that I think forget the name
+was PowerBook Matic or something some
+company that's been in business for 19
+years had not even put balls on the
+bottom of a CD 32:15 ship he got it he's
+18 years he's been alive let's than
+they've been in business and he fixed it
+now I don't necessarily know how to
+monetize the fact that he has a store
+nor do I even really want to take his
+money from a franchise fee kind of thing
+but I would like to see more people
+watch this stuff and for all of the and
+more people being able to offer this
+type of service I don't really know how
+it is I'd monetize that I don't maybe
+I'd monetize it off of YouTube maybe I'd
+monetize it off another
+forum maybe had monetize it off in my
+store but I'd rather focus on the I'd
+rather focus on it existing and then how
+to monetize it later rather than doing
+the franchise thing of I'm gonna focus
+on you pay the franchise fee right now
+and then we figure out whether or not
+we're gonna have a good business later I
+mean I see some hard-hitting questions
+okay ready go for it so I'm just I'm
+kind of curious do you feel like your
+time or have you ever wondered if your
+time is being wasted like doing like
+physical repair work now considering I
+guess one how popular you are on the
+Internet right like you've got a really
+big YouTube channel that potentially has
+a lot of outreach or the fact that
+you're a business owner do you ever
+worry that maybe you spend too much time
+working like doing actually glue
+absolutely uh-huh yeah I've read that in
+all the business books would it entirely
+agree that I do kind of somewhat waste
+my time at it so sometimes I'm doing it
+because it is ridiculously difficult to
+find people who are good at this
+specific field the the thing is anybody
+who's - this is the curve I found the
+people who are smart enough to do this
+are typically smart enough to make a
+quarter of a million dollars as an
+engineer or some sort of high-level
+position at another company doing a
+higher level job and the people who are
+willing to accept the amount that I can
+pay you know the 26 - the 40 is
+somewhere between the 26 to 40 dollars
+an hour or so to do border pair they are
+typically not they don't have it the the
+mindset or the skill set to do it
+properly so I have to so it's very
+difficult to find somebody isn't it a
+little sweet spot of you will work for
+the salary that this business can
+support and you have the knowledge
+required or the ability required to do
+it and tip it so you have to find
+somebody who probably it could if they
+put the effort in could work at the
+Texas Instruments or some other company
+but decides screw that I enjoy working
+at a small business I like what I do I
+like the freedom that I get I like being
+able to play whatever music I want
+during the day and I like being able to
+you know be the master of my desk kind
+of thing so it's hard to find that
+person so that's why I still do a lot of
+the work that's decreasing with the
+YouTube channel because the thing that
+I'm realizing is if I show hundreds of
+thousands of people how to do it at some
+point hopefully one he was looking for a
+job and I can hire you but yeah so I
+definitely spend way too much time doing
+low-level work and part of that may also
+just be that I'm not a great manager I'm
+not good at coming up with a book that
+says here's how to do your job every
+single question can be answered in this
+book I'm probably not I'm not very good
+at that that is
+weak point of mine um you know III would
+rather hire somebody that thinks like me
+or that has the same so where I can give
+them the general guiding principles and
+they know what to do that is difficult
+to find and admitted that may also just
+be you know I like to say I do that
+because I want to keep standard-type but
+it could just be an excuse because I'm a
+really bad manager I don't know how to
+write a franchise book of rules so that
+I can give that to anybody and they
+would know what to do which is why I
+spend a lot of time at the office
+training customer service people or
+training people who are doing the board
+repairs I've you know I just kind of
+dump all the information on YouTube I've
+done kind of like a brain thump if
+here's all of my here's everything I
+know now you figure it out yeah if I
+were a proper business owner what I
+would have done is I would have written
+a very detailed flowchart in manual this
+is if this then that if this then that
+and I've never done that
+maybe it's because I'm lazy and bad at
+being a business owner and a manager
+because I'm not really I don't consider
+myself much of a businessman or maybe
+it's because I just enjoy the work that
+I do too much and I'd I would rather be
+sitting at a board trying to figure out
+what's wrong with it or I'd rather be
+streaming it I'd rather be dealing with
+a customer that is irate at the genius
+bar and making them happy than sitting
+there coming up with some flow chart for
+employees what is funny you're you're
+what's the thing that's slowing you down
+at this point like is it you are not
+attracting enough customers or what
+because it seems like as I said before I
+don't think I'm alone in the fact that
+if Stephen had a broken computer and he
+had to get it fixed buying a new one
+wasn't an option or I was way too
+expensive I don't know who we would even
+think of sending it to if it's not
+someone like you like I don't know of
+anyone who's gonna do like this level of
+detail for a pair so what is the actual
+thing that's hindering your growth of
+the business right now is it customers
+the second location what well a big part
+of it is the space that I'm in is it's
+about 750 square feet there's 12 people
+in that that that's even by New York
+standards that is that is overcrowded
+and if I want to find an again as I said
+in a previous video I asked about
+renting the space next door it used to
+be a candy shop they went out of
+business
+hence it handsome dance it was handsome
+dance they had a pretty good candy at
+least my employees say I tried to not
+eat
+but the so they had a candy shop and it
+went out of business at least in that
+location and I asked the owners of the
+new owners of the building you know what
+I I'm open to renting this I'm open to
+renovating it so it looks beautiful and
+I'm open to paying more than they were
+and they got back they never responded
+to me they got back to me with an awe
+saying as a courtesy for the fact that
+you've been here so long in the building
+went on fire and you didn't have heat
+for several weeks and we didn't really
+give you heaters for a few weeks when I
+was seven degrees outside as a courtesy
+here's a twenty seven thousand dollar
+space that's like ten percent bigger
+than what you have now you're interested
+interested and I you know very very
+politely told them to go [ __ ] themselves
+and and most of the spaces that you find
+in New York City that are that are
+rentable are you know the twenty
+thousand dollar store is twenty-seven
+thousand dollar stores or their stores
+that are my size but they want twelve
+thousand dollars for or if you want to
+store that as space it's you know twenty
+seven to forty thousand dollars and I
+don't have I make are you saying this
+monthly numbers or what oh that's
+monthly that's monthly yeah that's
+twenty-seven thousand dollars per month
+and I don't have that money
+I just and I you know I didn't have a
+good credit early on in life I have
+decent credit good credit now but I am
+still not a person who can walk into a
+chase bank or a company and just say
+here's my peers my papers I would like a
+business loan and get what I went to
+chase yeah I went to chase and they said
+you know something like well we noticed
+at the ends of the year you pay yourself
+a dividend of the the profit and they
+said why do you do that and I said
+because I like to eat and live indoors
+myself salary and they said okay but we
+want to see that there's more and more
+business profit over time and I said
+well I could just pay myself less and
+there'd be that and we had to talk back
+and forth and it ended and you know
+you're a quality you well I would
+qualify for a loan that's less than ten
+percent of what's in my account I can't
+just go and rent a twenty seven or forty
+thousand dollar store so there has to be
+some sort of intermediate step if you
+did let's say tomorrow you did have that
+forty thousand dollar store how does
+that affect your bottom line not even
+counting the rent
+do you have more money coming in as a
+result of that there are services that
+I'd like to offer that I can so if there
+are certain thing I things where I say
+no because the machine to do it is in
+the basement I don't have physical room
+for a technician to do this there are
+ideas that I would like to explore
+and those so for example why don't we do
+Ram upgrades well why I have to find the
+RAM I have to find a vendor for it I
+have to see if it's doable I have to
+have a space for somebody to sit there
+and do it all day and I would rather use
+that space for something that it's more
+profitable I have to make the maximum
+use of the space in terms of
+profitability there are things that are
+slightly less profitable that I would do
+if I had the space to actually fit a
+person there and do it but I don't have
+that space and now I could move to a
+place that's outside of New York but
+still most of the business revenue is
+walking so I have to kind of be careful
+as to how I trot this out so I've been
+looking for a second space that I could
+rent but there was one actually very
+nearby that wound up not getting back to
+us after they said we were a good
+candidate it was about $6,700 for about
+a thousand square feet which was pretty
+pretty good but for the most part a lot
+of businesses in New York a lot of love
+building owners in New York City just
+don't rent that it's easier for them to
+keep the space empty from a tax
+perspective it's easy to keep it empty
+then sell the building 10 to 20 years
+down the line for the increased value
+than it is for them to pay property tax
+the entire way and deal with tenants so
+you'll notice that if you go but let's
+say you go on East 8th Street between
+5th and 6th Avenue that there's over 21
+vacant storefronts right now that and so
+many of them have been vacant for the
+past five years since I started looking
+for my store so if I want to do more I
+need to have the space to do more which
+I don't I also am I'm not taking on
+loans or investment to do what I do I'm
+funding every single thing that I do
+through my own money so if I hire a new
+person and that person is you know three
+or 6,000 or 7,000 or whatever a month
+then that person has to make their
+salary by the end of the month or else
+I'm screwed
+so I so I'm forced to make these very
+incremental increases in what I'm doing
+just because you know I'm not
+independently wealthy and I'm not I
+don't really I don't really qualify for
+a loan my business model is not one that
+somebody's a bank is gonna be excited
+about it's a so what do you do well I
+fix stuff I don't I'm not a franchisee
+and I show all of my competitors had to
+do exactly what I do give me money that
+that doesn't excite venture capitalists
+or bank managers I'm really curious so I
+lost I misheard you earlier you said
+that it's like four
+sixty between online stuff and walkins
+yeah I I guess like I don't know like
+your specific numbers but I cuz it
+sounds like what I've heard so far it's
+like a no-brainer it feels like you
+should like just move out of New York
+find like an equal place like in some
+other really cheap area and then just
+really push the online stuff I don't
+know if I was even gonna suggest keep
+the store for the walk and stuff but do
+all the actual repairs at a place where
+it's cheaper to have all those machines
+like get a bad example but have a
+warehouse somewhere and have that you
+know just like Connecticut or something
+or I don't know simply I don't know like
+what would be cheaper to like house
+stuff yeah but like just cuz it seems
+like the real estate in New York is so
+absurdly expensive and the stuff you're
+doing doesn't have to be done like in
+New York it's not like like a music
+recording studio where you know people
+maybe want to be in that area for like
+the repairs it seems like that could
+take place anywhere but have you yeah
+yeah yeah no no that's definitely
+possible and sometimes I don't I would
+also have to make sure that that forty
+percent number stays because I would be
+worried it lets say I open a mail and
+space and then there's no business there
+or I also don't want to get into the
+situation where the main walk-in
+facility has to outsource tough to
+another facility I like being able to
+give somebody a quick answer or the you
+know let's say somebody comes to pick up
+a repair and somebody god forbid missed
+that there's a bent pin on the keyboard
+connector and that needs to be I don't
+want to tell some I want to be able to
+tell somebody
+oops my mistake here have a candy have a
+seat oh this will be done in five
+minutes versus oh yeah this is not the
+facility that does the soldering lets me
+know mail it off to that place so but I
+would have to structure how I want to do
+it that's a huge compromise for that
+edge case scenario to come up for you
+not to potentially deal to expands like
+I understand that might come up but
+that's you know keeping yourself from
+expanding for that one edge case seems
+like it's not worth it
+I'd rather have that customer be upset
+you missed out and shits gonna happen
+but also have 95 percent of your
+business being way better as a result of
+changing no it's possible I would also I
+would want to be open to the first thing
+there is I I were to move everything
+off-site to some other sort of location
+I kind of have to duplicate the people
+that I have here and it took a
+ridiculous amount of time to find the
+people that I have now I'm not and I
+would want to be in a place where I know
+that there's more that I can if I put up
+a job
+people show up that are actually good at
+it and I think that I would have to
+improve the YouTube channel a little bit
+more in order to get to that point
+because in the beginning if I put up a
+job ad saying here is the salary here's
+what I need somebody to do nobody would
+show up that would do it just absolutely
+nobody then at around 400,000
+subscribers I was able to find somebody
+like Paul then after six or eight
+hundred thousand subscribers said I
+realized there's way more people that
+can do this maybe it's because I'm
+getting the reach to them or maybe it's
+because they're learning how to do it
+before they come here but I need to be
+at a place where if I open in if I open
+up someplace far away that I've sorted
+out that I can definitely hire employees
+that can do this
+so I well I need to feel more
+comfortable about that first the second
+thing is I also need to feel comfortable
+about the fact that the mail in business
+by itself could afford to pay all the
+people and in this new facility so a big
+part of it is yeah I have periods of
+time where I have this much business but
+then there's periods of time where I
+have less business I would need to know
+that at any given point in time that
+there is an absolute truckload of
+business coming in before I'd
+necessarily feel comfortable opening up
+a new space especially if I was doing in
+hiring a bunch more people especially if
+I was doing it with my own money
+sure Shh yeah I mean I feel like I
+wasn't even suggesting leaving New York
+I was saying it sounded like their rents
+really expensive where you are because
+you're street-front there but you know
+you can certainly find places in New
+York even in Manhattan that'll be a
+fraction of that cost because they're
+not on the street you know it's in the
+attic or you know in the basement
+somewhere where you can have space and
+shuttle your people there basically and
+just have someone Manning the store and
+kind of acting like a front and storage
+and that that's type of it but yeah
+that's one of the things I've been
+trying to do at the moment so when I
+found that other store front that was
+really large in $6,700 I jumped at it
+it's just I haven't heard back from them
+and it is it is difficult to rent any
+sort of space in New York City if you're
+looking to rent it at a reasonable price
+if I wanted to have an office that was
+on the fifth floor of a building that
+was the same size of my store and I was
+willing to spend fifteen or twenty
+thousand dollars I could get that
+immediately but if I actually want to
+get a space where I'm getting a somewhat
+decent ripoff rather and I'm not gonna
+say decent deal because there is no such
+thing in New York but if I was just a
+bit willing to get ripped off this much
+versus that much it does take time to
+find that but the store that I found
+right now I was looking for a
+replacement for that basement space for
+six months and it took
+six months of walking up and down every
+single Street to find it so I think a
+good compromise in the beginning would
+be have another have another store or
+have another space even if it is a on
+the floor of a building in New York City
+to run the mail in business the mail and
+repairs out of and also the selling
+parts out of so I had thought about
+having a separate space for that because
+right now the box is piling to the
+ceiling in this small space is a pain in
+the ass and so is keeping inventory for
+shipping so I thought let's have a
+second space for that and that's what
+I've been in the middle of doing right
+now I found a space that was a two
+blocks away that was very that was
+fairly cheap with you know decent owners
+and they were interested in having us as
+a tenant and it just I'm guessing that
+either one of the other two people who
+applied got the space instead of me but
+it is something I want to I want to like
+I just want to make sure that I put my
+toe in slowly rather than just rent an
+entirely new space in a in a very remote
+location and then hire a bunch of new
+employees because here if the space is
+nearby
+I can kind of split the employees I have
+between the space in that space maybe
+it's just trauma from the Rossman supply
+company going out of business and me
+watching all of the money and all the
+time and all the employees I put into it
+get reduced into nothing but after
+having that experience of working at a
+business that I was working at 13 or 15
+hours a day for 3 to 4 years get all of
+it the money that was invested all the
+work or the inventory just get reduced
+to nothing I don't I want to make sure I
+don't make that same mistake again
+especially since this business is
+completely self-funded and I know that I
+don't have the ability to just go to a
+bank and ask for a loan if I screw
+something up have you thought much more
+cautious have you ever thought about
+looking for investors like leveraging
+other people's money to try to expand or
+are you - are you like ideologically
+opposed to that I'm not completely ideal
+I probably somewhat opposed to it
+because anytime I meet somebody like
+that they're going to ask me to do
+things that I don't feel comfortable
+doing so for example when I had a
+business partner with the border pair
+business I decided to decide let's see
+what would happen if I just opened up a
+company that only did border pairs for
+other businesses that didn't advertise
+the public the person there was very
+very opposed to me doing videos where I
+show people how to do this online from a
+profit point of view said if I'm putting
+my own money into this it doesn't make
+sense that you're showing other people
+how to do it we
+do it doesn't make sense the way that
+you do business or structure you're
+pricing and I disagreed with him on that
+now I didn't just disagree ideologically
+I also disagreed financially
+ideologically I think at trying to keep
+information that doing business by
+trying to keep information away from
+people it's it's kind of lame you know
+if I see that somebody is willing to
+give me information for free they're the
+first person that I'm going to go to
+when I have a problem I don't like the I
+don't like the idea of somebody doing
+business with me because they're forced
+to I want them to be making a choice
+here is all the information how to do it
+yourself but if you don't want to do
+that you don't want to learn any of your
+time is too valuable then pay me I don't
+want it to be oh well you there's you
+either have a choice of a broken device
+or pay me
+eff you that now he had and the business
+income since 2015 when we was talking
+about with him about that has done this
+so clearly he was wrong I realized that
+there are a lot of people that I could
+potentially get to invest in my business
+but they would want me to franchise they
+would want me to lower the standards of
+who I hire they would want me to create
+some rulebook that would make it very
+easy for me to hire a 16 or 18 year old
+stoner that probably could barely get a
+job at McDonald's and follow this rubric
+and make money yeah and I don't want to
+do that
+I genuinely don't I really don't want to
+do that it's really funny to me because
+like I have a I feel like they're right
+so I don't know how much you know about
+like what I do in terms of like
+screaming whatever but there it seems
+like there comes this time and like a
+lot of people's lives where you get like
+really good at something and giving up
+control of anything is very [ __ ] hard
+to do it's like the worst feeling in the
+world
+and you want to be involved in like
+every project like personal that you're
+doing and like giving that control other
+people can like it can either end like
+catastrophic Lee or you can have like a
+ton of problems related to it but like
+at some point it seems like you have to
+in order to like continue to grow
+because you just don't amount of time
+like I'm sure you get this feeling where
+you wish you could like make copies of
+yourself or like not sleep because
+there's like a million things you could
+do it literally every point point of
+your existence yeah it's really
+frustrating
+yeah and for sure and it's part of it is
+control the other part of it is just
+anybody who's an investor is gonna look
+at my business model and say these are
+three things you seriously have to
+change or I'm not investing in you yeah
+and I don't want to change them and I
+think things because it sounds like you
+know what these are so what's the stop
+like it sounds like you
+be making a [ __ ] ton of money as I said
+you have this this brand appeal so so
+what are you [ __ ] up it's a clear then
+that you won't change and for work well
+obviously the first part is giving away
+information for free so there's also
+gradients of how you could give away
+information for free you could just give
+away the bit you could show that you
+know how to do it you could show how to
+do basic things or you could actually
+explain how to do the absolute most
+difficult repairs that would be an easy
+way to milk money so for example what
+the you 8900 faults in the 2012 MacBook
+Pro I could show you yeah I know how to
+fix a short I know how to do an LCD
+connector but if you have a kernel
+panicking machine as randomly kernel
+panicking uh-uh I'm not gonna tell you
+how to do that
+I'm the only one who gets that
+information I and I know somebody in the
+business who I'm not gonna say because I
+get along with them and I don't want to
+create an argument over it that does
+that where they'll show all 99% of it
+but they'll keep that 1% for themself
+for me that I actually want to give away
+that's the point of information that I
+want to be clear if anything above
+everything else that so I I spent my
+entire day at work until 3:00 or 4:00 in
+the morning I find these little these
+little Falls that nobody else is found
+or I know people who found these Falls
+that nobody else is found like Duke who
+showed me the you 8900 faults I'll give
+him credit for that and I want to share
+this with as many people as possible so
+once I find that I have that aha moment
+but I figure out okay the reason that
+all these touch bars are stuck at 5
+volts is because the ISO 93 9 is not
+creating the enable signal for the but
+the chip that creates PP 3 b3 g3 ah I
+don't want to keep that proprietary I
+have this excited feeling in my head and
+I want to share with as many people as I
+know and an investor has said in the
+past and many most likely would say now
+don't do that
+you have enough advertising where people
+trust you you've already maximized what
+you do with YouTube in terms of being
+able to bring in customers there's no
+need to give away that last 1% of
+information that will allow thousands of
+other people to fix something themselves
+instead of send it to you certain level
+of that on the same part like how many
+of us have the machines and the
+technology and the [ __ ] required to do
+what you do in the first place like you
+know just me seeing that I could
+potentially fix my laptop for 10 dollars
+if I go find this chip and do it like I
+don't have I've seen the setup you have
+and it's it's insane I don't have
+anything near like that I haven't
+actually
+the exact same thing with um are you
+familiar the term case leaving cables or
+cable sleeping yeah yeah I am there's a
+guy I don't remember his name
+but I watched he does a bunch of videos
+anyhow that his cable sleeping and I was
+like oh this looks easy like I watched
+him do it I followed his tutorials and I
+tried to do a set and it was a [ __ ]
+disaster and I and he just ended up just
+buying like a set of sleep cables from
+him after watching his videos on how to
+do it so yeah yeah I mean it's it's good
+advertising yeah yeah I understand what
+you're saying which is that the average
+individual is just gonna say screw it
+sends it to Luis anyway what I'm saying
+is that investors don't see it that way
+they say okay can you try and try to
+stop the whole sharing everything you
+could share the basic stuff but don't
+share the absolute business I think that
+if you look you have a very large
+audience now investors aren't all just
+you know like so so straightforward like
+if you look you're gonna find someone
+that's aligned with your thinking and
+understands what you're doing and wants
+to see you succeed I'm shocked that you
+are not bigger than you are currently
+you know I I really am because as I said
+before when I think of computer repair
+you're the only guy that comes to my
+mind you're like there's a company and I
+forget the name of it but they do data
+recover it and like you're like that for
+actual low-level are you thinking with
+Drive savers yeah exactly like you're
+the drive savers of actually fixing
+motherboards and [ __ ] like that
+in I was expecting this to be like
+hundreds of employees things like that
+people shipping in MacBooks from all
+across the country and you doing it I'm
+just shocked that you haven't expanded
+more at this point yeah I suppose the
+the elements to that besides besides
+outside investment which is one reason
+is a if I were to expand then have many
+more people I would have to come up with
+some sort of rule book and flowchart as
+to how to do everything so that I could
+manage that many people that's not
+something that I'm good at it's not a
+talent I have it's a skill that I think
+you need in order to be a really great
+business owner and that's not a skill
+that I have and the second one is I
+would need to see upfront that I can get
+more business to support that and I have
+a lot of business but I would need to be
+able to at any given time flip a switch
+and then could Drupal the amount of
+incoming leads that I have in order to
+make that happen
+and that's something that I have to
+before I do that do you are you passing
+up leads right now by any chance
+I'm not past no wait I take on as much
+as I can and that's why I'm I have bags
+under my eyes that this lovely Logitech
+Brie is actually very flattering and are
+moving but my other camera doesn't lie
+that much and that's what that's why I'm
+at work until 2:00 or 4:00 in the
+morning and all these all these days
+that's why I'm answering live chats and
+questions late at night I don't anytime
+I get to a growth spurt stage where I
+realize that there's a large influx of
+business I don't turn it down I'll just
+stay because I know once I overcome that
+hump then it's easy sailing from there
+on in like when that right before that
+when that cbc news piece came out there
+was a hump and there was tons of people
+sending stuff in I went for maybe four
+to five employees to twelve employees
+but I didn't have the twelve employees
+at the time so I stayed at work I dealt
+with the hump I you know I was working
+on Christmas until 1:00 or 2:00 in the
+morning and streaming at well sick and
+then I went from four to twelve
+employees now it's easier but now I'm at
+that next level so I am always trying to
+level up and every time I see that there
+is a bump I am going to do everything I
+can to make sure that I that that bump
+is not temporary but that it stays that
+way
+and one push I'm doing now is funny you
+mentioned the drive savers thing is that
+you know they're charging two to twenty
+thousand dollars for drive recoveries I
+spent about fourteen thousand dollars
+upgrading the existing labs lab setup
+that we have for doing Drive data
+recovery and I want to start doing
+videos on that as well because I want to
+start taking as much business in terms
+of hard drives that I can we barely
+advertise that we do it passed the page
+I created on the side two months ago and
+we're overflowing in it so I'd like to
+have a separate section of the channel
+that's the same as this one
+except what driver pairs because you
+know I'm sure the show they may be nice
+people but I don't really appreciate the
+image they put out which is that you
+need to have a one multi-million dollar
+lab and everybody has to wear the
+silly-looking spacesuit in order to get
+data off of a hard drive mm-hmm all
+right all right oh my god yeah so I
+think those are the reasons that I
+haven't expanded or gotten larger hey
+I'm not good at creating a specific
+guide or rubric and now each employee
+does their job not good at creating that
+flow chart that specific list of rules
+that allows me to easily hire people
+without having to train them a lot or
+work with them a lot one-on-one I am I'm
+not necessarily great outside of YouTube
+at figuring out how to get more people
+to do business with me
+other companies know how to advertise
+they know how to acquire clients the
+only way I know how to acquire clients
+is just putting up a website and doing
+YouTube videos and hoping people think
+this is cool let me send it him sure and
+the third is obviously the the invest
+the investment I would have to take
+large financial risks that could
+potentially screw me I don't want to do
+that I don't I'm not willing to take on
+the risk of me losing my business and
+the only way to avoid that is to get an
+investor which and getting an investor
+means potentially changing the way I do
+business in a manner that I would find
+unacceptable yeah all right to be fair
+for all of this
+I'm sorry I'm just going by the timeline
+to get earlier you're still like pretty
+young right you're like 31 about I'm 30
+you're 30 okay cool okay so yeah same
+age as me we're young we're very young
+31 ooh 20 okay cool I mean I mean I
+guess we could go over like business
+specifics all day I'm kind of curious
+just because of your position in the
+industry and everything moving to like a
+more general topic do you think that
+we're ever gonna reach a point where
+it's just impossible not to do
+first-party repairs anymore do you think
+we're heading in that direction or do
+you think that'll become possible I
+think yeah for sure I mean there's like
+for example the thing with with Apple
+with this t2 chip where if you replace a
+certain part of the machine it will
+detect that you've replaced that part of
+the machine and then say you can't okay
+we're not accepting this that that kind
+of I don't think it's necessarily just
+going to be where it's too difficult to
+do I think it's going to be what these
+measures to put in place and on purpose
+to keep people from doing it I'm sure
+that there will be a way around it I
+don't know I think it's gonna prevent a
+lot of the low-level people from doing
+it but it's going to be a greater
+opportunity for the people who are able
+to figure out ways around it mm-hm
+I think that there's probably three ways
+that it could become impossible to do
+repair yourself the first is when it
+becomes far too complicated to do or
+even somebody with all of my equipment
+does not have any of what's necessary to
+do the job the second is going to be if
+the companies actually succeed and
+nobody finds workarounds for these
+things like a t2 chip which says you
+okay if you change your screen we're
+gonna recognize you're not allowed to
+work with the computer if nobody else
+figures out how to retake the
+programming off the old screen and put
+it into the new screen that could be it
+the third is going to be if it simply
+makes no economic sense to do so
+so if somebody shows that with advice
+that's $100
+and it needs one to two hours of
+open-ended troubleshooting from somebody
+who's intelligence and experience even
+if it is fixable there's no way to make
+that viable in a way that works unless
+I'm willing to pay the person or the
+person who's willing to work for $5 an
+hour to do a very difficult job so one
+of those three things could occur to
+make it not viable into the future I'm
+not sure which is gonna be the first
+walk that's gonna the for the first
+domino that's gonna fall but I'm kind of
+curious to see sure we kind of we talked
+a little bit about this but before the
+show off stream do you follow this in
+other industries as well like for
+example like do you follow stuff going
+on in the car industry where
+manufacturers are saying you're not
+allowed to do changes to cars in certain
+ways you can't mess with the ECU or
+anything without it being like a
+violation of copyright or rich rebuilt
+is a really good channel on that and
+I've wanted to meet up with him on it
+just he's been ridiculously busy and
+I've been ridiculously busy so we
+haven't had time to but he does a rich
+rebuilds has a great channel where he
+rebuilds Tesla cars and he has to deal
+with this stuff you're not allowed to
+replace this so there's no availability
+for a part for that Paul who's one of my
+one of my best employees for the past
+two years he used to be a car mechanic
+for about 20 years and he also worked
+doing mechanics and technical stuff in
+the Marine Corps when he was in the
+Marines wait hello
+wait is my stream still down at least
+his claim is that I don't know how to
+make money at this because nobody wants
+to pay me wait right back book the the
+server I just wish the servers again um
+you said you had a friend that was
+working in the Marines and then yeah so
+Paul one of my better employees he was
+he was in the Marine Corps for about
+four or five years and he also was a
+mechanic and technician for 20 years
+prior okay and he was saying that as a
+mechanic it's very difficult to make
+money now versus before because nobody
+wants to pay for anything so you know if
+he says this is gonna be a 150 or 300
+dollars to fix
+they go you know my nephew will do that
+for 20 or 30 bucks and then that there's
+nobody at least in his where he was
+working that was willing to pay for
+repairs so it went away that way so
+whereas in our industry I don't know if
+it's gonna go away because everything is
+so cheap or because everything is so
+impossible to fix due to the supply
+chain and the the chips just saying I
+don't want to accept a new part for that
+mechanic stuff do you really have people
+that can do those repairs for cheap is
+that really possible
+no they don't exist it destroy it yeah
+they don't bring yeah I remember when I
+was a kid doing like switching out like
+a car stereo like in my car was like a
+lot of fun and easy to do and nowadays
+if you want to take out like a car
+stereo ignoring like the 50 different
+ways that your head units are like
+integrated with a vehicle like the whole
+dashboard is like one piece and you need
+like specialized tools just to like pop
+certain like like like things off the
+dashboard no taking these off it's a
+nightmare now I imagine it probably
+impacts more than then I only think I
+know about all my cars and computers but
+it's kind of interesting it's something
+else Eddie talked about earlier you
+there's a concept called
+software-as-a-service
+where you basically charge people a
+monthly fee in order to let them use
+some software and you either updated an
+ongoing manner or you provide support or
+something and it seems like we're moving
+towards this like hardware as a service
+thing or even stuff that you physically
+buy and physically owned you don't
+necessarily have the ability to use it
+in the way you'd want to all the time
+like you either have to pay specialty
+repair shops we have to pay some ongoing
+fee des to keep even like your hardware
+working or whatever it it's like it's a
+really strange world where yeah I don't
+know like moving forward like you're
+gonna have to be paying like monthly
+fees for to keep access or to keep your
+own stuff working this is really strange
+yeah I can see both sides to it the the
+manually swen it comes too soft
+the manufacturers site is people pay a
+one-time fee but we get inundated with
+support requests from people who don't
+know how to use a computer screw it
+we're charging you by the month and the
+moment that you stop paying I don't have
+to answer these stupid questions anymore
+on the user side it's I don't feel like
+paying $30 a month for a piece of
+software that used to cost me $100 to
+buy I'm not paying for that I'd like to
+own things so I definitely lean more
+towards the side if I want to own things
+I don't want to pay a monthly fee for
+something unless it is above and beyond
+amazing yeah and when it comes to yeah
+so I see this at the very least with
+compass there are a lot of people in the
+farming industry that can discuss what
+John Deere does when it comes to these
+devices where you're constantly paying
+for somebody to show up and come out
+you're paying like fifteen hundred
+dollars for them to reprogram something
+just so apart your place can work again
+somebody in chat was hiding it earlier
+if your farm or is it they're like
+farmers that have to become hackers in
+order to get like some of their
+machinery it's it like continue to work
+and it's like a huge yeah there's like a
+lot of dumb stuff going on with that -
+yeah that that's something that is I
+definitely would like to actually own
+products rather than or own the software
+that I buy rather than have a license to
+be able to use it on a monthly basis and
+I think you were talking about something
+like you know people renting game time
+or renting the the hardware to use their
+game it's just yeah I just I don't like
+the rent to own thing I like owning
+things and I think that's part of the
+resurgence of vinyl not inaud I don't
+like vinyl very much but I understand
+this concept of people just they don't
+want to deal with a streaming service
+they like the idea that this I own this
+stuff it's not even if it's just like an
+actual to have style
+yeah like sometimes I don't want to have
+to like load a Spotify playlist like I
+like having at least the files on my
+computer you know that I know that I
+don't wanna have to install a pro if I
+have a file that I can transfer from one
+device to another I don't wanna have to
+deal with I have to log in and use this
+specific service in this specific way I
+did I wanna I want to own it and if
+you're saying that I no longer own it
+that I'm renting it that's okay but you
+have to make sure that what I'm renting
+is that much better than what I'm owning
+that it's worth that it's a very least
+worth me losing the privilege of
+ownership yeah well especially because
+if you like a lot of people don't
+realize this I don't know how much you
+do with like gaming but like for things
+like steam like if steam goes or valve
+goes out of business and that service
+just shuts down I mean like you don't
+you don't have any of those games like
+it's just
+yeah you know you don't have a agree
+yeah yeah that's bull like at least with
+dota okay it's free so a big what but if
+I paid for a game and I have to rely on
+another service existing that sucks now
+what's interesting with what Apple is
+doing when it comes to ownership is when
+they say at least there was this one
+case with Skye colt named Henry coos B
+that's going on in Norway he was
+replacing customer screens he saw a
+saved the old ones he sent them to China
+a refurbished sure was replacing the
+glass on it without replacing the LCD
+because the LCD made the picture was
+finest the front glass was broken and
+sending it back to him and they were
+getting taken and Apple was saying you
+know that's counterfeit you
+counterfeited my stuff you counterfeited
+our screens and he's saying no that I
+that was mine the customer gave me their
+broken screen
+I send it to somebody who then fix it
+and sent it back you don't get to say
+that you it was you don't get to say
+that you have any say in this
+transaction anymore they're trying to
+say when it comes to redefine the
+ownership and renting what I find
+interesting is with apples doing when it
+comes to redefining refurbishing is
+counterfeiting if I were if you replace
+the speakers on your car do you have to
+rip off the Ford or the tile any of the
+logos that say who made the car well
+this is an interesting thing that comes
+down to the Keurig or the printer market
+right so what's the argument that the
+printer manufacturer would give as to
+why you shouldn't use the other printer
+it's like you know why you have to use
+our ink it's because I sold you this
+printer for $8.00 and it cost me $85 to
+make it that's why you have to use my
+ink and only my ink or the coffee maker
+would say we have we spent all this you
+know designing this type of [ __ ] and
+initial marketing and that type of stuff
+on that end so it did the change is with
+the fact that you do already own
+practically nothing
+so all the software on your computer for
+the most part it's all licensed
+understand saying it's just like yeah
+yeah I were growing up like I used to be
+my financial situation was really really
+bad growing up so I would pirate things
+out of necessity because if I didn't
+pirate it I wouldn't have it like I did
+just full stop and now that I'm older
+and I am obviously I'm very wealthy I do
+my streaming so I was like yeah buy
+software if I have the ability to and
+like you know I you know I work with
+PDFs and whatnot a lot because I do
+taxes and all that and I go to like buy
+you know I want to buy Apple or not an
+apple I want to buy Adobe's like you
+know PDF software bundle [ __ ] like you
+can't even do that
+you have to buy like I think
+you have to pay like a monthly
+subscription to like the Adobe cloud and
+it's like I don't need the software
+support I don't need any help I just
+want to like buy some software that
+works my computer even for that like I
+feel like such an [ __ ] like pirating
+stuff or down listen because I don't
+want to like have to sign in oh my god
+my biggest pet peeve when people said is
+we have to sign in on app on programs in
+your computer.if to sign in to use the
+program it's like what is happening
+right now like this is a program on my
+computer water to sign into an GoPro
+does that to that a few honey you have
+to sign in with your username and
+password and everything just to be able
+to view stuff on the go and take it off
+and then all these other databases get
+leaked and all of their passwords are in
+plain text and there's always like
+xsplit had this happen I'm pretty sure
+it's happening with I think it was with
+Adobe stuff where they had their big
+data basically gonna say go [ __ ] man
+yeah that stuff drives me crazy I I
+don't like dealing with that [ __ ] and
+the interesting thing with what you said
+with the printers there at the I'm not
+saying it's right but when they say we
+sold you the printer cheaply and we're
+planning to make money on the ink so you
+need to buy our ink at the very least
+there there's some sort of business
+argument that could be made we gave you
+this for cheap up front now when it
+comes to Apple they're saying okay well
+we we they did not sell you the phone
+with at no profit they made some decent
+money selling you the phone it's not
+like you can only get the screen from us
+so I find it very very creepy when they
+say that you are set that this is a
+counter for device rather than a
+refurbished device and I find it really
+creepy when people defend that because
+if you take that arguments and you apply
+it back towards every other place where
+we've accepted that that argument is
+[ __ ] how do you apply that to a car
+like I can't say that if I changed your
+oil with oil that was not the
+manufacturer one if I change your
+taillight with a different brand even if
+I gave you a shitty brand garbage tail
+light that was not the same as what was
+in your Chevy you cannot say that's not
+a Chevy it's still a Chevy it's a Chevy
+with a shitty taillight it's not a it's
+not a Ross mobile or whatever do you
+feel like apples more predatory on this
+front another company yeah I think that
+all there are a lot of companies that do
+things that are bad I just think that
+Apple is one of the best examples
+because they don't really even try to
+hide the ball with it like I've never
+seen another come I haven't seen another
+phone come yeah I haven't seen any other
+phone companies yet say you had our
+screen refurbished that is now a
+counterfeit and
+not saying I don't acknowledge there's a
+problem with screen refurbishing that
+there are a lot of people that do poor
+quality refurbs that just so that they
+could sell the cheapest trash that's
+definitely a problem but throwing out
+the concept of refurbishing versus
+counterfeiting or throwing out the
+concept of ownership is you know you're
+trying to solve the problem with with
+with a hammer it's just it's not the way
+to solve it and there when it comes to
+our ability people will say well why
+don't you criticize Lenovo for it well
+okay if I want to ask Lenovo for a
+schematic they may not give it to me but
+you know what they did they made a
+laptop where if you spill a gallon of
+water into it it comes out little holes
+in the bottom rather than destroying the
+motherboard or they don't have 16
+different sensors on it that if one
+specific one failed it has an issue that
+the machines are gonna run dirt slow
+it's gonna say you do run into the
+issues where there are no like good
+actors here because I'm pretty sure
+wasn't Lenovo one of the first people to
+start loading [ __ ] bloatware into the
+into the actual flash like yeah yeah the
+superfish that was that was some Bush on
+the actual motherboard so even if you
+did a full a full refresh of your
+operating system you reinstall the OS
+you formatted the drive and everything
+it would still find its way onto your
+drive after oh god that made me sick
+because I like ThinkPads and I like the
+way they work in function and just I've
+been saying to people to buy them and I
+just look at it and go really really
+loading spyware on what device do you
+get now that doesn't come out of the box
+[ __ ] I mean that's the one thing you
+have to give Apple is that for the most
+part it's not [ __ ] by any Android
+phone right now except for like one of
+the right to Google hmm man the [ __ ]
+that you're gonna even if you get that
+from the Google Apple Apple at least
+says that they care about privacy the
+very least they present the image that
+they care about privacy Google does not
+even present that much they we are
+mining as much data as possible and all
+of these services are opt-out not opt-in
+I did a video on that recently where I
+managed to log in and find five years no
+seven years of transcripts of
+voice-to-text and they said well why
+didn't you just delete it and I go I
+never opted I didn't opt into this [ __ ]
+it's it's it should be its opt-out you
+have to opt out of all of this stuff
+being saved and I will give Apple that
+they
+seemed to care about privacy way more
+than Google does that's so that's why
+when ice because there are a lot of
+people who watch my channel and say he
+pointed out an Apple hardware defect
+he's frustrated with how Apple treats
+his users therefore I can just go on
+this whole [ __ ] crapple [ __ ] Mac [ __ ]
+all this other horseshit that you're
+typically used to seeing in cancerous
+YouTube comments and the reason I never
+go off on that is because I understand
+that there's a reason that people want
+to buy Apple products the software very
+is very often software on their
+platforms it is not on other platforms
+that there's a very good job they
+actually care about the user privacy to
+some extent at least they pretend to
+care about it where none of the other
+alternatives in the phone world for
+smart phones do I understand why people
+choose to buy their products and I don't
+criticize them for that I simply
+criticize the people that get us I
+criticize when somebody is repeatedly
+screwed over and just goes back and
+gives them more money I bet you have
+like it's frustrating cuz it's like you
+have no alternative these days like
+there's not like the good um there's not
+like the Stallman approved mobile device
+or something you know you don't have
+like yeah I remember reading this one I
+forget how long ago was but he was using
+a low note le a no te not Lenovo the
+note laptop and to my if I remember
+correctly please look it up if I'm wrong
+is that it didn't even have suspend
+because it had an open bio
+it did not even have suspend
+functionality you know you close the lid
+it suspends to ram and then you open it
+up and it goes back to where you were so
+you technically I'm sure you can find an
+alternative that is free it's just
+you're free in this aspect now but are
+you free in terms of you can actually
+use what the rest of the world is are
+you the quality drop off if you want to
+like not be spied on or literally not
+have the worst apps forced on you ever
+is just so massive like that what you
+have to give up to do that it's not
+worth it yeah it's not just for phones
+you go get any computer like anyone
+who's tech savvy what's the first thing
+you do when you get a new laptop [ __ ]
+white black eyeshadow every time or the
+first thing when you get a phone is like
+you have to I you know I would say like
+I did this a long time ago when I got an
+Android phone
+that wasn't a pixel I rooted the phone
+it was like alright I'm gonna get rid of
+all the bloatware but scrolling through
+the 500 programs on that phone I was
+like
+have no idea what I can safely delete
+like yeah Jesus even Windows does this
+when you do a fresh install of Windows
+why the [ __ ] is like candy crush saga
+like pre-installed because they
+integrated because now Windows is being
+sold as software's a service that's why
+they tried to push it for free out so
+many people right from Windows 7 the
+upgrades and everything we're free cuz
+they just want you to have access to
+that Windows Store and everything so you
+can buy product order product yeah but
+the whole thing is disaster like I don't
+know if you Skype at all Louis but like
+in Skype right now
+they've stored your conversations in the
+cloud for the last two years and you
+can't delete them so if anyone was to
+hack your Skype account and log in from
+another client they can pull up all your
+messages for the last two years in Skype
+and there's no way to remove it like
+that's crazy that the other thing exists
+I've always thought that the next
+serious and this is with me being a
+wearing my tinfoil hat but the next
+serious sort of civil war societal
+breakdown is gonna be when all of these
+services are hacked I can look at your
+Google Hangouts history I can see
+everything that you've ever typed into
+your phone via voice the text that you
+turn opt-out of I can see every Google
+Hangouts conversation you had at 2:00 in
+the morning when you were frustrated
+after your wife just broke up with you
+and left you when you were drunk I could
+see every single thing you've ever said
+in the world and then I can use that
+against you or I can say we'll see that
+means this person this this guy is a bad
+person and at some point I think once
+all these services do start getting
+hacked because it's not a question of if
+it's a question of when and you're able
+to see all this information stored on us
+you're gonna start to see a side of
+humanity that you weren't used to seeing
+before which is you'll have for the
+first time in human human history
+unfettered access to everything somebody
+has said written thought or done in a
+private moment this is literally there
+was a South Park episode about there
+with the Danes there but yeah I mean
+this is crazy idea everyone's you know
+private search history would be out
+there for anyone I actually I'm sorry
+but things that you've typed so yeah is
+there any time that you've typed
+something into it into a box to another
+human being where you thought hey it
+would look really bad right now if the
+entire world stopped really bad but this
+is a career ender oh yeah I enjoyed dark
+humor so I'm sure there's a bunch of it
+but there's also things that I've said
+when I was really
+aggravated or angry or pissed off and
+then 40 seconds later I realize there
+yeah that that no I don't really think
+that's kind of crazy okay but like that
+little moment Kent will then be used to
+define you for the rest of your life
+once all of these services are hacked
+and that's gonna be some serious pens I
+don't think I don't think anything will
+ever happen though I don't think there
+will ever be any civil unrest because
+these devices all become so heavily
+integrated into our lives that I think
+it becomes unfathomable to ever live or
+operate without them like Francis I I
+think if I would have said I think if I
+would have said like 15 or 20 years ago
+what was it like 200 million American
+Social Security numbers were gonna be
+leaked like people be like oh wow this
+is like a game-changer like something
+serious would happen but like that
+happened was it Experian that got hacked
+by some Equifax yeah it was like 200
+million of socials got leaked and like I
+don't even know if people remember this
+even happened and this was like within a
+year ago wasn't it like a year a teacher
+that's not public right so you know what
+yeah that's the thing that can happen to
+the United States is if two of all the
+social security numbers they just
+literally were leaked publicly because
+then we can get rid of this stupid
+system that we use in the United States
+like to identify yourself hey what's
+your social security number and you know
+it's like how is this identifying stuff
+anymore it needs to get be gotten rid of
+completely it's the worst form it was
+never designed for this in the first
+place
+yeah but yeah anyways
+Louis one thing you said earlier I just
+want to go back to this you mentioned
+another company supply group I what
+happened there you said that it shut
+down yeah so one of the things that it
+makes you competitive in this business
+the very least when I was just doing
+mostly screen replacements and things
+like that
+or getting quality parts and the price
+that you're getting them at and many of
+the vendors that I have been buying
+stuff from for several years they were
+selling me stuff that was either junk or
+not compatible because they would assume
+something's compatible since they don't
+actually work in the industry or it was
+low quality so I just I would have it
+was difficult for me to find parts so I
+kind of had to become my own supplier so
+I proposed with somebody else I said I
+would I was selling a lot of the parts
+that I was getting there were decent
+quality so if a part was typically $240
+and I did all the research to find the
+one vendor that has
+available for 100 bucks I would sell
+them for about $150 online I make my
+money and off of that as well as making
+the money off of doing repairs and I
+remember asking this one person who had
+given me my first loan at $7,000 I said
+okay you gave me a year to pay back that
+loan I paid it back in two months can I
+get another one this time for this
+amount of money so that I could buy this
+set of screens and resell them and he
+said no but I would be open to a
+partnership where I own 20% of business
+so I started that as a business and that
+will end up being a very bad idea for
+several reasons so the first was I wound
+up trying to do too much I started
+trying to expand it to too many
+different areas and selling items that
+weren't necessarily profitable screens
+are also one of the hardest pieces of
+hardware to make money selling because
+of breakage in the mail people buying
+the wrong one since one device can use
+three different incompatible screens and
+that business will end up going
+completely belly-up at the end of 2013
+so that was my first large-scale
+business failure so I was low he loaned
+me I think about $20,000 I wound up
+getting other investment from credit
+lines and all the parts all the money
+everything in that business over a
+period of three years wound up
+disappearing into virtually nothing
+after which I went out of business so I
+had that experience in my head I try to
+remember why it is that failed I did a
+one-hour video a few weeks ago on
+exactly all the things I did wrong in
+that business that caused it to fail and
+it's something that I keep in my head so
+that I don't make those same mistakes
+again okay interesting yeah I kind of
+it's crazy to think that screams in
+particular are like when you think about
+the logistics of how much it costs to go
+by like just you know an actual monitor
+that has staples the fact that they had
+to get that here from China you know the
+cost really doesn't work out that well
+in like the repair business I imagine
+it's even more brutal is that is that
+one of the higher margin items that you
+do or what is the highest merchant item
+that you do in your store as far as
+apparently that used to be so when I
+first started out if you had an a 1181
+macbook I think I was charging $160 to
+replace the screen I was able to get it
+for $58 so I would show up to your
+location anywhere in New York City I
+would take the Machine apart put it back
+together give you a
+warranty on it and I got to make my
+hundred two dollars off of that process
+now if I buy that screen for $58 versus
+somebody else if somebody else is buying
+it for $140 I'm able to offer a much
+better price because I was able to get
+it for a much cheaper so the price that
+you were getting your screens at really
+did matter but it also mattered that you
+got something good if you were getting
+the good ones like the LP 1 3 3 w x1 CLA
+1 completely remember this number 11
+years later but you were able to offer
+sell somebody your brightness control
+will still work the color profiles will
+look like it sit on the original versus
+having to talk your way through this is
+gonna look different than the original
+one so there was yet being able to get
+good parts was a lot of what would make
+you competitive and the experience that
+I have if I bought a screen from Bliss
+computers half the time I would have a
+bunch of dead pixels or it would have it
+would just not be the right one cuz they
+would buy something that was compatible
+that wouldn't actually work with that
+device and I and everybody that I knew
+that was in this business hated the name
+bliss computers and was they did the
+business with them because they didn't
+know who else to buy from so I just said
+screw it
+let me try I'd see if I could do better
+myself and what I learned from that
+experience is that I can see that
+somebody else is not doing giving
+offering a good service but what I
+should be doing instead of saying I'm
+gonna do better as asking why are they
+not offering a good service so with them
+a if they made their price even one
+dollar above the cheapest person on eBay
+your sales just turned off immediate you
+would go for I went from I could go from
+selling 1200 items a day to selling 20
+items a day by just adjusting my price
+on ebay of all of my products by five by
+three to five percent the second is that
+there would be so many people who would
+buy stuff and then they would actually
+return the screen their old broken
+screen in the box that had my new screen
+and they would file a PayPal claim
+saying it didn't work I would get it
+back and I'd see like I would see youlet
+packard part stickers on it it was very
+obvious this is not what I sold you and
+they would win the case so and the third
+thing was that the margins were very
+very low in that business so after
+several years I realized at the end of
+it okay after going through this
+experience losing a bunch of money and
+failing that's why you offered should
+service because the money was not the
+customers were not willing to pay for
+that level of service you also had a lot
+of fraud and you it was it's very
+difficult but
+low profit margin to find somebody who
+is an actual technician to write your
+website and tell you what's compatible
+with what so that experience taught me
+that rather than assume that a business
+is offering crap service because they're
+crap it could be that there are crap
+business and that you can do much better
+or it could be that this that the
+factors that they're working with our
+factors where you would not be able to
+offer better service do you work as a
+parts retailer yourself or no yeah now I
+sell parts online but I sell everything
+besides screens like literally
+everything beside screens the IRA I sell
+I will sell parts other repair shops
+that I think have some sort of profit
+margin like I can buy a chip for two
+dollars and sell it for 350 or something
+and I'm also targeting a clientele of
+people that are not going to break it
+and send back the old one in the box so
+what I do is I sell the parts that I use
+for repairs on YouTube so if somebody
+says you know I wish I could buy this
+station or well why does my what is it
+why is it that your hot air station
+heats up immediately and I have to burn
+the chip for ten minutes so I saw that
+if somebody goes you know where do I buy
+that chip from I always have to grab it
+off of a donor machine I don't know
+where to find it I'll sell that so I'm
+I'm I started the online part store
+again as a way of selling to my YouTube
+audience of people that wanted to do the
+stuff that I'm doing but they just
+didn't know where to buy the individual
+chips and parts it's not the same way as
+before where I'm soliciting business
+from all the general public technically
+anybody can go to my website and if they
+want they could buy an LT 3470 but it's
+it's mainly marketed to the YouTube
+audience so I want that small community
+of people that are opening these types
+of repair shops are deciding to try this
+business on their kitchen table to have
+a one-stop shop where they could buy all
+the things that I have to do what I do
+because the hardest part of this for me
+in the beginning was where do I get this
+part at an affordable price what tool is
+it that I use where do I get this chip
+from where when I get it it's not a chip
+that they ripped off of a broken
+motherboard that's also dead so I so the
+the goal with the online store now is to
+make the lives easier of the people that
+are do it trying to do what I do rather
+than it being a profit Center you know
+it's if my business would not be
+sustainable at all if it was just a part
+store because that that doesn't really
+make much money sure
+so what a moving forward how do you see
+twitch and YouTube and things like that
+complementing their business and do you
+have any specific plans for growing the
+revenue from your YouTube and twitch and
+I bring this up because one of the
+things that I saw that you did is you're
+pushing Vimeo over YouTube and you pay
+for Vimeo but you can't get paid from
+there meaning there's no partner program
+or anything there so what's your logic
+behind that and yeah well the thing is
+YouTube doesn't they don't have any sort
+of communication with the people that
+that are on their platform and they
+don't seem to actually understand how
+their platform works at all it's it's
+there's the The Wizard of Oz behind the
+cloak and I haven't had an experience
+with censorship or any of that stuff but
+I see it happening with enough other
+people that I would like to have a
+backup I don't like the idea that at any
+given time if something happens all this
+work that I invested is gone I would
+like it to be just like you said you
+don't want to is I do pay monthly for
+Vimeo so perhaps this is a bad example
+but I pay Vimeo for the service so it's
+not like if my channel disappeared there
+I can actually call somebody this
+customer service they have an office in
+New York City that's about a quarter of
+a mile away from me that they can go to
+I don't really have much reason to trust
+YouTube and so I would rather people
+view things on my platform then view it
+on a platform that belongs to somebody
+else I don't even think that YouTube run
+has a sustainable business they lose
+anywhere from half a billion to two
+billion dollars a year and you know one
+example that I have of YouTube not that
+them not even knowing how their business
+works so they have that thing where
+they'll they'll have a car somebody
+reach out to you to help you with your
+content and your branding and all that
+stuff a partner manager or something
+like that so I had a she was talking to
+me about the about the the new
+guidelines regarding profanity and
+things of that nature now every now and
+then for some strange reason a video
+that I did one or three years ago will
+just get a bunch of comments and I'll
+look in the analytics and it'll say that
+this was it wasn't that it became
+popular on reddit it's just it randomly
+got pushed to a bunch of people's feets
+so I had this one video that was
+entitled IT specialist can suck my dick
+and it had a very provocative thumbnail
+wasn't one of my better videos but and I
+asked her I said okay I understand
+everything you're telling me here here's
+my analytics if this is the case why is
+it that this three or
+video that has a very profane title a
+very profane content being pushed to so
+many people in the suggested feed and
+she had no idea so you don't understand
+how your own platform works if I have a
+problem with anything regarding the
+platform there's nobody that I can speak
+to so I don't I don't feel secure there
+I want there to be some where where
+there's some sort of accountability to
+me if something goes wrong with somebody
+that I can actually speak to so that's
+that's why I tell people show you know I
+would prefer that you view my stuff on
+Vimeo because on that platform at least
+I have some level or degree of control
+over you know me just getting randomly
+kicked off or banned or something like
+that and in terms of expanding what I do
+online I definitely would want to start
+doing more data recovery videos I you
+know I've spent about 10 or 12 thousand
+bucks under data recovery stuff new
+cameras lenses capture cards everything
+so that when Steve is doing drive savers
+level work I want there to be another
+section of the channel where we try to
+you know demystify that as well this is
+not a lot of people out there who are
+trying to show you not just here's me
+and my astronaut suit in my 10 million
+dollar ISO nine whatever certified room
+doing what you can't do pay me $10,000
+I'd like to have a channel showing
+here's how you we actually do it from
+start to beginning I'm not saying you
+should do this at home but watch us
+recover a drive let's show you let's try
+and demystify another part of this
+business this is very interesting
+because it seems like you kind of have a
+thing with the drive savers cuz you know
+I think some of us have probably seen
+like the - tech tips tour of the
+facility and things like that and it is
+like you know it's the clean suit NASA
+Space Station's type of stuff walking
+through are you trying to say that like
+95% of drive repairs you can do without
+that that that's complete overkill and
+[ __ ] or what hundred yes I'm saying
+I don't know if 95 percent is the proper
+percentage but we have a laminar flow
+bench and Steve sits there with his
+v-neck t-shirt and his chest hair
+hanging out of it
+and he recovers drives some of the
+drives he's recovered two drives that
+drive savers didn't recover and I don't
+I I really don't like that old-school
+type of advertising that old-school type
+of we have 25 years experience and all
+these certifications and a top-notch
+facility I think people are sick and
+tired of that they would rather deal
+with somebody who is a human they
+to deal with somebody who well here's
+how I do what I do here here's me
+showing you that I know how to do what I
+do here you can watch as I do what I do
+and learn they'd rather deal with that
+than deal with that old setup and I
+don't like especially when I've seen
+some of their phone repair videos where
+they have the people wearing the
+spacesuit you don't need to wear the
+spacesuit to recover data from a [ __ ]
+phone you can get dust in a phone if the
+demand chip is actually as underfill on
+it so dust cannot get into the phone and
+I just find it I don't like that idea I
+don't like the idea that you need to be
+this far above the average person in
+order to do something I don't like
+people promoting the I'm probably
+screwing up saying this rephrase I don't
+like the idea that of promoting yourself
+as you need to be perfect in order to
+get something done I think it's
+discouraging to people who would want to
+enter the business and I think that
+there's some level of intellectual
+dishonesty involved there when you say
+that this is how you need to do
+something and yeah I run into a lot of
+guy I totally agree I'll just I'll
+probably get in [ __ ] for saying this
+drive savers has bought chips from us
+twice I'm just saying the company that
+Apple refers you to Apple says this is
+the only company that you should go to
+when it comes to data recovery they're
+the only company that Apple will
+actually say yeah you could probably go
+here to get your phone recovered they
+have bought chips for me like I have
+invoice a what but they they've I don't
+like this idea that this company is
+theirs
+the god of the business nobody can be
+like them you only need to go to them
+they are authorized they are certified
+and at the end of the [ __ ] day when
+they need a chestnut or a Tristar it's
+like stored across muqaam or are you
+4,700 for a 15:30 for acronyms do you
+know must be a long way too many waits
+like wait a minute your brain they're 20
+socializing I spent my 20s knowing what
+L p133 w x1 CLA one is compatible with
+it's it's a but interesting Wow so yeah
+I just move it moving forward with the
+YouTube stuff okay do you see that being
+do you think that that could get that
+revenue level could start being more
+significant for you personally versus
+the store or do you think that that is
+existent
+early just to drive more revenue to the
+store itself like do you see yourself
+becoming a personality because we see
+making videos that are technology
+related but nothing to do with fixing a
+phone and fixing your computer so yeah
+III don't see that for a I don't see it
+just because in terms of YouTube money
+there is what so what people go to
+socialblade.com and they assume I make
+and then there's what I actually make
+off of it and that they're they're very
+very different figures I don't make an
+amount off of YouTube that is an amount
+where I would I would a I would never
+feel safe making a living off of YouTube
+given how easy it is to get remove from
+the platform and the fact that the
+people that work for the platform cannot
+even tell me how their algorithm works
+when it comes to why did you promote
+this content that you say you don't want
+and I so I don't see myself make I could
+see myself making more money as a result
+of here let me show you that we're best
+in class at driver pair let me show you
+how to do your own driver pair and by
+the way if you know somebody that needs
+a driver coverage send it to us first I
+could see that being a way to make money
+but in terms of making money solely off
+of YouTube monetization I would never
+want to trust that as a way to make a
+living so you don't really have a
+specific drive of being a creator or
+going down that path really you do this
+for fun - yeah I'm not I'm not a people
+person either because when people have
+showed up and said i watch her stuff on
+youtube they're surprised that i'm not
+all excited or that i don't act like
+they would if you met lioness or jays
+two cents or something but like eli the
+computer guy he elias said he's another
+youtube channel it's almost 2 a million
+subscribers he said that he has
+Asperger's syndrome and everything and
+they neither I don't think I'm that far
+into it but I neither of us are people
+people neither of us really saw
+ourselves being content creators to the
+point where people from around the world
+were watching his Eli's idea was I'm
+gonna get maybe 30 to 60 people to pay a
+monthly fee to watch instructional
+videos my idea is maybe 50 to 300 other
+repair shops will watch what I posted
+and learn board repair you know my dad
+used to say that if you want something
+to be different you have to be a part of
+the change you want to see in the world
+I was very pissed off that when I was
+trying to learn this there was no good
+there was no guide there was no source
+of information so I figured I can't be
+pissed off that there's no source of
+information if I don't put it out there
+but I so I put it out there for that
+reason so that somebody else who was
+following my little path through life
+we'll get to this point and say huh oh
+the informations there but I I never
+imagined having more than 300 people
+watching if I did I probably would have
+you know not had my face on camera and
+not put my name on the channel because I
+don't it feels weird knowing that 800
+20,000 people know what I look like or
+what my name is it's not something I'm
+not I'm not necessarily comfortable with
+being that popular on a social level
+same it's really know if I could go back
+in time and redo it if somebody said
+you're gonna have eight hundred thousand
+people watching not three hundred I
+would have never put my name or face on
+the camera really I would have put the
+information out there so you could yeah
+so you could learn this stuff so that
+you know if but I wouldn't never put my
+name on my face attached to it okay well
+so for people that like watcher stuff
+what's like the next big project or
+something you're working on like if you
+could promote or if you want people to
+get like one future thing you're doing
+what's something you're excited that's
+coming up I'm excited about doing all
+the data recovery videos with Steve I
+want to do the same thing I did with the
+border pair process so before if you
+needed a border pair Apple would tell
+you that it's impossible the only
+companies that did it would show you
+these hundred thousand square foot
+facilities people wearing the spacesuit
+the oscilloscope that nobody even
+[ __ ] uses because you're not
+measuring you know things on the board
+using that I want to do the exact same
+thing I did with bordered pair with Dr
+repair and I just have to find the time
+to do it which is hard but over the next
+few months I would like to have an equal
+amount of hard drive recovery videos as
+we do the border pair videos and I don't
+want it to be some advertising wanker II
+where you know I show you what really
+sped up and say send it to us if you
+want it done I want it to be something
+that people can actually learn from and
+that's something I'm really excited
+about is that all gonna be posted on
+your main channel you did you see we're
+creating a separate channel for that
+yeah that's on the main channel gotcha
+and the second thing I was kind of
+excited about was if I do wind up
+getting one of these second store
+locations I wanted to get rid of my
+Amazon affiliate links as I'm trying to
+get rid of as many as I can and so that
+I linked to my own store selling stuff
+and I'd like to actually have a little
+setup inside where people can walk in
+and try out a microscope or try out a
+soldering station or something before
+they buy and have the opportunity to buy
+all the stuff that's on the website in
+the store so if you're you know a 17
+year old kid
+just wants to get some soldering iron
+for his birthday or microscope or
+something for your Arduino projects
+there's actually there will actually be
+a place in New York City where you can
+buy it but it's not just gonna be like a
+Best Buy or a Circuit City where you see
+the product it's behind some glass thing
+and you can only touch it once you've
+checked out where you could actually try
+it in the store that's that's something
+that I'd like to do if I do get the the
+other space be careful
+you know RadioShack went broke trying to
+do this back in the day right be careful
+not a lot of guys that are into that
+stuff you know one caution on the Amazon
+thing as well is someone who has a lot
+of experience with the Amazon affiliate
+stuff you can spend a lot of time doing
+that type of thing but you know the
+revenue really isn't there because if
+someone goes and they click your amazon
+link and they don't buy what you're
+doing but they go when they buy a
+hundred rolls of toilet paper you're
+getting a kickback from that so you have
+to really I've seen that yeah yeah I
+just I yeah I've seen that and I
+wouldn't want to open a store solely to
+do that but I figure if I have all of
+the product in this location already and
+I have a person who's shipping stuff and
+packaging boxes they're all ready and
+all the products already in that
+location it wouldn't be that much extra
+effort to just have one on display or
+have one unit up there so that somebody
+could try it I'm not saying it would be
+a sexy retail facility but I would like
+to have at least there be at least one
+place in New York City or if you do
+something similar to what I do you can
+actually buy a microscope or you could
+buy a hot-air station I'm not saying
+you're gonna walk into a place that
+looks like Sears or Best Buy you're
+gonna be walking into a place with you
+know Paul cursing as he's doing long
+screw room prepare and Mikey shipping
+stuff but that you would be able to say
+you know I'm kind of curious how this
+microscope looks can I try it and I
+wouldn't want it to be the main business
+because if it was the main business
+there's no way in hell that would ever
+pay rent or employees but if the
+employees that I'm already paying off of
+the work that's already profitable it
+could take a few seconds out of their
+day while shipping because they do have
+spare time over the course of a day to
+also just take something out of a box
+for somebody to try I like to do that
+and I hear a lot of people saying Amazon
+is killing us large online stores are
+killing us but they have a local store
+where you're not allowed to try anything
+you can't open anything you can't touch
+anything so of course I'm gonna go to
+Amazon where it's cheaper because you're
+offering the shittier experience and you
+want more money
+I'd like to have some sanest or you can
+try all the things and my type of setup
+and then buy one if you want and it
+probably would cost 10 or 20 bucks more
+than it would at Amazon
+I'm hoping at that point that the people
+that show up are not the kind of dicks
+that are gonna go after all of that
+demoing I'm still gonna go to Amazon to
+say file definitely best spice right
+people run to Best Buy they demo a
+product of real life and then they run
+on Amazon and buy it or some [ __ ]
+nobody but people hate Best Buy then
+nobody gives a [ __ ] because people
+there's no loyalty to Best Buy what is
+Best Buy done for the community what is
+Best Buy done for you to the point of
+earning that loyalty they've done jack
+[ __ ] but I think if I've said here's
+exactly how to run the business that I
+run here's exactly how to do what I do
+here's how to sign here you could try
+all the equipment that I have at that
+point if somebody is so much of a [ __ ]
+that they are willing to say I will go
+to bed I will go to Amazon because
+they're selling it for 265 or as you
+want to 70 fine [ __ ] it mayor Copa I
+give up and if the idea winds up failing
+and I just I'll wind up on doing it but
+I don't think it's gonna be like that I
+think that especially in a city like New
+York where people are sick and tired of
+Starbucks chase Starbucks chase
+Starbucks a Starbucks chase and let our
+buck chase liquor store that they would
+be willing to spend the extra five bucks
+if I'm selling something that they
+really want and need and I'm willing to
+let them try it use it and they can talk
+to an expert in the fields who will help
+advise them what to do so I'm excited
+I'm really excited about that if I
+actually hear back from the space you
+probably won't but if I do and I'm
+excited about doing the data recovery
+videos a lot because I find it fun just
+part of the what I find fun about this
+is taking something that somebody else
+thinks is impossible or that they don't
+know how to do or where the information
+is not there and filling the void and
+putting the information out there and I
+focus on the monetization later not in
+the beginning I don't go into it
+thinking how can i monetize showing
+people how to do driver pair no I have
+spent a few thousand bucks on lenses and
+camera equipments and all this other
+stuff and I don't know maybe I'll that
+part I figure out later but the
+excitement for demystifying something
+that is currently mystified is
+definitely the driving factor and it's
+what I'm what I'm excited about doing
+next okay cool
+my cats not because he just decided to
+go to sleep as you can see looks like
+pretty thick yeah he's 25 pounds he's
+family holy [ __ ] are you serious yes
+banning your business boy you're
+spending all your [ __ ] 15 I can't
+wait 25 pounds 25 pounds yeah okay
+alright now that he's gone let's talk
+about how much we love Apple
+they are a superior I mean come on it's
+like not even like some of the smartest
+computer texts I've ever met in my
+entire life of an ingenious bars are you
+really
+I went to a genius part one time I will
+never go back in my entire life I almost
+killed myself walking out of there okay
+where's the cat where's yet holy jesus
+wait let's see that belly lift him up
+more yeah oh I guess he doesn't like as
+bad up close that 25 pounds so pretty
+big for a cat though that's when they
+say chunk a lot he comin okay well hey
+cool we really appreciate you being on
+people know where to find you on YouTube
+I'm sure you're thinking be linked in
+the description and I mean you're just
+you're Louis Brosnan on YouTube mine
+that good yeah - I see you have a broken
+computer send it to him but before they
+send it to them try to fix it yourself
+and break it more so he can charge you
+more money there you go
+but yeah it was a really good talking to
+you both thank you very much for taking
+the time and having me on yeah yeah
+thanks a lot for joining us right all
+right yep have a go guys we can't just
+knock the TREC bull out of my mouth
+thanks Chuck alright alright see you
+guys later peace on

@@ -1,0 +1,3513 @@
+welcome to episode 20 of gnomes tomes
+and catacombs today we are hosted by
+Koivu are faithful DM who's been hosting
+us for the previous 19 episodes we are
+joined by Lily picchu Devin - I'm mr.
+moisture and then me of course destiny
+how are you guys doing today I'm clear
+that was the best intro we've ever had I
+think we should just end the show now
+thank you for Dad thanks guys just cuz
+he said one lose again that's good
+mm-hmm
+how are you Steve um I was doing a lot
+better okay what what does that mean for
+marriages I'm anticipating doing dandy
+so much those intros just driving me
+crazy enough I'm just so excited to get
+into it so I understand I completely
+understand all right sounds good I guess
+no one has anything to say no Lilly
+Lilly Picchu oh well we couldn't hear
+you could you speak up a little bit okay
+thanks for talking okay thanks honey why
+did you why did you call her honey mr.
+Mertle what have you been up to sweet
+that's just [ __ ] weird I'm cringing
+yeah I didn't really do anything okay
+and Devon hasn't done anything right
+what what have you done I'm always doing
+something dude I'm doing I'm doing
+business business is booming okay off
+the charts can't imagine it I can't
+imagine it my headaches wouldn't even
+began to know what I was talking about I
+to have done business this week that's
+right it's true what business you know
+this secret business terribly secret
+business mm-hmm its capital its capital
+idea
+mm 40 percent that's right
+bye bye bye dude this is uh this is it
+buyer's market it is all right last we
+left off in a pretty precarious place
+you guys were arguing with little Jimmy
+he was a little pissed that you guys
+pulled them all over here
+for like a short taxi job some heated
+words were exchanged and weapons were
+drawn
+I also rolled a hit I don't believe we
+got that far
+I believe we stopped right before any
+action occurred oh I didn't technically
+roll I just said I was about to hit him
+and said what we're gonna end it there
+yeah so you guys are on the ship
+surrounded by the crew facing down
+Little Jimmy why don't we bring
+ourselves over to the battle map here we
+are hmm I think Barbeau and Little Jimmy
+are gonna be the first ones to act in
+this round and then everybody else can
+join to the second round wait are we
+fighting guys yeah
+aren't you can't cheat isn't this your
+friend don't you want to talk to him and
+be like I'm about to beat his ass into
+submission okay and then we'll talk to
+him all right so why don't you and blame
+a brick we're surrounded by 20 pirates
+yeah they're all ask them I mean what
+did you expect there'd be no pirates
+yeah that's like the Disneyland ride
+there's just admit you just imagined the
+pirates well in the Disney pirates
+they're also not murderers and rapists
+and thieves they're just like happy
+people who sing and drabs you've been on
+the Disneyland ride recently okay that's
+all they do
+they chased swimming around through the
+burning billion [ __ ] on the circular
+thing it's actually quite disturbing
+we're gonna go to Disneyland Neil you
+and me wait can I ask you a question
+I can't reject it if you fall on someone
+in this game is there falling damage on
+the person
+don't take it right you know you be
+could rule it if you fall on a person
+you both take the damage or maybe
+depending on the way the fall is
+happening maybe one person takes the
+brunt of it or something it's sort of
+flexible okay so here's my question okay
+I'm fighting someone in a one-on-one can
+i thunder step myself 50 feet on top of
+them and they fall onto them and do
+damage that's actually so [ __ ] cool
+but yeah he technically could good name
+well I have to go to an unoccupied space
+so the space would be in air and I
+imagine I would teleport there then I
+would fall immediately the question
+would be if they would take falling
+damage might land on them I should have
+asked only if you did the people's elbow
+mm-hmm wouldn't you take the same amount
+of damage though there is falling damage
+that you would take yeah but it would
+depend on how he would roll it I think
+it's 1d6 per 10 feet yes I think in this
+situation with just trying to thunder
+step on top of someone I might need you
+to make me some sort of like attack role
+to make sure you can land on them or
+maybe I'd give them a deck save to get
+out of the way but if they're like prone
+on the ground and you're falling on them
+that's a totally different situation
+right if they're standing and actively
+moving about versus supine all right I'm
+just curious are we gonna we can lawyer
+this honey so Barbeau Jamie told you to
+suck his dick that he did and you wanted
+to attack him you do beat him in
+initiative kuhmo will bring you in and
+everyone else the next round so why
+don't you go barb oh all right little
+Jimmy called me a fake-ass pirate that's
+a head about to put a real ass beating
+on you and I'm gonna tag him twice with
+my sword go for it twenty it's gonna hit
+him 24 is gonna hit him you rip me
+Little Jimmy to shreds his head rolls
+off today right here's 5 HP you just did
+Bach little Jimmy hey you did 13
+good little Jimmy is dead
+what with the rest of my action can I
+say
+I think in the the Pirates code now that
+I've killed your pirate
+I own this whole ship I don't know if
+you guys want to abide by it but if not
+I will take you the way that I took
+Little Jimmy there it's up to you they
+go roll for initiative but are they
+loyal to him loyal to who - Jimmy I mean
+Jimmy put this crew together you might
+be dead right now but they're not happy
+about it
+oh my god they'll call me captain
+wait do I get to go again if I'm at the
+top of the initiative we're gonna roll
+everyone's initiative and then sort it
+and yes you will go still at the top so
+kumo already rolled bar was already
+rolled can we get there's a parole room
+can we get it Gerald is that the proper
+initiative role though that is a one D
+20 plus 7 no that's only plus 2 yeah it
+always messed us up so it seems like it
+recess between sessions I don't know it
+doesn't work yeah breaking on us
+initiative modifier is all we already
+have the plus 5 in here what where's
+your character let's try this again
+Gerald initiative role nope that still
+didn't work sweet Mother of mercy
+oh oh I think I know what's going on all
+right I will fix it in between sessions
+that's what you said last sessions is no
+lust I said fix it at the time and I
+thought I fixed it
+ok the problem lies in a missing
+variable in my custom code that was not
+designed for 5e but we poured into 5e
+ok I will okay I'll fix it right now all
+right right now
+we want mod equals initiative bonus not
+dexterity mod I got you Gerald this is
+not my fight honey I got you okay you
+tried to do something when it comes your
+turn I want to save your ass back here
+what how would you like to be a giant
+crab there you roll your initiative and
+mouse over the the roll just to make
+sure it's doing it but I got it to work
+so roll my mission my mission of as
+normal yeah just do it like you normally
+would
+it's currently see that look at that
+plus 7.14 wow nice good job yeah that's
+right okay let's sort in descending
+order barb oh you are still the first to
+act
+everyone is stunned as you've cut
+Jimmy's head off and run him through in
+his heart all right I'm gonna walk back
+here I'm gonna attack the one to my left
+first okay roll the hit 22 will hit the
+pirate and bring him down awesome then
+I'm gonna attack the one behind me 21
+will hit for 8 damage wounding but not
+murdering him alright kuhmo this guy
+that you're with just started killing
+people on the boat if pearl can sense I
+pick her up i consent all right I cast a
+fly and I'm gonna drift off over here
+with pearl alright you guys are off on
+the side above everybody or to the side
+of everybody everybody
+I just magnify as maximum the first of
+the officers shocked at little Jimmy's
+demise bolts into action getting a flank
+on Barbeau for advantage on
+their multi attack they'll swing twice
+with the sword a twenty does him a
+fourteen yep oh wait no that doesn't
+have no all right so you'll take for
+slashing damage again he got something
+to happen I'm not gonna have that one
+nevermind to the scimitar and one with
+his dagger
+so we dagger zoos as well for 24 to hit
+for four damn it it does hit alright
+the next officer goes up and this one
+comes right to Gerald not why he's gonna
+grapple you Gerald why wait for for what
+in character reason because when you are
+with the the ally of the person who just
+killed his captain you are the enemy
+you you've chosen your allies poorly
+he's going to grapple you make me an
+opposed to acrobatics or athletics check
+hang on
+you think he's just gonna leave the
+spell-casting gnome of the murderous
+pirate just to hang and cast his spells
+and throw fireballs around and levitate
+magic missle and web yeah that's totally
+fine all right maybe you're opposed he
+picks you up and he throws you over the
+side of the ship
+you're in the water okay
+can you swim with the amount of gear you
+have on you yes I had to dump like 90%
+of my stuff because this is a problem
+last time I still see 22 pounds of gear
+on you what did you don't oh they have
+been kept 22 pounds of gear on you yeah
+I shouldn't yeah you shouldn't 1 2 8 9
+10 14 I count 15 pounds of gear mm-hmm
+that should be right oh it's all your
+coins it's all the cash that you have
+it's the hundreds of gold coins that are
+weighing you down general even though
+they you're you're gonna sink because of
+your large purse that's the problem all
+right
+that's what that pirate that officer
+doesn't his turn the next one goes and
+is going to he's in a tough spot here
+he's gonna just scamp around the edge so
+he can get next to bar bow and make an
+attack with advantage because you are
+flanked Oh hold on wait a second it
+doesn't hit him I'm gonna have to appeal
+to a previous campaign I did with you
+koi boo it's called hero's graveyard
+when we were fighting a lot of enemies
+of the entrance of the place there were
+bodies that were piling up that was
+preventing them from attacking and I
+think they were taking either attacks a
+disadvantage or something why did you
+drag that pirates body off the ship so
+the other person could step on top of
+his body and attack Garber we shouldn't
+have to take that attack a disadvantage
+or shouldn't he be there was a large
+pile of bodies definitely but a single
+body is not enough to give someone
+disadvantage and moved it off the side
+of the ship just for clarity
+okay it's about my you more bodies I can
+just put it keep it on there I want you
+to feel bad when you take those attacks
+at normal okay all right
+sixteen still a missed though the next
+pirate comes up he sees kuhmo and pearl
+flying in the air this pirate has a
+weapon and a dagger but all the missile
+weapons are below decks
+so this pirate heads down below deck I'm
+just gonna take them off the screen for
+a moment to go grab missile weapons
+little Jimmy is dead initiative order
+next pirate attacks Captain Barbeau with
+a ten is amiss note can I sticks with
+the Vantage twelve is a miss next one
+that's the dead guy and it becomes
+Gerald's turn Gerald you are sinking you
+cannot swim because you have too much
+weight because if I are you do I have to
+cut my purses a free action and then
+cast fire will you let me fly out with
+the money do you can't fly you can't
+cast fly while you're underwater I'm not
+underwater I'm just like if it's the
+start of my turn then I'm sinking but I
+can cut my I can either cut my purse is
+the free action I can fly but it's up to
+you what you what you want me to do so
+good questions fly requires verbal
+somatic material components you have
+your what's just focus that's like it no
+it's like a little just like like totem
+thing it's like a little thing yeah or
+what is it specifically where's the
+bracelet okay hmm
+cool so fly you touch willing creature
+tokens applying to but yeah I think
+you're gonna have to drop your purse
+before you can do anything okay all
+right I'm gonna to water the water
+should be pretty shallow right like we
+were being picked up by Jimmy and I
+don't think we even set sail so we
+should honestly be like near the beach
+or if not on them because we never set
+sail to go anywhere yeah the pirate ship
+doesn't like Park on the beach and then
+roast you
+okay so you wouldn't like rode over to
+get us okay I'll just I'll lose all my
+gold and then you must well you're well
+I still think you're two pounds
+overweight somehow you should eat
+sixteen pounds and you're at 18 hi mom
+so okay hang on this is kind of silly
+because like it's it should be that I
+start sinking when I'm encumbered and
+I'm not I wasn't even covered when I had
+money do you remember those custom 5g
+House rolls at the very beginning of
+everything we went over how there are
+changes to swimming with with weight if
+you have your weight your strength in
+gear or less you can't read but if you
+have more than twice your strength you
+just sink and that's a something I've
+pulled from like swimming up records of
+people like trying to swim up the most
+weight that they can which is
+surprisingly difficult
+so when you say 2x strength what does
+that mean like 8 times 2 is 16 so if you
+have 16 or more pounds you cannot swim
+if I have 16 pounds or more I can't swim
+uh-huh okay um yeah counting your
+clothing weight in this already so you
+should have probably something I'm just
+gonna let go of my staff because that
+will float on the water
+perfect that's nice and easy and the
+staff will float you're good go ahead
+and cast your spell buddy thank you sir
+just lost all my gold for it no big deal
+but yeah I will I'll fly myself and how
+how much can I move clip ooh at that at
+that speed you have flying speed of 60
+so you can move 60 feet sounds good to
+me indeed okay guys flying fantastic
+Jerald looks mad he looks like a wet cat
+he's pretty frustrated yeah I can start
+some muttering under his breath alright
+a bunch of pirates start heading below
+decks to to probably grab missile
+weapons and this other one attacks with
+advantage 22 to hit for four more points
+there are about
+which guys are tagging me this guy on
+the right yay
+thank you I'm gonna have that one wait
+has the other officer attacked the other
+off you've already used your half I
+haven't actually used it I never used it
+I said never mind you said I have it and
+then I I did say never mind
+so if do the two damage but it's for
+damage in either situation so it doesn't
+really matter that you're having so you
+should have taken I should take an
+eighty cracked yeah and then now we're
+on the other four yeah okay ten totals
+you should be a thirty eight damn it
+there yet right yeah this guy goes hello
+Dex
+this one goes below decks this one heads
+below deck as well and it becomes pearls
+turn these are not children right no
+only Jimmy was the child
+I'm the child meadow second excited no
+I'm going to use vicious mockery on the
+pirate bar bus all right go for it
+Wow mock him and how do you mock him
+your captain is dead and you will be too
+now you'll see what we're going to do
+yeah you're through your friends we will
+Slough ya to the the pirate stops his
+heart ceases to be he gazes upon you
+with horror at the words you've said
+Jimmy
+he was my my true son he says as he
+collapses and dies
+the next pirate also goes downstairs to
+grab a missile weapon and Barbeau top of
+the initiative order again surrounded
+I'll look to the office there there's no
+way we can talk this out shucks cut down
+a little boy in cold blood
+what sort of pirate does that a mad
+pirate and all attack the officer in
+front of me sixteen he takes a bunch of
+damage okay um I'm gonna use my whatever
+the rakish are fancy footwork to move
+back to here and before I do that I
+can't be flanked now right that's what
+it looks like I mean if you want to go
+all the way back to a player that okay I
+don't know if I could be in the middle
+fine yeah we will put you in the middle
+so I'm in the middle and I'm gonna
+attack this pirate right here and that's
+just seven damage so this guy right here
+the one on my right yeah takes bunch of
+damage kuhmo you are flying you have a
+pearl on your shoulder Barbeau the
+pirate to the southeast of him I'll
+shoot him 1511 damage that'll take him
+down and then the pirate to the south of
+him I will shoot as well 15 a hit eight
+damage that will not kill him but it'll
+do some good damage okay where is the
+below deck can you like highlight this
+for me yeah you can go below deck right
+here like to the south of the arrows
+pointing or that like great okay
+yeah this goes this is door way down
+okay then I will come and I will float
+over here maybe about 30 feet above the
+ship
+okay no Nick what house reasonably how
+high up could somebody hit you like if
+I'm like 10 feet up em are they gonna
+make an attack roll against me is that
+reasonable that they could like like
+this
+no no they can hit something directly
+above them okay so if you're the 5 foot
+square above them if we want to think
+about things as like blocks of cubes
+then if you're if you're 5 feet above
+their head they can't hit okay so if I'm
+10 feet in the air I can reasonably
+expected that nobody would make it
+attack follow me right no melee attacks
+yeah okay cool I'm 10 feet about that
+perfect the officer comes up right
+towards Barbeau and he's going to try
+and grapple you and throw you overboard
+as well a little [ __ ] so give me an
+opposed athletics for acrobatics check
+and beat seven what you do handy and I
+get to throw him overboard if you take
+that action on your turn then so so I
+know he tries to grapple you and fails
+is what happens here he tries to like
+come and just bulrush you backwards off
+the edge of the the ship and you managed
+to hold your ground this other officer
+is gonna do the same thing he comes
+running up the deck lowers his head and
+shoulder and plows right into you
+he's commitment and he gets you you go
+toppling off the ship and into the water
+I'm excited what 26 is my lotto
+yes 2006 how much gear you can carry
+that only brings it down man that much
+alright um do you wanna know
+yeah maybe dropping will wait sir your
+turn
+awesome I'll figure out what I need to
+do perfect alright next pirate is up and
+this one's on the deck and he just
+Cheers
+and you know calls up to to purl and
+kuhmo stand down your men are off the
+ship we have no qualms with you and
+that's a dead pirate this is a dead
+pirate this one also turns and looks at
+you guys and says you know encourage
+reinforces that sentiment
+we have no qualms with you get out of
+here and Gerald it's your turn actually
+I think I skipped your certain barbell
+kuhmo how much do you want this ship hey
+it looks like [ __ ] we should take it as
+I'm drowning
+so you don't want me to destroy the
+whole ship no kill them though yeah yeah
+get the get them okay Walt they're kind
+of hard to do I could do what are the
+other what it should be really easy to
+do it feels a cube correct I'm not gonna
+I wasn't thinking of toss it I mean if I
+do this over to destroy a ship - oh no
+just fireball like 25 or whatever it
+should be pretty easy and I hit the show
+also uninspired these days with a I was
+thinking I was going to fly up onto the
+ship and then drop down as a giant crab
+but I think I'll destroy the entire ship
+if I do that so I guess we'll go for a
+boring play let's uh
+let's detonate an airburst fireball
+above the ship
+how's that sound clever an airburst
+fireball so you're just gonna hit the
+the sailed and the mast you know the
+stuff that makes it go never right don't
+do this to Emily it's really easy all
+right
+understood then I'm going to cast
+something more boring let's cast Shh
+let's cast hypnotic pattern on wait how
+many are there there's ones below deck
+Clem ooh yes about six of them or so
+have come to six below deck I'm ballpark
+you know okay I am going to cast and
+there's a certain area sorry this is
+like specific there's a certain area
+where they went at a deck and there's
+only one area to enter and leave correct
+as far as you know this is the this is
+always right no III would know that I've
+spent a lot of time on the ship right
+like you said this year this is the the
+doorway that leads to a stairway that
+goes down this great right here can come
+up and down and in theory you could use
+that as a access below and there's a
+small room at the top here but this
+doesn't have any staircase down below
+works for me I'm going to cast Eve ARDS
+black tentacles on that area the
+entrance of the the entrance between
+that and that door so there anything
+that gets affected by it I love it cast
+it put it in the roll you got it hang on
+let me figure out how that works because
+it's an ebony tentacles fill a 20-foot
+square in the ground that you can see
+within range for the duration these
+tentacles turn the ground in the area
+into difficult terrain when a creature
+enters the affected area for the first
+time on a turn or starts its turn there
+the creature must succeed on a dexterity
+saving thrill or take
+3d6 bludgeoning damage and be restrained
+by the tentacles until the spell ends a
+creature that starts its turn in the
+area and is already restrained by the
+tentacles takes 3d6 bludgeoning damage a
+creature restrained by the tentacles can
+use its action to make a strength or
+Dextre spell DC spell safe DC on a
+successor frees itself so tentacles
+appear in a 20 foot square so 5 10
+so something how green both of the
+entrances is the objective right
+something like that yeah there we go
+so this may be this area right here so
+you get a little coverage above just in
+case mmm perfect that's it all right the
+next pirate goes seeing that and hops
+down and goes inside the force wait okay
+hold on because I have to fight in my
+mind I feel like Kumu is gonna [ __ ] with
+me in the future and isn't consus isn't
+fly concentrated isn't it a
+concentration spell so if I throw a
+dagger at kuhmo in the future I want him
+to fall like or he should have to like
+hovering save yeah so Devin casting a
+spell is that fine tsavorite black
+tentacles is a concentration spell Devin
+so if you cast that you fall from the
+sky
+Fivey I don't know concentration rules
+it's up to you if you want me I mean I
+legitimately didn't know the rule if you
+want me to go with it I'll drop sure you
+know you can rephrase you can read you
+thank you okay thanks a lot okay
+yeah it's confusion is so confusing Oh
+concentration is so confusing sir um I
+want me I the problem is like I need a
+little bit more time to figure out what
+I'm gonna do then but like just give me
+like two I guess I could grease the area
+is just like a thing to do or or quad a
+daggers like something like that so I
+think
+Gerald's up in the air be like I could
+cast this or this or I should fireball
+no that's gonna destroy the ship if ours
+no I'll fall if I do that and I think
+maybe you just kind of stand there float
+there digging through your stuff and
+pearls turn comes along okay that's fair
+yeah thanks yeah thanks a lot your boat
+goes I think let's get together yeah
+pearl wait right well you know we don't
+want to destroy the ship we have
+established this right that's correct
+okay all right vicious mockery it is on
+whoo
+this one right here big dude right in
+front of me all right go for it and what
+do you say to him today make sure you
+tell Jimmy how you died cuz I'm gonna
+rip out your insides who's Jeremy he
+replies he takes damage though that's
+failsafe all right barb oh you're in the
+water I won't have you dropped okay so
+everything I made is zero I drop so I
+dropped my other sword my rapier named
+Eric I dropped navigation tool Steve's
+tools a dagger pretty much everything I
+would have had in my backpack I think so
+I drop sound like you dropped your
+backpack I dropped my backpack yeah and
+my pocket-pouch
+okay so I like to think that I have my
+Russ stager on the side and then my
+other Daggett my like other cool dagger
+on the side I probably should drop my
+vial of poison I don't think I think
+that's in the back all right so I'm just
+gonna remove all this from your
+character because you will never see it
+again
+leave the bard with Bobby though cuz
+that is with Bobby oh right right good
+call good call
+navigators tools and themes tools
+alright there you go you are barely able
+to tread water man I think I was gonna
+say I think I know what to do but I
+guess my turn skip so it's all good yeah
+yeah well um am i able to climb the boat
+give me an athletics check the boat is
+stationary it is not nervous you're not
+gonna get sure yeah you can find them
+this ship is not moving so you don't
+have any issues that's my fail or
+anything you might be banned right yes
+you will spend the rest of your turn
+scaling the ship and I can't attack nope
+you can get back up though it's slippery
+take a different spot that I want to
+come up then sure sure
+where do you want to come out yeah you
+know what I like that's about nevermind
+I'm sorry all right you come right back
+to where you were working if you'll let
+me I ready a ready a dodge I will not
+let you know that's the bridge too far
+kuhmo officer to the right I will take
+one shot 15 a hit okay
+15 will hit he'll take 13 damage I'll do
+another shot ooh crit 13 damage another
+13 he's getting low officers turn wait
+and subtract that I did it okay I don't
+know 26 damage okay it didn't look like
+an update if I may okay okay this
+officer is going to disengage
+because Barba's next to him and go into
+the 4-cyl as well followed by the next
+officer disengages heads into the 4-cyl
+and the last pirate up on the top who
+disengage it doesn't need to disengage
+but hides in the 4-cyl so the deck is
+cleared of living pirates most of them
+are below deck now Gerald I'm just
+realizing how bad concentration is
+because there's a little seed next to
+all the little spells that require
+concentration that's what that is
+yeah that's every special all the good
+stuff yeah what were they thinking when
+they did this
+it sways so bad to even out the power
+curve so you can't do all the powerful
+stuff all at the same time yar okay guys
+what are we doing let's destroy this
+[ __ ] oh we can take the ship pearl come
+on in there let's get mom out might be
+treasure in there
+I I'm gonna hold I'm gonna hold my turn
+I don't know what to do yeah pearl it's
+your turn ready Otago kill them as they
+come out of the hold
+our boats return I'll use thermit ology
+that's a can trip and I will um can I
+just make the like I don't know Thunder
+or whatever and just scream at them to
+come out and take your desks like a man
+Little Jimmy would have wanted yeah you
+scream it three times as loud as
+possible echoing around sort of rocking
+the very fabric of the boat itself kuhmo
+can I I'll just ready an attack for
+anybody I can hold totally it's quiet
+no one's shown up for at least a round
+or two now the top of the deck of the
+ship is littered with bodies but no
+one's making a move it seems like
+they're all below deck and hi if you
+want if you want them to come out I can
+handle it do it [ __ ] yeah um nope nope
+hold on hold on women Okoye boot okay um
+if you're gonna like rural lawyer that
+my fly is running out then we need to be
+very rigid with how much time is passing
+okay cuz it lasts protects right okay so
+then as the next turn order comes
+I would like to cast minor illusion and
+I would like to give the sound of a fire
+beginning above deck
+oh I can also help him out with that I
+will do so I'll do like thermit ology
+and make a really good guy only one
+person needs to cast a minor illusion
+ready your attacks going to come on
+behold I was doing I was doing under to
+make it like seem like the ship got hit
+or whatever so you can hear like fire
+it's like a raisin fire underwear if I
+set it on fire that's what we do god I
+just wanna use my cool abilities okay so
+minor illusion to create the sound of
+fire thaumaturgy are you gonna use the
+matures you create thunder yeah I'll let
+him do his thing
+okay you know what pearl wants dude I'll
+let her do it I'll keep my integrity
+since she said she wanted to do it so I
+have my ready sprays creating the minor
+illusion that there is a fire raging
+above deck you can start to hear the
+sounds okay I won't make some checks for
+the NPC's I would move over here to be
+ready for them to come out can I ready a
+spell - yeah go ahead I mean they're not
+appearing above deck so you you have
+time which way do they exit out again is
+it like when they come out this way or
+where they come out this way or this
+mouth this direction okay I would like
+stand to the side okay yep
+what did you want to do journal there's
+ready in a spell require concentration
+also that's a good question I think it
+does I think it takes concentration to
+keep a spell ready why really feel here
+to concentrate on I think the only three
+things that should break concentration
+or casting a spell that requires
+concentration you have to make throws if
+you take damage and then obviously get
+knocked out I don't know readying a
+spell I will double-check as well it's
+page 193 that talks about it but rating
+actions to be readied a spell must have
+a casting time of one action and holding
+on to the magics on to the spells magic
+requires concentration explained in
+chapter 10 oh Jesus yep I'm taking the
+Big C today has a wizard though I do
+nothing all right uh so around passes
+and no one comes out of hold or if you
+want I can try if you'd like be my robe
+I land on the edge of the ship so I
+don't require concentration I I'm gonna
+catch this edge just where the seagulls
+can dive bomb you and knock you off
+I cast prestidigitation which is a and
+what I'm gonna do is I'm going to create
+the odor of like like gas and then like
+the like the sensory effect of like like
+green poisonous gas and like the like a
+toxic like acrid odor that's attached to
+it and it's gonna be underneath the in
+the in the hold and this is with
+prestidigitation sensory odor yeah okay
+so you create this odd odor that smells
+gross and you create some visuals with
+it as well right yeah it's some like
+kind of toxic like green
+that kind of like yeah but I want to say
+to the party said at this point they've
+surrendered so we could probably use
+them they're not gonna fight us anymore
+if they come out we don't have to kill
+everybody absolutely wrong I would never
+trust my life to a disgusting pirate
+true this lot I'll turn on you in a
+heartbeat they would know coming up I'm
+romantic for when they connect you're
+ready with this attack and as this
+conversation transpires between the rest
+of them and the back of your mind
+there's this little voice I know for
+people's not enough to sail a ship Wow
+we get word that we're near like a place
+a little boat like this before people
+can't sail this this is don't think so I
+might be wrong I'll check my my table
+here but I think you require 10 dude
+where are we to be fair koi bhi I am the
+best pirate in all of Arcadia's so I
+would say that even I could probably
+sail the biggest ship alone that is a
+bunch of [ __ ] I'm trying to find a
+nicer way to phrase it
+yeah I mean in addition to just like
+needing someone to steer at the wheel
+the trimming of the sails is a
+complicated than ever with a to mastered
+ship here yeah take it takes a lot of
+people to actually crew a large ship
+like this maybe a tiny little fishing
+boat you can do by yourself but what
+kind of [ __ ] is this what kind of ship
+them what this is a two-masted karabell
+wait a caravel how do you spell care I
+thought we had like a super small River
+hey RA ve L actually no you're right I
+think it's a cargo ship I pulled a
+caravel on token but it is a river cargo
+ship which if my book of ships and C
+tells me a cargo ship has a minimum crew
+of five to make the ship go at half
+speed for skeleton crew and a crew of
+ten to make it operate under normal
+conditions
+so if you kill everyone on here you're
+dead in the water
+well I think we can just leave the ship
+for now right and then we can go get
+some crew I don't think it'd be that
+much money to hire a few people I don't
+think I'm too worried about that
+to be fair okay that's fine I just
+wanted to play it that little ping in
+the back of your head cool all right
+so you're ready with an action there's
+this green mist with the noxious smell
+to it and the sound of fire everyone has
+rated actions waiting for somebody to
+come out you can hear the people in the
+4-cyl which is the like little room
+underneath this front section over here
+you can hear their chatter because there
+even if they're whispering they're just
+one deck below you and oh there's some
+portholes and
+the door is not greatly sealed and they
+can look out and they can see that
+there's no fire and you can hear them
+talking witchcraft magic remember
+they're sorcerers in there don't fall
+for their tricks but the people below
+deck you can't hear and you have no idea
+what's going on there they haven't acted
+yet it's been three rounds we're at the
+top of the initiative order with barb oh
+oh wait again
+all right kuhmo you're all still waiting
+I'll land on the boat with a ready to
+tack barb oh I think we're gonna have to
+go in and take them out one by one I'm
+ready to cut them down whenever you are
+come Oh gerald oh wait I'm waiting okay
+so it sounds like ever you guys are
+ready for the individual slaughter if
+you guys are gonna go in there I can
+help I can give one of you I can make
+one of you move faster than normal and
+you'll be very powerful when this fight
+give it to me come out with that okay
+yeah go for it
+I'll drop my fly concentration and cast
+haste on Barbeau will also cast shield
+of faith up to 20 I see can you guys all
+come up to me and then let's start going
+in together obviously me first you can
+be a little bit behind but I don't want
+you to be too far
+oh hey Barba we'll give him a chance to
+throw it out in there weapons maybe we
+can get him to come out and kill him in
+cold blood
+I think I'll slaughter a few officers
+before we let the regular sailors uh
+have a chance all right sounds good when
+one of those officers is getting weak
+give me the final blow barb oh I'll let
+you know
+Lucas make sure you read hayes cuz it's
+a disgustingly good swell yeah this year
+is the floor plan without these top
+things in so the 4-cyl is only this big
+in the back you've got like a small
+little room here in a separate room and
+the stairs that go down to the actual
+main hold itself which is a whole
+separate floor with a staircase down
+into the lower deck where they have all
+the ballasts and stuff that you need so
+let's do it
+who's going in what door all in this
+area the rest most of the rest of the
+crew is back in this area I'm going to
+wherever I think the officers are okay
+all right so that's daddy also known as
+in this room I'm just gonna transition
+you over to here oops right there okay
+so you can make your way to that door
+standing before it let's turn our music
+back on and the doors shut I'm gonna a
+my is it locked can I try and open it
+Madore starts to move and presses in but
+then a weight pushes back as if it's
+being held off from the other side my
+body's um okay one second I saw
+something but a door instantly caused an
+unlocked door or window to fly open or
+slams shut you altered their pin I'm
+able to do that no not when someone's
+holding it
+that's aiming just like a regular gonna
+um kuhmo will you assist me and kicking
+down this door
+yeah let's do it okay going to attempt
+with assistance you make the athletics
+check at advantage knock it down and
+they get to make a an athletics check as
+well they have the door on their side so
+they get to make it at advantage well
+and it's 20 to do so the first round of
+trying to knock it down they they hold
+it in place and taunt you from the other
+side Jimmy was more of a man than you
+ever were
+he certainly bedded more women than
+you've ever ok are we doing it again
+yeah go for it again oh that time it
+opens just enough for you to get a foot
+in the door as it like cracks and they
+start to lose ground panicked cry comes
+from one of the younger sailors inside
+and I think you can wedge the door open
+enough to see what's happening on the in
+yes this guy has to sort of like the
+door is opening he needs to hear the
+door opens you can see the two officers
+and the two pirates inside I'll say
+forma before I kill any of you do any of
+you want to surrender before I slaughter
+your whole crew the two pirates in the
+back who like double check to make sure
+the officer just can't see they like
+lower their weapons and raise their
+hands okay I will attack this officer on
+the Left first alright step into the
+room step into the room okay wait right
+before I step in can I do a quick
+interception check to see if I see
+anything with like any traps or anything
+I don't know can you tell me to step in
+now a little scared all right so you
+don't attack you instead make a
+perception so I'm just doing a quick
+check yeah yeah there's nothing with a
+quick check totally nothing it's fine 22
+all right no 13 all right I'm going in I
+step in all right you step in all right
+thank you and now I get three attacks
+right because a pace that's what he does
+that's what you do one
+to the guy on the left does that hit
+natural wines no attachment one never
+heads really yep
+natural one never hits again wow that
+does well well and you will rip through
+him and he dies yep right ended I'll say
+pirates pick up RL safe I'll look at
+them and ask them to pick back their
+weapons and attack this officer if they
+want to stick around the joker kuhmo
+you're up next in the initiative order
+i'll take two shots at the officer right
+in front of me okay what 22 hit six
+damage why perfect 11 810 damage 11 will
+not get he steps inside the boat lands
+and a cover behind him but he will take
+the six that's a six damage the pirate
+behind Tim sorta looks confused and
+hesitates on the attack he's not quite
+ready to commit backstabbing murder at
+this point the front officer will fight
+with Barbeau multi attacking with a
+scimitar for the hits have that okay he
+will scimitar you would get in for five
+and finish will dagger you for seven
+like [ __ ] he rolled so well okay thank
+you
+alright you're getting a little low
+Gerald not I'm up deck I'm not doing
+much okay okay
+pearl did you want to do anything I'm
+going to play my lute and sing a song
+about death in despair
+you're not gonna help us start what is
+it how does the song go pearl it's about
+different spare but really what's it
+about
+it's about how they're all gonna die
+unless you surrender so it's about the
+Pirates all die yeah yeah not us okay
+okay why don't you give me an
+intimidation check that will take place
+over the next two rounds while you sing
+all right 12 is nice folks nice the bar
+bow goes round next next I'm gonna do
+the officer [ __ ] again three attacks one
+to 21 days 15 hit 17 hits that is 16 26
+and 35 yep that almost brings him down
+is that less than half HP when kuhmo
+comes around again come on we'll take
+one shot eight damage
+yep nice seat still standing and I will
+take one more show for 11 - 11
+so close kuhmo give me the last hit on
+this one then I dum-dum doing this my
+turn I'll say you sure you don't need
+these pirates ticket to prove their
+loyalty now I want the last hit on this
+guy all right the officer comes around
+again multi tax with scimitar scimitar
+Jagger open elbows the miss 21 is a hit
+though 4/9 note by of 22 racing coz of
+billa faith and his taste when she can
+shield the face I said it at the very
+beginning he actually did he even I
+think even clicked it yep wonderful so
+22 21
+none of this hits you're fine you are
+fine Gerald is chillin pirates chillin
+pearl is singing about everyone dying
+Barbeau Stern rules around he waits and
+kuhmo comes back for the second shot 24
+10 kills handled pirate in the back this
+week I would like to kill him as well
+from the bottom pirate drops his sword
+and drops to his knees and weight from
+kill it I'll kill the other one
+yeah from the body of the officer a
+Spectre will rise from his body
+I don't know how you want to roll stats
+on this but he's gonna be my little
+slave dude
+you can curse the soul the person you
+slay temporarily by temporarily binding
+it to your service when you slay a
+humanoid you can cause its fearsome rise
+from the course as a specter the
+statistics from which are in the
+monsters manual when the spectre de
+peers against temporary HP but half your
+warlock level roll initiative for the
+specter which has its own turns and a
+basic verbal commands and gains special
+bonus to its attack role equals your
+charisma mod the spectra remains in your
+service until the end of your next long
+rest at which point it vanishes to the
+afterlife
+once you find the spectre with this
+feature you can't use the feature again
+until a long rest all right I will give
+you a Spectre can a Spectre like move
+things too if you do things here is your
+Spectre
+get a better image
+there we go
+you you here is your Specter kuhmo and
+let me make sure you control it
+there you go can you move that Specter
+around now yeah perfect
+excellent we're there more pirates on
+the ship somewhere oh yeah they are
+through this door I kill this guys
+I give me I did 2421 right above the
+spectrum kuhmo he actually goes before
+you come on Westland you win I can Houma
+goes he goes he sees you guys are
+executing them he dropped to his knees
+put his sword down and crawls towards
+you and kisses your boots Barbour I
+execute him Jesus he's gonna give Cuomo
+a nice look fantastic
+all right next side of the boat there's
+pirates down there yeah I'm gonna scream
+to pearl pearl can you come down here in
+heal me
+and they just go away yeah good we're
+sort of added in between initiative
+rounds right now what are the stats on
+my specular
+I will put it so you can take a look at
+it in the
+in the journals so you should have a
+spectra that you can now open and look
+at thank you for crowd so it's for 11:00
+thank you 33 um all right kuhmo you can
+I go test that new thing out hmm
+we should probably get them to surrender
+though man the ship gerald sits on the
+edge of the boat takes out his pipe and
+looks across the look at the sea he's
+still a portion of his mind is still
+concentrated on Barbeau for haste hmm
+all uh thaumaturgy and raise my voice
+come out now if you want to live I'll
+give you a chance to man our crew this
+is your only is your last and final
+offer
+before I slay you thinking of Gerald at
+the rhyming how could we ever trust a
+man like you who turned his back on his
+close friend shot old little Jimmy told
+me to suck his dick and said I wasn't a
+real pirate thought you'd have respect
+that I showed showed him who was really
+boss I could never work under a pirate
+who can't take a suck my dick joke then
+you'll die Dizzy's Pedro I'll yell to
+the rest of him does he speak for the
+rest of you give me an intimidation
+check barb Oh we'll see how it goes
+[Music]
+that's quite close let me take a look at
+their passive insight mmm
+okay I'm gonna roll a bunch of checks
+real quick here four five six
+that's a tough one here
+can I say it advantage it's like we just
+slayed their [ __ ] everybody now we
+have a spooky Specter we do have a
+Specter you hear a a series of crossbow
+twangs and thuds coming from that room
+and the door opens and a body is dragged
+out by a few other pirates good decision
+Roscoe bolts be really machine five six
+people lay down arms and step out good
+decision
+clean this ship up and I'll point to one
+of them where's Bobby
+his body is right next uh Bobby not
+Jimmy oh that one he's down in the lower
+hold we put him with the rest of the
+ballast deadweight you know bring him to
+me
+they bring you Bobby he looks like he's
+had a really tough time he looked him
+dead or no no he's alive he's just you
+know physically and verbally and
+emotionally abused over the past few
+weeks with these pirates did Jimmy or
+the officers hit you Bobby
+no I fell down the stairs a bunch over
+and over again
+Gerald yoson gets his staff from the
+water by the way Bobby he me test than
+you might expect
+but you can do it you've got enough time
+we won't have to role play you've
+getting your staff out of the ocean but
+it's like floating 30 feet away and
+you're like [ __ ] how do I get 30 feet
+away it's so far wait folks I send the
+owl to go pick it up we have is we have
+no like buoyancy in this world he's
+dropping a knowledge he can get it we're
+just not gonna role play it was what I
+said oh no I I don't understand how you
+drop an object that floats and somehow
+it makes you float better wait what if
+you have an object that's on the water
+and you're sinking and you let go of
+that object and it floats to the top and
+then now you can float to the dancer but
+we shouldn't have counted the staff
+against your buoyancy maybe you were
+holding it this whole time but that's
+okay sometimes I love you
+and sometimes wait what were you gonna
+say Lily yeah he never not he'd ever not
+had your wouldn't take staff yeah that's
+what he said to the water I want what's
+uh what's the pirate's name who spoke
+first
+can you name him the guy who's dead no
+the the one who came out first and was
+talking to me oh that pirate's name is
+Joel Joel you're my new first mate
+you and the rest of the Joel lights go
+clean up the top and go clean up the
+what's like the front of the [ __ ] called
+the ship called the poop deck go clean
+up this area and make haste little Bobby
+come with me
+Clavin sure Gerald lost his money right
+oh it fell to the bottom of the sea yeah
+that's unfortunate irony I mean if you
+want I can cast ritual water breath you
+go look for it if you like that's fine
+yeah I mean I wouldn't be your wife but
+knowing Kobe there's some kind of giant
+cracking feet down we got a you know how
+long the spell lasts and how easily you
+can find money down there and if there's
+it would be a mess general what I
+stopped in the ocean I was expecting
+subnautica once I go down there man I'm
+gonna find the frickin Kraken or
+something a Kraken in the world it's
+just not our region of course there's
+there's a small island off this coast
+sort of to the south east and a Kraken
+appeared some 1500 years ago around that
+Island and it's been cut off from the
+rest of the world ever since because no
+more ship travel the odd wizard will fly
+to that island but it's pretty much left
+alone never too late to add more Co ever
+you know if you're feeling it
+add more Krakens yeah put one right here
+I think so right below the ship it just
+happens to be mmm Joel and your crew
+well my crew and I laugh my new crew go
+clean up the stern of the ship and
+remove all the bodies me and and we set
+sail tomorrow they throw the bodies
+overboard clean up the ship mop up what
+get their [ __ ] off of them yeah that
+mean they take the weapons off and
+anything of value in the building yeah
+yeah and then Chuck the bodies overboard
+at the pirate half day what did we get
+from all the bodies and what's Little
+Jimmy got in here I'm gonna search the
+ship
+well this ship does have a certain
+amount of treasure
+let's talk pirate ships and pirate
+treasure on most pirate ships everybody
+gets an equal cut the the
+highest-ranking officer that captained
+the ship and the lowest ranking soldier
+everyone gets an equal cut and the ship
+gets an equal cut as well for like
+repairs and maintenance and things that
+need to be done so that's how Jimmy has
+been running this thing you don't have
+to abide by these rules but that is the
+default method of dealing with things
+a treasure hoard in the ship but
+technically you know a lot of that
+belongs to the rest of the crew here how
+much is in there quite boo how much is
+in there new management comes through
+you know 250 gold pieces
+lot of money how many people um how many
+how many new crew members do have you
+there are six crew members barely enough
+to get this ship to limp to shore or
+limp anywhere it's like 40 gold a piece
+including the ship oh well it's less
+than that where are we are we outside of
+so they came to pick us up at
+Hillsborough right so we're just off the
+coast of Hillsborough yep just off goes
+right in the water
+Roger boss the way we're gonna run this
+ship is how Little Jimmy ran it accept
+any adventures that me and the Barba's
+and I'll point at the
+people who are in the bar bows you that
+is our own money but whatever the [ __ ]
+you guys do on the ship that that's Jill
+that's yours does that make sense that
+fair so we're gonna go yeah go ahead why
+would you have an adventures without us
+cuz I got other [ __ ] to do can't be a
+full-time pirate captain okay question
+boss when I'm gone Joel well man the
+ship okay sure sure question below what
+are we gonna do when we're not pirating
+because you're busy on land doing
+landlubber stuff Joel's gonna lead you
+yeah go ahead speak freely you get to go
+and raid stuff when you're not around
+exactly do we get to keep all the money
+when you're not around you get a you get
+an equal cut and you're gonna share it
+with us too so you get cuts of the money
+but we're not there but we don't get
+cuts of the money when we're not there
+yeah you'd a problem with that they're
+pretty quiet cool sounds like we got a
+good ship if you leave my wizard friend
+here he can track you and we will hunt
+you down and kill you so you are my new
+crew forever if you leave I will kill
+you I will hunt you down I have no
+qualms doing it I killed a child cool
+sounds like we gotta get one final
+intimidation check out advantage right
+there buddy well god damn my rolls are
+today it's not great but do take
+inspiration ephra is pleased that you've
+inspired such fear in these people and
+she gives you an inspiration also
+there's a logo like pinging sarcastic
+remark in the back of your head that's
+like [ __ ] when was the last time you
+did anything of note for inspiration
+what cleric are you huh aside from this
+is sitting right here which is very good
+well done I will talk back to her and be
+like ah the last time I tried to speak
+with you you were mighty quiet
+ephra do you have anything that you'd
+like me to do I'm about to go to heat
+stroke and slay all the demons remember
+you showed me about that a while ago I'm
+on the way to doing inspirational [ __ ]
+do it fantastically or don't do it at
+all okay all right cool
+uh so that's that you guys now hum ship
+it is I think you got pick die so we'll
+say it's afternoon what do you want to
+do tonight we're gonna I'm gonna show
+these guys like a nice time I'm gonna go
+buy a keg have him wheel it in I would
+like to spend 15 gold on tonight's party
+with these people I want to show them
+that you know what you do with the 250
+gold in the ship out of curiosity we're
+leaving it okay so that's just belongs
+to the ship and the people yeah that's
+to them okay it's their ship cool so yes
+they want to put that every month each
+other this stuff correct
+sawing all right cool uh you've sail
+into Hillsboro report to do this stuff
+uh yeah well I wait I want to make sure
+there's nothing crazy at legal on this
+ship before we like sail in and get
+checked by the guards I don't know what
+it was pirate ship it's oh well then it
+we skiff into the place right
+nice good good all right you skip in
+grab a cake skiff back out it takes most
+of the day to do that and you guys can
+be on the ship that night and drink
+yourself silly which is definitely gonna
+need to be done these people lost a lot
+of close friends today okay let's just
+roll on to the next day then next day it
+is I believe today is Wednesday the six
+of March 15 11 uh what do you want to do
+you've got a crew they can't travel as
+quickly as if they had a larger crew but
+they can still look at what about speed
+you need ten people ten trained sailors
+and at most your party has one trained
+sailor so you can bring the sailors up
+to 77010 to make it work okay we're
+gonna have to beat the heat strut oh
+good job well you could hire more crew
+in hillsboro just picked up some people
+to add to the crew it is a pirate ship
+though you can't just like walk into a
+civilized place and be like hey who
+wants to join my pirate ship like don't
+they have skills ear to the ground and
+they have connections and and Barbeau
+can find like the seedy individuals of
+the town to recruit I could definitely
+find a seedy place and I think that
+would be good
+kuma would you here's the ground and
+help me find them it would be good
+because they're gonna go plunder about
+and that's passive income for us anyways
+so we don't want them to get [ __ ] up
+I'm not gonna lie I have a really hard
+time believing these men are gonna stay
+loyal to you it's gonna say set sail and
+leave us ashore they will do you really
+think so I can I do it like an insight
+check on how my first mate Joel is
+feeling I feel like he likes me a lot
+since I gave him a new title sure give
+him a check Joel is happy to be alive
+happy to be working for you a little
+terrified of you more than a little
+terrified of you and you generally get
+the feeling that the rest of your crew
+doesn't trust you right now I'm gonna
+ask Joel how I can win over their trust
+trust is uh what did they say years to
+build seconds to break yeah all right
+well Joel I trust you and I think that
+you're gonna be able to keep them in
+line so whenever you drop us off at
+heatstroke I'll expect to see you back
+whenever you get a message in your in
+your head
+aye aye captain is that suit you kuhmo
+I think we should think on it a little
+bit more be ashamed to have this ship
+just to run off from us because we leave
+it in the hands of a bunch of cutthroat
+pirates come you could hire a crew that
+is more loyal to you and then you would
+know that they and they don't have the
+experience that the previous crew does
+feel like we'd be better off hiring our
+own crew okay yeah
+you both have theives abilities to find
+these sort of people within Hillsboro
+you know the ones you have now what do
+you think pearl Shelvin do you have a
+better suggestion
+I will obviously say not you Joel you
+could release them - you could just
+release them and then they totally seven
+let them tell the tale of the bar Bose
+released them in the middle of the ocean
+okay I think that's a smart idea kuhmo
+all right I'll round the crew up all
+right you're all fired
+except you Joel you're you're with us
+you're gonna be my first mate I am what
+fired yes oh I can't trust you you were
+with Little Jimmy and I cap it hit your
+old captain just doesn't seem like this
+could work it's not you it's it's me
+make them walk the prank no we'll give
+you a skiff ride back
+actually let's go below and let's
+discuss this for a moment
+all right hold on management's got a
+tire above shoe leave everyone below
+uncomfortable at the discussion being
+had okay Barbara listen I'm not in the
+business of managing people okay I can
+barely look after you three maybe it'd
+be better for us to go on shore go
+ashore and try to find some leader that
+can wrangle this crew together and turn
+them into a formidable I guess pirate
+crew maybe we could do that could he
+what is Joel maybe it was he was just a
+random he was just a random pirate I
+don't know yeah I don't use only one to
+speak role through half of this crew so
+maybe what we should do
+could leave a couple of us on board and
+we could go ashore we could find a
+captain maybe a few more crew member
+bring them on board give them some sort
+of cash incentive to say it's just day
+or something and then we could get a
+crew rolling that we could use to sail
+around or run cargo or whatever for us
+and the free in our free time how much
+what I think is ship like this would
+sell for a cargo ship Cory's gonna say
+this is actually very expensive ship you
+can call it for fifty gold five thousand
+copper twelve thousand gold really
+that's about right
+yeah for sure ships are insanely
+extremely expensive
+we're so you want to sell this [ __ ] 1.2
+million GP that seems maybe a little
+high but this is the old second edition
+stuff I'm pulling from all
+brand-spankin'-new and this is not a
+brand spankin new ship so if you wanted
+to sell this thing you could probably
+get a fraction of that the faster you
+want to sell it the lower you're gonna
+be able to sell it for you know that's
+fine we're not selling we're never so
+the problem is that we'd have to figure
+out where to store that gold well the
+problem is is that in quite Lou's world
+gold is worthless because we're not
+buying anything cool then anyway so
+there's no real way what spells do we
+need to buy you have almost like every
+spell in the game we use the same spell
+every bite like what we might just hit I
+just hit fourth level my dear there's so
+many cool things I could do wait what
+does it spell right now that your gated
+from getting because you don't have gold
+to get it fabricate how much gold ice
+storm depends on I mean if I have my
+friend in Hillsborough probably like
+five our gold per shot four hundred 100
+per stone will Kobe says so if we walk
+in there with 2,000 gold units buy for
+like for Thor oh yeah I can yeah
+basically yeah yeah it's just that
+nobody ever pays attention to the gnome
+I've been telling you guys this the
+entire time oh it's not okay firstly you
+just hit this level secondly I'm pretty
+sure you literally have like 20 learn
+spells right like you literally have
+like 20 plus learn spells
+so I don't like you have more than
+anybody in the crew right now in terms
+of versatility your character right I
+can cast more spells than anybody yes
+you just fly up to the airship and get
+free spells where is it
+it's somewhere in there okay let me know
+if you find it I'll let you know all
+right thanks
+okay so we're not selling the ship
+correct I think we should hold on to it
+I think we can use a crew like this it's
+easy transport around the world it is if
+we need to do any sort of offshoring
+combat with either another ship or
+sailing to some sort of hostile Island
+it would be great to have a crew to be
+able to take us there we just need a
+reliable way to keep in touch with them
+and we need to find a way to make sure
+they remain loyal I like the idea of
+owning a ship let's go get a loyal crew
+maybe I could maybe there's somebody I
+know in Hillsborough from my old
+paradise that can inspire a crew hmm I
+think we have to ditch the entire
+current crew though I don't trust any of
+these guys and they have no reason to
+trust us do you know what I'm gonna do
+you might kill him walk the plank
+what we could do is we could offer 20
+gold to every man that wants to leave
+tell them they can take the 20 gold and
+leave and we won't say a word
+we're only buying their silence and then
+we kill anybody that leaves and anybody
+that stays will consider the moral
+enough to keep that sounds perfect I
+like that okay I will go to the top of
+the ship and state that if you'd like to
+leave we're gonna pay you 20 gold for
+your silence here's this is your chance
+everybody but whatever I am Joel says
+well all my friends are dead I'll go
+find another ship you're a good Park
+Acton barboo we'll see you later I'll
+smile and I'll kind of go to like shake
+their hands mm-hmm and I will slay them
+all right they are shitty fighters we
+don't have to roll through the combat
+you're gonna kill the ball joel stands
+open mouth a gasp in the horror of the
+rest of his friends dying all right can
+I just take raise my crossbow just shoot
+on the forehead you kill Joel's as well
+all right they're all dead all right we
+need a new crew we do 50 gold
+those is never gonna work
+let's have a quick conversation about
+your needs that it for a crew right what
+do you need do you really need a pirate
+crew or do you just need like we don't
+know if waffle crew well one question I
+was gonna ask is you mentioned that this
+ship is a pirate ship now when you say
+that are you saying that it's lacking
+the proper branding or insignia or seals
+to make it an official ship isn't sure
+technically well yeah but I mean what
+are the rules your world have her ship
+doesn't need registration does it need
+to go to the ship's registration [ __ ] is
+out of date additionally there's
+probably some hidey holes with loot
+stored in it and maybe some ill-gotten
+Goods here there this name the [ __ ]
+might already be registered to stolen
+somewhere although if it was it was
+registered way back and the other side
+of the world so out here it might be
+fine you could probably pull him to port
+and be okay but little Jim little Jimmy
+didn't for some reason so there's
+probably a way to make this ship legal
+there's like a what do you call it Bob
+oh should know about the apartment Gold
+cost to make a ship like seaworthy like
+ready yeah people would like to do that
+well I just want to know what the cost
+would be if you can get to someone to
+like make some proper documents and
+forge a few things and repaint some
+signs here and there you could probably
+get it all done for about fifty gold
+yeah that's about right 5,000 bucks -
+how much to make it also like that 100
+goal then to just sort out all the
+issues and give it a clean bill of
+health
+is a is also possible to make it like
+completely legal but also like seedy
+enough felt like we won't be [ __ ] with
+by other pirates is that like something
+that's so you want to be legal but you
+know that was a dumb question we want to
+[ __ ] with other parts a pirate ship oh
+sure yes all right right yeah I like to
+kill him pirates that's fine yeah yeah
+okay so we want to be legal sure so
+that's about a hundred gold and maybe a
+couple of days that people will do in
+some labor for you wait a thanks at
+fifty gold I should be about ten
+thousand dollars not five thousand
+dollars
+I was playing with numbers in my head I
+tend to talk aloud it's a string you
+gotta wait till I get to the end of the
+string okay
+yeah honey girl it's fine cool all right
+do you have cash barb oh we have the
+tuner 50 gold in the right you have 250
+gold in that is there any other cargo in
+the ship that's worth knowing about
+let's see what were they doing right
+before you got here I told them to go
+off and like [ __ ] raid or whatever
+they wanted and then well yeah we just
+sent them to the island of magical
+weapons and I think they said they'd
+come back with dresses - of how horrid
+of them any killed - dragons
+yeah oh so great unfortunately they
+buried all of the treasure and Joel was
+the last person to know where it was
+buried so you won't find any of that but
+you can get the exotic silks that they
+pirated off of the coast of white shore
+we'll take those in don't ask if with us
+to go sell cool so are you are you do
+you want to split the party
+I'll talk to Gerald and Terrell or do
+you want to come with us we're gonna be
+going finding some seedy underground and
+finding a crew hold on captain what are
+we gonna do with a ship in the meantime
+I could stay in man it or we feel
+comfortable Manning this ship alone you
+think you can fend off any attackers
+maybe leave Gerald guys ship is just
+gonna be bobbing in the water for a
+couple of days by itself
+unmanned that is maybe leave Gerald
+let's steal it Gerald and I can stay you
+and pearl can go you seem like a crew
+hmm that's fine with me it shouldn't be
+that hard for them to come out each
+night right well first off let's get the
+ship legal then we can bring it into
+port does that make sense you can go get
+it legalized then we can bring in a
+deport in the show would I be able to
+expect somebody that can do this in
+Hillsborough probably what's your your
+ear to the ground thing again oh I get
+an informant
+yeah totally
+you can you can find the right people
+you know the right words and the right
+things to say and do you can find
+someone
+sketchy enough and you it'll probably
+take a week and 100 gold pieces just to
+do what are you gonna name it uh the
+barb oh come on Barbara we need a better
+name than that
+how about a lock-and-key Oh
+what was your suggestion pearl what the
+name of your dead friend Midori it's not
+the Midori no it's the lock the Loch
+Ness monster Christ
+Gerald how about you okay I'm not
+feeling too inspired right now let's see
+come on pearl you're a writer of fiction
+of course you've got a bunch of names
+bouncing around in that little head of
+yours
+give me a moment pearl and the barkos
+not the black pearl
+that's a good one actually one yeah
+that's the that's the Johnny Depp on em
+the hill how about the dark pearl wait
+copyright safe name
+the dark pearl sure they love you so you
+can go do all of this stuff who's gonna
+stay on the ship to keep an eye on it to
+make sure nobody else comes by and
+steals it me and Gerald Barbeau and I
+okay maybe I should little and Kubo go
+on shore yeah okay you to feel
+comfortable holding the ship on your own
+yes just come back later tonight we're
+only getting the ship legalized first
+and then we're as soon as it's ready
+we're coming in and then we'll align the
+crew how powerful of the spell is that
+tweet spell that you can cast Gerald can
+you only cast out two other wizards um I
+can tweet anybody everybody kind of
+automatically logs on the Twitter and
+Arcadia do you is it a powerful spell it
+is takes it takes a lot of energy for me
+to do yes what does that is it's like a
+level three third level it's the third
+circle do you have um do you have any of
+these low
+yeah I have all of them we spent the
+night here oh um what do you want just
+send me a message if anything goes wrong
+I shall okay then I guess you can count
+on me pal yeah let's yeah let's do them
+all right let's keep speaking I suppose
+that's wait why are we skipping a week
+because it takes a week to get all the
+the shady stuff done okay there's a how
+do we do we say that a week
+automatically means you've done a long
+rest or could I freaking week and not
+have a long rest by opt to certainly if
+you are cuz you don't want to give up
+your Specter right uh y-yeah if I have
+the opportunity I'm not sure yeah you
+don't have to spend that time resting
+you can busy yourself with things and
+not rest I added all the gold to my
+sheet if you guys need any if you want
+to split it we can it was a hundred
+night and I have like I literally have
+zero now could I just seem like I don't
+know whatever yeah yeah I think just in
+case we'd go like to an inn or something
+yeah what do you want you can have 25 Oh
+excellent
+so let's talk ships for a moment here
+you're gonna want a crew you will need a
+minimum of 10 people to properly sail
+the ship and if any of them die then
+you'll be in sort of like problem range
+once again so you should hire at least
+10 folk what do we like the prices for
+hanging occur like this I will get it to
+you in a moment the other thing to
+figure out is what are you gonna tell
+them are you gonna tell them the truth
+or are you going to create a ruse I'm an
+old pirate and I'm back to pirating I
+used to command X ship and so you are
+gonna tell them that this is a pirate
+ship I think some time for finding
+people using my ear to the ground I'm
+probably gonna be finding shady issue
+people anyway it's not like we're
+looking for reputable sailors so we're
+mainly looking for people with good
+reputations that are looking to get back
+into the life of pirating I guess ok in
+that case they're gonna want the
+standard deal everyone gets an even cut
+all the time yeah that's some time ok
+are they cool with it even cut up the
+stuff that we do in the sea and then go
+do their own [ __ ] when we're not there
+we won't get a cut of a pirate crew
+right they were there seeking adventure
+so they want in on anything and
+everything that brings in money yep ok
+if they want to come into history with
+us yeah sure but again like if you bring
+ten pirates into heatstroke and five of
+them die yeah no no we're fine we just
+need your pirate card that's fine we're
+not breads I made a [ __ ] huge drug
+yeah those guys have ten agency that's
+we just had a pie you're gonna want a
+cut of any gold that you get from
+heatstroke
+we'll figure it out okay we understand
+all right okay cool cool excellent then
+in that week why don't you give me a
+charisma check there kuhmo I am very
+charismatic yeah that's more than enough
+you can easily find 1000 Throop ulis
+folks I want 20 you can find 20
+unscrupulous folks to man your ship
+there is room for them
+everything we should make half fight the
+other half winner is good too alright so
+everything gets split twenty-five ways
+now is the expectation wait like five or
+24 what about little Bobby wait did
+Devin die he left him discs were fallen
+away
+I think he's worked Brad about breaking
+point anyway do we want to take a break
+while he comes back yeah we could take a
+little bit perfect he's back he's moving
+I see his jaw moving nope did you get a
+break soon nope oh okay I'll go back
+here I guess her be back in five minutes
+welcome back to no homes and kata combs
+have decided to change the ship name
+from the dark pearl to Queen stars
+revenge what an excellent name mr. moon
+we can have a discussion about that one
+I character don't worry we can talk
+about that m'kay okay what are we doing
+right now what's going on I think you're
+talking about the ship name in character
+right now change the name of the ship
+what do you want to change the name of
+the ship to Barbeau well I had a friend
+his name was Blackbeard and you know he
+was the greatest pirate in all of the
+lands back in the day way long ago and
+you know Queen Kiara right
+I'd only do the lady that we're on
+business for and you know we're trying
+to act like we're a stand-up crew so
+maybe we named it Queen Kiara's revenge
+or just the Queen Kiara I liked the idea
+what if instead we just get a giant
+banner that says all enemies of Queen
+Kiara please sink this ship
+maybe we should be a little bit more
+forward about it you remember the last
+time you got into a conversation with
+somebody and you open your mouth and you
+said a little bit too much what happened
+we got on we had set on that journey
+class annoys you put your life in the
+hands of subtle stranger maybe we should
+work on revealing a little bit
+information Oh what's your idea oh we
+each get a piece a small piece of paper
+and we write down what we voted on and
+then we mix it up and see which one wins
+let me draw from a hat how about we just
+keep it as the dark pearl I don't think
+anybody should be sailing around with a
+giant target on our backs I think the
+dark pearl sounds fine dear diary today
+I got a ship named after me I am so cool
+aren't she glad that you joined this
+cold crew who's Bobby feelin Bobby
+wanted an adventure and it wasn't like
+he thought it was gonna be wait is Bobby
+still alive on this ship yeah he's
+chillin can I talk with Bobby yeah Bobby
+talk to me yeah how you feeling the
+world sucks well I gotta make the best
+of it tell me I'm not sound like you'd
+be friends with come over here kuhmo
+maybe you could teach him your dark arts
+you know dark arts ah something like
+that Bobby you want to see an
+interesting trick conjure with your
+hands in front of my hands a sleek
+crossbow appears pitch-black I will give
+you a stern look though in my eye give
+you a real bad look how do you do that
+well Bobby hold out both of your hands
+he does open your fingers just like so
+he does raise them over your face almost
+like you're making a target right in
+front of your head I stand closer to
+Bobby to like get ready to like pull him
+out away if Kumud us I'm crazy I want
+you to close your eyes Bobby and I want
+you to just imagine the crossbow as
+being one with your body all right
+crossbow is one with my body can we do
+it was alright I want to take a shot can
+we do it a check you guys I might pull
+him out of the way yeah so we'll do
+opposed initiative rolls
+to see who can do it first wait how what
+is initiative calculated by I roll board
+DX plus plus any modifiers wait where's
+my character token how do I real
+initiative what I bring you the
+character token kuhmo here you go
+wait he ready husband oh there this well
+I don't know where he was looking on the
+screen so everybody had chat can we have
+some FS for a little Bobby yesterday not
+him make the attack role an advantage
+because little Bobby doesn't see it
+coming wait nice cut
+you want to use cutting words oh I've
+done anything would it sound on the
+bulbs damage leaving the crossbow hold
+on kenchi cutting words it down I think
+she might be able to she called it in
+time reduce an enemy's attack world
+damage role or ability check okay go for
+it role us your what is it a 1d gate
+yeah reduce this by I a 1d 8 die I roll
+with it 3 so what do you say what are
+you like no it's a 3 less damage what do
+you say to kuhmo what are your cutting
+words that distract confuse or otherwise
+sat the confidence and we're killing
+another child i read most of you fine
+unfortunately little Bobby only had 2
+hit points so even reducing it by 3
+little Bobby still takes the bolt in the
+face and can we resuscitate him Rosie's
+dead no he's dead we're below deck right
+I doesn't matter
+wait kill Akuma kuhmo did you say that
+you were gonna kill him you didn't say
+what you were laying
+seems like he concentrated in the
+crossbo appeared inside his mind just as
+he wants I'm so sorry
+alrighty everybody here beware this
+would have been below deck is this where
+I keep Bobby you keep Bobby below decks
+alright let me bring up the below deck
+image will turn on the battle music do
+this dance with each other I want to
+play a very very sad song
+please place a sad song for real
+I pull up my bagpipes and I go step
+aside pearl I'm gonna compliment this
+song white pipe in hand but pipes in my
+mouth playing the bagpipes with half my
+lips half my lips on the pipe half my
+lips with a bagpipe so here's our
+situation and there is a dead body over
+here
+sounds like we need to roll some
+initiative uh I believe so yeah let's
+wait do I get a surprise round no cuz I
+would be ready for you to be mad as [ __ ]
+getting this dead weight off of my ship
+or our ship oh I gotta click me alright
+roll initiative and let's do it again
+alright Kumail you know I gotta beat
+your ass for that one wait wait wait
+don't cuss anything yet
+yes is there any reason Barbeau should
+not go first no no he should I'm just
+I need a look at something real quick so
+that I don't cheat don't do it don't do
+it hold on hold on okay easy I'm good
+all right barb oh you're the first one
+to go we're below when we were below
+we're one one level below correct yes
+how tell me the dimensions of this room
+do you have a specter yes I do it's just
+floating around outside he's chillin
+the ceiling is maybe seven and a half
+feet up so I thought I was reached
+that's fine
+all right barb oh I would have to I
+don't care if after we roll another
+character I would have to all right
+i attack kuhmo okay and I'll also roll
+the Spectras initiative please I think I
+need that oh can I do that okay what I
+could use inspiration it's up to you you
+have to collective a nice no way you can
+try and pressure your second attack you
+got a magical sword you stole first
+attack missus I'm just gonna attack
+again 24:20 damage no meaning is there
+anything you can do to mitigate this
+damage you know actually a magical
+shield appears around my body and the
+attack seems to miss as it absorbs the
+blow yes I will be casting shield
+the casting time is one reaction which
+you take when you are hit by an attack
+or targeted by the magic missiles fell
+bringing your AC up to 21 temporarily
+just enough to defect deflect the blow
+kuhmo you go okay is disengage in action
+or bonus action action disengage is an
+action I will hold on wait shield until
+the start of your next turn so my AC
+should be back to normal now correct yep
+and I think the spectre is still on the
+ship with you I don't know why you moved
+oh yes other side whoops I was just
+dragging or sighs trying to find out for
+they mission to roll okay I will
+I will cast fly on myself okay I begin
+to fly or a hover I guess in the air and
+then I'm going to attempt to fly out and
+20 feet above because I think it's 40
+feet to the stairs and I can fly 20 feet
+above so you want to just like fly to
+the stairs of fly away yeah flooded
+stairs on float above the entrance for
+the break you provoke an attack about 40
+from Fargo Fargo it's 414 damage okay
+can you tell why it does 14 I've never
+actually understood the sneak attack
+sneak attack
+what does this sneak attack qualifier
+just a lot of herbal [ __ ] they dad's oh
+yeah it's advantage on the attack or I
+think we were you just can't yeah once
+we return you can deal an extra 1 d6 no
+other creatures does that mean like
+enemy creatures technically member none
+we're right I mean people are creatures
+too man well they're not near me right
+like oh right yeah yeah so it yeah so
+this means that he can seal an extra 1
+d6 once per turn to me he also
+concentration now at his level it gets
+higher that's 3 d6 now and you did get
+hit for 14 damage so you do need to make
+me a constant concentration saving fro
+okay which is gonna be a constitution
+spamming throw and a 9 is a failure you
+actually come to a stop right here as
+you're walking away from him and your
+fly spell is canceled okay I should
+still be able to move though right even
+if flies cancel
+you have your movement still okay oh I
+guess I will step back to here great
+tonight that yes you need a roller you
+need to roll in [ __ ] yeah I roll
+initiative - yes yes everybody out of
+the party everybody and him you don't
+kill kids only I do okay perfect so per
+left at the end of this round Gerald
+rats near the start of the next round
+and he you already made an action to
+move so your specter goes yep and then I
+will move forward and Life Drain on
+kuhmo but it seems to miss I believe so
+it has a bonus equal to your charisma
+modifier on its attackers right that is
+true I think my cousin right see the
+plus 3 or plus before what do I see this
+at under the accused specter a curse
+specter trait of yours last sentence of
+the first pair you know but what do I
+say my modifier oh I will we'll just
+have to add it manually yeah oh you're
+crazy mamata fire okay so would be 1313
+is a Miss on barb oh okay it's my I'm
+going to use catnap on both of them okay
+all right well let's see it's willing
+creatures only though I think really let
+me see
+three willing creatures of your choice
+oh I'm not willing you can use hypnotic
+pattern though it's a great spell oh I
+know it all compost the same thing do
+you happening both hypnotic pattern and
+oral vitality lovely you create a
+twisting pattern of colors that weaves
+through the air inside a 30-foot cube
+within range the pattern appears for a
+moment and vanishes each creature in the
+area who sees the pattern must make the
+wisdom saving throw on a failed save
+which it becomes charmed for the
+duration while charmed by the spell a
+creature is incapacitated it has a speed
+of zero so are they within 30 feet of
+each other
+um it doesn't if he puts it in the
+middle yeah that you have to be 30 feet
+from each other and you guys are 40 feet
+apart I think that's close enough
+all right well no I'm not sure if it's
+close I think it is that's pretty close
+oh but we do widget phase right but wait
+he's gonna deal with now he's doing that
+cuz he wants to [ __ ] me on the wizened
+say no well I think it's actually I
+think I moved a little bit too far cuz
+look cuz I was look I moved like 33 feet
+32 feet I don't know because you have
+the grid system on I should actually be
+a little bit closer like one or two feet
+closer like there I disagree am i close
+enough now metagaming Steve feels weird
+man alright let's let's put the grids
+back on normal grids instead of half
+grid there you go but you just move so
+yeah cuz you were on a half grid before
+and I will change it slightly so you
+would end 5 10 15 20 you can easily go
+25 feet to here how cool is all getting
+it then oh oh the grade was super [ __ ]
+up before yeah you're definitely within
+range
+for sure for sure zzzz everyone's within
+range okay perfect so both of you please
+make me wisdom saving froze everybody
+should have to make one right yes
+including Gerald and the spectre wait I
+can't be wrong but I think hypnotic
+Penner doesn't that allow you to declare
+targets or no each creature in the area
+is inside a 30-foot cube
+yep okay Jim Gerald knows the spell can
+Gerald that like a do an arcane check to
+see if you pet like he passes out of it
+or is he just rolled straight up no
+everyone rules yeah counter stuff you
+could counter spell it though no I'm
+good
+I agree all right what do we need to
+roll better than a six what do we have
+to roll against her decency um yeah
+after all 13 or better okay okay okay my
+Specter class hands there and just and
+just like shakes his head he just
+understands the magic completely and
+walks by it looks bauxite broken
+barbell and kuhmo pass out everyone else
+is fine thank you
+wait what did we need to roll jail
+doesn't even shake off the effect and
+walk something what is hypnotic pattern
+due to does it charm you or does it just
+put you to sleep you're done
+incapacitates you yes zero it's only for
+10 rounds we can fight again so you're
+at the end of nope nope there's no other
+it's for a minute race pearl what are we
+gonna do yeah yeah I agree
+okay we talked about one times that the
+other that took seven seconds to say you
+have basically a minute's time up give
+me again I'm gonna ask for a sleight of
+hands check from both of you sleight of
+hand well yeah well you can like tie
+these guys like you can tie them up I'm
+just telling me right what I am gonna do
+though in a time that I have is I'm
+gonna pull their weapons to the side
+like on I'll take their weapons out and
+like put them like on the other side of
+the room what do you take her so you
+grab the swords and crossbows and [ __ ]
+and just throw them across the room and
+then grab yeah that's down here and mass
+cuz it is a [ __ ] and quickly you're
+wrapping them with the rope but the
+spill but I kinda run at that time yeah
+and they start to like snap out of it
+part way through and my or you guys are
+back I pull out my daggers I got those
+arms or if you said swords
+wait no I didn't buy I'd find me okay so
+you're tied and the knots are not very
+good the knots are quality five you
+could probably is can we go in order
+yeah really back into an initiative
+order where the hell did kuhmo go he
+disappeared from my mouth he got thrown
+overboard that's where his character is
+he should have to try to swim while
+bound alright so here we go we're gonna
+keep this that's me I keep forgetting
+why do I keep calling barb okay well
+[ __ ] we're gonna start with I guess the
+spec I have an action
+[Music]
+i SPECT irani response to verbal
+commands so he's just chillin he can't
+do anything
+do I have any time to talk to pearl you
+had like a minute and you guys had one
+minute while you were done all right
+it's my turn so we're back at the top of
+the initiative order go for it barb oh
+so I should be able to wriggle out of
+these really easily I'm gonna need you
+to meet in the barracks
+buttocks or acrobatics check yeah and
+you have to be two five and that's a
+full action too I think
+right so it's going to take an action to
+wriggle out of these things as Gerald's
+trying to tie it tighter and tighter you
+snap out of it and just like Terry's out
+of the room yeah wait hold on I would
+like to pull out my I do I have my
+daggers because he would have only taken
+I think my sword and my shield if I
+don't even know he said he grabbed
+weapons so I had anything that was does
+he know new that's gonna work so he
+knows where both daggers already had
+time to pull those under the sheets he's
+a very small so he went and took those
+daggers he placed him over there as he's
+tying me up and he had the sword so he
+grabbed the sword two daggers did he
+grab the shield Oh check this out right
+I can grab the three things off my desk
+and throw them really quickly one two
+three it's not good what you got did you
+grab my shield too no he grabbed your
+weapons this weapons and I chained Jim
+pearl are you guys gonna calm down no
+I'm killing not fight each other what
+are you asking pearl thank you guys I'm
+just trying to get rid of the day care
+from the ship so that we can continue on
+with our mission I don't know why we're
+wasting time babysitting children
+well you just kill the little kid and
+cold blood
+yeah I just lesson to the load that we
+had on our pirate sure I don't know why
+we're running a Barbeau daycare service
+over here to be fair the child hasn't
+impeded any of her anything so he wasn't
+really there wasn't an issue so your
+point is mute you were wasting time
+talking to him when we should be getting
+the papers and registration necessary to
+get this ship seaworthy jailed I'm going
+to kill him all right Gerald if their
+actions on your turn I think
+we're out of our six seconds of combat
+for that round yeah I'm taking just
+talking as a full action I was anything
+else all right
+yeah like barb oh I haven't known kuhmo
+for as long as I've known you and I
+don't understand why Cuomo killed Oh
+child than full-blood so I don't know
+how I can let this pass if we if we have
+to fight Cuomo and there's no other way
+my bag Gerald what's on the other side
+of the room I tried I pushed everybody's
+weapons away I don't want anybody to
+fight can you grab it with your movement
+and bring it to me I can't do anything
+else
+Kubo buddy you know reconsider you got
+to get yourself out of this you're tied
+up you only have to be a eight on it an
+athletics or acrobatics check to get
+yourself out though what if I can I can
+if i use that athletic stick to break my
+robe is that an action that will be your
+action for the round if I had a knife
+would I have to spend an action to cut
+the rope yes we would I have to beat an
+eight on an acrobatics check you said
+for athletics
+okay um I'll just go ahead and kind of
+try to wriggle free then go for it
+easy-peasy that's your action you break
+free of pearls restraints parole must
+have been next to you to tie you up
+though so she's over here okay and then
+once I do the Hat purl let me off this
+horrible ship I want to walk to the
+above deck I guess and just kind of like
+take a breath of the air and stand above
+okay did the spectre do anything respect
+there the specter moves forward and
+takes my pearl are you trying to kill
+captain Marvel's you can tell because he
+just had his thing attack me now kill
+him off the ship to Pearl
+I just want him to leave me alone pearl
+as he I just wanted to leave me alone
+kills the kid attacks them it just leave
+me alone
+well sits in depression Barbeau it's
+your turn oh go for a pearl I'm gonna
+use sky right up here all of a sudden
+magically in the sky by clouds please
+stop fighting I love you both from pearl
+and a heart that's too perfect
+unfortunately everyone except for kuhmo
+is inside the ship and can't see the sky
+but kuhmo can see it can you tell me
+where you put my weapons right well yeah
+they're right over there on the floor
+can you circle it so I know how much
+movement and everything I mean it's up
+to quite do I just threw away real quick
+so Romey Rome ugh Gerald Romeo d8 Bravo
+I hope you understand I'm just trying to
+stop be funny
+the weapons are right here kuhmo I we
+gotta kill we gotta kill him his
+spectres still attacking me I don't know
+what the I don't know what the set oh
+yeah I'm gonna move right here alright I
+didn't I should be able to grab my
+weapons yo that's it is that it happens
+yeah you can grab one for free the other
+will take a bone section is he provoking
+an attack of opportunity no grabbing my
+sword yeah you attacks with that sure
+packing the specter alright you might
+want to move to the side cuz right now
+there's a giant post in between you and
+the specter which is gonna give you a
+disadvantage on your tax cheats it
+perfect so I couldn't see the post and
+now I have advantage only if Gerald is
+your ally in fighting the spectre
+I I don't like the idea of a ghost
+attacking barb oh I'm helping them okay
+cool um destiny I need you to roll me v
+d8 for its hit points and there's some
+sort of bonus it gets as well right I
+believe it half my half my wizard level
+it gets
+out of this temporary HP and I'm level
+six so I'm gonna roll a five day at plus
+three yep okay twenty-eight hit points I
+got that in around it has 28 total yeah
+yeah twenty five foot three ten go for
+it barb oh okay
+sneak attack on the first one so these
+twelve you would it's cuz its advantage
+it is resistant to damage from non
+magical attacks but you do have a magic
+sword don't you yeah alright so it does
+full twenty points of damage and a
+twenty five will hit it for eight which
+actually brings it to exactly zero it
+dies Gerald is there any way to talk
+this out barb oh do we have to kill them
+he killed Bobby you like Jimmy Jimmy
+attacked me you're both pieces of [ __ ]
+Bobby did nothing to nobody
+cumo did it out of hate in his heart we
+must kill kuhmo kuhmo you knew it was
+gonna happen
+you knew Jerry I'm in a I'm in a very
+hard position because what I would do in
+character is like doesn't make sense so
+I I know I mean Tara would leave Jared
+would never associate boys he'd be gone
+yeah this is a [ __ ] idiotic like why
+would you why wouldn't wizard in his
+power ever associate with these people
+yeah maybe Gerald Karloff and have their
+own less murderous adventures I mean
+like I don't know so like I think they
+have to sort it out because of this I'm
+in a really I have in a position I've
+never been an Indian tea before I don't
+know what to do
+yeah commodes your turn on the top deck
+okay I can still see down the stairs and
+I can see everybody down there right if
+you take a look so you can the
+stairwells behind a wall so you were
+definitely unable to see anyone
+downstairs whatsoever the stairwell is
+behind the wall I'm under you this is
+the huh
+this and this over here are the same
+thing just without the like ceiling on
+the building's right does that make
+sense
+not wait not really no I'm sorry
+we're gonna yeah we're going to move
+this and this here we go so this is the
+top okay this area that I'm circling
+right here has a roof on it okay that
+group is what we see over here same
+thing on this back side there's a roof
+that goes around this which I'm gonna be
+seeing over here
+so the staircase that the part that you
+went up comes up here and out like that
+so there's this wall right here oh wait
+so when I moved out I should be like
+closer to this then right yeah you
+should have you would have come up I
+understand okay boys yeah so if you want
+to have changed your positioning that's
+fine sure because I would have like 60
+feet then I miss um
+okay okay so then from where I'm
+standing right here I can take I can
+walk like down the stairs here like this
+yep okay can I go ahead and do that sure
+you can step down the stairwell you see
+pearl standing before you
+but she's short she's a halfling you can
+find her right over her I give a little
+wink to pearl and I hope I could like
+the cast darkness on captain Barbeau
+u2's within range to fill a 15 foot
+radius sphere for the duration the
+darkness spreads around corners a
+creature with dark vision cannot see
+through this dark vision darkness and
+non-magical that I cannot illuminate it
+the point you choose if the point you
+choose is an object you are holding or
+one that isn't the water carried the
+darkness eminates from the object and
+moves with it completely bla bla bla bla
+bla so this whole area is filled with
+darkness 30 feet across okay okay and
+then after I cast can I say pearl pearl
+let's get the skiff and go get this
+[ __ ] registered and then I go
+upstairs nothing I try I don't know
+where the the smaller bow has attached
+to this that's probably okay I would
+like to be Meg do you wanna be next to
+me yeah show me the move it where I need
+to know where this is all right the
+skiff is going to be tucked right here
+okay sounds good okay I would like to be
+next to it and unfortunately you're in
+darkness now wait I am you it's 30 feet
+and it spreads around corners you're
+seven and a half feet above him and
+there are plenty of corners and this
+great right here that it can flow
+through you're in complete darkness hmm
+I like equipo I think that's perfect
+okay hold on I'm gonna need you to draw
+me out exactly how much above this
+darkness goes now
+think this positioning is pretty perfect
+like it's like that you know okay but
+like it has to go like 10 feet over and
+then 5 feet up and then 10 feet over
+again in order to crawl like up through
+the grate and get out right I guess that
+makes round corners is up for debate so
+like hey there's a here's an interesting
+well here like let's say this let's say
+that I had dark vision that extends 30
+feet if there's a hallway 20 feet down
+from me and then it goes over like 20
+more feet it would the darkness would go
+over the corner and then only go out
+like 10 feet it wouldn't go like right
+home yeah so that's the question is if
+this this red dot up here that I've just
+created spreads darkness does it take
+all the movement to go around the corner
+or if it can slip around the corner it
+just spreads across the corner oh it
+definitely needs to take all the moment
+to get around it for sure
+really good ok so a 30-foot path from a
+15-foot path from Barbeau will bring us
+to 10 here was actually bring us to 8 at
+the edge and then eight will extend to
+another 7 feet so 7 feet to here yeah I
+guess you can see the skin thank you boy
+what do you know how to get out with the
+darkness going like how you've spent
+weeks on the ship you all know where it
+is also he cast it where he was outside
+of the darkness for sure and should we
+be practical ingenuity he would have
+come up the stairs and just walked
+through the darkness to get to the skip
+yeah legit yeah is it my turn the
+specter is dead it becomes Pearl's turn
+pearl you cannot see anything it is
+pitch-black what's what's going on I'm
+gonna try to like feel my way out of the
+darkness yeah
+do you take a moment and you're
+instantly out of the darkness so you can
+step forward into fine
+yeah I don't know I'm just gonna I don't
+know what to do I'm just gonna like I
+don't look at Gerald - I'm like what
+would we do darkness yeah all right
+Barbeau I can't light you cancel the
+darkness I've never really understood
+how that works
+light and darkness cancel I'm just gonna
+say the two effects dispel each other
+completely yeah all right but that is
+your action there is no more darkness
+awesome oh wait wait let's hold on let's
+read this anyway again if any of this
+spells area overlaps with an area of
+light created by a spell of second level
+or lower the spell that created the
+light is dispelled oh so he can try to
+cast it but he realizes his magic is too
+weak for me because some [ __ ] ass
+level 2 cleric [ __ ] is not gonna
+overcome my warlock magics good reading
+of the spell you cast light and you're
+still in darkness
+wait oh nevermind I was really nervous I
+mean I know the ship I should be able to
+walk forward right
+sure yeah you can walk for it and out of
+life hold on the ice quit really glad
+again is it lagging for anybody else
+nope I can't tell nope alright can we
+talk okay we're again it was really
+laggy for me cool
+am i able to walk forward yeah you can
+walk forward and out of the darkness
+okay I can have like a penalty or
+something no no also he cannot walk out
+of the darkness that darkness will stick
+to him the point you choose is on an
+object you are holding or one that isn't
+being born or carried it emanates from
+the object and moves with it so you
+cannot target him D and all of his
+possessions are being worn or carried
+okay I mean I could target his so I know
+something or rather his armor I guess
+his breastplate if you were targeting
+his sword or his armor that it is being
+worn or carried and you can't park so
+there was never directed wait no no
+there is darkness it's just centered on
+the space around you rather than on you
+yeah I think the spell specifically
+calls out that you can't put it on a
+creature you can just put it on a space
+or on an object you have in your hand so
+I can't cast it on a person right you
+can cast it in an area hmm I'm gonna
+just settle this with the best-of-three
+chassis I see Barbeau take your movement
+yeah okay so you're a ship captain
+you've done this a million times you can
+move around in darkness you're fine with
+it on this ship so you can take your
+what was that 20 feet of movement to get
+all the 25 in past years yeah one sec I
+want to be very precise and then I
+should be able to get like right there
+right that it's 22 here and then 25 to
+here then you have another 5 feet of
+movement if you wanted because you can
+do 30 okay so can I see right here yeah
+you can't see because there's darkness
+right Argos was blocking it that's right
+leaking up strategically there there is
+a patch of darkness as we discussed at
+nauseam earlier right there
+so if I use a bonus section - - I get
+still attack right no because you use
+your action for a light spell that fails
+but you could bonus action - through the
+darkness although you don't know where
+kuhmo is
+I mean I don't want to metagame I would
+move my other five feet I I don't think
+I would bonus actions as I know I can't
+like attack or anything okay so uh yeah
+I'll kill you
+Gerald how's it gonna start to a crisis
+going he shakes his head a wizard should
+not know such trouble bees to make it
+double haven't enough friends died
+despite how hard I've tried I know not
+what to do
+we'll see what happens next in this
+story through general tosses his cloak
+over whispers the owl guides down he
+looks at the owl the owl through his
+eyes guides him through to the top of
+the deck and he walks through the top of
+the deck and looks out over the sea
+Gerald ignores the battle and goes
+looking out over the coat edge of the
+boat wistfully with his owl pondering
+what happened to his money that's
+followed to the murky depths below was
+it worth it yeah totally you can make
+your way over to do hey just play my
+instrument you know I offer my pipe to
+peril I never smoked in my life but I
+take it this is the time the two of you
+smoke this is wizards this is a hold on
+wait mr. Roberts it's his turn right now
+oh no you did miss a turn yeah it's
+legal in Hillsboro okay it's totally
+legit yeah yeah Koo mo it's your turn
+buddy hmm
+can I am okay let's talk about this gift
+can I give this an action shove to get
+this off the ship
+it takes winter there's seconds to
+properly put a skiff in the water but if
+you just want to chuck it over the side
+of the boat and like cross your fingers
+and hope it lands well you can make me
+an athletics check to knock it over it
+sounds like a good time at
+oh are you sure wouldn't there be like
+some dexterity involved in maneuvering
+it more athletic than acrobatic to get
+your [ __ ] just toss the ship over the
+side of the ship
+are you mooring him so much do you just
+go it skill just roll the die bar bows
+come in there Athene there you go you
+lift it up you knock it over the edge it
+plops down on to the other side 13 is a
+decent roll
+how does it land on the other side like
+a lamb it's like a charisma check for it
+it's got I don't think that has anything
+to do with that um it lands it's
+floating it's got a bunch of water in it
+but it's not sinking and you lost one of
+the oars it's like floating next to the
+ship it's not lost forever it's just
+floating nearby okay I would like to
+bump the chip into my little skiff
+awesome give me a dexterity saving throw
+to land in the skiff as you jump off the
+side that's not that's not an acrobatics
+check it's a deck saving throw not to do
+anything yeah acrobatics check it's fine
+okay I like that you land on the ship
+but you know you don't land right and
+the ship topples and you fall into the
+water
+you are submerged what's it wait let's
+find out is kuhmo 33 I have to lose my
+breastplate yeah that's not coming off
+of you very quickly but it's okay he
+falls into the water and your essence
+your plate strapped to you this might be
+the end of you let's take a look how
+donning and doffing armor where is that
+in here
+I think it isn't it like one minute to
+remove it or something I think it's
+something to that effect
+pretty sure I can hold my breath for one
+minute suicides
+okay breast plate is medium armor so you
+can take it off in one minute and if we
+take a look at the custom swimming rules
+and all that stuff that we had said
+suffocating you can hold in your breath
+time is cut in half if you're exerting
+yourself so how long can you hold your
+breath it's probably related to your
+Constitution can only breathe for a
+number of rounds equal to your conne mod
+kuhmo is dead probably a number of
+minutes equal to your convo 13 minutes
+oh wait oh come on mom three minutes
+[Music]
+suffocating a creature can hold his
+breath for a number of minutes equal to
+one plus its con Mod at minimum 30
+seconds so you can hold your breath for
+four minutes if you are exerting
+themselves it's cut in half so you have
+one minute where you are sinking while
+you exert yourself to cut this off
+leaving you with two minutes to hold
+your breath which gives you one minute
+because you have to exert yourself to
+swim back up yeah and can you swim up
+yeah you'll barely make it out in time
+for sure that's gonna be a four minute
+process so we're gonna put a hold on you
+here this dark not even John yeah the
+darkness wet Barbeau you can see him
+jump like jump overboard and immediately
+move to the edge of the ship look over
+see him land in the skiff and topple and
+sink beneath the waves in his heavy
+armor can I see you with water
+not well enough to see where he is
+disappearing - well who loved the waves
+so in this lake for seconds I wouldn't
+have time - or minutes well I'm guessing
+I should so second rounds yeah you do
+see him splash and you see him sinking
+my guiding both a guy who can you test
+can you bowl at someone underwater I
+don't know no the question
+lovely so damn it's it's a bolt of
+radiant radiant energy so yeah I mean no
+think so the pasta water I mean water
+reflects light most of them it at least
+not all it's not it's not like pure it's
+not it's energy though it's not pure
+light right I mean do it if you're gonna
+say that light is reflected and that
+means like a mirror shield should make
+you invulnerable or all armor would make
+you well yeah so flash of light streaks
+towards a creature of your choice with
+some range I think this round you can
+still see him so it's still fine make me
+an attack role I'm gonna give you
+disadvantage because he's underwater and
+the positioning like objects underwater
+are always that a really what's like my
+Lawson's oh wait actually do you need
+line-of-sight for this it's within six
+seconds of you hitting the water but I
+didn't hit the water I hit the boat and
+then the boat toppled over so it's
+shipping on top of me blocking the
+attack but I'm in now I'm hold on I'm at
+an angle so I should be able to see
+where he is I'm not looking he's sinking
+below obviously so I'm not looking like
+at the ship freeze I'm looking like
+through the water
+this requires all 500 of your eyes -
+okay what is what is my like plusses and
+minuses I guess it's already yeah I
+don't know how to do it spell yeah
+where's your spell nonsense spell
+casting ability no something we want
+spell casting abilities d20 +
+proficiency mind + ballistamon
+so once I don't know yeah that's gonna
+be it I'm just wondering because you are
+a second-level cleric I still think your
+your +3 proficiency I would also like
+mr. Merton to position his character I
+like the trigonometric calculator and
+he actually did link it alright you have
+a plus 5 on this roll so roll me to D 20
+do 20 we'll add 5 and we'll take the
+lowest roll okay I would like to use my
+inspiration from ephra didn't you just
+use that a moment ago oh yeah didn't
+everybody I was saying jack Oh for the
+second it I'm gonna die I use
+inspiration oh yeah for the second ad
+enduring you're right yep you're right
+so yeah alright oh you know for here we
+go Judi 27 and 5 is a 12 is not enough
+to hit the coup Bob wait we don't have
+his armor yes I do because I'm still
+thinking we have time it takes a minute
+to take it off all right so he sinks
+beneath the waves and we shouldn't be
+ever disadvantaged because he doesn't
+buy the next round at a time the next
+time you're around your turn comes up
+he's too far below the waves to see
+anything I am readying a spell another
+guiding bolt for him oh my god yes you
+can it takes concentration as we
+discussed earlier I have one more slot
+by the way because we had a weight of
+rest or whatever after the break had a
+long rest yes okay meanwhile pearl and
+Gerald are looking out over the ocean
+what do you see do we see what we see
+no you guys are on the other side of the
+boat you're not looking or swimming to
+see what do you see as you take your
+cigarette break on the Egyptian hmm what
+a strange story more weird even than
+Locke Alka and Midori who knows where it
+leads at least we have some dink wizard
+weed I would like I would like a
+calculation on the speed of the ship
+okay well this needs to be get accounted
+for beside go ahead the ship is not I
+can't shut my shoulders and look over to
+girl you know we I could just blow the
+whole thing up sometimes I think about
+that I'd go back and forth you know and
+these kind of moments and I just say
+maybe I should just blow up everything
+and we could just live halfway out of it
+lever after somewhere you know that
+doesn't actually sound like a bad idea
+I can go finish it except the part where
+my friends killed two children
+parts a little dark dude what's yeah
+hike but you know some good stuff you
+know for times like these you see this
+hasn't been my first rodeo pearl and I
+had to stock up on some good [ __ ] after
+the last couple of times this happened
+with a few other of my friends so I'm
+pretty well prepared for this
+okay these are supposed to be six second
+rounds tybone what's going on over here
+it looks like we're gonna need another
+crew member buddy
+they call me Jail the Gerald begun the
+ganja wizard so
+surfaces Fargo has a prepared spell
+ready for him the moment he breaks
+surface before my turn is over I'm gonna
+give kuhmo my last Bartok inspiration oh
+you gonna walk over and see me you could
+give him inspiration at the same time
+that Bargo attacks him or something like
+that I don't know wait she should have
+to see him later because she's on the
+other side of the ship I would have I
+mean we've got two minutes here I'll let
+her decide that work
+I should be able to roll an acrobatics
+check to see if I can surface inside the
+upturned skiff okay I would like if you
+were drowning you would not I would be
+swimming straight up and that's exactly
+where I drop that straight uh or the
+light not that not the skiff why it
+would be the only dark part I would know
+exactly where I would let me roll it
+quite a 15 or higher and I service under
+the skiff a die roll I want you to tell
+me why the hell is Cuomo going for the
+inside of that boat because I just had a
+[ __ ] radiant blast whizzed by me so I
+would want to go underneath the boat
+because I would imagine these guys
+probably wouldn't destroy their only way
+on or off the ship I would argue they
+can't gerald oh you're fine yeah Johnny
+Depp and though who was the guy the hot
+dude did this in Pirates of the
+Caribbean they had the boat on top of
+them and they walked out our ship is
+almost named the Black Pearl don't even
+start
+pher plant let's see I don't think this
+kid would be in the same spot four
+minutes later she just said it what
+nothing is moving so here
+no no we're all still here things might
+be moving slightly but even if the skiff
+moves he can swim in Stuttgart oh yeah
+easily yeah with the dead girl and I'll
+bloom did their land oh I don't think
+it's unreasonable I want to try and
+surface underneath a boat when they are
+clearly in a situation of attack that
+seems fair agreed
+where are the boat and where is he is I
+feel all right let me make hole Don let
+me get us a skinny boy boo hiss Hector
+World War harder and this another time
+in the nineteen episodes we've been on
+where Oh perfect
+upside down Robo love it oh this is a
+big one big it a little bigger it turned
+yeah here we go
+it should fit three people on it so I
+could see them you're seeing him cuz the
+grin is turned on thanks very much
+coming up another hard question for you
+Cory boo okay [ __ ] bring it on iPad
+right come up underneath the boat and I
+cast a minor illusion of myself
+surfacing does that trigger his readied
+spell or can we roll needs to roll a
+perception or something all right hold
+on yes let's slow this way down kuhmo
+you aim for that boat to try and come up
+now there's one other factor that we
+haven't considered here kuhmo has air in
+his lungs there are bubbles coming to
+the surface
+Barbeau give me an intelligence check
+the best intelligence check of your
+entire [ __ ] life
+is it intelligence or perception
+intelligence really intelligence I think
+it's just what I have for what I have in
+mind which I don't know you know is that
+a saving throw or no it's just an
+intelligence check I think I clicked it
+nope nope
+sometimes roll20 lives there we go okay
+doesn't matter it's fine the air bubbles
+play no effect here
+cool so what would we have done well
+they should have been under this I was
+gonna see if maybe he can see the
+direction that kuma was swimming if
+maybe he can like spot something but no
+no no no no
+so kuma surfaces inside the ship
+unbeknownst to anybody else pearl is
+also now on this side looking for kuhmo
+as well probably up here where she's
+safe from the crossfire kuhmo you
+surface inside the ship inside the boat
+no one knows what do you do um how long
+does a readied spell last like if he
+male he dispels it until he uses it but
+you don't know he's ready to anything
+for all you know dumb ass mocha and star
+leap with Gerald and pearl okay so like
+I mean we can roll an intelligence check
+if you want but if I go underneath the
+water and somebody shoots at me my
+assumption is gonna be as soon as I come
+up they're like ready to shoot him again
+that's a fair assumption I think that's
+a fair assumption okay so I am
+underneath the boat if I would like to
+create a minor illusion behind me of a
+head like being behind the boat like my
+head looking up at Barbeau giving a big
+shit-eating grin I would like to cast
+that spell and I would like to see if I
+can trick him into triggering his
+reading spell at that head let's see you
+can do it within range
+I wonder if you need line-of-sight to
+the area that you're creating an image
+right like you couldn't just walk up to
+a wall and create an image on the other
+side of the wall I think you would
+probably need line-of-sight to where
+you're creating your image I know it
+doesn't specifically call it out but
+that's the only thing that makes sense
+sure but for this I could very easily
+like dip my head under the water and
+create my head like right up there it
+does need some matica material not
+verbal spells so a component and so you
+could probably do it underwater yeah
+that's fine that's fine or you could
+create the image partially underwater
+and then have it surface I can't do that
+because I don't believe you can move a
+minor illusion so the head would just
+kind of like appear behind the boat okay
+so a head appears in which will
+instantly trigger pearls Bartok
+inspiration wait and bar bows hold on
+ready I would I would say that I would
+can I at least have like a perception
+check on that because
+something appeared instantly I don't I
+don't know I know that he's like a
+wizard and everything I'm like true the
+creature so there's a really interesting
+interaction here quibble which is that
+if a person gets cast an illusion they
+can usually do like an intelligence or
+investigation check against spell DC I
+think a certain if the illusion but I
+don't know if they can initially do that
+check before they know to check for it
+if that makes sense so what an illusion
+initially appears there's no like text
+to like like what actually happens it's
+really good what we're gonna do is we're
+gonna give mr. moon a intelligent saving
+throw to see if he even considers that
+this might be an illusion followed by an
+intelligent saving throw to see if he
+recognizes it is an illusion because
+those fighting has just used minor
+illusion in the previous combat right so
+it's possible that this is that there's
+something fishy here so give me two
+intelligent saving throws back back and
+passing both look at the big brain on
+Barbeau I know a little bit about spells
+okay what about Lily should she do hers
+for Barnegat Lily give me two
+intelligence saving throws as well cumo
+dies tonight I have no idea it's
+exciting
+fifteen and - okay so you use a Bartok
+inspiration on the illusion and it
+fizzles alright you have a whole bunch
+more you've never used any I smirk at
+her Barbeau it's your turn now that I
+know kumo doing some weird [ __ ]
+I am so he could be anywhere no but I
+could I think I could reasonably guess
+because he just made his head appear so
+I definitely assume that he is above
+above and like breathing so I would I
+think I would be able to deduce that he
+is under the skiff doesn't seem too far
+of a stretch he likes his rate he loses
+that spell sought to write because he
+ready to spawn didn't cast it it should
+be law I'm still waiting to cast it the
+conditions have not triggered yet you
+can really ready a spell and then not do
+an actually because it takes a it's a
+huge cost Freddie a spell if it doesn't
+go off its a big deal I thought if your
+next turn goes around and it doesn't
+trigger you just lose it you can hold
+ready spells from local concentration
+yeah I'm just gonna wait because he's
+gonna run out of air eventually
+understood where he can't stay there
+forever like reason isn't there a ton of
+air underneath us he's also probably
+becoming tired because he has to tread
+water like he saw us like float there so
+like you can't he has to come out I'm
+waiting alright so your weight kuhmo
+you're under the skiff nothing's
+happened you made your illusion there's
+been no sounds other than pearl saying
+something really nice pearl what did you
+say when you tried to give him Bartok
+inspiration you're still my friend won't
+be don't die but you still kill a child
+some kind of torn nice love it love it
+alright I'm almost hmm okay um I'm
+almost positive these readied rules
+aren't correct you have until the start
+of your next turn to use a ready to
+action I'm almost positive you can't
+hold a readied spell for like multiple
+turns but a ready action not already
+spell I don't know if that that that is
+a nice little tidbit right there let's
+take a look action ready action 193 of
+The Player's Handbook
+ready first describe blah blah then
+choose the action you will take response
+to that triggered editor when the
+trigger occurs you can either take the
+reaction right after the trigger
+finishes or ignore the trigger remember
+that you can only take one reaction
+around when you radius spell it as fast
+as normal but hold its energy which you
+release when you react with your
+reaction when the trigger occurs to be
+ready to spell must have a casting time
+with one action bla bla bla bla bla bla
+your concentration is broken for example
+just do to do to do so you can take an
+axe later in the round so error doesn't
+say it you have to do I think on that
+same on page one anything on that same
+page you have until the start of your
+next turn to use ready action but it's
+not a spell so the way you have to think
+about it like in these kind of vagaries
+is in terms of like the character right
+so he's maintaining concentration on his
+spell as long as there's nothing that
+breaks that concentration it would stand
+to reason that the spell was still ready
+I think because what he's doing is he's
+reading a magical energy for a spell and
+he's thinking about that spell actively
+and that's his concentration so I I
+don't think that a spell would release
+until a trigger or some kind of event
+that would cause him to lose cause what
+if he uses another action that breaks
+his concentration then it would it would
+definitely okay how is he wouldn't him
+discerning making checks to discern if
+my minor illusion was a minor illusion
+wouldn't that be a check that would
+require an action that takes
+concentration hmm do attack to take
+concentration heavy yeah
+I'm still not seeing the you have until
+your next turn to take it maybe I'm just
+blind it's page 192 of The Player's
+Handbook 192 okay you see it in the
+players handbook guys I can't find it
+but yeah you have until the start of the
+next turn to use ready to action I see
+it yeah
+okay how heavy is this skiff can I start
+swimming with the little boat above me
+to put a little bit of distance between
+me and the boat
+Korra's is too heavy
+yeah it's a rowboat you could easily
+move okay I like to chill it's moving I
+would use my action on the boat so I
+would decimate the boat I think with the
+guided plan or the guided ball it's in
+the errata Player's Handbook oh the
+newer version of the players hand I got
+the boy who added again but Koivu it's
+you it's it's your ruling really because
+it's kind of ambiguous I mean because
+you have to consider if it's a if a
+spell is in action what I'm like so it
+ready to action a ready to spell that's
+all up to you like either answer is fine
+it's up I feel like if you I feel like
+as long as you're holding concentration
+identity should've the errata says you
+which lets you act using your reaction
+before the start of your next turn it
+does not say you have to use it before
+the start of your next turn just that it
+lets you use it yeah I think that you
+can hold that action as long as you want
+this is why we don't listen if the boat
+does start moving I would like just want
+a decimate though all right give me a
+spell at the boat so one D 20 plus 5
+right yep 15 you will hit the boat let
+me see how much HP a boat has already
+[Music]
+let's see would let's see a large thing
+this is gonna have 5 D 10 HP I think
+like the goal would be to put a hole in
+the boat so it's gonna start sinking
+yeah alright uh I think you can punch a
+hole through wow that's really shitty
+damage yeah it's bad
+can I roll the HP of the boat 5 D 10 you
+said yeah we're only 5 to 10 also bad
+bad it's got a hole sinks 80 out of 20
+to that
+more than a third of its HP you
+definitely have put a hole in the boat
+air begins to leak out the boat begins
+to sink kuhmo pull my shield myself I'm
+trying not the lawyer this garden
+okay the boat begins to sink I guess
+I'll have to swim away and I'll tread
+water all right kumo gonna try it
+he's gonna try to swim for it cumo you
+can move 60 30 feet cuz you have a farm
+I'm sure how far are we from sure dude
+what's so far I'm gonna need you to give
+me a list or I need a distance the
+greater the more specific question is
+how what is his range and how many
+rounds does it take you to move out of
+his range because once you're out of his
+range then we can deal with the shore
+nonsense okay well what is um if I take
+shots from the water no more spells I
+have no more spells tattooed so you have
+no more so oh wait if I keep shots in
+the water as I said disadvantage take
+shots with what you don't have a weapon
+I can make a weapon and bold spill I
+would go after him
+do you dive into the water everyone I
+want to know how far he's away before I
+do this and I want to know if there's
+another boat that I can see on shore
+there's no boat anywhere near you guys
+you're Logan so there's no [ __ ] on our
+boat there's no more no this is the only
+skip on your ship how far is he away
+before I dive after him so he gets to
+move 30 feet this round on his turn so
+now he is that distance away from you
+okay so if I were to jump from here and
+dive after him
+I should reasonably be able to hit him
+in this round no cuz you move a half
+speed in water I would also like to use
+my action to summon a crossbow
+then you can only move half this
+distance I was assuming you moved your
+max distance this round so tempting to
+change Boonton into a giant so we're
+gonna move you 15 feet I have so much
+power maybe if I move 15 feet I would
+like to move as far away from the box
+possible yeah so move 15 feet I'm just
+gonna get rid of this other boat
+alright mr. moon it's your turn
+I'm having the sleeper man problem right
+now what's my responsibility
+help me I could do anything but Gerald
+help me please girl make me fly Kumar so
+if I were you okay so I should be able
+to jump in right - is a bonus action and
+I could be on him and use my main attack
+to hit him that makes sense because I've
+broke [ __ ] that I can - the bonus action
+alright so you can jump land on the
+water and then swim towards right what
+is the distance you can jump you are 10
+feet off the no it's a cargo ship you're
+only like four you're like five six feet
+off did I put the weed down and cast
+fire bought forth you would have to tell
+me I will I'll look it up but in theory
+you could jump and swim to him in a
+round he has a crossbow to his hands a
+wet cross photo but of course one
+nonetheless
+jumping distance abcdefg H I J H I J
+jump jumping under movement why don't
+you just put it under jumping movement
+jumping 182 and 190
+long job here we go wouldn't make a long
+job did you cover number two feet up to
+your strength score if you move at least
+10 feet beforehand when you make a
+standing you only do half so you can
+jump half your strength what's your
+strength barb oh right Len lon my
+Mother's Day card I'll be here the 13
+this Mother's Day coming up sundown oh
+[ __ ] thank you
+let's drink this 13 so you can jump
+seven and a half feet wait what is his
+weight right now quite boo he didn't put
+any money on him after we looted the
+ship did he know oh I did it you're
+right what his character weights less
+than 26 right no you're right I do i do
+wait 23 okay are 27 i would i would sink
+a little bit oh so when i get in and
+start sinking i'm gonna cut it all right
+don't forget your ball approach that can
+I should I should know that I cut the
+gold
+all right you drop the gold blow
+yourself into the water yeah seven you
+are I don't you you need to get about
+another 11 another 12 feet I can do that
+with my bonus action as a - correct
+yes you can swim up to kuhmo you're now
+both in the water attack Joe's got a
+crossbow and is paddling bar goes coming
+up behind him like baby shark himself
+and make me an attack roll baby armor he
+lost his heavy armor so his AC is 13
+unfortunate your attack misses also I
+believe he takes attack rolls at a
+disadvantage as well correct button
+you're gonna have he's gonna have
+advantage because you're in the water -
+like I think that the awkwardness of it
+cancels yeah I'm gonna need to see a
+thing on that when making a melee weapon
+attack creature doesn't have a swimming
+speed has disadvantage on the attack
+role unless the weapon it's a dagger
+javelin short sword spear or trident
+it's a short sword amazing a short yeah
+okay all right all right
+Kubo it's your turn I guess I'll take
+two shots at captain
+at disadvantage we arranged lemon effect
+automatically misses a target beyond the
+weapons normal range okay so that isn't
+even yeah hold on do cross our crop wait
+unless the attackers I just mentioned
+less the weapon is a crossbow and net or
+a weapon that is thrown like a javelin
+boo alright so crossbows are legit all
+right do you promote you don't provoke
+attack know you make attack some uppers
+you make missile attacks at disadvantage
+against a target adjacent team I
+absolutely do not because I have the
+crossbow expert feed oh my god alright
+you hit him for eight points of damage I
+take the eight okay alright and then I
+get to make one more attack as well I
+don't have this advantage right now with
+a fist oh that doesn't hit ya alright
+miss
+barb oh it's your turn you're both
+treading water I attack that go for it
+one that's 1121 damage
+- that is 7.28
+- kuhmo who is Zilla I do my math right
+is that for HP we're still here don't
+[ __ ] with Bobby kuhmo I warned you about
+this in character and out of character
+get right get rolling up another is it
+my turn now
+alright I'll roll two more attacks nine
+damage I'd have it and then six damage
+so 9 divided by 2 so I take 4 or 5 4 4
+plus 6 so I take 10 yeah ok I'll be bad
+- he's not for HP right it didn't go up
+to 32 for a reason what cool oh yeah it
+should I updated on the map I don't know
+what's not on my character shame oh yeah
+that's good that's good mr. Putin I kill
+him you killed him kuhmo uh well the
+first one brings them down the second
+one is an automatic crit and makes them
+Geeta failed to death saving throws kumo
+turn rolls around but he's in waddle
+doesn't matter he spelled to death
+saving throws you still get to make one
+if it's a natural xx returning you ass
+okay at 1hp wish me luck boys we need
+our big net 20 good luck boys
+you pass all right barb oh he's dying in
+the water you could still save him if
+you want barb oh no yellow - yo yo yo
+pearl there's a way that we can do this
+and maybe if you save him he comes back
+around and will attempt to bring kuhmo
+back to the ship to stabilize you can
+drag it yourself and kuhmo over here I
+can't get on the elect you have to make
+one more investment look at God's
+decided you will have to make one more
+debt saving throw a 10 or lower and
+lower than a 10 is a failure and you die
+is it my roll yes your roll man
+good luck boys riperino cappuccino my
+dudes after all he couldn't make it all
+right Barbeau climbs back up onto the
+deck of the ship
+alone you've killed your entire crew
+you've killed little Jimmy you've killed
+little Bobby you've killed kuhmo you've
+ostracized and alienated Pearl and
+Gerald who are probably looking at you
+very uncomfortably at this point in time
+Barbeau what is going on I tried to
+bring him back
+he killed little Bobby I was watching
+did I see that did I see it what did I
+see I think I stabbed the man in the
+water at twice did bring it back but
+that is a man and then grabbed him and
+dragged his body back or rather I mean
+like yeah yeah like you stabbed him and
+he stopped moving and then once he
+stopped moving it was clearly like
+unconscious and dying he stabbed him
+again and then you're like no wait and
+he's like fine I'll bring him back
+whoops he died on the way sorry it's
+okay you can make of it what you will
+under said what what did I feel like I
+don't need to extend my explain myself
+he killed little
+Bobby and he was never really a good fit
+for the party anyways you both killed
+children it's true and everybody on this
+ship and it's true everybody associated
+with this ship and for that matter
+everybody that really has been
+associated with us ever since I met you
+don't act like you haven't done the same
+thing drilled you said I'd leave by for
+the whole thing don't act uh-oh high and
+mighty okay
+don't moral high-ground me you're deep I
+are you sure you want to do that right
+now
+dude yeah do you know how easily I could
+have killed you both do you know how
+easily I could kill you right now
+I play for my so let me um let me say
+like so out of character I would just
+leave I said but but I can't right like
+if you want a PvP everyone in the party
+dude like I will I will wreck you boy I
+mean you can be ar7 sure and you die
+Devon you're really I don't care I would
+just like to point out for it so
+everyone knows this whole situation
+started because mr. Mudd decided that we
+need to kill the entire crew because
+Jimmy insulted him just pointing that
+out that's how this whole thing started
+and we also all of us cuz unilaterally
+murdered an entire crew of innocent
+people well as innocent as pirates could
+be but I mean Jimmy's as innocent as the
+rest room right there all pirates just
+pointed that out or Bobby counterpoint
+he did offer them surrender and you
+insist and he went along right with it
+he was the one that pitched the plan for
+sure you're both morally reprehensible
+yes yeah I agree 100%
+all right I think guys I think we need
+to have a real talk about if this
+campaign realistically able to continue
+at this point this might be the prime
+opportunity to aim in homes homes and
+catacombs
+maybe we should here for the day and
+have a discussion offline that's fine
+yeah
+see everybody okay I've been kind of to
+outros oh we can where can we find your
+information lily peaches instagram.com
+slash stay comfy from my art Instagram
+that's all and in case this is the last
+time it's been really fun we're good we
+find your information mr. Mouton
+youtube.com slash Mr MOU CEO in or
+twitch.tv slash mr. moon
+that's it where can we find your
+information Devin Nash um I will still
+talk about this on the after show
+twitch.tv slash Devin ash but I assume
+we're gonna be talking for a little
+while so yeah if you guys want to head
+over to that channel I'll still cover
+this and like my take on it on twitch.tv
+slash Devin - but it'll be a bit I think
+so
+we'll be there though yeah we just fire
+it up on demonstrate ok unless you guys
+want to talk about it offline anything
+is well we'll talk about at least some
+of it off stream probably yeah yeah yeah
+cuz there's just like some stuff we have
+to determine and as for me you know I've
+been really working on my my new
+Instagram there was some squirrels
+outside that were really cute in the
+rain today you can find me on instagram
+comm slash stay comfy it's a great great
+Instagram look for squirrels there
+you'll find them I promise I'm done
+wait what was your Instagram Instagram
+that column / stay comfy
+okay all right well listen I love you
+all very much it's been fun riperino
+cappuccino poverty and opportunity might
+Pacino Deb Chino cappuccino after you
+know I'll be no my dudes and we'll say
+no Devon stream in a little bit okay
+yeah I'll be on in a minute okay your
+pond dudes
+maybe with guests you if they want to
+come maybe
+[Music]
