@@ -1,0 +1,500 @@
+hi everybody welcome to the jimmy dore
+show we have a very special guest today
+who's gonna talk to us about all things
+surveillance wise but specifically we're
+gonna talk about the russian hacking of
+our 2016 presidential election our guest
+is Bill Binney he's a former highly
+placed intelligent official with the NSA
+turned whistleblower who resigned on
+October 31st 2001 he was a high-profile
+critic of his former employers during
+the George W Bush administration and
+later he criticized the NSA's data
+collection policies during the Barack
+Obama administration he also claims the
+US intelligence community's assessment
+that Russia interfered in the 2016
+presidential election was false
+please welcome William Binney hi Benny
+thank you very much for being on the
+show well thanks for having me yes so
+now um I saw a documentary about you
+before any of this ray was made before
+the Russia stuff started and it was all
+about how you invented metadata analysis
+now can you just take a moment and tell
+people what that is and how did you
+figure it out actually it goes back to
+the analog days when we was working the
+Soviet Union I mean the whole idea was
+pretty simple I mean if you can imagine
+having a large amount of data to analyze
+and the question is how can you how can
+you package that in such a way that you
+can see what it really means without
+having to go through all of it because
+there's just too much to get through so
+what it boiled down to is very simply
+instead of reading or listening to what
+people are saying or doing you look at
+the relationships between individuals
+it's like social networking today that's
+what they call social networking it's
+looking at the metadata which is your
+phone numbers or your email addresses or
+bank account numbers where you see
+transactions between bank accounts or
+phone calls between phones or emails
+back and forth between people that that
+that's how you can basically through a
+process called chaining egg talks to be
+a talk see a talks the DeeDee talks to a
+you know detox to C and so on is how you
+build a social network and if you use
+that it's a basic principle then you can
+divide the enemy commute
+the entire world down into social
+networks and then if you know which
+social networks are important or which
+ones are the ones that are committing
+crimes or planning military accidents or
+things like that then you can focus on
+them and actually do a proper job doing
+an analysis of the relevant data not
+that maybe not the entire data of the
+world it also allows you to use that
+that gives you the ability then to
+filter out only that which is relevant
+you know if you look at only say one
+degree away from everything that's known
+to be bad then you only pull data that's
+in a highly relevant area in the world
+and so you reduce the problem down 2.000
+1% of the of the data in the world you
+immediately give everybody privacy at
+the same time so what you figured out
+was that you could actually you could
+actually have a greater ability to
+predict what was going to happen in the
+future meaning an attack or something
+that your enemy or the people you were
+looking at we're gonna do it's actually
+more predictive to look at the metadata
+than to actually look inside of a phone
+call or to listen or to read and inside
+of an email if you look at the metadata
+just like you're describing that's
+actually more predictive of actions in
+the future correct yes and because it's
+because it really gives you a view of
+the whole scope of your relationships
+for example if you're looking at an
+email you looking at just one
+transaction between two individuals
+where a phone call between two
+individuals you're looking at that one
+event but if you look at the metadata
+you see the entire scope of your
+relationships in your entire life
+so it's it gives you a much broader and
+more comprehensive view of the
+interactions of your between people in
+your life there's any individual may
+email or phone call will give you just a
+peek at that now am i overstating it
+when I say that you were the first one
+to figure this out that metadata gave
+you and how to have deciphered metadata
+is what are you the person who invented
+it or am i overstating that well no it
+was used in World War one and also World
+War two okay but nobody took it to the
+degree I think that I did because I did
+it and more I was a mathematician okay
+so by training and
+I took it in terms of the mathematics
+and and how systems like that could be
+put together not just what you see but
+also what you don't see so I was doing
+the entire system of data not just a
+little parts that I could see or that I
+was given to work I looked at everything
+and it was all based on metadata
+relationships and how you can put piece
+them back together and see not only how
+they how they are interacting using the
+metadata but also how the metadata is
+structured and how they distribute it
+that means you can get into things like
+things that they have in their safe that
+they don't even know they haven't until
+they open it so you can you can you can
+get to to being able to see into phones
+that they bury in the in the jungles or
+something like that to be used at a
+future date you can see all this in
+advance and be prepared for it without
+even having seen any of it I mean that's
+up that's all very so yeah the fact that
+you remind mathematician you were able
+to fix this figure something like this
+out it's mind blowing to regular people
+like me how your mind works and it was
+it really is so also now again in my
+overstating this that you are able to
+predict the Tet Offensive well not me
+personally but others yeah and it was
+again the basic principles of analysis
+that goes back it back to World War 1
+those kinds of techniques and things in
+and evidence and how militaries act how
+they how they how they prepare for
+assaults and how they develop in in time
+over time to see movements to take off
+positions for the offensive and in the
+spread of the the deployments and so on
+to see how what wide range of attack it
+would be and in the case of the Tet
+Offensive was clear that was going to be
+an offensive that would go from the DMZ
+down to the Delta which is the whole of
+stuff yet no so okay so now you invented
+a way to attract people first of all in
+the documentary it talked about how you
+had your team connect every phone to
+every other phone in the world which
+sounded like an impossible task
+do did you did they pull it off yes I
+mean it was pretty good for us it was
+pretty straightforward okay it just
+think of it was one at a time every
+individual has a social network so if I
+take your phone how many other contacts
+are there with that phone that helps to
+define your social network might not be
+the whole thing but you know you may use
+your cell phones and also have a
+separate what looks separate but can be
+merged as a parallel social network or
+you may use email or tend to use the
+email or short messaging between others
+and you can see all those kinds of
+relationships too and define you know
+the kinds of transactions that you have
+with different people as long as you can
+find consistencies you can begin to look
+at things for patterns and and try to
+deduce that what they were what that
+means yeah I mean yes and the way that
+you're able to make sense of all that I
+know it makes sense to you but it
+doesn't make sense to me so I'm just
+again I'm just blown away how you how
+you doing how your mind works I'm really
+in wrong now you invented thin thread
+correct that's what it was called thin
+thread yes they were there were
+basically two parts to thin thread the
+first part was done by my partner at
+Loomis that was the acquisition of data
+you know as it passed on the internet
+the web the internet it gets packetized
+and it's sent out in packets like if you
+have an email they you know your email
+may be broken up into ten or twenty
+packets then maybes packets would be
+passed around the internet and then
+reassembled at the other end and each of
+them would have the signatures that it
+would because these are machines running
+this so you know the machines Towe have
+to be told exactly what to do otherwise
+the data won't get where they supposed
+to go so all of the packets each of them
+has the identifying numbers for the
+packet the number of packets the the
+designation of the packet series and the
+identifiers of everything that the
+originator and the ultimate recipients
+so all that information is there and
+then that allows you to reconstruct it
+at the other end okay so this is what
+now we're gonna get into the Russian
+investigation and the hacking or the
+supposed hacking of
+20:16 because what you said what I
+thought I heard Edward Snowden also say
+was that if it was the Russians who
+hacked into the DNC server and John
+Podesta server that the NSA would have
+that data available to them that they
+would already know about the packets and
+they could reveal release that
+information and and since they're not
+doing that it makes edwin snowden think
+that they don't have that information
+now and my is that correct how i
+presented that and is it true yes that
+that's basically the reason i opposed it
+from the beginning in August of 2016
+when they first started saying it
+because the intelligence community is
+not it's not a question of a CIA or FBI
+doing its really NSA's job and NSA has
+all the capacity to do that they've got
+hundreds over a hundred taps inside the
+United States on the fibre network where
+they're collecting and storing that all
+that data going across the fibre network
+so that any packets were passed from the
+DNC through the through anywhere in the
+United States they'd be able to follow
+those packets and also if they went
+across see there's very choke points the
+surface where they transoceanic cables
+surface is where all the foreign
+communications are going in into the
+country and out of the country so in
+their tap to so they've got all that so
+that means that any any packets that are
+going from the United States to Europe
+they've got copies up ok yes so all they
+have to do is just look for the dnc IP
+address and of their server and they
+will have all the packets that went
+across the network to europe if they did
+and since they never said that they did
+that or that that existed it told me
+right away they had no evidence of that
+ok so why if you're ok why do you why
+does your opinion do you think being so
+roundly dismissed by the establishment
+media because if people you know I was
+unaware of who you were until I saw the
+documentary on you and I wasn't aware of
+how we even collect data I was unaware
+of all that stuff until I saw that and
+then I
+and then you invented this thing called
+thinthread which is a way to collect
+metadata metadata correct and analyze it
+and it was very inexpensive and it
+worked right so then then your program
+got thrown out because they had another
+program called trailblazer that was
+developed by some defense contractor
+which made that defense contractor
+millions of dollars and so they usually
+what's that actually billions oh my god
+I didn't know that billions that's a
+well now I can see why people would want
+to lie and smear you because one of
+billions of dollars that's that's worth
+it so so what so what happened was they
+had an inferior product called
+trailblazer that they wanted the NSA to
+use to track metadata and it didn't keep
+people's identities secret which is fin
+thread which is the one you invented
+actually was better not less expensive
+and kept everybody's identities private
+correct yeah there were there were three
+actually they took the software that we
+developed because see the trailblazer
+program actually produced nothing was a
+total failure by 2005 and it wasted over
+a four billion dollars and then it was
+it was continued as a funding mechanism
+for some time for about another three or
+four billion and the idea was that the
+it it was intended to do all the things
+that we had already achieved with thin
+thread and very little else by the way
+and and so when it came time to doing
+the real spying on the US citizens
+everybody as well as everybody in the
+world what they really were doing was
+transiting from looking at groups of
+people who were doing criminal
+activities or militaries or things like
+that in other words multiple numbers of
+people together thinking an organization
+to they move from that to looking at
+every individual in the world and so
+that meant you know you you had so much
+more data at coming in and they they the
+only thing that could handle that was
+the software we did for thinthread
+so what they did they had to remove the
+filtering process upfront that we used
+to in terms of the metadata to sort and
+select only relevant data
+they removed all that filtering and so
+that everything came in so we could see
+everything that meant they could take
+everything in and that's what they did
+and then secondly they removed all the
+encryption that that protected the
+identities of people that were taken in
+as and and were known to be a part of
+the criminal activity or terrorist
+activity whichever and so that protected
+their identity until we could show
+probable cause and get a warrant and
+then go after them
+and that the final thing they removed
+from our software was an auditing
+routine what it meant was we could see
+who came into our network and looked at
+any of the data we had what they did
+with it and how long they stayed and and
+and what kind of manipulations they did
+it with it so that meant that meant that
+all the managers in NSA and anybody
+coming in from outside NSA like FBI and
+CIA coming into the NSA databases or
+GCHQ or any of the other five eyes
+coming into the NSA databases we would
+know who they were
+when they came in what they were doing
+and and how long they stuck around and
+the point is Edward Snowden couldn't
+have done what he did if we had our
+program running because we'd see him do
+it right as he did it that was the
+problem it also came down to the
+management of NSA that means that they
+came to us and said well you know if you
+if you do that that means you'll be able
+to see all of all the money I move
+around in the database and all that all
+the return-on-investment all the
+programs we're investing in and whether
+or not we should cancel or not and and
+Congress can see all that right and we
+said sure and they said you are never
+going to do this so this program has to
+go away too so in other words say one of
+the network where they could go in and
+do anything they wanted to and nobody
+can come back and check and see what
+they did so they couldn't be held
+accountable that's really what's going
+on it's the corruption that's involved
+so and they wanted to hide it from
+Congress and and so what did you pull
+the whistle on exactly there were two
+approaches we took the one was the first
+thing of course was the spying on US
+citizens the direct violation of the
+Fourth Amendment amendment to the
+Constitution also the first by the way
+just
+right in front and I took that basically
+to the house to the house staff of this
+the House Intelligence Committee it was
+their job under the under the FISA law
+and after the church committee
+investigation they were chartered to
+monitor the intelligence agencies to
+make sure they didn't spy on US citizens
+well here was NSA starting to PI spy on
+every US and they could possibly get
+with my I estimated it'd be at least two
+hundred and eighty million of us so and
+they have data on us not just single
+items with thousands of them so so I
+took that issue to that to the committee
+because that was their job that was
+their charter they were supposed to
+monitor that make sure that didn't
+happen
+I also attempted with the Diane Roark
+and Kirk Wiebe and a few and some others
+to go to the Chief Justice of the
+Supreme Court because it's their job
+also and eventually Kirk Wiebe and I
+also went to the Department of Justice
+inspector general because that's his job
+also every one of those failed okay they
+all were part of it they are all were
+covering up each other because they all
+knew they were in it together and the
+fraud waste abuse and corruption at NSA
+we reported the Department of Defense
+inspector general because that's their
+job and they would they would circulate
+every every week every monthly circular
+that the NSA passed around the last page
+which would have a little statement that
+says report fraud waste abuse and
+corruption to the Department of Defense
+inspector general here's the number you
+know so yeah that was and that was also
+part of the part of the regulations for
+employment with the US government you're
+required to report that so we reported
+that in that channel and then took the
+the criminal violation to the
+Constitution we took to the House
+Intelligence Committee and the courts
+and also the Department of Justice and
+so did you know when you were doing this
+that you were you're you were being a
+whistleblower I mean did you know that I
+mean you must have known that what you
+were doing was gonna put you in peril
+put it that way well you see I took a I
+took an oath that I took pretty
+seriously because it was the oath to
+protect and defend the Constitution
+and you know if you're in the military
+you take that it's you're in the
+civilian service you take that and if
+you're the president United States you
+have the additional not just preserve
+and protect but also know it's not not
+protect and defend it's also preserved
+so he is the he has the responsibility
+to preserve the Constitution and you
+know I thought that the they were all
+reacting to fear and basically money and
+and and corruption and I thought the I
+wasn't prepared to do that because I
+knew they were giving away the security
+and I knew people were not going to have
+security because of that but they were
+claiming the you had to give up privacy
+to get security while I was alive from
+the beginning and they knew it
+okay so so I had to say things about
+that and graphed it and it was my
+responsibility since I had the knowledge
+to do it how many people did you know
+and not not many were in the position I
+was to be able to retire and get out of
+there and do that so that's that's what
+I had to do so eat so that right now are
+we still living in a surveillance state
+where we don't have privacy is that
+where we're living under yes I think I
+think Gerta had a good quote that kind
+of captured our state it said no one he
+said no one is more hopelessly enslaved
+than those who falsely believe they are
+free and that's us and that and that is
+us I try to remind people that we don't
+even have habeas corpus anymore in the
+United States right which was kind of
+the linchpin of democracy and it was in
+the Magna Carta and so I don't know but
+barrage a George Bush Barak Obama
+Democrats and Republicans all got
+together to repeal habeas corpus inning
+they've basically repealed the friggin
+Magna Carta and now we're operating out
+of Liberty view from around 11:00
+hundreds yeah and it's basically
+contained in the NDAA National Defense
+Authorization Act section 1021 that says

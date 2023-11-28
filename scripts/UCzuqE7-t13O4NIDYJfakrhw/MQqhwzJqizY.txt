@@ -1,0 +1,446 @@
+AMY GOODMAN: Facebook CEO Mark Zuckerberg
+faced off with senators Tuesday in a marathon
+5-hour hearing on the privacy scandals plaguing
+the social network.
+Zuckerberg was called to answer questions
+about how the voter-profiling company Cambridge
+Analytica harvested the data of more than
+87 million Facebook users, without their permission,
+in efforts to sway voters to support President
+Donald Trump.
+In the first of two days of hearings, Zuckerberg
+repeatedly apologized.
+MARK ZUCKERBERG: We didn’t take a broad
+enough view of our responsibility, and that
+was a big mistake.
+And it was my mistake.
+And I’m sorry.
+I started Facebook, I run it, and I’m responsible
+for what happens here.
+AMY GOODMAN: The Facebook data was first obtained
+by a Cambridge University academic named Aleksandr
+Kogan, whose company, Global Science Research,
+built an app that paid Facebook users to take
+a personality test and agree to have their
+data collected.
+The app also collected data on these users’
+friends, meaning it actually collected personal
+information from tens of millions of users
+without their knowledge.
+Cambridge Analytica then bought this data
+in order to turn a voter-profiling company
+into a powerful psychological tool, which
+began launching targeted political ads aimed
+at carrying out Robert Mercer’s far-right
+political agenda.
+Democratic Senator Kamala Harris of California
+questioned Zuckerberg about why it took Facebook
+27 months—more than two years—to alert
+users to the Cambridge Analytica breach.
+SEN.
+KAMALA HARRIS: Are you aware of anyone in
+leadership at Facebook who was in a conversation
+where a decision was made not to inform your
+users, or do you believe no such conversation
+ever took place?
+MARK ZUCKERBERG: I’m not sure whether there
+was a conversation about that, but I can tell
+you the thought process at the time, of the
+company, which was that, in 2015, when we
+heard about this, we banned the developer,
+and we demanded that they delete all the data
+and stop using it, and same with Cambridge
+Analytica.
+They told us they had.
+SEN.
+KAMALA HARRIS: And I heard your testimony
+in that regard, but I’m talking about notification
+of the users.
+And this relates to the issue of transparency
+and the relationship of trust, informing the
+user about what you know in terms of how their
+personal information has been misused.
+And I’m also concerned that—when you personally
+became aware of this, did you or senior leadership
+do an inquiry to find out who at Facebook
+had this information, and did they not have
+a discussion about whether or not the users
+should be informed, back in December of 2015?
+MARK ZUCKERBERG: Senator, in retrospect, I
+think we clearly view it as a mistake that
+we didn’t inform people.
+And we did that based on false information,
+that we thought that the case was closed and
+that the data had been deleted.
+SEN.
+KAMALA HARRIS: So there was a decision made,
+on that basis, not to inform the users.
+Is that correct?
+MARK ZUCKERBERG: That’s my understanding,
+yes.
+SEN.
+KAMALA HARRIS: OK, and—
+MARK ZUCKERBERG: But I—in retrospect, I
+think that was a mistake.
+And knowing what we know now, we should have
+handled a lot of things here differently.
+AMY GOODMAN: That is Mark Zuckerberg answering
+the questions of California Senator Kamala
+Harris.
+We begin today’s show with Zeynep Tufekci.
+She’s an associate professor of information
+and library science at University of North
+Carolina at Chapel Hill, also faculty associate
+at the Harvard Berkman Center for Internet
+& Society, author of Twitter and Tear Gas:
+The Power and Fragility of Networked Protest.
+Her recent piece for The New York Times is
+headlined “We Already Know How to Protect
+Ourselves from Facebook.”
+More than 2 million people have viewed her
+recent TED talk titled “We’re Building
+a Dystopia Just to Make People Click on Ads.”
+Professor Zeynep Tufekci, welcome to Democracy
+Now!
+Can you talk about what happened yesterday,
+what Mark Zuckerberg said, what he didn’t
+say, and what was and wasn’t asked by the
+senators, in the first of two days of hearings?
+ZEYNEP TUFEKCI: So, what was really interesting
+yesterday is that the senators started asking
+questions that sounded fine, and probably
+because the staffers sort of prepared the
+questions well, and then they got lost in
+asking the questions.
+They weren’t able to understand how Facebook
+actually worked.
+They kept asking sort of technically weird
+questions that didn’t make sense.
+And even more striking, there were times that
+Facebook’s own CEO, Mark Zuckerberg, couldn’t
+answer fairly basic questions on how the platform
+worked.
+For example, he was asked, “Can Facebook
+track users across devices?
+Does Facebook track people’s browsing or
+their activities when they’re logged out?”
+The answers to both are yes, and Zuckerberg
+struggled and said, “I’ll have my team
+get back to you.”
+To me, this is kind of like this interesting
+moment where we are finally struggling to
+understand and grapple with the new information
+commons, even after all these scandals, all
+this brouhaha.
+And I wrote a piece recently for Wired, too,
+where I listed the 14 years of apologies.
+So this isn’t even the first time Facebook
+CEO is apologizing.
+He’s been apologizing nonstop, before even
+Facebook was founded.
+He was apologizing for the previous version
+of—the initial prototype for Facebook, Facemash.
+So, I mean, 15 years later in, we’re finally
+starting to deal with the kind of power, a
+platform with 2 billion users, a pretty much
+significant amount of information flow, socialization,
+civic functions, politics happens.
+I did find it quite interesting that there’s
+finally some questions on its power, whether
+it had competition, how—you know, because
+Facebook is essentially without competition
+at this point.
+That’s what makes it partly so powerful.
+There were a lot of questions that weren’t
+really asked.
+I mean, Facebook tracks people who opt—who
+don’t even use the platform.
+They have shadow profiles.
+Its data—Mark Zuckerberg constantly tried
+to say, “We’ll keep the data within our
+walls.”
+But the problem is how much data they collect
+in the first place.
+I mean, of course, it’s better if they don’t
+just recklessly give away the data, as they
+did probably more than once, not just Cambridge
+Analytica.
+But even if they shut that down, as they did
+in 2015, and even if they do a good job, collecting
+this much data on 2 billion people, and then
+selling their eyeballs to whomever is paying
+Facebook, selling their attention—that’s
+the product of Facebook—is a huge problem.
+The fact that if you want to do politics,
+if you want to socialize, if you have—if
+you’re an immigrant and have family around
+the world, the fact that that’s the platform
+you kind of have to be on is a huge problem.
+It was touched upon, but not really delved
+into.
+And maybe what I didn’t really see is—and
+which is what I wrote in The New York Times
+op-ed that you mentioned—is that: What are
+we going to do about it?
+I mean, we actually know enough.
+We don’t really need Mark Zuckerberg to
+explain the very basics of Facebook to a bunch
+of senators who don’t seem to even understand
+that.
+We need to sit down and say, “How do we
+deal with the new information commons?
+How do we deal with the new public sphere
+as it operates?”
+AMY GOODMAN: I want to turn to Democratic
+Senator Dick Durbin of Illinois questioning
+Facebook CEO Mark Zuckerberg.
+SEN.
+DICK DURBIN: Would you be comfortable sharing
+with us the name of the hotel you stayed in
+last night?
+MARK ZUCKERBERG: Umm, uh, no.
+SEN.
+DICK DURBIN: If you’ve messaged anybody
+this week, would you share with us the names
+of the people you’ve messaged?
+MARK ZUCKERBERG: Senator, no, I would probably
+not choose to do that publicly here.
+SEN.
+DICK DURBIN: I think that may be what this
+is all about: your right to privacy, the limits
+of your right to privacy, and how much you
+give away in modern America in the name of,
+quote, “connecting people around the world”—a
+question, basically, of what information Facebook’s
+collecting, who they’re sending it to, and
+whether they ever asked me, in advance, my
+permission to do that.
+Is that a fair thing for a user of Facebook
+to expect?
+MARK ZUCKERBERG: Yes, Senator.
+I think everyone should have control over
+how their information is used.
+And as we’ve talked about in some of the
+other questions, I think that that is laid
+out in some of the documents.
+But, more importantly, you want to give people
+control in the product itself.
+AMY GOODMAN: So, that was Mark Zuckerberg’s
+response.
+Zeynep Tufekci, just explain exactly what’s
+going on here.
+And also, this bigger point that Kamala Harris
+raised, when she said, “For more than two
+years you decided not to tell anyone about
+the fact—
+ZEYNEP TUFEKCI: Right.
+AMY GOODMAN: —”that 80 million users had
+their information given over.”
+ZEYNEP TUFEKCI: Right.
+So, the first thing, what happened is, if
+your friend had downloaded an app, then your
+information got transferred to the app maker.
+And while Cambridge Analytica is in the news
+because of its political implications, there
+were maybe tens of thousands, maybe even more,
+apps that had that kind of access, until 2015
+or so.
+So I would personally be surprised if the
+number of people whose information was taken
+that way and then transferred to other parties
+and is existing somewhere on the, you know,
+dark web is not pretty much everybody who’s
+been on the site.
+That was about a billion people at the time.
+So, that’s the important thing, is I think
+that kind of data harvesting probably is much
+larger than just the Cambridge Analytica app,
+which is just one app among many.
+So, the second thing about the privacy controls
+is, Facebook does two things here.
+One, they keep trying to say, “We give you
+control.
+We give you control.
+We’ll keep the data ourselves.”
+And even if you take that at face value—but
+as the Cambridge Analytica app scandal sort
+of shows you, they weren’t—but even if
+they do this, from going forward, what happens
+is, it’s quite hard for people to understand
+exactly what kind of data is collected, and
+a lot of their controls have been obscure.
+Like, there’s no one little click saying,
+“Do not collect data about me.”
+It’s like you have to kind of figure out.
+You have to go into a million different menus.
+And, you know, I have a technical background.
+I’ve been studying this stuff for a long
+time.
+And I sometimes get lost in the weeds of their
+menus and can’t figure out how to do this.
+How is an ordinary person supposed to figure
+this out?
+So, that’s the first thing.
+The second thing is, by promising to keep
+the data completely secure from now on, they’re
+still not dealing with the fact that they
+are collecting an enormous amount of data.
+And that is not just what you voluntarily
+share.
+So, a lot of people say, “You know what?
+I don’t care.
+I told Facebook where my college is, what
+my political views are, and I told Facebook
+the pages I like, and that’s OK.”
+But that’s not all it collects.
+It purchases data from data brokers.
+You know, there’s your shopping habits.
+It promised to merges offline data, life if
+you go into a store and buy something, it
+wants to match you to your Facebook ID.
+It collects data while you’re browsing across
+the web, by tracking pixels.
+It tracks you across devices.
+On Android phones, there was this missed sort
+of—there was this obscure control.
+If you kind of missed it, it flashed before
+you.
+Before you knew it, you had just given it
+permission to read and sort of have information
+on all the text messages, the SMS messages
+you send, outside of the app.
+You know, you’re just texting normal people.
+And when people were downloading their Facebook
+database this week, as a result of the scandal,
+and thinking, “What’s in there?”
+a lot of people found that every single text
+message they had sent on their Android phone—you
+know, they’re just messaging their parent
+or their girlfriend, boyfriend, whatever—it’s
+all in Facebook’s databases.
+So, this kind of surveillance machine, which
+is then used where the data is used to target
+you to whomever is paying Facebook, is dangerous
+on its own.
+Now, a lot of people mistakenly think that
+Facebook sells your data.
+Facebook doesn’t sell your data.
+Facebook sells you.
+Right?
+Facebook is selling your attention.
+And it’s selling people’s attention screen
+by screen, so you don’t really get to see
+on a global level what’s going on.
+For example, you know, a lot of media critics
+would remember when, leading up to the Iraq
+War, New York Times got a lot of things wrong.
+And it was horrible in its consequences, and
+it was a grave problem.
+But you could at least see it and say, “Look,
+this is wrong.”
+And you could try to get in the public sphere
+and try to correct it.
+I mean, it’s not an ideal situation, obviously.
+But at least you know what’s in front of
+you, and you can organize, and you can try
+to do something, whereas when misinformation
+is targeted on Facebook, or hate speech or
+things that either go viral organically or
+where advertisers can target you, you don’t
+even see it.
+So, it’s a—the combination of this kind
+of power is a huge problem that we need to
+deal with.
+AMY GOODMAN: You know, you gave this very
+interesting TED talk, where you talk about
+artificial intelligence, this kind of ad targeting.
+And people know about ad targeting, maybe.
+But how deep it is.
+ZEYNEP TUFEKCI: Yeah.
+AMY GOODMAN: And you talked, for example,
+about identifying people who are bipolar.
+ZEYNEP TUFEKCI: Yes.
+AMY GOODMAN: And explain this.
+It is just astounding.
+ZEYNEP TUFEKCI: OK, so, it is astounding.
+And this is the part—once again, it doesn’t
+get understood well, because people think
+like the past.
+Like I subscribe to Outside magazine.
+It’s like this travel adventure.
+So, if somebody wants to advertise on that
+to me, I’m on the subscriber list.
+That’s the old method, right?
+It’s a pretty clear, direct link.
+What happens now with artificial intelligence
+is that computers, computational inference,
+can take seemingly unrelated data, things
+like your Facebook likes—right?—not on
+the topic, but just your Facebook likes, your
+posting frequency, sort of the semantic tone
+of your words, and it can predict things like
+whether you’re likely to enter into clinical
+depression or whether you’re likely, say,
+to enter a manic phase, if you have bipolar
+mental health issues, before the onset of
+clinical symptoms.
+So the computer can, you know, with enough
+data about you—and it’s not a lot of data.
+It’s definitely the kind of data Facebook
+has on you.
+You can predict people’s likelihood of entering
+a depressive state or a manic state in the
+next few months, before we even have a clinical
+test for it, because there are no clinical
+symptoms.
+Now, you can imagine the kind of manipulation
+that it’s open to.
+You know, you want to target people that—you
+want to sell them discounted Las Vegas tickets
+to?
+You want to invite them to a casino?
+Well, you know what?
+People about to enter a manic phase would
+be prime, vulnerable targets, because people
+become compulsive spenders and gamblers, or
+at least have a tendency to.
+If you want—if you’ve got people’s personality
+profiles, which we know from research you
+can do with Facebook, people with, you know,
+certain kinds of personality traits are more
+open to voting for authoritarians when they’re
+afraid, according to research.
+You can try to target those people.
+And sometimes you can do all of this—because
+of the way current computational models work,
+you can do all of this without even knowing
+you’re doing this.
+You’re going to go tell the computer, “Go
+find me people who are going to—you know,
+more likely to buy tickets to Vegas, or more
+likely to vote for this guy when they’re
+afraid.”
+You can just sort of tell the computer what
+to optimize for, and it can do all of this.
+And you don’t even know.
+Like you could even not have the intention
+to do this, but the way machine learning works
+today, you could do this.
+So, this is what I said.
+We could enter into a phase of what I term
+“surveillance authoritarianism,” where
+we don’t face the kind of 1984 model, where
+there’s open totalitarianism, where we’re
+kind of dragged off in the middle of the night,
+kind of situation.
+But we’re silently and quietly, and person
+by person, screen by screen, nudged and manipulated
+according to our individual vulnerabilities.
+That kind of authoritarianism would even be
+hard to realize.
+You’d just be sort of like being nudged
+here and there, and there are these slow changes
+over time.
+And that’s what’s scary.
+That’s what we’ve got to get ahead of
+and not end up there.

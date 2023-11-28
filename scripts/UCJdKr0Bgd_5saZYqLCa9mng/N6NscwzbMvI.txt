@@ -1,0 +1,500 @@
+[Music]
+joining me today is the first investor
+in Bitcoin comm blockchain comm and
+several other cryptocurrency websites
+who's also a libertarian an
+individualist and a peace advocate Roger
+Vere welcome to the Rubin report thanks
+for having me on I was gonna savor but
+when I did a little research and it's
+actually veer even though most people
+savor this would lead one to getting
+into cryptocurrency wouldn't it that's
+the exact reason that it's very easy to
+see that that's why I would get into
+cryptocurrency yeah alright I am looking
+forward to doing this conversation cuz
+as I mentioned to you briefly before we
+started for about two years or so I've
+sort of been kind of looking into this
+world a lot of my audience the
+libertarian side of my audience of
+course is very much into Bitcoin so I
+think probably for the first half of
+this we have to just do do 101 stuff are
+you ready to have your your thinking cap
+on you bet all right for someone that's
+watching this Bitcoin they have no idea
+what that means they think it has some
+connotation to Super Mario you know
+punching the question mark and getting
+coins out of this thing which makes some
+sense I guess at some level what the
+hell is Bitcoin
+so Bitcoin is thanks to the invention of
+Bitcoin for the very first time in the
+entire history of the world any human
+being can now send and receive any
+amount of money with any other human
+being
+anywhere on the planet instantly
+basically for free you don't have to get
+permission from a bank you don't have to
+get permission from the corporation you
+don't have to get permission from a
+government not only do you not have to
+get their permission it's impossible for
+any of those entities to stop it so you
+can now send money from from here in LA
+to Tomas Cao instantly just like that
+for a less than a penny and there's
+nothing that the Russian government can
+do there's nothing that the Chinese
+government can do there's nothing that
+the American government can do so if you
+think that it's a good thing that people
+have control of their own money and
+they're not susceptible to things like
+we had happened in Cyprus a few years
+back where the government just came in
+and said okay we're going to take I
+think it was a third of it everybody's
+money in their bank accounts if you
+think things like that are bad you
+should love Bitcoin and even if you
+haven't used Bitcoin yet it
+might sound complicated and difficult
+but think of it like email if I sat here
+trying to explain to you how email
+worked it would sound really hard and
+confusing and how could anybody figure
+out how to do this sort of thing but
+once you've used email it's not hard
+it's easy you just type in the person's
+email address and you send them a
+message
+bitcoins the same way you just paste
+copy and paste their Bitcoin address and
+you send them some money yeah and so the
+best advice I can give to anybody that's
+new to Bitcoin don't be afraid of it go
+on the internet and get a Bitcoin wallet
+and give it a try it's really really
+easy to use once you've actually used it
+yeah I mentioned to you that we take
+donations at Rubin report.com slash
+donate and we take Bitcoin donations we
+didn't do it for awhile and we had all
+these people saying why aren't you doing
+it you're missing a great opportunity
+here so we did it we've about I think
+around two and a half Bitcoin right now
+and I've seen it kind of you know go up
+and you can't really watch it every
+though at least from where I sit you
+can't watch it every day because you'd
+start going crazy it's just like
+watching stocks every day but what is it
+what actually is it so I get the ease of
+transfer and I want to talk to you about
+why some governments kind of embrace it
+more and some really or against it and
+all that stuff but like people that's
+what people know like what like gold we
+know what gold is it's a thing you can
+put it in your hand what actually is
+Bitcoin
+so with traditional money's that people
+are used to using like the dollar or the
+Euro or traditional payment networks
+like PayPal or Visa or MasterCard all of
+these things have one ledger that keeps
+track of for example PayPal they have a
+ledger at the PayPal world headquarters
+and maybe a couple of backups they keep
+track of how many dollars you have in
+your account and how many dollars I have
+in my account and when I transfer some
+PayPal dollars from my account to your
+account they update their ledger but
+because they're the ones that are in
+charge of that ledger and keeping track
+of that ledger at any point they can
+reverse the transaction I made to you
+they can take all the money out of your
+account they can take all the money out
+of my account the IRS can go to them and
+say take the money out of both of our
+accounts anything can happen at any time
+that's beyond our control even though we
+like to think of the money that's in our
+PayPal account as our money but in
+reality we have to trust PayPal to hold
+it because PayPal has that one ledger
+they're at the mercy of you know their
+higher-ups which are the government
+people with Bitcoin instead of there
+being one ledger that keeps track of who
+has how many bitcoins and what
+there's a copy of this ledger but it's
+on everybody's computer around the world
+that's running a copy of the Bitcoin
+full node software and so instead of
+there being you know one or two or three
+copies there's a more than a hundred
+thousand copies of this ledger around
+the world and those a hundred thousand
+copies of the letter all stay in sync
+with one another and those Ledger's are
+in you know every country around the
+world so let's say I send some money to
+you be a Bitcoin for something that a
+government doesn't like there's no
+Bitcoin company that they can call
+there's no Bitcoin server that they can
+unplug all they could do is arrest the
+two of us but that doesn't stop the
+Bitcoin network as a whole it keeps
+right on going so the real powerful
+invention of Bitcoin is this ledger
+that's not on any one computer the
+ledger is distributed across the entire
+planet so there's no single place that
+anybody could go to to stop or modify it
+or unplug it or turn it off and so for
+me that's what's so exciting about
+Bitcoin is the only way to stop it would
+be to turn off the entire internet in
+the entire world and keep it turned off
+and in 2017 I don't think that's a very
+likely proposition I suspect there's
+some bad guys there's got to be an evil
+guy somewhere twirling his mustache code
+we can shut off the entire internet
+right
+maybe but hopefully not and hopefully we
+can build even more technologies to
+prevent bad people from turning off the
+whole world's Internet and we saw what
+happened when they tried in in Turkey
+previously they turned off the internet
+we just within the country and people
+were instantly rioting in the streets
+and uh it led to an entire revolution in
+that country and I suspect that what
+happened in a lot of countries around
+the world if they tried to turn off the
+internet completely okay so I'm with you
+I understand that basically the ledger
+the information the true information of
+who has what and when they have it and
+all of that I understand that when
+people say we're we're mining for
+Bitcoin what does that actually mean
+so this ledger that's all across the
+entire world gets updated once on
+average every ten minutes but it's who
+gets to decide who gets to make that
+update so the way that problem was
+solved is all these people are doing
+these really complicated math problems
+and the only way to find the answer to
+this maths problem is just to guess and
+you have to guess over and over and over
+again so these Bitcoin mining machines
+are guessing millions of times a second
+or even more than that and when they
+find the
+you ever machine and there's you know
+millions of these around the world
+whichever machine finds the right answer
+to this math problem is then the one
+that's designated to be able to make the
+next update to this worldwide Bitcoin
+ledger so then all these different nodes
+around the world make their update and
+boom the transactions at the networks at
+the next state and then all the
+computers start trying to guess again
+but the benefit of finding the right
+answer to this solution is at the moment
+you get 12 and a half bitcoins if your
+computer is the one that finds the right
+solution and twelve and a half bitcoins
+at the moment is worth what like 80
+$80,000 or so yeah oh I should mention
+by the way that we're taping this
+probably about two weeks before it's
+gonna air so anything we say related to
+the specific numbers I don't want people
+to take out of context they got here
+doesn't know what he's talking about
+because there was 2.4 it you know ok and
+it and almost certainly by the time this
+airs it'll be something like that what I
+said so basically even if we were doing
+this live right now things would be
+changing on the fly I'd have to check
+live on the on the phone to see what the
+current price is to figure it out and
+and Bitcoin is volatile but from my
+point of view I want to be exposed to as
+much of that volatility as I possibly
+can because Bitcoin allows you to send
+and receive any amount of money with
+anyone anywhere in the world basically
+for free and there's nothing anybody
+could do to stop it and there's a
+limited supply a Bitcoin there will
+never ever ever be more than 21 million
+bitcoins so if you stop so how does that
+work exactly because that's oh I've
+heard that so they'll never be more than
+21 you've got all these computers that
+are constantly working to get the next
+solution to the mathematical equation so
+how is there a finite number of so if
+one of these come if one of these
+computers decided to give itself more
+than the 12 and a half bitcoins that are
+supposed to be allocated all the other
+computers will reject that and say no
+that's not part of the rules of the game
+that it's in our software code so any
+computer that deviates from that their
+transactions and whatever they're trying
+to do just gets rejected and ignored by
+the rest of the network so right from
+day one it was programmed into the
+software code that there wouldn't be
+more than 21 million bitcoins but those
+are released over time so half of the
+remaining bitcoins are released every
+four years so in the first four years of
+bitcoins Bitcoin ten and a half million
+coins were released in the next four
+years half of that in the next four
+years half of that and it drops by by
+half every four years so what year will
+they all officially we have more than a
+hundred years until the
+the bitcoins are released out into the
+public so uh you know it's that's not a
+pressing problem at the moment but uh
+right what would even I mean we don't
+have to go too far down that since it's
+a hundred years from now but what would
+happen when we hit when we hit the point
+that they're all out there does that
+somehow drastically change the way the
+game is played well the idea is that by
+that point people that are doing the
+quant transactions even if they're
+paying a fraction of a penny per Bitcoin
+transaction of people are doing billions
+of transactions per day those fees of a
+fraction of a penny per transaction will
+incentivize the miners to continue
+mining and we have a hundred and
+something years to find out to figure
+that out yeah I suspect there will be
+some other excuse yeah there's more
+pressing problems than that one at the
+moment sure right okay so how so it
+sounds to me that it's incredibly secure
+right can you just talk a little bit
+more about the general security yeah so
+the the Bitcoin network all these
+computers around the world that are
+doing mining a more accurate description
+of what they're doing is actually
+they're securing the Bitcoin network so
+the more computers that are mining the
+more secure the Bitcoin network is and
+the Bitcoin network is somewhere on the
+order of several thousand times more
+powerful now than the world's top 500
+supercomputers combined so it's
+absolutely an incredible feat of
+Engineering yeah wait so how do you get
+that kind of computing power like are
+there just I assume there's farms of
+servers just like it's just someone that
+invested in it in a farm right I mean is
+that what works and initially it was
+just people at home in their bedroom
+because you know you if you found a
+block you would get a dollar I mean so
+it wasn't that excited but now today
+when you find a block on the blockchain
+you get you know 80,000 plus dollars so
+now it's big big business so people have
+big giant warehouses filled with tens of
+millions of dollars of this mining
+equipment using you know tens of
+megawatts of a power per per location
+and it's a big big business at this
+point and you can still do it at home
+one of the most important factors though
+is the cost of electricity so the
+cheaper your electricity is the more
+profitable your Bitcoin mining can be so
+I assume there's some Bitcoin people
+that probably want to go into solar and
+move to Nevada or something yep and then
+there's people going around looking at
+buying power plants and buying
+hydroelectric dams and all sorts of
+stuff it's really become a worldwide
+major industry at this point yeah I
+mentioned to you the BNA we're gonna
+have to do some definitions here so
+blockchain what
+is blockchain so blockchain is just a
+fancy name for this worldwide ledger
+that's kept on everybody's computer
+that's running up this copy of the
+software and the ledger stays in sync
+with every other copy so that's a that's
+basically what a blockchain is and the
+reason it's called a blockchain is that
+ledger it's not updated all the time
+it's updated in steps and each step or
+update is a block of new information
+that's attached and they're all chained
+together mathematically so they're all
+in order so of a new block gets added to
+the end of the blockchain on average
+once every 10 minutes and now the the
+blockchain is I don't know
+coming up on half a million blocks long
+and it's been going on for nine years
+now something like that yeah what are
+most people who use it actually using
+Bitcoin for right now like are they
+using it mostly just to transfer money
+from person to person or I noticed
+actually just two days ago I bought
+something on overstock.com and it was
+the first time that I ever saw on an
+e-commerce site that I could have paid
+in Bitcoin I had actually never seen
+that before but what are most people
+using Bitcoin for I think it depends
+it's kind of like asking what do most
+people use money for and it varied up
+fair in my book Bitcoin is money so
+people use money in different ways some
+people save with it some people spend it
+some people gamble on the internet with
+it some people buy drugs with it some
+people do whatever it is they want with
+it but in my point of view each each
+person owns their own money and they
+should be free to do whatever they want
+with it so long as they're not
+initiating force or fraud against other
+people and yeah but I'm curious do you
+know it what any of the trends are like
+our people really at the moment just
+getting into Bitcoin so they can save it
+hoping that you know treating it more as
+a stock than an actual cash or are they
+all right then we can also talk about a
+little bit about the split with Bitcoin
+cash - that's probably a good Segway to
+that but do you have any sense of what
+the actual habits are yes I think that's
+a great segue into that so when I first
+got involved in Bitcoin I was the first
+person the entire world to start
+investing in Bitcoin startups so my
+first step what let's pause there for a
+sec so this is 2011 right right what are
+a 2011 bitcoins are less than $1 each
+okay and what possessed you to get my
+kid you see that you were like alright
+this is going to be something so um I
+grew up in Silicon Valley been playing
+with computers since I was a little kid
+love computers all the time and my hobby
+was studying economics and just kind of
+by chance I came
+macrosse1 economics book in in junior
+high when my mother told me I couldn't
+play anymore Nintendo I had to go and do
+something else I'd pick up a book off
+the shelf and just by luck it was a book
+called socialism by Ludwig von Mises and
+some people may know who that is and
+what that book is and a lot most people
+I expect won't and when I picked up that
+book I thought it was a pro socialism
+book and I didn't really even know what
+socialism was but I kind of knew that
+Americans were supposed to be opposed to
+socialism but I thought you know I
+should have an open mind I should at
+least hear what the other side of the
+the you know this point of view has to
+say and it turned out that I think was
+the Wall Street Journal referred to look
+mom uses his book socialism as looted
+von Mises is devastating critique of
+socialism and in this book he kind of
+points out that prices are incredibly
+important and without the pricing
+mechanism you don't know what raw
+resources should be used to produce what
+consumer goods so this you my glass of
+water here is made of glass that I don't
+know how I don't even know how they make
+the glass but I guess some sand and they
+melt it down or something like that but
+without the price we got it from Target
+for the record so we spare no expense
+around here you know everything right
+and with the prices that go into the
+sand and then the factory and this and
+that they know that maybe they should
+make glasses out of sand rather than
+glasses out of gold or glasses out of
+copper or take your pick and so all the
+prices all over the world allocate all
+of these resources and all of these
+companies and all these factories and
+people and individuals all the way to
+the time when you get to Target and you
+look at the different glasses there and
+you think this one's glass this one's
+plastic this one suits my need better
+than this one and this one cost this
+much and it allocates the resources of
+the entire world without a pricing
+mechanism you have no idea what raw
+resources should be used to create what
+consumer goods and reading this book was
+like wow any time the government gets
+involved in any area of the economy
+they're causing a misallocation of
+resources and resources are being
+diverted from their most economically
+efficient use to something that's less
+economically efficient and saying
+something's less economically efficient
+is just a fancier way of saying you're
+making the world a poorer place than it
+otherwise would have been and so I found
+these ideas incredibly interesting if I
+it gave me a better understanding of the
+world and so I read one economics book
+after another after another half
+or another and so I I got to read these
+theories about the origin of money and
+what the origin of money is and the idea
+if the origin of money is that it starts
+out as a commodity but not just any
+commodity it has to be commodity that's
+easily recognizable easily divisible
+easily transportable you can store it
+easily for a long time and it won't you

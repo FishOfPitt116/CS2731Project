@@ -1,0 +1,500 @@
+anecdote versus data so collecting data
+and collecting it well is so [ __ ]
+hard to do it is so hard to do holy [ __ ]
+when you read a stat the work that goes
+into collecting the data to make that
+stat meaningful is so [ __ ] hard let
+me give you let's do one quick thought
+experiment as an example and we can
+start to go over the plethora of
+difficulties that you face as a
+statistics researcher or data researcher
+okay try to do this okay let's say that
+I want to find out how many people play
+video games okay what percentage of the
+population plays video games so first we
+need to rigorously define what we mean
+by playing video games and include that
+in the prompt so does that include
+playing a mobile game
+does that include playing games when you
+were a kid what's the time frame how
+often do you have to play to be
+considered somebody that plays video
+games are these things we want to built
+into our questionnaire etc etc so the
+wording of the question has to be very
+specific so that you're capturing the
+data that you want to capture right
+let's say even that we solve all of that
+okay let's say that we solve all of that
+stuff so we've got the perfect question
+it's gonna gather the perfect data etc
+etc okay all of that is perfect right
+how do you do this poll where do you do
+the poll at okay who do you poll to find
+out what what percentage of people play
+video games so let's say that we go
+let's say that we run this poll by phone
+okay now let's say that we want to be
+truly random okay so we're going to run
+this poll by phone okay so because we
+don't want to get we don't want to well
+we're not gonna run it in a school
+because we know that young people will
+answer more than then old people right
+then young people are likely to play a
+game so we're smart we're not gonna go
+to a high school in Poland because we
+pull in a high school it's gonna be a
+much higher percentage than the overall
+population so we're gonna stay where the
+high school so let's go to the phone
+books right maybe you pull in the phone
+books everybody everybody that you you
+pick a bunch of random phone numbers and
+then you call people to find out you
+know what percentage of them play video
+games well what if in phone books what
+if the only thing listed are home phone
+numbers right maybe the people that own
+home phone lines are more likely to play
+video games than the people that don't
+home owned phone lines right so even
+something that seems random like a phone
+book might [ __ ] you maybe you try to run
+the poll
+on reddit well if you're renting a
+pullin reddit you're already selecting
+for a very small percentage of the
+population that's computer savvy enough
+to go on reddit so now you've got a
+problem where you're already over
+selecting for tech savvy people so you
+can't run the poem on reddit
+like what like where do you uh where do
+you go to run a poll like this right I
+could run it in my chat that's gonna be
+dramatically off because obviously
+you're watching a video game streamer so
+a lot of people are probably gonna be
+likely to do it um you know you you
+could run it at a um you could do a poll
+on Facebook and assuming that Facebook
+side targeting or whatever is really
+good maybe but again for Facebook you've
+already over selected for like a decent
+percentage of the population you could
+look at consumer data while we're trying
+to collect consumer data right this is
+like a really simple question all right
+I'm just trying to find out right like
+how do you figure out like the
+percentage of people playing polls right
+these are all questions that you have to
+ask right now here's the important part
+about this question okay the thing is if
+you um if you pull people on this okay
+if you're doing it wrong you're gonna
+get data that's severely [ __ ] in a
+certain category and it's gonna lead you
+to believe something that's not true
+right say that we go to a ninth grade
+classroom and we pull people to figure
+out what percentage of them play video
+games whatever number we get is gonna be
+way higher than reality
+probably because younger people probably
+have a higher tendency to play video
+games and older people probably right
+there are famous examples of this
+[ __ ] up in the past where I think
+somebody put like a callin poll or
+something at the back of it was either a
+magazine or a romance novel where the
+question was are you happy with your
+marriage and originally the poll was
+like dramatically off it was like 90% of
+women were dissatisfied with their
+marriage but when people dug into the
+research more what they found out was
+that somebody that was unhappy with our
+marriage was much more likely to call in
+and report that than somebody that
+wasn't unhappy with their marriage so
+even sticking something in the back of a
+magazine that might seem innocuous like
+a decent way to collect data could be
+severely off because the people that
+choose to respond to your poll are gonna
+be motivated to answer based on what the
+answer is
+there's like a million different things
+that can hurt your ability to collect
+data when we were listening to the
+Sapolsky lectures on biology right they
+did that big study that showed that men
+were better than women at math because
+they tended to do better on tests or
+something and it was like a hugely
+massively controlled experiment I think
+this got published in nature showing
+that even at early age
+men were more likely to do better than
+women but then when they dug into even
+that research more what they found out
+was we'll hold on if you look at the way
+that men and women are treated in
+classrooms teachers are more likely to
+call on a boy than a girl to answer a
+math question even if a boy and a girl
+raised their hand so that was even
+called into question right all of this
+makes collecting data well very [ __ ]
+difficult there's a million [ __ ]
+questions that you have to constantly
+ask to make sure that the data that
+you're collecting is a fair
+representative sample of data from your
+population a good cross-section is very
+very hard to do this so I'm interested
+to hear your answer on anecdote verse
+data I'm a PhD student I've created
+datasets that literally consisted of
+nothing but anecdotes but I want ever so
+great that the flow of anecdote is not
+data sampling analysis and framing go a
+long way in turning about stories news
+reproduce it yeah sure so let's use
+malmo as an example okay all right and
+I'm gonna make up a lot of [ __ ] okay
+let's say that you have a city okay
+let's say that we go to this city okay
+hey here we are we're visiting this city
+okay and let's say that we we go we
+spent three days we go to this part of
+the city then we go to this part of the
+city and then we go to this part of the
+city so here is all of the things that
+we have to ask let's say that as we go
+here in three days let's say that during
+these three days we witness two crimes
+okay so if we witness two crimes in
+three days okay
+Oh God two crimes and three days okay
+does it like if we extrapolate this out
+what is this mean like 200 and 220 1.75
+whatever like 221 days of the year
+there's gonna be crimes because we
+witnessed it well this is only a small
+section of the city firstly we're only
+looking at a small section of the city
+firstly secondly what we're observing is
+going to be biased we can only see
+things happening on the street thirdly
+what if we're here during a time period
+when crime is over-represented for
+instance if we come during the summer
+months is crime historically
+over-represented during the summer
+months versus the winter months maybe
+were in a time period where crime is
+higher than normal and we're not taking
+that into account
+maybe you're there's like there's a
+million different confounding variables
+here that can influence what maybe you
+see crime that isn't reported maybe
+somebody's stealing something that's not
+reported so what you're actually seeing
+is something that could exist in a whole
+bunch of other environments that also is
+a
+but you're seeing it here so you assume
+that it's you know must only happen here
+whatever this is what I mean when I say
+anecdotes or bad data is worse than no
+data because you might have an idea that
+like okay well I don't know anything
+about Malmo saying that you know nothing
+about crime in this area is better than
+making a bad observation bad observation
+and then extrapolating that into bad
+data okay because now you have an answer
+that's wrong it's better to say I do not
+know than it is to say I know something
+that is incorrect right this is this is
+the problem and and you can apply this
+type of statistical analysis you can
+apply this to a million different things
+in every part of your life you can apply
+this form of thinking let's say that I
+do something on stream and I want to
+find out if I if I'm doing a good job at
+getting new subs so let's say that I try
+something some day and I want to see
+that I do a good job at getting subs
+well here's my first question how many
+subs did I get today okay Wow let's say
+that we have 25 subs what was that good
+well I don't know how do we find out if
+that's good um well let's look at what
+we got the last day okay I got 10 subs
+yesterday and I got 25 subs today holy
+[ __ ] that's really good that's a success
+right we did it we got 50 more subs
+yesterday than than we did or today than
+we did yesterday well is that good well
+we don't actually know you have to
+compare more than that when you're
+talking about sales figures you're
+talking about running sales what if
+yesterday was a Thursday okay and today
+was a Friday what if we go back the past
+week and we find out that last Thursday
+we got 11 subs and we got 40 subs on
+Friday well actually if we go back and
+we compare like days to like days what
+we actually found out was oh well hold
+on normally on Fridays I get way more
+subs than I do on Thursdays but when I
+did my special sub thing this Thursday
+Friday
+I actually got less than what I should
+have right oh well [ __ ] so maybe this
+was a massive [ __ ] failure right well
+let's go back to last Friday what if
+last Friday was the day after tax day
+we'll hold on maybe it was tax so what
+we actually have to do is go back a year
+or go back a month and say okay well on
+the 31st of this month last year
+what were the sub differences between
+Thursday and Friday right there's like
+this is what I'm saying when I'm saying
+that everything with data is so
+complicated that you have to make sure
+that you're looking at the right day to
+the right numbers that there's a million
+different confounding variables
+they can influence whether or not the
+answer you're getting is telling you
+what you really want to know I'm sorry
+I'm presenting this in a really
+pessimistic fashion I'm not saying that
+it's impossible to figure out an answer
+to anything I'm just saying that like if
+you want to be intelligent about it
+getting the correct answer to your data
+is such an involved process it's like a
+it's a massively involved process to
+make sure that you're asking the right
+questions that you're collecting data in
+a responsible way and that that data is
+actually answering the question that
+you're answering or answering the
+question that you're asking and and not
+being confounded by a hidden variable
+that you're not considering oh okay
+does that make sense what is the guy
+that asked me why isn't the plural of
+anecdote data hey destiny why do you
+want people to make good arguments and
+if they do how will that help you I just
+like it when people talk about arguments
+in a rational way if you're being
+irrational it makes you impossible to
+communicate with and I view you as less
+than human I have a very we have brains
+and we have rationality we have the
+capability to do that no other [ __ ]
+animal can do it [ __ ] the vegans humans
+are the only ones that are cool and do
+this [ __ ] that's why dolphins even
+though they're so intelligent on the
+verge your [ __ ] extinction cuz those
+dumb [ __ ] can't even figure out
+how to get on the [ __ ] water did get
+the [ __ ] out it you're still in the
+[ __ ] ocean if you think you're smart
+you guys run around raping your [ __ ]
+foreheads with your dicks alright [ __ ]
+off dolphins alright
+human beings the smartest [ __ ] you hat
+you have the capability being rational
+embrace it okay the brain is the most
+important muscle in your body beside
+your [ __ ] dick
+gotcha I wish people like Thomas I would
+know how difficult it is with the data
+they're so [ __ ] [ __ ] when it comes
+to interpreting the dinner remember
+Sargon with the [ __ ] marriage thing
+oh yeah
+like there's another really good thing
+okay like here's like um like this is I
+would bet money okay that over half of
+Americans would get this incorrect okay
+over half of Americans will get this
+incorrect okay okay what does this graph
+tell us married couples do better
+among all races okay we can see the
+median household income of a person
+living alone we can see the median
+household income of a single parent and
+we can see the median household income
+of people that are married with children
+okay here are a couple of statements
+that we can make about this data okay
+people that are married with children
+tend to have a higher or have a higher
+median income than single people or
+people living alone okay that is the
+only statement that we can make about
+this data period now a lot of people
+will make a huge jump and they'll try to
+say ah well a single person if they
+would just get married they would make a
+lot more income however that is not
+supported and wrong that is not
+supported by this data that is not what
+this chart tells you okay if a person
+living alone were to become married with
+children their income would go ant wrong
+route nope that is not what this tells
+you that is not what this tells you so
+well what do you mean destiny people
+that are married with children have
+higher incomes and people living alone
+of course if the person living alone
+would get married and have children they
+would get a higher income we don't know
+that the data does not that might be
+true but what you have there is a
+hypothesis because that hypothesis is
+not supported by this data you need to
+get new data to support that we can
+think of multiple hypotheses that
+explain this data that don't involve
+that for instance maybe people don't
+choose to get married until they're
+wealthy if that's true that means that
+wealthier people tend to get married and
+then have children that means that
+wealth is a precursor for marriage not
+an effective marriage now what I just
+said
+that's another hypothesis it's not
+necessarily supported by this data now I
+happen to know that that's probably true
+because I've analyzed the data but we're
+not analyzed but I've looked up data
+before that wealthier people tend to get
+married but I'm just saying that people
+will extrapolate a lot out of a single
+poll and then they think that they can
+when they can't destiny you cannot
+seriously think that over half of
+Americans when I was I mean oh no you're
+right I probably 75 percent plus would
+say that
+but like for instance and and we can
+actually we can run [ __ ] thought
+experiments it should to try to prove
+this to like I can think of a number a
+plethora of circumstances where person
+lives alone they find another person
+that's broke as [ __ ] and they go like
+hey let's just [ __ ] let's get married
+and have kids and we'll make a [ __ ] to
+no honey no that's not how that works
+right we don't have a mechanism to
+describe that a mechanism where a person
+living alone can magically get married
+have kids and make a lot more money that
+mechanism doesn't exist you can't
+explain that or maybe you can I bother
+sighs money we could go through the date
+and try to find out but um isn't it
+shitty to use household income on this
+graph and not independent income this
+graph seems really misleading well no
+because household income is important
+right because you because there are
+certain bills that will be shared like
+utility bills will be shared household
+bills like mortgages or rent payments
+will be shared so what else like I could
+think of a million different things for
+why oh here's one that I learned about
+in psych class a long time ago right
+people do research and find out like to
+sleep correlate with success in school
+and and and there is there was a study a
+long [ __ ] time ago my psych class this
+was literally like we're digging back
+boys like 11 years ago okay where they
+did a bunch of research and I found that
+you could like directly correlate the
+amount of sleep that you got with it you
+could directly correlate the amount of
+sleep that you got with your success in
+school and the people that sup more did
+better in school and you know that that
+seemed to be a pretty reasonable answer
+because we can you we can hypothesize a
+mechanism getting more sleep that makes
+you be more rested and concentrate
+better right that mechanism seems to
+explain that gap but when they dug into
+the data more it seemed like that it
+wasn't as consistent when they started
+to split up people by demographics and
+whatnot it seemed like you could find
+really wealthy kids that didn't sleep as
+much they still did way better than
+poorer kids that slept more and what it
+actually happened was it seemed like the
+people that were getting less sleep had
+more responsibilities in the household
+or were working and they had less time
+to spend on school and it was actually
+hours spent on schoolwork at home that
+was more predictive of success in school
+than just the amount of sleep that you
+got right so even though it looks like
+sleep was highly correlated with success
+of school that's true
+that wasn't the explaining reason right
+there were other confounding variables
+there that were more likely to explain
+your success or predict your success in
+school than just whether or not you guys
+sleep well okay I'm sorry I'm done with
+all of this okay I just
+it just it's very irritating like data
+collecting and interpreting charts and
+interpreting graphs it's something that
+is very unintuitive like I think my econ
+teacher always said that like statistics
+don't lie but Liars use statistics like
+you have to be really careful when you
+interpret data and people can do it in
+such a dishonest way that you get like
+totally taken for a ride
+beyond confounding variables you can get
+into meaning like Simpson Oh Simpsons
+paradox does this have to do with the
+medical school [ __ ] oh this was used for
+female where they argued that it was
+either male or female discrimination had
+occurred but when you dug into the stats
+it was backwards wasn't it wasn't there
+a famous court case that argued that a
+university discriminated against it was
+either men or women because the overall
+percentage of women that made it was
+higher than the overall percentage of
+men but when you dug into the actual
+data it was actually the other gender
+getting [ __ ] in every single

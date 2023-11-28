@@ -1,0 +1,500 @@
+welcome to part two of our interview
+with NSA whistleblower William Binney if
+you know anything about William Binney
+you know that he is probably the
+smartest guy who ever worked for the NSA
+and invented the greatest metadata
+gathering tool ever known as thin thread
+he's also blown the whistle on
+corruption inside of the NSA and he's a
+member of VIPs veterans intelligence
+professionals for sanity who debunked
+the WMDs lie that the government was
+feeding us well he's here to debunk
+another big lie that the whole nations
+been feeding us okay now let's get back
+to the technical aspect of the alleged
+Russian hack of the DNC servers you
+delineate just like you said that if
+someone did that the packets would be
+out there they would be reassembled at
+the other end and the NSA would be able
+to show you that where those packets
+ended up that's what you're saying yep
+if you look go ahead go ahead but but
+but what you're saying is that they
+didn't do that which means they don't
+have that evidence which probably means
+that didn't happen because if it did
+happen they would have that evidence
+correct that's correct and if you looked
+at the at the ICA they in the
+intelligence community assessment which
+is really done by selected analysts from
+NSA CIA and FBI selected ones not the
+general people doing the job okay and
+they came out and they put out a little
+over 13 page paper and talking about
+they have high confidence it was the
+Russians that did it yes or their that's
+their judgment okay they said their
+judgment they had high confidence that
+the Russians did it and then on the
+bottom of page 13 of that same report it
+says here's how you begin to understand
+word judgment judgment is not intended
+to mean that we have evidence to prove
+something to be a fact okay you know in
+essence they denied their entire
+previous report pages yeah they made it
+say this this is not necessarily factual
+that's fundamentally what it says yeah
+yeah well then we had then we
+Lucifer - right and this guy put out
+stuff that said it was a it was a hack
+of the DNC and you know and they were
+alleging that the Russians did it well
+went and he posted the data so that
+meant we had something to technically
+analyze so we thought okay if this is a
+hack let's go look at and see what we
+can figure out what it about that data
+so we had the data right we have a tenth
+we had it was spread out over a 14
+minute period and it gave a certain
+amount of transmission of the front a
+little bit at the back end but it's all
+timestamps so that at the end of files
+every the files are all time stamped and
+you could see the time stamping and
+therefore calculate the transfer rate
+over time which meant that and we we got
+the rate we got was the highest rate we
+had was forty one forty nine point one
+megabytes per second not bits bytes per
+second now we knew that that was not
+there wasn't any way that that could go
+across the Internet you can't send that
+massive amount of data at that rate
+across the internet it just won't go so
+we and we tried it we have tried to do
+it we said we we put data out there and
+try to try to take it across the
+Atlantic to different places in Europe
+Amsterdam
+you know Albania Belgrade and and the UK
+the fastest we got was 12 megabytes per
+second that was between a data center in
+the U in New Jersey and a data center in
+in the UK that was the fastest we could
+get so and in Albania and going further
+east the with the capacity went down so
+we had much less capability further east
+you went toward Russia so we said that
+this from testing it wouldn't work but
+so the download rate though was a
+perfect match for a USB stick download
+from a device from a computer because
+that would fit right in to that so what
+we said and the fact that NSA didn't say
+anything about it
+we said this is a local download
+wherever local is we didn't even we
+couldn't even prove was the
+nc but we found some other evidence that
+was even much more interesting
+we found data from Lucifer - that was
+put out in dated the first of September
+of 2016
+and if you looked at that and ignored
+the everything except the minute the
+hour minute the minute second and milli
+second of the timestamps those two dates
+from 5 July and 1 September merge into
+one continuous stream of data so the
+random probability that happens almost
+infinitesimal so so it meant that
+Lucifer 2 was in fact playing games with
+the data and playing games with us
+so all this allegation that it was a
+hack or even alleged to be a hack is
+just false from the beginning this guy's
+playing with us he's kind of falsifying
+evidence and falsifying inputs to us or
+trying to make trying to make an
+argument to support the thing the idea
+that that the Trump administration was
+involved the Russians well from our
+point of view that's it's absolutely
+false
+ok ok so and so that was I read about
+that and then I so the fact also let me
+just add on to what you just said is
+that the DNC and John Podesta never
+allowed an outside agency to investigate
+or to inspect their servers they never
+allowed the FBI or the Department of
+Homeland Security to investigate their
+servers they neither did John Podesta
+and that's why I said they will never be
+proof of a hack into the DNC server
+because they'll never allow anybody to
+inspect their servers so game's over
+right there am I wrong about that no no
+I mean that's when you're trying to hide
+evidence of anything that's going on
+that's the way to do it just don't let
+you can keep people out of your evidence
+drawer you then you do that yeah so III
+just said this is a whole the whole
+thing and stories manufactured at the
+intelligence community claimed they have
+evidence they should put it on the table
+this is one of the things I said to
+director Pompeii Pompeyo that that it if
+the members of Congress are going to
+call this an act of war then this is
+pretty serious situation and I reflect
+back on the previous serious conditions
+when John Fitzgerald Kennedy President
+Kennedy exposed the photographs the
+YouTube photographs the missiles in Cuba
+in the UN and he did that and by
+declassifying them so classification is
+no no bearing here if you're going to
+talk about a act of war and make a
+serious situation you need to produce
+that evidence and I would also say that
+Ronald Reagan when he was president then
+the Russians shot down the KL air line
+over Sakhalin Island he released the the
+Japanese recordings of the Russian
+ground - air control of the fighter
+ordering him to shoot the plane down and
+they reduced that he produced that in
+the UN - so I mean there precedent for
+presidents reducing and classification -
+nothing and exposing it to the public if
+you're talking about a very serious
+situation which if they're gonna call an
+act of war then this is a case where
+they should reduce it produced the
+evidence for the public to see otherwise
+we have no confidence in them I mean
+after all it's the it's the intelligence
+community that said there were weapons
+of mass destruction in Iraq there there
+were the Tonkin Gulf we were attacked by
+the North Koreans or North North
+Vietnamese and the Tonkin Gulf then we
+start a war whenever he killed a couple
+million people on a falsehood because
+even they just didn't believe the
+captain of the ship that was supposedly
+attacked who said that there was no
+attack at all so we started a war with
+on the false principle or false input
+from intelligence not just the Vietnam
+work with all the Iraq war so I mean we
+need to have truth here and this is
+really what I told him was a very very
+most serious issue here is that the
+intelligence agencies are not telling
+the truth to the leadership of the
+country this is really bad why do you
+think there's such uniformity and going
+along pushing this
+obvious to me obvious false propaganda
+once I heard that the DIA DNC and John
+Podesta wouldn't allow the FBI to
+investigate their servers I knew this
+was to me that does not pass the smell
+test I'm a nightclub comedian and with a
+ detector and to me that was
+like Oh detector what is
+ringing top top speed that's there's
+something wrong there and so that to me
+so why do you think there aren't more
+people a like you out there speaking up
+people with authority who can speak on
+this issue why don't we just start there
+why do you why do you think there's not
+more people doing what you're doing
+first of all I think in inside the
+intelligence community I know through
+the grapevine of retirees that the
+morale situation there is really bad
+because they're all being threatened
+internally they have programs like say
+see something say something about people
+you work for or work with either way and
+so it's like the Stasi you know that
+that was a program they instituted
+spying on air taller workers and so it
+really it really causes a really ugly
+work environment and so there and and
+they threaten people with the FBI and
+threaten them with the putting them in
+jail and indicted them at very swiftly
+on various charges so that's I mean they
+they they passed around the movie the
+the 16 minute article that came out in
+2012 or 2011 about us in May they
+circulated that internally in NSA to
+basically tell the workforce this is
+what's going to happen to you if you say
+anything and so this is the kind of
+intimidation that occurs in inside these
+agencies so they're all pretty much
+threatened and afraid to do anything so
+not that not that they wouldn't like to
+it's just that they are afraid to do it
+so no I found your information I also
+know that the d8 DNC didn't allow the
+FBI did why aren't there more people in
+the media that are telling the truth
+about this situation why do you think
+well the media is now also afraid I mean
+they with jim risin and Jim Rosen The
+Associated Press the the threats of the
+grand jury investigations and
+and charges and so on to the media have
+also made them very afraid to do
+anything either I mean from what I can
+see investigative journalism at least in
+the national security area is pretty
+much dead in this country that won't
+happen you can't get anything except the
+story de jure from the intelligence
+agencies or the administration you can't
+get anything nobody's doing anything to
+try to verify or validate any of it so
+you know and I think Paulson
+I mean I think the CIA and others have
+had ongoing efforts to try to infiltrate
+the news media to make sure that they
+they conform to the story that they
+weren't told a lot of them coordinate
+their stories before they're published
+with the CIA or NSA FBI so and they
+allow them to filter it so you know
+there's kind of a collaborative effort
+there and there's the threat behind it
+after brand juries and things like that
+so I think that that's the reason that
+the mainstream media at least simply
+turns over and does what they're told
+so I'm stunned by the level of Red Scare
+menace that's being pushed right now in
+the United States and has been since the
+election are is it mind-blowing to you
+or am I overreacting
+no I just think it's absurd I mean I
+they can't really afford to do too much
+I mean they're they're their GDP is like
+one tenth of arts so I mean you know
+it's insane to think that they could
+actually threaten us on any scale I mean
+so why are we I looked at it this way
+when when we were spreading NATO into
+the into the Latvia Lithuania Estonia
+and in Poland and then NATO was moving
+into the Ukraine and so on well they
+were they were violating verbal
+agreements that we had when the Soviet
+Union broke up that under when the
+Ukraine was transferring all their
+nuclear weapons to Russia to manage they
+were the agreement was that NATO
+wouldn't spread any further east and
+especially not into the Ukraine I mean
+because Russia the Black Sea Fleet
+headquarters is in the Crimea that's a
+major facility for them and they did
+they
+give that to a NATO country you know
+they would want to keep track of that so
+doing that is treating them like an
+adversary so if you treat people like
+adverse aids they tend to act that way
+my thought at the time was if you're
+going to invite Ukraine into NATO also
+invite Russia into NATO and now we're
+all in the same team you know it's not a
+question of now we're treating them like
+an adversary we're no longer doing it
+they're a part of us then so they're
+inclusive we're being inclusive not
+exclusive force so there was a Russian
+reset that was that came from the top of
+the government in the United States and
+the Russian reset meaning we're gonna
+reset our relationships with Russia and
+we're actually gonna be in partnership
+with them in fact they tried to build
+they tried to help them build up their
+Silicon Valley outside of the Moscow and
+they had people from our Silicon Valley
+trying to help I mean this would happen
+correct well but you can also look at it
+as a way of infiltrating their
+communication system because that can
+help us put implants and stuff like that
+in their network but also you can you
+can look at also about the diplomatic
+moves by the u.s. to do regime change in
+the Ukraine if you recall Yahtzee for a
+guy
+it was our our way of saying we want
+yachts to be the president of the
+Ukraine anyone in fact that was none of
+our business we should have stayed out
+of that so that was just another threat
+that they proceeded to be be treating
+like a threat and so I try to remind
+people that Russia spends roughly about
+sixty five billion dollars a year on
+their military which doesn't even come
+to one of our supplemental budgets for
+our work so I mean we're spending seven
+hundred billion dollars a year on our
+military they're spending as pittance
+compared and yet everybody's running
+around with their hair on fire inside
+the United States that the rush is
+somehow gonna take over our country
+they're hacking our democracy they're
+running and I try to remind people the
+reason why we don't have Medicare for
+all or free college or a living wage is
+is because not because of Russia it's
+because of what's happening right now
+they're passing a tax bill nobody in the
+country wants that's got nothing to do
+with Russia that's got to do with people
+right inside the United States who want
+to screw over the United States right I
+mean we our worst enemies I mean look
+what we did with terrorism we created a
+false statement where you had to give up
+privacy food security and oh by the way
+you've got to spend tens of billions of
+dollars more every year they keep that
+going that was the first swindle okay
+that I called the second swindle was
+cyber security where they had all these
+weaknesses that they knew in bulk seven
+involved eight and also in the NSA and
+GCHQ and the comprised they knew about
+all these weaknesses that they used to
+penetrate and see what everybody was
+saying and doing but they never fixed
+them so that meant we were all
+vulnerable that means we had no
+cybersecurity so then when we get a
+cybersecurity attack they say we need
+more money for cybersecurity well why
+don't you fix the problems you already
+know about and if you do that maybe
+we'll have some cybersecurity then if we
+get attacked then sure we'll give you
+some more money otherwise no you know
+and now this is the third attempt at a
+swindle steep the threat of an external
+threat Russia they're big the red board
+or something
+keep that threat going so we can swindle
+the other more money for a new Cold War
+that's what this is right so that's Wow
+so that's exactly what's all about money
+follow the money so what happened with
+the war on terror it's the beautiful was
+less such a gift to the
+military-industrial complex because if
+we have a war on terror well terror is
+not a state it's not a nation you can't
+defeat terror that's a tactic so we'll
+be forever just like Orwell said I mean
+here we are you're confirming my
+suspicions that this is all about we
+need an enemies so cuz we need to keep
+spending on the military and who runs
+our our military foreign policy there's
+about ten companies that run our foreign
+policy right maybe about the team okay
+so that's what this is all about then
+bill it's all about a big money big
+money cash right yes and and also to
+keep the well once you build up an
+empire like that you have to sustain it
+that requires more and more funding you
+know it's not and they have to have
+something to do so that means you have
+to have a war to hear they're just to
+keep things going so people would say
+average people who are too busy working
+two and three jobs to pay attention to
+the minutiae of stuff like this the
+go wait a minute I turn on the news and
+I see Rachel Maddow telling me that
+Russia Russia Russia and that Trump's a
+traitor and so why would she say that if
+it's the government can spare what she
+go along with it because it's an it's a
+narrative that they because I think the
+Democrats want to create that narrative
+and get it believed to be true so that
+they can associate the Russian
+collaboration with the Trump
+administration and then get grounds for
+impeachment I agree I agree that's what
+it is it's trumped arrangement now I
+think I heard you say this that there's
+there's a lot of people who are pushing
+this Russia gate narrative that are
+overly emotionally invested in the
+outcome right is that is that is okay go
+ahead yeah and a lot of it is the
+emotional reaction to President Trump
+and the way when he operates with
+Twitter and so on right yeah and what he
+says they didn't Twitter I guess people
+get upset at their I mean if he says
+anything I think people get upset I
+don't know you know I can't distinguish
+what's significant what isn't anymore
+because everything he says they
+objective so it's like good well I was
+just gonna say they even now they're
+trying to say he's mentally deranged or
+mentally unstable well let's see if I
+review the bidding that the Hillary
+Clinton had going in I mean she wanted
+to she was one who helped to advocate
+for destabilizing your Libya getting rid
+of Qaddafi they she also wanted to
+destabilize Syria and she advocated the
+war in for the war in Iraq and
+Afghanistan in fact under the Obama
+administration the the droning spread
+into Yemen and other four other
+countries so you know what is Trump done
+to expand the military actions I do you
+know I don't know anything comparable so
+I looked at her as they really a war
+monger yeah well she is a war monger if
+you know everyone wants to did deny it
+that's why she do she didn't beat Barack
+Obama the first time is because and I
+have to tell Democrats that I'm old
+enough to remember what being for the
+Iraq war was a disqualifier in the
+Democratic primary that's how old I am
+but now it's just now it's just
+something that's all you got is supposed
+to forget about it I wanted also by what
+she did with Bernie Sanders with in
+collaboration with the DNC
+I mean that was a that was a I mean she
+knocked out somebody who could have most
+likely won yes most likely won yes well
