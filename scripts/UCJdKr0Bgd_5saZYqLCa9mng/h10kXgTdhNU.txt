@@ -1,0 +1,500 @@
+joining me today is an entrepreneur a
+venture capitalist and author the
+co-founder of PayPal the first outside
+investor in facebook the founder of
+Palantir and Silicon Valley's ultimate
+contrarian thinker Peter teal finally
+welcome to the Rubin report David thanks
+for having me on the show it's good to
+be here with you I normally don't have
+this many cards for a guest but I've got
+a lot of cards for you today are you
+ready to roll ready to go all right so
+we have to start obviously Rogan had
+Elan musk on last week last week and
+they smoked a joint so do you want me to
+put the joint on the table right now or
+how are we doing this you know mine my
+number one rule is never to compete with
+the Elan man oh you know I would never I
+would never bet against Elan it's it's
+been like this I've been I was a close
+partner of his at PayPal in the in the
+late 90s early 2000s and and after
+PayPal you know Ilan set out to start
+these to the you know both the rocket
+company and the the electric car company
+SpaceX and Tesla yeah and I think the
+conventional wisdom on Elon was these
+were both completely harebrained
+projects and if one of them had
+succeeded that you have to sort of
+question it and when both of them
+succeeded it suggests that you know he
+knows something people other people
+don't all right well that is a matter of
+luck
+I'll keep I'll keep the joint right here
+for a now don't compete with you on all
+right but look that's a good place to
+start because first you know it's
+interesting because we've gotten to know
+each other a little bit in the last
+couple years and it seems to me that the
+person that I know privately is sort of
+different than the way the media
+portrays you so I thought maybe at the
+beginning let's just do a little history
+about you and then we can get to some of
+the controversies and some of the ideas
+that you're really interested and things
+like that so let's start with with
+PayPal since you mentioned it already
+where did the idea of PayPal first come
+from well you know it's it's when you
+start one of these companies uh it's
+it's typically not the case that you get
+the whole idea fully formed you know
+instantaneously we certainly there was
+this incredible internet boom going on
+in Silicon Valley in the late 90s it
+felt
+there was sort of this open frontier
+open Gold Rush
+one of the natural things to look at was
+you know was finance I I was sort of
+very interested in the cryptocurrency
+could there be new forms of money
+there's always something you know super
+mysterious powerful important about
+money it was it was it was the way that
+this this was going to change so we had
+I think we had this general idea to do
+something with security with money with
+payments from very early on of the
+founding of the company and then you
+iterate a lot on how to how to get the
+idea out and the the critical question
+for any consumer internet product is
+always not what the idea is but how do
+you get it out how do you get the
+distribution out and we spent there been
+a lot of payments companies Internet
+payments companies that already started
+and failed by 1998 there was one called
+when one called up other cyber cash
+there were you know there's sort of a
+variety of these different ones that had
+tried to create these you know
+comprehensive currency schemes and they
+would work if everybody use them but you
+could never get even the first person to
+start but the challenge was how to make
+it viral how do you get something to
+work where it's good for the first
+person for the tenth person to the 100th
+person and once you have millions of
+people you have a network you have
+network effects and that was sort of the
+chicken and egg problem yeah so how did
+you guys overcome that hurdle
+well we eventually stumbled on this idea
+of linking money with email because they
+were ready 300 million people in 99 that
+had email accounts and and so if you
+could send money to an email address you
+know it send it to your email and then
+you get an email saying you've received
+cash and then you'd obviously click on
+the links and do the work necessary to
+get the money out and so and so you
+didn't need both counterparts to a
+transaction to be part of the PayPal
+Network only the sender could be part of
+it and then the recipient the recipient
+would sign up as they took the money out
+and and then we started with the 24
+people in our office those were the
+first 24 customers and they sent money
+to friends and to other people but gave
+these referral bonuses we gave you $10
+who signed up
+ten dollars you got something to sign up
+and it just grew exponentially when we
+were you know it grew about seven to ten
+percent compounding daily and now if
+you're you know and you start with a
+small number if you can get seven to ten
+percent daily compounding and after
+about a month year at a thousand people
+by those mid November of 99 by end of
+December of 99 it was a twelve thousand
+by February third two thousand was at a
+hundred thousand by mid April two
+thousand was up two million and so so
+what did you do look in terms of getting
+people to understand the way you could
+work with money differently because I
+actually remember the first time I used
+PayPal I think it was in 2001 I was a
+struggling comic I had moved into a
+roommates little apartment because I
+didn't have much money and I had but I
+had to pay him a couple hundred bucks or
+something a month for for rent and he I
+was gonna give him a check he said
+PayPal me and just the idea that I was
+somehow linking my bank account to
+something on the computer we didn't even
+have I don't know if I'm not mistaken I
+think I was still using dial-up I don't
+even know that we you know had had Wi-Fi
+or anything like that but it's about an
+idea that this can even happen how did
+you train people to realize well it's
+this is something that's real and it's
+always on its is it normally you serve
+to get people start doing something like
+that it has to be something where
+there's an intense need and and maybe
+it's not too dangerous and so the in one
+the natural places that started was on
+the eBay auction site where at small
+dollar transactions maybe $40 the
+typical amount and if you send check
+across the country that's like a seven
+to ten delay 10-day delay it's slow most
+people aren't set up to process credit
+cards you roommate probably couldn't
+process credit cards and so and so you
+know but since you could make PayPal
+payments with a credit card you could in
+fact send a credit card payment to 300
+million people whereas they're only
+something like three or four million
+that are set up to process their like
+hundred fifty million people with emails
+in the u.s. at the time there may be
+three million that were set up to
+process credit cards small businesses
+things like that so we expanded it by
+you know 147 million do you remember
+what it felt like as it started
+compounding the way you're talking about
+like what it was like
+as it was growing and you realize like
+wow we really have this well you are
+you're new you're at the forefront of
+like some sort of revolutionary thing it
+it's incredibly exciting and it's
+incredibly scary and it was a is like
+going to take over the world we're all
+gonna die and move several times between
+you know that those two several times a
+day yeah was there any bizarre pushback
+from banks or any anyone that was doing
+financial tradition that was
+traditionally there were certainly like
+more than more than our share of
+challenges you had a you had an enormous
+problem of fraud where people just
+figured out ways to hack the system and
+steal money mm-hmm and then and you
+can't simply get rid of fraud because
+you always get rid fought it and make it
+cumbersome but it's easy then it's also
+easy to defraud so your challenge was
+how do you get it to be easy to use but
+hard to defraud and that took it took
+some time there on certainly banks
+didn't like there were you know they're
+all the the incumbent players that that
+didn't like something new and then of
+course it was sort of in this in this
+strange regulatory zone where you know
+was a new form of payments a new form of
+moving money and and you know the way
+often thought of it at the time was that
+we were in a race between technology and
+politics and you know the politicians
+didn't like us but if we got the system
+the PayPal network to be big enough it
+would sort of overwhelm the regulators
+and they'd have to accept it as a fait
+accompli
+so the libertarian party you must have
+loved that concept like you were
+actually doing something that
+libertarians or suppose there was a
+early 2000 conversation you know one of
+the one of the execs at PayPal said that
+you we need to hire a whole bunch of
+lawyers else what we what we can do or
+can't do else we can't do so we have to
+just go ahead and not hire the lawyers
+and just just do it yeah now you know
+the the sort of uh I I actually I do not
+know if a company like PayPal could have
+been started even two three years later
+so you know in the in the aftermath of
+9/11 we got the Patriot Act in the US
+and that that attached you know much
+more regulatory scrutiny to to financial
+transactions to payments that no your
+customer rules became much much trickier
+and so so I do think that there's a
+weird way in which there was an opening
+to start a business like PayPal
+in 1999 2000 even three years later I
+think it might not have been possible
+yeah and it's so cool to me just knowing
+a lot of your ideology and the
+libertarian ideas you care about and
+just going ahead and building what you
+want to build instead of waiting for
+other people to do it I mean you
+actually did it and and that's a pretty
+pretty great thing well it was it was um
+it was sort of the sense that you know
+we were gonna change the world we're
+gonna know give people more control over
+their money we had all these ideas about
+you know getting rid of central banks
+and creating a new currency we never
+quite you know got to the Bitcoin ya
+stage of it we'll get to that later but
+but certainly certainly these ideas were
+you know we're incredibly motivational
+in doing it and it is always a little
+bit of a contrast from you know I always
+have this view on politics where it's
+both you know incredibly important and
+then in many ways incredibly frustrating
+yeah as it's so on it's like the air we
+breathe that permeates our whole system
+and then it's also so hard to ever
+change you know as a as a college
+student I started you know this
+conservative libertarian newspaper and
+Stanford the stanford review and and
+there's a lot and it's important to have
+debates to discuss things and then it's
+often so hard to change things indeed
+the the PayPal hack was in a way and
+we're gonna stain the world we're gonna
+ask for permission yeah you know we're
+just tech technology over politics well
+speaking of changing the world let's
+flash forward a couple years so we're
+just doing some business background
+first before we get to a lot of your
+ideas of the day you were the first
+outside investor in facebook 500 grand
+to this Zuckerberg I did you know him
+well before that had you guys
+communicated a lot how did that even
+come to pass
+not really was the sort of actually
+literally the first day we met we
+thought wow he for an hour we came back
+and we gave him the term sheet about an
+hour later so it was how was it was a
+fast decision I think I think people
+always have the sort of Shark Tank image
+of these things the exam sort of you
+know super sophisticated pitch and you
+could say just the right things right
+that's what works and I was nothing of
+the sort and he was a he was a you know
+kind of introverted 19 year old you know
+sophomore between sophomore junior year
+summer summer too
+2004 and and and the the main and and
+and and and the main thing I'd going for
+was it was just growing fast they were
+they were at something like twenty
+college campuses they had about a
+hundred thousand people on the network
+and they just needed more money for
+computers because there was such a
+demand for for the product is they were
+gonna launch at more colleges in the
+fall so as that would appeal to you more
+than the product itself just that you
+saw engagement was already it was
+already working yeah um and then but I
+would I would say the other the other
+part of it was that there was like a
+prehistory to it so one of my one of my
+good friends from PayPal back from
+Stanford's guy named Reed Hoffman
+he started LinkedIn later years but and
+he'd worked with me at PayPal in the
+late 90s early 2000s but before that he
+had started a social networking company
+back in 1997
+seven years before Facebook and they had
+they already had you know they had
+social net was the name of the company
+so there's social networking in the name
+of the company seven years before and
+there were all these things that they
+had they had thought about doing so I
+was gonna be you know
+it was gonna be you're on the 1990s
+version of social networking was we're
+gonna have these avatars in cyberspace
+and I might be a cat and you might be a
+dog and virtual cat you're a virtual dog
+we have to figure out how we relate and
+it turns out people aren't weren't
+really interested in that they weren't
+really interested in since of a
+fictional an online persona it was much
+more about real identity and and somehow
+Facebook was the first one to crack the
+problem of real identity where you know
+even those always a little bit curated
+certainly for the most part people on
+Facebook are who they they say they are
+yeah for the most part at least so am I
+mistaken you're the only person who's
+been on the board of Facebook the entire
+way out except for mark right right
+right since the beginning yes yeah what
+can I ask you about that that Facebook
+won't get too angry about if I ask you
+well just what's the experience like of
+being a but you're part of a board from
+the beginning of really the thing of the
+internet what seems to drive
+conversation the most on the internet
+well there's um you know there's I mean
+it's it's been sir like this incredible
+trajectory you know uh where it's it's
+it's gotten probably much bigger than I
+would have thought possible at the time
+you know I was you know I was incredibly
+optimistic and bullish on it's certainly
+back in back in 2004-2005 I think that I
+think that one one kind of perspective
+for a lot of the world-class
+entrepreneurs is they're not specialists
+there there's something close to
+polymaths and so you know if you have a
+conversation with Mark Zuckerberg he'd
+be able to speak you know with with you
+know surprising amount of understanding
+about a lot of things so we could speak
+about the details of the Facebook
+product you could talk about you know
+the way people think about social media
+the psychology the the way the culture
+is shifting the management of the
+company has ideas on that his ideas on
+and then how this fits into the bigger
+history of technology and so it's uh you
+know it was sort of an academic view is
+often that you're like a sort of a
+narrow expert on one thing mm-hm and
+that's what you do and and what it is
+about it's it's much more sort of this
+this polymath like intellect to
+understand all these different things
+the kinds of board conversations we've
+had over the last you know 13 14 years
+have it's just been this crazy range
+yeah it must be particularly interesting
+for you though as sort of the outsider
+in Silicon Valley and we're going to
+talk about you why you moved down to LA
+and all that stuff that you've been
+there the whole time that it's not you
+know they didn't for all the reasons
+that Silicon Valley may be what it is
+you weren't ever booted off the board or
+anything like that they've they've let
+you be the contrarian guy there so that
+that actually must that's a good thing
+about Silicon Valley I suppose or at
+least within the little microcosm that
+you sit in right no I I you know I I
+don't experience you know a great deal
+of hostility to me personally you know
+people you know it's it's it's you just
+you you always you know it's it's it's
+sort of manifests in all sorts of other
+way so I do think Silicon Valley at this
+point has a bit of a conformity problem
+it has you know a bit of a way in which
+people are
+- too much all thinking the same way
+it's just like the there was you know
+the the Apple I saw this this meme on
+the internet the other day where was
+sort of the Silicon Valley 1997 : think
+different that's the look in valley 2018
+: think the same yeah and and so there
+is something that's uh that's gone
+that's gone a bit wrong even though you
+know it's it's I'm hard-pressed to cite
+things were you know it's really
+affected me personally yeah all right
+well I was actually gonna push that to a
+little bit later but let's just stay
+with that for now then do you remember
+moments did you see some markers along
+the way where you realized some of this
+groupthink was affecting the actual
+products where where the actual ability
+to create new technologies or new
+products where that was actually causing
+stagnation because I sent I said it's
+been sort of a long road to get here but
+you have sort of been talking about this
+for a while now and I think there's a
+direct connection to the diversity myth
+which we'll also talk about what you
+wrote you know twenty years there great
+right well I I do think Silicon Valley
+has shifted a lot over over the years so
+I was in an undergraduate at Stanford in
+the late 1980s Stanford was sort of a
+very liberal politically correct place
+but the Silicon Valley surrounding not
+so much it was vaguely libertarian you
+know it was it was a moderate Republican
+congressional district and and then so
+by the late 90s I would say to shifted
+to being sort of a moderate moderate
+Democrat which is around the time I
+started PayPal and he fast forward
+another twenty years it's sort of it's
+it's it's sort of a pretty hard left
+yeah so what is it what do you think has
+there because it seems to me that if I
+was taking the people that I wanted to
+be the most creative the most outside
+the box the most to look at the system
+and go how do we fix the system from the
+outside you'd want a lot of libertarian
+thinkers that's that's the way I would
+at least look at it so you'd think that
+everyone in Silicon Valley would be
+pretty libertarian they want to do
+things on their own and yet somehow in
+those twenty years it became the Opera
+well it's it's all I can only ask the
+question why is it why is it so so long
+I think these things are you know
+there's somewhat over to term
+so I would say part of it is on is that
+it's probably the most educated part of
+the country in terms of how much time
+people spent in college mm-hmm and I
+think one of the downsides of too much
+education is that you get the most
+brainwashed and so it's it's it's the
+most educated can also mean that it is
+it is the it is the most brainwashed you
+know this is perhaps not so true of the

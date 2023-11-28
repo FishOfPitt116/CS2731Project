@@ -1,0 +1,500 @@
+welcome back everybody to the h3 podcast
+live today's episode is sponsored by
+hims naturebox
+Dollar Shave Club kaptara and the Elder
+Scrolls legends next week oh my god I
+forgot to put the thread up again every
+time we'll be up after the live and
+before the vaad hits youtube but next
+week we have Tommy Wiseau the creator
+and star of the room finger he's coming
+on I'd say we'd had a tweet exchange
+with him we spoke with his manager this
+morning and it's confirmed it's also are
+the last episode of this season one but
+I'll talk more about that later there's
+a thread up for questions for Tommy on
+our subreddit go ahead and post them
+there but let's get on to this week's
+guest the illustrious and wonderful
+Brendon green creator producer designer
+of the massively successful most played
+game on Steam yes biggest game ever on
+Steam yes well not officially out today
+yes we yeah with an astonishing 25
+million copies sold approximately right
+oh yeah 25 uh-huh and concurrent players
+in the millions I've never seen anything
+they just smashed we're going three
+million concurrence today if you think
+about that that's one-third or one out
+of every hundred Americans playing this
+game at once but it's I wonder what's
+the geographical breakdown of that I
+have a data team that worried about yeah
+yeah sure but it had any rate oh no it's
+been it's not it's like globally growing
+and it's crazy I've know I've honestly
+not seen anything like it since
+minecraft really this game has pretty
+much defined this year in gaming it's
+unprecedented and I'm very happy and
+honored to introduce Brendon green thank
+you for joining us I appreciate it nice
+wonderful salve year before we get into
+deep here I just want to say if you guys
+have any questions please give us a call
+at eight one eight two one four eight
+five zero four that's not your personal
+number right okay
+he was saying he thought he'd be funny
+if we just posted his person over give
+him a call do you have any question I'd
+be a little twisted on the joke so for
+people that don't know you or the game
+can you talk a little bit about what pub
+G is and what is the Battle Royale genre
+okay so I started making mods like four
+or five years ago on ARMA 2 and then
+moved ARMA 3 and I created this
+game-mode the battle royale game-mode
+right and it got licensed by h1 about
+three years ago now for inclusion in h1
+that eventually became king of the kill
+and then last year Blue Hole contacted
+me from Korea and said we love what
+you've done with a battle royale game
+we'd like you to lead a team and make
+your own battle royale and pop G was
+born out of that so how did you get
+that's like a lot and oh yeah right you
+know there's like first of all how did
+you get into making them a mod for ArmA
+like so yeah where were you at the time
+give me your humble story your humble
+beginnings okay so I started off in
+Brazil I would therefore love and
+looking divorce and then was saving to
+come home and I got back into gaming by
+finding the dayz mod' I'd read some
+stuff on Reddit Abed and I thought this
+sounds really cool there's no rules
+there's nothing it's just survive and I
+really liked that idea with just a
+survival game all right so I kind of
+fell in love with the dayz mod and
+formed or found a squad to play with
+them that's how I kind of learned about
+modding cuz the dayz mod was a mod so I
+had a look at how it was made are you
+were you programming then no I was a web
+designer photographer I knew code just
+from using javascript and jQuery so if I
+died in websites but you know I wasn't a
+coder my code is terrible like if people
+tell me to fix the game if I try to fix
+the game the servers would explode you
+know your computer would burn so you
+were able to make it using the modding
+tools well yes so the code in an ARMA
+sqf is kind of like JavaScript so it's
+kind of an easy to understand so I just
+looked at what other people had done and
+beg borrow and stole code and just like
+fast people just like for help and
+the community and arm have really really
+helpful about like helping you so I
+created my own dayz mod' server for
+people to play on messed with loot
+tables just created more weapons and we
+ended up creating something people
+called like the cod of of dayz because
+it was just about the PvP it was there
+was no real survival it was just you
+died didn't give a [ __ ] go one and just
+keep going again right and again and
+again and just it's all about the PvP so
+after doing that for about six months I
+kind of decided listen I wanted to make
+a mod I'd seen what Brian Hicks and
+Jordan ter did with the survivor games
+this kind of streamer centric
+competition and I liked what they did
+but I thought okay I want to play this
+I'm a streamer and I can't so let me see
+if I can make something and I thought I
+could improve some things they were
+doing and battle royale game-mode was
+born on Daisy
+I basically modded a mod that's so great
+it's it's incredible
+and it's inspiring that you without even
+being much of a background in pro or
+game - oh yeah I know I disabled a very
+many games I mean I wasn't like big
+gamer you know oh I don't like this
+seeing some of the people I meet at
+conventions I am in no way a gamer I
+just don't know how I wonder if that's
+why I actually really loved the game
+player I know like I'm not a gamer at
+all
+from the first moment I saw Ethan play
+it I was like that's why like you you
+were not a gamer necessarily and you
+made again that you wanted to play
+exactly yeah that's what I think it's
+like I wasn't sort of I didn't have
+rules of game design to follow I didn't
+like when I first went to blue hole I
+had many arguments with JC or League
+game designer because he was like but
+that's not the way I was taught to make
+games or the way that they were taught
+to make games I was like but it's okay
+to break the rules here because people
+obviously enjoy it and when I came to
+making it it was it was very especially
+the first one if you complained it was
+too hard I'd make it harder you know it
+was like you know I didn't like easy
+games I liked to be challenged and I
+like I think you know the win rating in
+our game the amount of times you win is
+so much lower than every other game you
+know but that's the joy of it you know
+it is because it's tough it's easy
+concept survive right um it's a tough
+game to master so I think that's why
+it's been so frustrating right
+oh yeah oh my god I've plucked many
+hours and I my background is like I
+played like 2,000 hours of dota 2 mmm
+and I've played like a thousand hours
+plus of counter-strike hmm and so I have
+experienced an FPS and I get [ __ ] but
+it's addictive you can't stop cuz you
+start with nothing right it's every yeah
+you know it's funny we had doctor
+disrespect on here and he described it
+the best way I've heard anyone say I'm
+like why is this game so popular and he
+says to me it's the story right every
+new game has a story there's a narrative
+experience its compresses that kind of
+Daisy like long story into like 30
+minutes and it's like what did I get
+this round oh I got the S case yeah
+anxious and and I just I think it
+compresses that just unique story every
+time and it's a simple game to learn you
+know it's gotta be the popular he's got
+to be tied in to the fact that it's such
+watchable hmm it's a it's by far the
+most streamed game oh yeah and it's
+really fun to watch which is uh like if
+you compared to something like dota 2
+ice even though I love the game I can't
+watch it I can't like I don't I've been
+to League tournaments in uh in Korea I
+don't understand these games yeah I know
+it's like unless you pay especially
+don't it like you have you see they have
+the noob stream you know where the
+commentator is kind of going well this
+is why this is like this you have to
+have played like a thousand hours just
+to understand what you're watching yeah
+but and and our game is simple to watch
+you know it's it's very easy to
+understand and even like you know this
+guy is toast he's a hearthstone player
+he said even like when he's playing
+hearts on his mother and sister have no
+clue you know of no interest but when
+he's 9 babji they're like oh this is the
+settler right ya know and that's I think
+again it's the simplicity of the game
+it's like and it's just the randomness
+every time you know it's still not super
+random but it is that it's a unique
+story of reader so when you saw when you
+started working on her you had the idea
+to make this was it like you saw it as a
+as a business opportunity that was there
+or were you was it just a passion real
+like hey this is a great thing I want to
+develop this I wanted to make a game I
+wanted to play like I wanted to play the
+survivor games I thought this is a
+really cool game mode right but because
+it was for streamers only I couldn't
+play it and I thought okay I want to
+just try this and then see if I can make
+a game mode that I can play with my
+friends and if other people enjoy
+even you know if not I still have a game
+mode I can play with my friends right
+there was my intention just have a a
+popular server you know that would you
+know people would enjoy playing the game
+like when we had a popular dayz mod'
+server I would sit on the server like
+four hours at night just kicking people
+with low bandwidth not playing the game
+just like hiding in a bush and kicking
+people with low bandwidth so everyone
+else on the server could enjoy because
+I'm low bandwidth if you had low
+bandwidth you desync the whole server
+really right that's it's just a way that
+the armour network code of the time
+worked huh that if you have a bad
+connection you'd like it because it
+wasn't like it was just synchronous
+packets or like a single spot if one
+person got blocked then all these other
+ones got blocked and then people will
+get kicked because they're getting no
+response so you are just ensuring that
+the server experience yes wrong to keep
+a good and I didn't mind if you were
+like but don't you want to play less
+like well no these people can play when
+I say you know and I like like seeing a
+night without any yellow or red chains
+you know you're kind of gone yeah that's
+[ __ ] awesome so I made this for those
+people to enjoy it wasn't I always saw
+it as kind of I'd love to do a big
+spectacle in eSports you know because
+I'd see like dota and csgo and stuff and
+yes these events are massive but it's
+still two teams of five on the stage you
+know and I wanted to fill a stadium with
+people and put like a hundred people in
+the centre and you know and that kind of
+big like spectacle in eSports rather
+than just two teams of five is that
+where you see the game going I hope so
+like I mean really I mean that's that's
+the dream for me is like one point
+always great and we get to raise a full
+game but until we have our first major
+that's where I really see kind of rife
+it's kind of that's the dream completes
+them you want our stadium with a hundred
+players at the in the pit or the field
+yeah and have like whatever thirty forty
+thousand people watching I'm having that
+first person to get down walk off yeah
+shame it's like a long walk oh yeah
+people in the audience like heads of
+lettuce throw down that would actually
+be quite I can see when it comes down to
+like the final two or three of that that
+would be pretty exhilarating right
+[Music]
+that's fine oh yeah but this like I mean
+that's what I always dreamed that that
+could be a great eSport you know and I
+think it's I still think it could be so
+what do you think are the
+challenges that exist that you might
+that you're aware of or want to overcome
+to make sure that pub G can become a
+great sport we have to get the game
+eSports ready right I mean it's not
+competitive well it is competitive but
+it's not it's not completely bug free
+you know there's lots of stuff we have
+to improve and that's what we want to
+spend like you know I keep saying like
+this is 1.0 is a milestone for us it's
+not the end of development we want to
+continue over the next year to keep
+improving you know that there may be
+problems that launch tonight but we're
+not gonna just leave them you know we
+want to keep fixing and some of these
+problems are really really hard to fix
+you know there's there's problems that
+are with the core engine itself that if
+we try to fix them or touch them it
+might end up with a hundred other
+problems you know you're talking about
+issues like pure rubber banding but this
+is the big lie so rubber banding is
+frustrating for me alone yeah so the why
+that is and we're still trying to figure
+it out but it's basically there we are
+graded the engine from four one six or
+four one four four one six right and
+that change gave us a lot of network
+problems and we're still trying to
+figure out why those are occurring but
+its core engine code and it's we have a
+small team still relatively speaking
+what we're still expanding but it's it's
+quite tough to find good talent right
+you know and tantor fits the company and
+talent understands you know what we're
+doing and are good enough to you know to
+do the job we need them to do so it's
+time you can't throw money at it you
+know it's it just takes time and
+eventually we get them but it's it just
+yeah it's the network problem it's still
+gonna be there probably at launch you
+may see some rubber banding which sucks
+but it's we're still trying to fix it
+you know and it's I'm sure frustrates
+you guys as much as people that are
+always complaining oh no I mean it's
+like you know oh no like we have like
+guys that are in the office you know 14
+15 hour days trying to figure this [ __ ]
+out like really like they pour their
+hearts and soul into it like if there's
+a problem with the service today they
+will not leave the office until the
+servers are fix you know that they're
+really dedicated to making this a great
+experience and it when I hear people
+like ragging on the dev team really like
+I get mad because it's like you don't
+understand how hard they work they
+really you know and some people like oh
+but we pay you know this you we expect
+them to work 24 hours a day you know
+the issue is that the game has become
+almost unreasonably successful it's a
+pre-release oh well at least until
+tonight is the official release right
+that's right and so you've got melee
+you've sold 25 million copies but and
+then people forget you know that this is
+a pre-release and people are expecting
+because you guys have so much revenue
+coming in oh there's no excuse right I
+know but I mean even our servers and
+like you know functions like battle
+lines about it costs in millions of
+dollars you know it for what a month you
+know per month for servers for all these
+additional costs that like yes we have
+made some money from selling the game
+but there's all these additional costs
+that you don't realize you know under
+we've tried throwing monies at servers
+but that doesn't fix them you know it's
+like it takes time and a lot of these as
+I said are really their core engine
+issues that you have to do them very
+carefully because like that's why we
+couldn't update the live servers with
+the test build was because there were so
+many issues with the test build because
+it was a different version of the engine
+that we couldn't roll it out to three
+million people you know or 25 million
+people you know we just couldn't do that
+to the play race that's why we had to
+keep the live version was stable it
+wasn't great but it was stable whereas
+the test version not so stable but now
+we've got to a stage now that there may
+still be crashes there may be so be real
+rounding but we are still working on it
+you know yeah we want to you know we
+want to get it stable we want to get a
+kind of here yeah so gameplay-wise
+work what do you see are the challenges
+has become to becoming a competitive
+game
+we just need to balance stuff like the
+blue zone you know we really do need to
+do some passes on the blue zone to make
+it more competitive and fairer for
+players so people who don't know what
+the blue zone is in the game this battle
+royale genre I guess you would call it
+there's a never shrinking plays
+aggressive there's ever shrinking play
+zone the timer runs out and there's this
+blue cancer the creeps towards you and
+if you don't stand beside the blue wall
+you die yeah and so what about that is
+is unbalanced in your opinion we just
+have to look at like you know sometimes
+it may jump too much or that the
+distance may be too long or it might be
+moving too fast so we haven't had a lot
+of times always moving too fast right
+but no I mean it's it's these kind of
+things that we need to look at the data
+and the players and and figure out like
+what is best competitively for the game
+to give everyone a fair chance and that
+takes time but you know look at csgo
+they're still releasing small updates
+everything was right and that's we want
+to be that you know that's what we want
+that we want to continue to use over the
+next 10 20 years you know and it we're
+gonna take time to balance this but know
+we have the data we just need to pick
+through it so it just takes time these
+you know this is I keep saying this is
+just not a marathon or this is not a
+sprint for us this is really a marathon
+like it's we were building a team now
+that we want to support this for 10 20
+years you know and yeah one thing that
+for me has been the hallmark of every
+game with longevity has been and I guess
+you would appreciate this more anyone
+this scene for modding and custom games
+okay I look back did you ever play like
+Starcraft or Warcraft trying to conquer
+yeah that did they have modding I don't
+remember no I don't think so
+but at least I didn't mod so at any rate
+starcraft brood war I played that game
+for like a decade and most we would
+played that didn't even play the actual
+competitive aspect one was playing the
+custom maps is that something you guys
+have planned well if we'd love to like
+we have custom games already right you
+guys know yeah clay that a lot of them
+which is great right and we want to give
+more fine great control over those
+custom games so you can really start
+playing around and creating unique link
+other game modes like now that right I
+just give you guys so much control and
+and maybe allow you know other things to
+plug into that but you know as for
+complete modding like you'd see say an
+armor maybe not yes you know I don't
+know because this is a competitive game
+so like what I want like this is going
+to be a competitive game so if you start
+opening up to modding it opens up to
+cheating and a whole thing really it
+opens up to cheating well it's it just
+means that like you're opening up parts
+of your engine to let people play with
+and I don't think that if we don't do it
+correctly it could end up you know being
+bad for security so you know we realize
+there's this whole like you know that we
+can't just add modding you know because
+we need to and as well like you know
+releasing our server files for people to
+host our own servers again will you know
+could lead to priority and in China and
+so forth at where someone releases an
+exact clone of our game and you know
+things like this so like these are all

@@ -1,0 +1,500 @@
+technology the thing that will
+eventually make television so high-def I
+will no longer be allowed to appear on
+it and and I want to approach this
+subject carefully because discussions of
+any new technology tend to age very
+badly as this news report from less than
+five years ago shows the first users of
+Google Glasses surely will not be the
+last
+I think it'll end up changing our
+lifestyles you know changing the way we
+interact with each other and just
+changing the gesture instead of this it
+will be that yeah it wasn't though it
+was not that because for some reason
+people didn't mind doing this with their
+hands if the alternative was wearing a
+stupid robot on their face all day the
+point is it is dangerous to make
+predictions about where tech is going so
+that said tonight we're going to talk
+about crypto currencies everything you
+don't understand about money
+combined with everything you don't
+understand about computers the main
+currency you've probably heard about is
+Bitcoin it's been all over the news
+because last year its value exploded
+from around $1,000 at the beginning of
+the year to 9,000 by November to nearly
+20,000 by December Bitcoin became such a
+hot topic that paparazzi started asking
+celebrities about it what Michael Keaton
+leaving a restaurant hey would you
+recommend buying Bitcoin you know what's
+funny I was just I got two different one
+guy said yeah you probably want to
+another friend of I said
+not like it's a bad thing they just
+don't know where it's gonna go
+I'm gonna say you do not expect
+conversations with paparazzi to be so
+nuanced hey cardi B what are your
+thoughts on the idea of universal basic
+income well it could go a long way to
+reducing inequality but I don't think
+the American people would support the
+tax increase necessary to fund it you
+can read all about it in my book card
+anomic s-- making Marnie Buddhist for a
+new American Century and this this was a
+traumatic shift it was just a few years
+ago you'd only hear about Bitcoin from
+that one guy in your office who wouldn't
+shut up about it let's call him Dan and
+the reason that we're calling him Dan is
+that Dan is the exact guy in our office
+who's been annoying everybody with his
+you've got to get into Bitcoin for
+years this is why we hate dad it's
+honestly not the only reason but it's
+the easiest one to bring up right now
+the point is lately more and more normal
+people or non Dan's have been getting
+into crypto currencies partly because
+they may have seen stories like this
+Dylan Fein is living the dream had their
+Mitsubishi Eclipse my windows didn't
+work my AC didn't work right I had to
+open my doors just to get food at the
+drive-through everything changed when he
+met a friend who introduced him to
+Bitcoin
+I turned 350 dollars into 12,000 he
+became a millionaire at 24 all by
+investing in Bitcoin I can literally put
+in a trade wait a few hours let the
+exchange rate fluctuate and I'm actually
+able to profit from the world's largest
+financial market in the world yes that
+man is apparently a millionaire now
+which is presumably why he's being
+interviewed on the most expensive
+outdoor swamp log in South Florida and
+despite the fact that Bitcoin has
+dropped by nearly half since the start
+of this year there is still a
+cryptocurrency fervour going on with
+people watching people like that guy get
+rich or hearing about others on reddit
+or Twitter and feeling driven to invest
+in crypto due to FOMO or fear of missing
+out now FOMO is a term that many of you
+probably already knew about but I'm 40
+years old British and oblivious or Theo
+BOE so so with all this excitement and
+curiosity we thought we'd try and
+explain a few things tonight Bitcoin
+blockchain the technology that allows it
+to exist
+crypto currencies in general and I'm
+going to be simplify things a lot here
+so let's start with Bitcoin which is a
+digital decentralized currency that
+basically means Bitcoin only exists as
+computer code and there is no bank or
+government creating or controlling it I
+know that this is already a little hard
+to understand so I'll let this man in a
+Bitcoin suit give you a surprisingly
+decent explanation I'm a virtual
+currency worldwide you can send for
+little to no fees open source not
+controlled by any government corporation
+or individual financial freedom bro
+thanks bro that is a nuanced and
+accurate explanation of a complex topic
+delivered with the help of a man in a
+stupid costume and I would love to make
+fun of that except it's literally the
+entire business model of this
+television show I know you you may at
+this point be thinking but wait how do
+you make money from Bitcoin to which Dan
+would say he just traded on exchanges
+like any other currency and if you then
+asked well how does it have value Dan
+would reply how does any money have
+value man and then he'd say call me the
+brain for later because I just blew your
+ mind to which you'd say forget I
+asked Dan you're absolutely gross I hate
+you but the problem is Dan is kind of
+right
+like most currencies the fundamental
+reason the Bitcoin has value is because
+people agree that it has value in fact
+at the moment it's really being treated
+more like a speculative investment than
+a currency think of it like beanie
+babies why is this beanie baby currently
+being offered for sale on Etsy at a
+price of $15,000 well because its owner
+thinks that someone will pay that for it
+and you know what that owner was
+absolutely right I'm kidding I'm kidding
+I'm kidding I just bought this at a yard
+sale for ten thousand dollars I'm not a
+complete idiot
+look what well a Bitcoin is very
+interesting as a concept there are still
+some complicated technical issues to
+work out before it can become a useable
+everyday currency just look what
+happened in January
+hundreds are in Miami this week for a
+Bitcoin conference but it had to stop
+taking Bitcoin as a payment
+tickets last week suggesting there are
+still some kinks to work out with the
+currency it's true a Bitcoin conference
+stopped taking Bitcoin which is a red
+flag since that's the one place you'd
+think it would be accepted it's like
+when I tried to pay for access to the
+Republican National Convention using
+Ronald Reagan's dusty skeleton boats
+everyone there agreed they had value
+there just wasn't an adequate network in
+place for the completion of our
+transaction but where the Bitcoin
+catches on or not many people believe
+that the really exciting thing about it
+is the potential of the innovative
+technology that it's built on and that's
+something called blockchain now normally
+if I wanted to send money to someone
+across the world a bank would need to
+verify that transaction and it could
+take days but with Bitcoin it is vastly
+faster because no Bank is involved and
+that is because blockchain technology
+allows a record or a ledger of every
+Bitcoin transaction ever made to be
+stored not in one place but across vast
+numbers of computers that is part of
+what people mean when they say bitcoin
+is decentralized and decentralization
+has a lot of theoretical advantages from
+speed to security the key point here is
+that this is a distributed ledger there
+is no central server all the other
+legends that we have all banking
+Ledger's all company'll edges they all
+sit and reside inside that company which
+means they have one point of attack they
+can be hacked JP Morgan was was hacked
+by cyber thief's not so long ago
+Home Depot target we've had all these
+companies get hacked it's actually
+because there's one central repository
+of information the Bitcoin ledger
+resides on thousands of computers you
+can't hack that when you think about it
+that sounds great and because of the
+complicated process the network uses to
+verify records it is very secure now
+relax I'm not going to get into what
+that process is or how it works but I
+will share a really helpful really dumb
+metaphor for why it is safe the way I
+like to think of it is that a blockchain
+is a highly processed thing sort of like
+a Chicken McNugget and if you wanted to
+hack it it'd be like turning a Chicken
+McNugget back in
+with chickens now someday someone will
+be able to do that but for now it's
+going to be tough hold on that is an
+absolutely horrible thought so why is
+that reporter so happy about the idea
+because if anyone ever figures out how
+to turn a Chicken McNugget back into a
+chicken that chicken is going to be
+ up he's going to spend the rest
+of his life suffering from PTSD and
+writing haunting poetry about the
+experience the things I saw
+buck-buck-buck or my body is whole but
+what of my soul so very basically that
+is the blockchain a database that is
+nearly impossible to hack or tamper with
+and which could possibly improve
+security efficiency and trust that is
+why big companies like Walmart IBM and
+JP Morgan haven't been experimenting
+with blockchain as a way to potentially
+share and secure data trend and
+translation transactions in a reliable
+easy to access way but it is still very
+early no one yet knows what blockchain
+is really capable of honestly don't
+worry if you still don't understand it
+most people don't dan thinks he does and
+sure he'll throw around terms like
+supply chain management and it makes me
+want to punch him in his face
+stop leaving printouts of reddit threads
+on my desk Dan you know I'm just
+throwing them away I am you the problem
+is there is no enough excitement around
+the very word blockchain that has become
+a magnet for investment reuters found
+that existing companies that merely
+added the word blockchain to their name
+saw their stock price on average
+increase more than three folds and one
+of them was particularly dumb Long
+Island iced tea renamed themselves long
+blockchain and guess what happens yeah
+their stock tripled
+Wow I'm just gonna say it to people who
+watch markets this seems so stupid it's
+not even worth reporting yeah well I
+don't care how stupid it is it clearly
+works that is why from now on this show
+will be called last bit tonight with
+blockchain even triple the ratings
+triple take that too
+so so now at this point you know
+basically what bitcoin is it's the
+future bro and why people are excited
+about blockchain it won't let people
+chicken up your nugs but you might still
+be wondering well what about all the
+other cryptocurrencies that I've heard
+about okay well the key software to
+create a coin is open source meaning
+that just about anyone can create one so
+they have done that there are now over
+1500 cryptocurrencies that you can buy
+with names like tits coin trump coin
+jesus coin insane coin electro neum wax
+particle deep onion snow vo pluton new
+bits and clams a list so insane that you
+can't tell which ones are real and which
+are made up because they're all real I
+didn't make any up I tried to come up
+with a dumb name than deep onion and it
+just can't be done and look not all of
+these coins are like Bitcoin just hoping
+to be the next currency often times
+startup companies will sell a coin to
+try and raise money as an alternative to
+issuing stock and sometimes those coins
+are meant as tokens to be used for
+services that the startup might
+eventually provide kind of like the
+tokens at Chucky Cheese only virtual and
+not redeemable at a rat based food
+emporium
+it has become incredibly easy to issue
+coins so companies are doing it a lot
+initial coin offerings or icos raised
+over six billion dollars in 2017 with
+one company raising thirty five million
+in under 30 seconds normally when
+someone makes that much money that fast
+they did it by walking up to Bill
+O'Reilly sitting in silence for 26
+seconds and then saying I recorded our
+phone calls but but the vast majority of
+people buying these coins are not paying
+much attention to the details of the
+startups they're attached to Theatre is
+responding to the huge fervor and there
+is a lot of it there was an entire
+online subculture of YouTube
+personalities and subreddits that have a
+cult-like devotion to buying these coins
+and if you stumble into one you'll find
+they have a whole shorthand one key term
+is Hodel based on a misspelling of holes
+this is a foundational principle don't
+sell when prices drop instead
+Hodel in the face of food fear
+uncertainty and doubt otherwise you
+might miss out when the coin moons or
+rockets up in value meaning you'll get
+rekt or lose money and never be able to
+afford the traders ultimate goal a Lambo
+which is short for Lamborghini because
+of course it is and if you are
+thinking that these terms belong in a
+rap video some crypto traders agree
+I ain't got time for the haters man we
+about to grow to a million
+tell me how you down with the cool and
+I've got to be honest there it is hard
+not to watch that and deep down one to
+be in the Hodel gang Hodel gang Hodel
+gang Hodel gang the point is many people
+are buying coins for no reason other
+than that other people are buying them
+and this mania has gotten to the point
+where even a coin started as a complete
+joke like dogecoin can rock it up in
+value it's named after an internet meme
+that was popular at the time a photo of
+shiba inu with colorful comments written
+in broken english around it as you can
+see now dodge coins
+total market value has almost doubled
+since the start of this year to over two
+billion dollars there appear to be no
+obvious reasons for this yeah that's
+because there were no obvious reasons
+the whole point of the coin was to make
+fun of how people will buy anything and
+then people did exactly that that is no
+less ridiculous than if you started a
+joke band after the beatles called the
+waffles that was all st. Bernard's and
+they went on to have 40 number-one hits
+and one knighted by the Queen this is
+clearly ridiculous but for investors
+it's also potentially dangerous because
+right now this market is essentially the
+Wild West and ripe for exploitation for
+instance it can be easy to manipulate
+the value of certain coins through
+things like pump and dump schemes
+regulators crackdown on those when they
+happen with stocks but they've been
+slower to act in the crypto market and
+that may explain where some groups have
+felt perfectly comfortable posting
+videos like this welcome to crypto calls
+a leading crypto currency pump room
+where we skyrocket the value of coins
+for six hours at a time for information
+about our weekly pumps including the
+the point we are pumping follow our
+telegram channel once released be sure
+to buy the coin as quickly as possible
+and everyone in the group has purchased
+the coin we will begin advertising it to
+other investors on social media during
+the final hour outside investors will
+fill our orders as they follow into the
+coin that we have increased in value
+1000 to 2000 percent by the time the 4-6
+hours is up everyone in our group will
+have sold for props crypto calls
+together we profit holy it's kind
+of destabilizing just a brazen
+advertisement for something that you
+could have sworn was illegal it's like
+watching a commercial and hearing hey do
+you not have a child do you want
+somebody else's then kidnappers corner
+is the group for you here a kidnappers
+corner we take children that are not
+ours and bring them home with us it's
+easy-peasy toddler cz and look pumpkin
+dumps are just the beginning here there
+are dodgy companies everywhere some of
+which just look like old school frauds
+with some crypto sauce poured on top
+take a bit connect at one point it was
+worth around three billion dollars now
+big connect told investors that if they
+handed over money they could get returns
+as high as 40% a month and a rate of
+return that high may immediately seem
+suspicious to you but remember the
+market was soaring and picking X had
+excited investors like this guy who
+spoke at one of the conferences
+[Music]
+let me tell you that we are really
+changing the world as we know it the
+world is not anymore the way used to be
+no no because
+[Music]
+I
+[Applause]
+yes the last time I saw someone that
+irrationally exuberant about a major
+commitment he was roughly seven years
+away from divorcing Katie Holmes yeah I
+don't blame him for anything there he's
+got a good head on his shoulders you
+stay clear Tommy stay clear my boy
+now that man that man's passion has
+become famous in the crypto world as
+well as his conviction that the business
+he become involved in was 100% legit
+this was gonna be a scam again then I
+said to myself in thousand Dossett ding
+you're right on her you know Taylor
+Oh women I'm all right always nagging
+you not to get sucked into
+get-rich-quick schemes leaving your
+marriage in the state of financial ruin
+now this will not surprise you big
+connect essentially collapsed regulators
+in two States issued cease and desist
+orders and bit connection reporters
+who've been labeled a Ponzi scheme by
+many in the industry something nobody
+had any reason to suspect from their
+promotional material except that it
+featured this actual illustration of
+their bonus system which seems to just
+be a picture of a man coming up with the
+idea for a pyramid scheme I am NOT
+saying that every crypto poin is a scam
+just as I'm not saying that every
+blockchain company is what I am
+saying is in a speculative mania it can
+be incredibly hard to tell which
+companies are for real and if you want a
+good example of this just look at block
+one it's a start-up whose coin offering
+has so far raised one and a half billion
+dollars which will go toward developing
+a new type of software project called
+Yost now just for context it took
+Facebook seven years to raise a billion
+dollars from investors it took over five
+years Yost surpassed that in around nine
+months and that is despite the fact the
+Wall Street Journal described block one
+as a software startup
+that doesn't plan to sell any software
+and describes what it's certainly a
+digital token is having no purpose and
+while the company's sister Els will be
+the most powerful infrastructure for
+decentralized applications which they
+say will be usable it it hasn't lost yet
+so you sort of just have to take their
+word for it and they do talk a big game
+everything will be better faster and
+cheaper
+everything will be more connected
+everything will be more trustworthy
+everything will be more secure
+everything that exists is no longer
+going to exist in the way that it does
+today everything in this world is about
+to get better
+oh please douche everything that exists
+will no longer exist in the way that it
+does how the is Yoast going to
+change this iguana how is how is a OS
+going to both alter and improve Susan
+here

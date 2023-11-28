@@ -1,0 +1,447 @@
+and on the phone the technical guru of
+not just the majority report but
+technologies that you probably have used
+in the past not not just the majority
+report app I don't know how close to the
+vest you techies like to play this Kyle
+but certainly you're renowned in that
+community of coders and guys like that
+right uh very you know I don't like to
+talk about it but I'll agree okay
+and people can follow you on twitter or
+did you shut down your Twitter account I
+actually deleted my Twitter account I
+couldn't take it anymore
+all right well forget that so Kyle um
+talk to us about blockchain sure so on
+you know the interview was really good
+trying to think about what I can add to
+the conversation so I'll just give you
+my brief history of my interactions of
+dealing with this stuff so you know two
+years ago I had someone pay me for lunch
+and coinbase because I thought it would
+be funny and that tend our lunch turned
+into like you know I turned into like a
+$300 lunch at someone paid for me so
+that you know and he's still pissed
+about that so that's where it started
+where I kind of thought it was kind of
+interesting kind of funny and this past
+summer I met a friend that I just had
+worked at a company with and he he was
+doing an ICO one of these icy O's with
+the guest just talked about and this is
+the initial initial coin offering right
+right so it's kind of like an IPO except
+with no regulation no rules no reality
+sometimes and in a way it's kind of like
+the ICO world is kind of the stock
+market in the 1990s where people like
+had ideas of products and people bought
+those ideas basically on now it's just
+the ideas money and the product is money
+and that's what people are buying
+what and now III have a sense of and you
+were talking about the sort of the
+dot-com run-up and what ultimately
+became a bubble at least in the late 90s
+there's like I've got an idea where
+we're going to develop a website where
+people can go and actually watch video
+maybe on their phone you know that type
+of thing back in the late 90s what is it
+what are if I'm going into a room and
+I'm selling majority report coins and
+you're going in and you're selling Kyle
+coins and we're both offering these icos
+what are the talking points that could
+possibly differentiate the the value of
+my coin versus your coin all right so at
+the end of the day to the potential
+investor of the product is money right
+this coin I think you know I'm trying to
+argue my coin will have value later but
+in another way it's kind of like the
+guest talked about it's kind of like
+because you could look at it as shares
+I'm buying shares of a company I'm
+buying into their product they will
+eventually build and in fact a lot of
+the icos are basic basically
+yet-to-be-built product ideas and yet to
+be proven product ideas and there's like
+a website with a bunch of like head
+shots of people that are involved and
+that's it like in a lot of cases that's
+all that there is but are the value but
+but but am i arguing when I go in for
+the majority report coin and I'm trying
+to I'm going to this investor I'm saying
+you got to invest in my ICO as opposed
+to Kyle coins am I saying well look look
+at all the people look at my website
+look at all the headshots there I mean
+I've got the most talented all these
+guys came from Stanford and and so you
+should invest with me or is there some
+other value proposition that I'm
+offering like oh I've got you know I got
+30,000 people listened to my podcast who
+tomorrow I can guarantee you will be
+using majority report coins because I
+have a I have a pass through rate of you
+know sixty five percent yield when I'm
+I'm Hawking coins to my audience so as
+of tomorrow you're gonna have a thirty
+five thousand person just you know a
+base of customers I mean is that is that
+what I'm arguing or am I simply arguing
+like my technology is better or
+I'm gonna have pictures of me on there
+and you want a picture of me on your
+coin as opposed to the Kyle I don't know
+what what is it that I'm like what am I
+saying what's my value proposition
+versus the other person's value
+proposition right so the one profit
+proposition is getting early on my thing
+my thing that will have value and go up
+period another proposition is I'm
+building something that's a product it's
+a little bit of a twist on the
+blockchain and this will be big just
+like the blockchain blockchain is or as
+other products are on so usually there's
+some derivative of those two ideas where
+you know you're selling yourself but
+you're also selling a potential idea
+that does something different with the
+blockchain that hasn't been done yet and
+there are a lot of things I've been done
+yet but with that said the blockchain is
+also a somewhat limited idea it's
+limited in its scope in some ways as
+well now when you say the blockchain
+hold on one second when you say the
+blockchain is there a blockchain or is
+blockchain like there can be there's
+multiple block chains and and you set
+one up right so Bitcoin has its own
+blockchain the guest talked about cerium
+which is kind of a blockchain for that
+is a blockchain platform basically for a
+bunch of these coins or tokens okay and
+for every coin you see they're either on
+their either on aetherium they may run
+their own blockchain but that seems to
+be not happening as much it seems like
+people if they want to publish a token
+and get something up and running
+launch nico for example builders use
+aetherium and those define what he what
+the guest was talking about a smart
+contract which basically defines how the
+coin operates and how it can be
+transacted what other uses are there for
+blockchain I mean I keep hearing people
+say to me like well you know bitcoin is
+one thing and you know crypto coins are
+one thing but really the real value is
+coming out of the development of
+blockchain technology where what other
+applications will there be for
+blockchain technology and how how new is
+it I mean it it almost feels like I mean
+how new is it or is
+well absolutely has it been out there
+for a long time it's just it hasn't been
+able to be as perfected well I think I
+would think about the blockchain as like
+yeah the first point is it's kind of
+like a database everyone has access to
+and everyone get a copy up now the
+reason maybe it's now more possible to
+kind of architect the system this way is
+because of fast internet speeds
+bandwidth has increased now having a
+larger file that's like that can grow I
+actually think the ethereum blockchain
+last night and it's about 60 gigabytes
+or I did a version of the same class
+night but anyway it gets pretty large I
+guess actually take a long it took the
+hours and hours and hours almost a day
+to think the etherion blockchain which
+means it's like even though everyone has
+access to the giant database it's also
+somewhat prohibitively slow to acquire
+and you have to keep up with it and keep
+in sync with it to affect it you know to
+to add transactions to participate in
+the network okay so you need a lot of
+speed and so what else would you use the
+block tale yes right but but in in
+concept the concept is it's a database
+everyone has access to and because we
+can all access it because we all kind of
+also help run it we we trust it more
+because we because there is more
+transparency so one example would be
+popular idea right now is doing mortgage
+records for a given town or state or
+whatever on instead of using MERS using
+the watching because everyone can kind
+of publish and see and witness it now
+that may or may not be a good idea but I
+think that the point is how many ideas
+are made better or are better because
+the information is accessible by
+everybody you know the fact about the
+first thing you came up with was
+basically we could replace that
+fraudulent system that exists now in
+terms of MERS with a with another system
+that will be at least more transparent
+but also maintaining its fraudulent see
+right so you know for a lot of banks a
+lot of people say well I like the boxing
+idea I think the idea of a descent you
+know you centralized database a database
+which everyone can hold but it's also
+still secure it's interesting and I
+think there's potential there for
+certain applications but
+act like every single product that
+exists has a blockchain equivalent I
+think is false I mean in a lot of
+situations you don't want data to be
+passed around you don't want everyone
+holding it you don't want to architect
+the system that way because it can
+become very very slow it's not optimal
+so there only there are only a few kind
+of categories of ideas in which the
+blockchain makes sense I think for the
+current you know the application of
+Bitcoin it makes sense for some of these
+currencies that you would better set up
+this way it makes sense but how it works
+in the real world it's more of a
+buzzword at this point in like a reality
+it's is conceptually speaking is is
+there an analogy between like blockchain
+and say like Wikipedia kind of but it
+would be okay we can go with that
+because even Wikipedia is hosted on its
+own servers right right like there is
+some sort of centralization right it
+would be the same and you can't do this
+by the way you can download all of
+Wikipedia I used to do this when I did
+machine learning because we train on the
+data side of Wikipedia and it's like
+gigabytes and gigabytes large it sorts
+actually it's pretty big you can get all
+the text and everyone can have a copy of
+Wikipedia but it's a giant file right so
+you would have to open your giant file
+on your desktop and then search it
+manually and then whenever someone else
+updated Wikipedia on the main site you
+have to download those updates and bring
+them down to your computer and then
+access them does that make sense yes
+there's a lot more like like the way
+that Dropbox works amongst let's say you
+have different computers except for in
+this instance it's like everybody shares
+this Dropbox right and so it's a so but
+there are some upsides of doing things
+this way sometimes meaning like the idea
+that no one necessarily owns the system
+that everyone kind of is a part of it
+and everyone has a copy makes it more
+resilient right you know if one person
+drops off and loses their a copy of
+Wikipedia there's another thousand
+people to have everything right on so
+there are there are benefits to
+designing a system like this and there
+are reasons and you know having
+centralized systems are I have a lot of
+problems as well right that it's that
+one centralized server goes down then
+everyone loses everything right so this
+is trying to combat that
+and do the opposite but in some cases
+where the data data sizes get too large
+or maybe too unwieldy it may or may not
+be a good idea I feel like we're living
+in one of those eras where like if I
+want it to go raise money to let's say
+expand the majority report like I could
+go into a room with with investors and
+say we're using blockchain technology
+and we're going to totally expand it and
+they would just go like whoa all right
+like I feel like it's like we're in one
+of those that's one of those words where
+we just go in like we're do you know
+like what what they said you know 12
+years ago they all I had to see with Zig
+we're doing this 2.0 and people would be
+like oh well in that case here's some
+here's jacket that type of thing and I
+feel like blockchain sort of has that
+that aura around it right now well I
+work with a company right now that that
+has a successful product going there
+they have revenue and instead of raising
+venture capital money they're pivoting
+and doing an ico and raising thirty
+million dollars equivalent in Bitcoin
+and other coins for their ICO instead of
+like raising money in a traditional way
+and they just dropped everything and
+they're doing that and I'm kind of like
+I can't believe it but I can kind of
+understand it and it's like it worked so
+far that they're not on they're not done
+with their token sale yet and when I was
+talking at the beginning about I've met
+a guy who was doing an ICO
+and at the time I didn't know anything
+about aetherium that he explained it and
+I started reading into it learning about
+it he ended they ended up doing an IC
+o---- they raised fifteen million
+dollars and and the value was held and
+it went up to 80 million at one point it
+went back down you know they're there on
+there traded and I still don't know what
+their product does now this is a guy I
+know personally and I was not very
+impressed with him when I worked with
+him and he's still unimpressive but he
+just decided to drop the product they
+were building ok this is another case
+where they had a product which I still
+don't understand they stopped building
+that made nice EO did like a worldwide
+Roadshow to sell it on
+and it worked so you know and I worked
+with him like left like a year ago and
+then he went off during a company maybe
+they shouldn't have been such a sucker
+you should gotten into the bottom right
+the bottom ladder and I impressed with
+him yeah easy to say that he came
+banging we really appreciate your
+quality oh I think I feel like Sam and I
+have a lot in common you I've always
+known I mean I've gotten to know you a
+little bit and I and I like you and I've
+always appreciated I I've always sensed
+a certain similarity between you and
+salmon now I'm listening to you and I'm
+like oh okay
+literally kyle is tech sam cedar right
+oh yeah any person I knew who became
+incredibly wealthy in this field and I'm
+in yeah and they weren't particularly
+they didn't OD I actually very talented
+I don't think they do such a good job
+ah anyways I got no no coffee for me
+afternoon and I'm saving yeah you know
+what I'm not gonna buy into the ico I'm
+just going to keep working on fan setup
+and I stand up my way I set up a fake
+meeting with the all right well Kyle
+well over one more question for Kyle I
+got a question for Kyle that I think
+you'll appreciate I'm here a lot of
+skepticism but you know Bitcoin they got
+blockchain technology not like that how
+do you really argue with that my
+favorite new character seriously let's
+let's make sure that we discussed this
+whole new majority report coin because
+already come one that I didn't tell you
+about it I've sent you a white paper
+already I wrote it it's called cut coin
+such a good idea now okay
+god I go there but I just my my milah
+has signed up for something called sweat
+coin we shot which is alright
+as you like exercise or walk Oh eat it's
+not it's not a it's not really a
+cryptocurrency but I think you just get
+like coupons but and I think it's
+basically because they track you and
+they see where you go and they get that
+data and they sell it that's what I told
+it's incredibly creepy there's there's
+like oh no but by the way first of all
+that that app is a real-life
+implementation of a black mirror episode
+just the one to one and and in terms of
+people selling your location data that
+is happening to a degree you guys would
+understand I'm not gonna get into it but
+it is being sold everywhere are they
+allowed to do that with children it's so
+when you install an app right you give
+your app that location preference you
+say hey you can use my location to check
+my work out that's right that's why I'm
+using you but then behind the scenes
+even though you agreed to give that app
+that data they can give that data to
+someone else behind the scenes I've
+grown it to everybody you've given it to
+everybody at that point yeah I don't
+know you helping me do more time time on
+the treadmill can't really argue with
+that but you know it is I don't like
+Nancy Pelosi though wait video me you've
+seen a lot of things but I'll see the
+video of the Hat bacon salad that
+material gotta go fast man I go back and
+forth on that on the selling of that
+data I mean in terms of like broadly
+speaking I'm obviously against it but in
+terms of like whether or not I would
+give it up or it's it's nuts and ice at
+you know my LaDonna I said look if you
+want to sell you understand you know I
+just told her if you're not paying for
+it then you are the product and she's
+like yeah whatever dad
+I mean I just feel like ya own ups we
+opt into all sorts of that we are
+too dumb to understand and that's on us
+but kids that seems like a bit too far
+I agree yeah I would say anything that's
+available to the iOS SDK like Bluetooth
+information local area information
+location information sensor information
+pretty much any piece of data is being
+bottled up and sold period I know the
+the real app that you need to develop
+Kyle is the one that will send fake data
+so that I can sign it into your app and
+then I can sign into any other app and
+it sends distorted data because all we
+can do is screw up the noise to signal
+ratio we can't get rid of the signal we
+can only increase the noise and that's
+what I'm suggesting
+so man voted for Hillary Clinton if you
+talk about material that's the kind of
+thing that I just can't I can't trust
+that all right Kyle thanks so much buddy
+all right no problem yeah you build that
+he's gonna build that uh noise signal
+app that's a great idea
+isn't it

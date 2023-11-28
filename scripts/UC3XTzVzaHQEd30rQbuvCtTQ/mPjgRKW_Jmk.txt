@@ -1,0 +1,715 @@
+Equifax.
+The company whose name sounds
+like a theatrical production
+in which Daniel Radcliffe,
+plays a horse
+-that fucks a fax machine.
+-(AUDIENCE LAUGHING)
+Now Equifax,
+is one of the big three
+credit reporting agencies.
+The companies who keep
+financial data on all of us.
+So that people like uh, lenders
+and landlords can decide,
+whether or not
+we are trustworthy.
+So, Equifax controls some of our
+most sensitive information
+and about a month ago,
+we learned this.
+NEWSCASTER 1:
+ Breaking news from the
+ credit monitoring company,
+ Equifax.
+ Cyber thieves making off
+ with private information
+ of 143 million Americans,
+nearly half the U.S. Population.
+It's actually worse.
+It's now 145 million Americans
+and I have got good news
+and bad news there.
+The good news is that
+by "private information"
+they don't mean
+your Google search history, so,
+nobody yet knows about the time
+you searched for,
+"wario porn (real),"
+or "world's richest dogs
+looking for assistants,"
+or "can loneliness
+cause the farts?"
+(AUDIENCE LAUGHING)
+But the bad news is,
+the information they got,
+could well be all this.
+NEWSCASTER 2: It's your name,
+ social security number,
+ birth date, driver's license
+ and addresses where you lived,
+ information that
+ is mostly permanent
+ unless you're in
+ federal witness protection.
+-(AUDIENCE LAUGHING)
+-Wow! Okay,
+so, that does sound bad,
+but here's a simple solution,
+just move 145 million people
+into the witness
+protection program.
+That means Jones'
+uh, you are the Thompson's,
+uh, Thompson's
+you're the Campbell's,
+Campbell's
+you're the Mendoza's,
+Mendoza's, you're the Jones'.
+Wait-- wait hold on,
+Jones' you shouldn't be there,
+I made you the Thompson's.
+No, Thompson's I made you
+the Campbell's.
+Campbell's,
+you're the Mendoza's.
+Mendoza's, why are you there?
+You should be living
+in the Jones' house in Phoenix.
+Oh no, I shouldn't have
+said Phoenix.
+-Oh God, the Jones' are dead!
+-(AUDIENCE LAUGHING)
+-The Jones' are dead!
+-(AUDIENCE APPLAUDING)
+Forget the whole plan,
+I was just trying to help!
+I'm sorry for trying!
+Oh, they're dead!
+(AUDIENCE LAUGHING)
+-(AUDIENCE APPLAUDING)
+-And-- and I know--
+-I know there might be...
+-(AUDIENCE APPLAUDING)
+...some younger people
+watching this
+and, well hold on-- who cares?
+We're the first generation
+to routinely send pictures
+of our junk to each other
+-over the internet.
+-(AUDIENCE LAUGHING)
+Why should we give a shit
+about someone seeing
+our social security numbers?
+But you should know,
+criminals can do a lot more
+with that number
+than they can with a picture
+of your dick.
+This information
+is gonna be sold
+left and right
+on the black market.
+People are gonna be
+able to open up credit cards
+for the rest of your life
+once they have that information.
+They can go out and purchase
+a home in your name.
+They can open bank accounts,
+take car loans.
+Someone who has your
+social security number
+could actually take a job,
+they could file taxes
+and even claim
+your kids as dependents
+and be gone with your refund
+before you ever actually file
+a tax return.
+No! No!
+No, the tax benefit,
+is the whole point
+of having children.
+-(AUDIENCE LAUGHING)
+-Without that,
+all you're left with
+is your actual children.
+-(AUDIENCE LAUGHING)
+-Which, you know...
+-Ugh!
+-(AUDIENCE LAUGHING)
+The point here is,
+it's a huge problem
+and in any other era,
+this would've been
+the biggest news story
+for a month, but--
+but now that
+every day's headline
+is simply the words,
+"Everything batshit
+bananas again today,"
+-(AUDIENCE LAUGHING)
+-it slipped under the radar,
+but it is worth asking,
+"How the hell did this happen?"
+Because the short answer is,
+the people in-charge have done
+literally everything wrong.
+And let's start with just--
+just the way that Equifax
+told us about the hack.
+In early September,
+their then CEO, Rick Smith,
+a man with a face and name
+so bland
+he may as well be called,
+"Human Person,"
+or "Frasier re-run."
+-(AUDIENCE LAUGHING)
+-He issued a taped apology,
+but his remorse seemed a little
+less than heart felt.
+On July 29th of this year,
+we discovered that attackers
+had gained unauthorized access
+to certain Equifax data files.
+This is clearly
+a disappointing event
+and one that strikes
+at the heart...
+of who we are
+and what we do.
+-Holy shit!
+-(AUDIENCE LAUGHING)
+Rick Smith is so
+alarmingly mechanical
+you probably have to put him
+in rice every time he gets wet.
+-(AUDIENCE LAUGHING)
+-Now, notably
+he mentioned there that Equifax
+learned about the breach
+on July 29th,
+but even more notably that video
+was uploaded in September,
+which is, and this is true,
+after July.
+So, Equifax
+knew about the breach
+for nearly six weeks
+before telling the public
+and they claim
+that they needed that time
+because the investigation was
+"complex and time consuming."
+Although, that's not all
+that happened in that time span.
+NEWSCASTER 3: Three Equifax
+ executives
+sold nearly two million dollars
+ in company stock,
+ days after the data breach
+ was discovered.
+Wow!
+Selling stock before the public
+knows there's a problem
+is one of those thing
+that looks suspicious
+whether or not you're
+actually doing something wrong.
+It's like, walking
+into a petting zoo,
+with a bib on.
+What exactly are you planning
+-on messily devouring in there?
+-(AUDIENCE LAUGHING)
+And Equifax defended
+that saying,
+none of the executives
+in question
+including their
+Chief Financial Officer
+knew about the data breach,
+which raises another question,
+-"How is that even possible?"
+-(AUDIENCE LAUGHING)
+Did they just ignore emails
+with the subject lines,
+"Breach!"
+"Following up on breach!"
+"Where the fuck are you?
+Breach, breach, breach!"
+And, "Just spoke to you
+in person about breach
+and you just stared blankly
+at me, and then said,
+'I'm gonna order
+from the salad place.'"
+(AUDIENCE LAUGHING)
+And if you are getting
+frustrated already
+with this kind of incompetence,
+you're gonna need
+to pace yourself,
+because this story,
+gets a lot worse.
+Apparently,
+there were multiple points
+where this hack
+could have been prevented
+and one of them is incredible,
+because Equifax were alerted
+by Homeland security,
+back in March,
+that they needed to fix
+a critical vulnerability
+in their software.
+But as lawmakers discovered
+at a recent hearing,
+that's not what happened.
+There was one person apparently,
+who forgot to tell somebody
+that they had a piece
+of software
+that needed to be patched.
+Yeah, it is not ideal,
+that a company guarding
+such valuable information
+leaves something that important
+down to one person.
+It's like finding out
+that Chase Bank
+has a big red button labeled,
+"Lose everyone's money,
+and the only thing
+stopping anyone from pushing it,
+-is Frank."
+-(AUDIENCE LAUGHING)
+And look, I love Frank.
+I love the guy,
+but what if he has to pee?
+(AUDIENCE LAUGHING)
+A-- and I want to tell you
+that this is an anomaly,
+but Equifax has had multiple
+headline-grabbing breaches
+over the years,
+and that is not even counting
+smaller incidents like this.
+I checked my credit report
+the other day
+online with Equifax...
+That was it, and next thing
+I know I have 300 pieces of mail
+sittin' in my mailbox.
+NEWSCASTER 4: Every single one
+ of these is addressed to her,
+ but they're not hers.
+ Instead, she got
+ other people's credit reports.
+ Now, names,
+ social security numbers,
+ dates of birth, current
+ and previous addresses
+ bank and loan account numbers,
+ all stacked up
+on a kitchen table in Biddeford.
+-(AUDIENCE GROANING)
+-Yeah, I mean,
+that not great, is it?
+And it really should have
+set off red flags at Equifax,
+when hundreds of different
+credit reports
+were being mailed
+to the same address.
+What exactly did you think
+had happened there
+that every single Fraggle
+checks their credit at once,
+down at Fraggle Rock?
+-Down at Fraggle Rock?
+-(AUDIENCE CLAPPING)
+-Now-- very nice.
+-(AUDIENCE LAUGHING)
+-And--
+-(AUDIENCE LAUGHING)
+And I know that other companies
+have had breaches
+but none remotely as damaging
+as this new Equifax one,
+'cause remember,
+this isn't Target
+exposing
+customer's credit cards.
+This is compromising
+social security numbers
+the things that thieves
+could use
+to open new credit cards
+in your name
+and if your information
+was stolen, which remember,
+is about a 50-50 chance,
+it could haunt you forever.
+You don't change
+your birth date,
+you don't change your
+social security number.
+Those who've been, uh,
+jeopardized by this hack
+will have to protect themselves
+ for years, until they're dead.
+It's true and just
+think about that.
+There is only one other thing
+that you have to
+constantly protect yourself from
+until you're dead.
+-And that's fucking death!
+-(AUDIENCE LAUGHING)
+And you would hope that Equifax
+would do a decent job
+of mitigating the damage.
+After all,
+they did have nearly six weeks
+to work on a response,
+but instead,
+their fuck ups continued.
+For instance, they created
+a website
+for concerned consumers
+to go to,
+but then this happened:
+The site that Equifax started
+is called Equifax Security 2017.
+ But a developer named
+ Nick Sweeting,
+ wanted to show,
+ how easy it is
+ to create a similar fake site,
+ so he did.
+ He called it,
+ Security Equifax 2017.
+(AUDIENCE GROANING)
+Exactly, someone created
+a fake site
+and if you're thinking,
+"Well, who would be dumb enough
+to fall for that?"
+Equifax! That's who!
+Because they tweeted links
+to that fake site
+at least eight times!
+(AUDIENCE LAUGHING
+IN DISBELIEF)
+Despite the fact that site had
+a couple of tiny clues
+that it might be fake
+from the headline reading,
+"Why did Equifax use a domain
+that's so easily impersonated
+by phishing sites?"
+to the fact that when you
+clicked on their
+Frequently Asked Questions,
+this happened.
+♪ ("NEVER GONNA GIVE YOU UP"
+BY RICK ASTLEY PLAYING) ♪
+(AUDIENCE LAUGHING
+AND CHEERING)
+Well played pranksters,
+you have my respect.
+But look, don't worry.
+Equifax says that they are
+tightening up their operation.
+And to see how well
+that they've done on that,
+You-- you can just go to,
+equifaxfraudprevention.com,
+not because it's their site
+but because it's our site.
+We bought it two days ago,
+and if you'll go there
+you'll find the message,
+"How were we still able
+to do this?
+Why haven't you learned
+anything?"
+(AUDIENCE LAUGHING)
+But wait-- wait!
+Because there is even more.
+'Cause Equifax
+also offered consumers
+a year of free credit monitoring
+but when people tried to sign-up
+for the service,
+they noted something.
+Guess what? You lock into
+Equifax terms of service
+-when sign-up for it,
+-Ah!
+which means that you
+can't sue the company.
+You've gotta resolve any
+disputes in forced arbitration.
+Exactly! You'll be giving up
+your right to sue.
+So legally, your best recourse
+at that point would be,
+shaking your fist at the heavens
+while shouting, "Equifax!"
+(AUDIENCE LAUGHING)
+Now, they-- they've since
+rescinded that clause,
+although many frustrated people
+are now signing up
+for third party credit
+monitoring services like,
+LifeLock, who've been
+advertising everywhere.
+And they've seen a real surge
+in business
+in the wake
+of this breach, although,
+if you're considering LifeLock
+because you are mad at Equifax,
+there is something
+you're gonna need to know.
+According to filings
+with the SCC,
+LifeLock purchases
+credit monitoring services from
+-Equifax.
+-(AUDIENCE LAUGHING NERVOUSLY)
+And that means someone buys
+credit monitoring
+through LifeLock.
+LifeLock turns around
+and passes some of that revenue
+directly along to Equifax.
+Is that right Mr. Smith?
+That is correct.
+(AUDIENCE LAUGHING
+IN DISBELIEF)
+(AUDIENCE LAUGHING)
+-It's true. Some of--
+-(AUDIENCE APPLAUDING)
+some of the money that you pay
+to LifeLock
+goes right back
+to fucking Equifax,
+which could only be
+more infuriating
+if you then found out that
+the rest of it goes
+to Toys For Todds.
+A charity that purchases
+sex toys
+-for grown men named Todd.
+-(AUDIENCE LAUGHING)
+Buy your own sex toys Todd,
+we can't carry you on this one.
+(AUDIENCE LAUGHING)
+And look, Equifax
+connections aside,
+LifeLock has had
+repeated issues itself,
+including settlements
+with the FTC
+and a truly disastrous
+ad campaign
+a few years back.
+I'm Todd Davis,
+and I'm here
+to prove just how safe
+your identity can be
+with LifeLock.
+That's my real
+social security number.
+Yeah, LifeLock's then-CEO
+Todd Davis,
+actually put his real
+social security number,
+457-55-5462,
+on a truck and billboards.
+For a time, it was impossible
+to escape
+his social security number,
+-457-55-5462.
+-(AUDIENCE CHUCKLING)
+And that was a very cocky move
+and one that resulted in him
+having his identity stolen
+-13 times.
+-(AUDIENCE APPLAUDING)
+And I'm guessing,
+that the defense
+for the people who took it was,
+"I didn't steal his identity
+I literally got it off
+the back of a truck."
+-(AUDIENCE LAUGHING)
+-So, to put it mildly,
+LifeLock, may not be your
+best solution
+to the Equifax crisis,
+which brings us to the question,
+"What is?"
+Well, consumer advocates told us
+that the one big step
+everyone should take,
+is to go through all three large
+credit reporting companies,
+that's Equifax, Experian
+and TransUnion,
+and freeze your credit.
+That way no one can access it,
+including you,
+until you unfreeze it.
+Now the companies also offer
+their own credit protection
+products,
+with names like, Trusted ID
+or Credit Lock Plus.
+But, they are
+often more expensive
+and offer fewer
+consumer protection.
+So, if you need a way
+to remember this,
+locks, are something
+you don't want.
+Think of Justin Bieber's
+dreadlocks.
+-(AUDIENCE LAUGHING)
+-A terrible decision
+to be avoided!
+Whereas freezes are great.
+Uh, think of this tiny penguin
+losing its frozen mind.
+♪ (UPBEAT MUSIC PLAYING) ♪
+See! So, to recap,
+-locks, oof, freezes, wee!
+-(AUDIENCE LAUGHING)
+Now-- now, here is the thing--
+here's the thing on this.
+Freezing and unfreezing
+of your credit can cost money
+which will go back to these
+companies, because seemingly,
+they just can't
+fucking lose on this.
+And if you need any more
+proof of that,
+on the very same day
+that Congress was yelling at
+Equifax's former CEO,
+it emerged that the company
+had just been awarded
+a seven-million-dollar contract
+by the IRS, to prevent fraud,
+which led one senator to make
+a pretty brutal comparison.
+You realize, to many Americans
+right now, that looks like uh...
+we're giving Lindsay "Lohawn"
+the keys to the mini bar.
+(AUDIENCE LAUGHING IN SHOCK,)
+APPLAUDING)
+I understand your point.
+That was the pause of man
+thinking, "Do I let that pass?"
+"Do I correct him
+on how to pronounce Lohan?"
+-(AUDIENCE LAUGHING)
+-Or do I double down
+and pronounce her name,
+"Lingonberry Lahoni Baloney."
+(AUDIENCE LAUGHING)
+And you should know--
+you should know
+that IRS deal
+has been suspended,
+not cancelled by the way,
+just suspended.
+And that might make you angry
+but the problem is,
+that anger won't have
+much impact on Equifax.
+Because they make
+most of their money
+selling our data to businesses,
+like banks.
+So, in their eyes,
+we are not the consumer,
+we're the product.
+To think of it in terms of KFC.
+We are not the guy buying
+the ten-piece buckets,
+-we're the fucking chickens!
+-(AUDIENCE LAUGHING)
+So, for the time being,
+businesses are the only ones
+who can exert influence here
+and as one colorfully dressed
+expert pointed out,
+that's not gonna happen
+anytime soon.
+I haven't heard any big company
+came out-- come out yet
+and say, "We're not gonna use
+Equifax anymore"
+-for their credit scores.
+-STUART VARNEY: Good point.
+So far, everybody's been quiet,
+and I don't know what they're
+waiting to hear.
+This is outrageous,
+they should be done
+but I bet you,
+because it's America,
+they'll be okay.
+-(AUDIENCE LAUGHING)
+-Here's the truth,
+that angry business casual
+farm animal on Fox Business
+-is talking sense.
+-(AUDIENCE LAUGHING)
+And that sentence alone
+shows just how bad things are.
+So, in the long term,
+there should clearly be
+major reform to this industry
+and how it's regulated,
+but that is going to take time,
+so until then
+you need to freeze
+your credit reports
+with all three
+of these companies,
+and only unfreeze them
+when you need to apply
+for credit.
+And because the freeze option
+can be hard to find
+on their sites
+if you go to our twitter feed,
+we will give you exact links
+to do that, and when you do,
+they will give you a PIN number
+that you need to unfreeze it.
+So, do not lose that number,
+or at the very least,
+make it something memorable.
+I don't know, like...
+-457-55-5462.
+-(AUDIENCE LAUGHING)
+-(AUDIENCE APPLAUDING)
+-But not that, 'cause of course
+that's Todd Davis's
+social security number.

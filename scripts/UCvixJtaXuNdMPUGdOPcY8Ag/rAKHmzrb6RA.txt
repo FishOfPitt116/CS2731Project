@@ -1,0 +1,500 @@
+it's great to welcome to the program
+today Erik Durkheim er who's a professor
+of psychology at the University of
+Virginia we are going to be talking
+about some of the controversies that are
+now very very prevalent in some enclaves
+of the internet and not only there
+including about genetics and environment
+and IQ but I think maybe first just so
+we're all on the same page let's talk a
+little bit about the genesis of what we
+now know is the modern IQ test what it
+can tell us and sort of what it cannot
+tell us well I mean the genesis of it if
+that's where we're gonna start is back
+at the turn of the 20th century it was
+invented by French and American
+investigators largely in the context of
+first testing army recruits and later
+testing immigrants in the United States
+probably the concept of intelligence as
+opposed to intelligence test themselves
+date back a little bit further than that
+to someone in Francis Galton was
+Darwin's cousin as a matter of fact and
+was a controversial figure but in many
+ways an uncontested genius in the 18th
+Victorian 1870s navies and I I think the
+place to start with IQ is you commonly
+hear people who either believe that IQ
+is this deep dive into what a human
+being is capable of on one hand and then
+people on the other side who say that
+it's meaningless and that it's just what
+the IQ test measure or it's just a
+measure of how much money your parents
+make or something along those lines and
+I think the important thing and thinking
+clearly about IQ is steering a
+reasonable course between those two
+extremes
+IQ is a is a measurable characteristic
+of people yawn
+any doubt if if you I mean there's a you
+know a lot of technical stuff but if you
+give people a series of mental tests of
+almost any kind on average people who do
+well on one mental test is are gonna do
+well on other mental tests and if you
+you know a slightly more sophisticated
+way taking average across all those
+mental tests you get an IQ score and
+what that IQ score is for sure we can
+talk about whether it's anything more
+than this but what it is for sure is a
+measure of how good someone's cognitive
+functioning is right now at the time
+they took tests it's it's a description
+of someone like finding out how
+depressed they are or anything else that
+a psychologist might measure and I think
+if you if you view IQ this way a measure
+of how well somebody is capable of
+thinking at the moment it's not really a
+very controversial idea because anybody
+can look around them and see that some
+people are are functioning at a higher
+level than others some people have
+bigger vocabularies and can solve harder
+problems and do better plans I mean we
+all we all know that I think what makes
+the idea controversial is this idea that
+IQ test somehow measure this deep thing
+called innate intelligence that it's
+it's not just how well you're doing
+right now but this inner thing that
+you're born with that constrains how
+well you possibly can do in the world
+and I wouldn't I don't want to say
+there's no evidence that that's true I
+mean there are people sensible people
+have done tried hard things to show that
+that's true but it's certainly it's far
+from obvious that that's true and it's
+very very difficult show that it's true
+can you talk a little bit about I'm sure
+there's much more that could be said on
+that but there's a lot that the sort of
+follows from this that I want to use as
+sort of our baseline for establishing
+our conversation there is this idea that
+iq maybe represents some kind of
+universal measure of intelligence that's
+independent of culture or geography or
+what-have-you and then there's another
+view that there is some test bias which
+is that the test itself is biased
+towards individuals from certain parts
+of the world with certain education and
+that it's not as universal as some might
+point to can you give us an
+understanding of that yeah I mean I
+don't I don't think it's a question on
+which there's an absolute answers
+I think it's broadly true that among
+modern people people who live in the
+developed world certainly in North
+American Europe and in large parts of
+East Asia as well where people are
+basically educated basically abstract
+thinking oriented basically book
+oriented the biases in IQ tests are in
+fact barely small
+I mean IQ didn't as far as that goes IQ
+tests are much better than they were
+when they were first created when they
+were obviously biased and if it's really
+not the case I don't think that IQ tests
+are at least in obvious ways biased
+against say or emeritus or something
+like that
+now another somewhat farther out part of
+the IQ world is people who think it's
+legitimate to wander out into
+sub-saharan Africa somewhere with a IQ
+test kit and find people who I've never
+been to school or only a rudimentary
+school had may or may not be illiterate
+and and the whole culture of taking a
+test on which you try to get the right
+answer to get a high school
+or just doesn't make any sense and I
+think push that hard yes tests are
+obviously biased and that's important
+because there are people who actually do
+that and take the results seriously
+which i think is a huge mistake
+so among most of us
+I don't think test bias is a huge issue
+in understanding why some people get
+higher IQ scores than others fair enough
+you've your work has shown that or claim
+to show that the environment accounts
+for about 60% of the IQ variance among
+low-income children so let's start with
+that sixty percent number question one
+is what accounts for the variance of the
+other forty percent uh well I mean
+they're very broadly genetics though
+well there there's a there are a lot of
+things to say about that you have to be
+very I Q like everything on any any
+miserable difference you can measure in
+people is to one extent or another
+correlated with our genes and all that
+says is that sort of where we start in
+life and the biological input that we
+become winds up correlated with where we
+went end up it doesn't mean that there
+are genes for IQ or per se or anything
+like that
+now when you when you talk about those
+percentages those percentages are a very
+very complicated thing because it's it's
+it's you know we're talking about a
+quantity that's called a heritability
+that varies from zero to one and tells
+you tells you within a lot of
+complications about the proportion of
+differences in people that are accounted
+for by differences in our genes i one
+way i like to think about it is
+it tells you how much more similar we
+would all be if we were all clones and
+and it's easy to think when you start
+thinking about these numbers that IQ or
+any trade has a heritability and we do
+science to find out if the heritability
+of IQ is 60% or 70% or 40% or 20% and
+that's wrong IQ doesn't have a
+heritability the heritability of IQ
+depends on the situation but you measure
+it and it and that depends on how much
+people very genetically and
+environmentally
+so in fact if you gave an IQ test to a
+bunch of clones I mean that's not
+possible in humans you know a huge set
+of identical twins everybody exactly was
+saying the heritability would be zero
+because everyone is genetically the same
+and differences in genes can't account
+for everything so anyway coming back to
+our study when people have computed
+those heritability some twins in the
+past it's been very common it's very
+hard to get poor twins in twin studies
+for a variety of reasons they don't
+volunteer for the study of poor families
+have better things to do and and we've
+we found we really find it there there
+is a large American twin study that
+included a lot of twin children raised
+in poverty and what we found in that
+study is that among very poor children
+the heritability of intelligence the
+proportion that seemed to be accounted
+for by genes was very very low as lower
+than 40% it was close to 0% in the
+poorest children and then as you proceed
+up to through the middle class into the
+upper middle class there weren't a lot
+of rich people in this study genes
+became more and more important accounted
+for more and more of the variance we're
+so by the time you got to the upper
+middle class things are almost
+completely reversed and that that
+finding just by the way has replicated
+quite well in the United States where we
+have a lot of economic and educational
+inequality not so much in Europe where
+they have a better safety net but
+that fits I think with a lot of common
+sense thinking about intelligence which
+suggests that it's bad environments are
+much more important for intelligence
+than good environments it's it's it's a
+lot I don't mean to be flip about it but
+it's a lot easier to make someone dumber
+than it is to make him smarter because
+things that go wrong are much more
+important and what I think is what I
+like about that finding is that it gives
+us a way to take the overall genetics of
+IQ seriously whereas at the same time
+understanding the critical importance of
+things like poverty and bad environments
+and the negative effects that those can
+have on children while they're growing
+up
+let's pause our conversation there we've
+been speaking with Eric Durkheim ER
+who's a professor of psychology at the
+University of Virginia we'll continue
+our conversation with him tomorrow we're
+continuing our conversation with Eric
+Durkheim ER who's a professor of
+psychology at the University of Virginia
+where I'd like to pick up our
+conversation if we can is first to sort
+of get into the topic of race and IQ
+before we talk about the meaning and
+causality question one is are there
+observable differences in IQ measured by
+race as race is understood in modern
+Western society yep there are and can
+you describe that in a little more
+detail yeah so if you if you give an IQ
+test to a sample of measure we'll talk
+about the u.s. American blacks and
+whites or or a test that is essentially
+an IQ test even if it's not intended
+quite as such like the SATs or something
+like that blacks will score something
+like two-thirds of a standard deviation
+about 10 to 12 IQ points lower that's
+just a fact
+on average and of course the important
+discussion is why that is right so my
+immediate follow-up I mean given that so
+we're working with the sort of same same
+baseline of the data that a lot of
+people who have become incredibly
+interested in this topic over the last
+three to five years start with my
+immediate next question and you tell me
+whether this is the correct next
+question or whether there are
+intermediate questions to look at is do
+we have reason to believe that the that
+the cause of those differences is race
+itself uh well if you mean biological
+race then no I by I believe strongly
+that we don't I mean it certainly is
+social aspects of race and the history
+of slavery and discrimination let me in
+some ways that's race but presuming you
+mean race as a biological construct I
+feel very strongly that it doesn't and
+that it's in fact irresponsible for
+people to speculate that it might be
+it's and my strongest feeling about that
+is that based on the kind of data that
+we can generate in human beings it's
+it's not it's not only that there's no
+evidence that that's true oh that's the
+case there is no evidence that that's
+true it's also that there's no possible
+evidence that it's true it's not like
+we're waiting for somebody to complete a
+study that's it's going to be decisive
+well that was a maybe my next question
+which is hypothetically what type of
+evidence if you could imagine it would
+tell us that IQ differences between
+races are specifically because of race
+is that even a possibility I mean here
+here's the way I think that could turn
+out to be true I mean and I don't and I
+and my point is that this is very
+unlikely to happen if if we summed and
+what what doesn't exist even though IQ
+is heritable like everything is ever
+thing about people is heritable there
+are no in the normal range
+aside from Down syndrome and things like
+that there are in the normal range the
+difference between your IQ and mine
+there are no known genetic mechanisms
+that determine your IQ that oh well okay
+this pretty you know David has genes XY
+and Z and Erik has genes a B and C and
+we know that it's always true that
+people with X Y Z genes have higher IQs
+that ABC genes and we especially if we
+ever understood the mechanism because
+you can see here's what X Y Z genes do
+to your brain and enhance the neurons
+etc etc etc and because of that people
+with those genes are smarter pretty much
+all the time not contingent on anything
+else uh if that were true well then you
+could find a group of people that had
+those genes and a group of people that
+didn't have those beans and say well the
+difference between those groups seems
+like it's caused by those gene I mean
+and that might apply to American blacks
+and whites and it might not but it's an
+explained the difference between some
+groups groups that have them in groups
+that don't have but it's those
+mechanisms that are exactly what's
+missing all we know is that genes in
+individuals are correlated with IQ at
+the end of the day and we have
+absolutely no reason why or how and
+because of that we have no way of
+knowing whether if the world changed you
+know so if 200 years from now
+slavery is finally far enough back in
+the rearview mirror that it's not
+affecting people anymore and
+discriminate and Jim Crow and
+discrimination - and all the racism that
+still goes on today that's finally deep
+in the past the the genetics of race
+people have to have to say the
+mechanisms of IQ are such that blacks
+will still score low
+on IQ tests and there's simply no way
+there's simply no way to know that and
+if you're just betting on the
+probabilities there's no reason to think
+like that something like that would ever
+come out to be true you have to remember
+that you know 120 years ago at the turn
+of the century when IQ tests were first
+coming online people from southern
+Europe Italians and Greek people at
+lower IQs and that man because those
+were the people who were emigrating and
+Jews for that matter and because those
+were the people who were immigrating to
+the United States who was a big deal and
+people thought the exact same thing that
+Wow though those people they have lower
+IQs it must be because of their genes
+and it's not that somebody's done a big
+scientific experiment that showed oh no
+no three people they're okay it's not
+their genes after all it's just that
+time has gone by and Greek immigrants
+have recovered from whatever hardships
+they were experiencing when they first
+immigrated here and nobody thinks about
+it anymore and in in the absence of any
+other reason any reason to think
+otherwise that that's what we should
+expect to happen in the long run with
+blacks and whites except of course the
+what has been done to blacks over the
+last 500 years in North America is is
+far worse than what's been done to any
+other group and it's gonna take more
+these things don't change fast and I
+think one of the problems is that these
+kind of these kinds of deficits and
+disadvantages change over a tiny period
+that's the longer than an individual
+human life
+so we it's like watching the hour hand
+on a clock you know and I think a big
+part of the motivation for people who
+think well god this has got to be
+genetic is they've been looking at it
+for 20 or 30 years and the gap hasn't
+gotten it's gotten a little smaller but
+it hasn't gotten all that much smaller
+and that's what I wanted to ask you
+about next I mean you've you've spoken
+to
+a variety of different people about this
+issue I saw an interview you did with
+stefan molyneux do you attribute bad
+faith to the movement that wants to
+explain IQ differences by saying they
+are because of race or do you attribute
+ignorance or this sort of short span of
+time
+that you're pointing out I can't I guess
+I can't characterize everybody that
+thinks that there are I mean one thing
+I've become aware of and it'll happen
+again
+when this interview gets out on Twitter
+I mean especially outside the
+professional community there there are
+just a lot of here in America people are
+fascinated with race and for a lot of
+people they're fascinated with race and
+kind of a negative way and there are a
+lot of racist people out there who just
+want to believe that because it confirms
+their their presuppositions about the
+world in the in the professional world
+that's more complicated I do know some
+presumably professional people who I
+think are motivated by racism on this
+issue I know other people who you know I
+think are motivated by a genuine
+scientific impulse that there's this
+persistent difference they want to
+understand why it happens and and
+especially in the you know in the in the
+very contemporary world that I I find
+there's a tendency on sort of the the
+center-right if I can say it that way on
+the academic center right to be it's
+become so important to a lot of people
+to not to give in to what they view as
+the PC campus culture bla bla bla bla
+bla that it's very important to them to
+entertain seriously anything that seems
+like a scientific hypothesis so when
+somebody says well I'm a scientist and
+I'm not a racist and I'm just so burly
+investigating the possibility that the
+IQ gap between the race
+is scientific there are a lot of people
+who feel a scientific responsibility to
+take that idea seriously and I think it
+I think I think it's wrong to do that
+and I think they're making a mistake but
+I don't think they're exactly racists in
+doing it they're they're just putting
+their commitment to academic freedom and
+freedom of inquiry above their
+importance of racist hypotheses and I
+think that's a mistake but well I said
+it I don't altima t think it's motivated
+by racism and it they and and how the
+balance of all those things work out
+really differs from person to person
+then in a way that's hard for me to
+characterize broadly last thing I want
+to touch on in the in the limited time
+we have is the following
+on the one hand you've said that it
+could be a long time until the sort of
+realities of humans on our planet change
+such that this gap will be eliminated
+you've also indicated that yes currently
+the average intelligence for certain
+races is higher and lower than for
+certain others so my question is more of
+a speculative one which is in the
+immediate other than saying give it
+another 400 years is there any
+mathematical case that you have found is
+the most effective or scientific case to
+explain to those who seem convinced that
+the gap is because of race innately to
+sort of disabuse them of those beliefs
+yeah well I think the the best way to
+make that case is be a something called
+the Flynn effect the Flynn effect is
+something that was observed by the
+Prospero psychologist Jim Flynn who

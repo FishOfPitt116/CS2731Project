@@ -1,0 +1,378 @@
+I'm joined today by Matan field who is
+architect and co-founder of dow stack
+we've been talking about the dow more
+generally we've also talked about dow
+stack specifically before so it's great
+to have Matan here for people who don't
+know Matan because this I find that one
+of the most complex things about talking
+about these projects is actually
+explaining them in a way that the
+average person sort of understands what
+it is that you are doing let's maybe
+start with the Dow what do we mean when
+we say the Dow and that's Dao right not
+do W is in the Dow Jones Industrial
+Average of the United States
+what is the Dow for people who don't
+know high living thanks thanks for
+having me here so thou is the acronym
+for decentralized autonomous
+organization it's a it's a sort of a new
+form of organizing people into Co action
+to greater larger large-scale action
+justice organization or companies do the
+difference though is that while
+companies are usually closed structures
+closed a hierarchical structures with a
+management a vertical management
+structure decentralized organization is
+accordingly
+in direct coordination of people that
+are coordinated by code by rules that
+are set on the blockchain and that are
+inherently open that anyone could
+participate in those organizations and
+so these are generally the central
+service organizations and and and
+generally the belief is that the central
+stern organization can be can grow into
+much much larger scale than companies or
+corporations they do this is super
+interesting because you know if you
+start reading about even going back to
+the modernization of humans right Homo
+sapiens one of the big distinguishing
+factors between humans and nonhumans is
+the ability to work together in large
+numbers but in sort of flexible ways
+right so like bees can work together in
+very very large numbers but only in very
+narrow senses there are other animal
+species that can work together more
+flexibly solving some basic problems
+but in very small numbers so humans are
+unique in that we are able to work
+together in very large numbers and also
+flexibly however usually usually not
+always that does require a hierarchical
+structure a centralized structure of
+command of sorts and that's often how
+you know everything from militaries to
+companies are organized if I understand
+correctly one of the interesting
+elements of what Dow is doing and
+ultimately we'll talk about what Dow Dow
+stack is also doing is the idea to
+enable humans to work together in large
+numbers and flexibly but in a
+decentralized way that's a nothing but
+perfect distinction so these two access
+that you mentioned the size of the
+coordination and the flexibility of the
+Carnation is exactly you know the map of
+the world of the history and and we have
+never approved we have never been able
+to approach the deep upper-right hands
+of that map so the largest scale and
+most flexibly so the internet for
+example is a coordination of the largest
+amount number of people on the planet a
+global scale but it's coordination
+around very specific topic just
+distribution of information and indeed
+in order to kind of like stretch it to
+large scale and flexibly you know we
+needed more and more rigid structures
+such as Army for example army is the
+largest scale with pretty flexibly but
+the cost of that is that the
+effectiveness the efficiency of large
+very very rigid structures is getting
+lower lower as they grow up and the
+decentralized nature of the organization
+what it promises is the ability to probe
+the ability the ability to coordinate
+people into the largest scale to the
+global scale and yet remain most
+flexibly and effective at the same time
+so it's it's if you want it's a new kind
+of Internet but that can do can
+coordinate people for about and just
+about anything so let's now talk about
+Dow stack what is it that your project
+is looking to do building on this
+concept of Dow
+the most basic level doll stock is the
+technology to enable dowse to
+self-organize to enable dowse to exist
+so if i said that instead of
+hierarchical rigid structures there are
+rules around which people play or
+coordinate and those rules are encoded
+on the blockchain then dow stock is you
+know in the in the most simplistic
+manner is the engine for those rules in
+a much more detail we can go we can get
+into it if you wish but in much more
+details it's many elements that compose
+those rules and improve them over time
+by the end of the days is the engine of
+the rules for large-scale coordination
+the centralized coordination of the
+blockchain well I want to talk more
+about the specifics I think for most of
+our audience the bigger picture idea is
+what what will be more interesting than
+so much the underlying technology which
+of course some of our audience can can
+read about directly in the white paper
+so I mean to get us deeper into the
+discussion there's a lot here you talked
+about decentralization when we talk
+about decentralization oftentimes that's
+heard potentially as a sort of
+individual collectivism which sounds
+sort of like an oxymoron but in a way it
+does sort of apply here
+can you talk maybe a little bit about
+the specific applications or maybe some
+use cases that most people could relate
+to where doubt stack would be used sure
+so let me give you three examples three
+canonical examples so one example would
+be you know the the usual idea of
+collaboration so just as companies you
+know they coordinate maybe hundred maybe
+tens or hundreds or even thousands of
+people to build something together so
+you build product to produce something
+in the same way the centralization can
+be the coordination of hundreds of
+thousands of let's say for example
+creators or developers or designers that
+all together build huge applications
+that they can solve it totally a totally
+new kind of questions that are not now
+unsolvable because they can coordinate
+many more producers around those
+problems so producing for example
+producing of code that's one sort of
+application which
+already very there is a high demand for
+that so that already there are large
+scale collaborations around mostly
+around blockchain projects which are
+open sourcing in nature and they have
+serious problems which are yet to be
+resolved and in order to such as for
+example the scalability of blockchain
+that's one of maybe one of the biggest
+problems and in order to resolve them
+you need a large lot much larger scale
+of coordination of developers so that's
+one example
+a totally different example is about for
+example management of assets so let's
+you know you can have hundreds or
+millions of millions people coordinating
+shared assets together for example I
+think that may be one of the interesting
+use case will be insurance so instead of
+having million people insured by a
+company you can have those minos people
+insuring each other
+in a big decentralized insurance network
+which would be way way more effective
+and with higher alignment of interests
+then today's insurance companies and and
+maybe a third example is the round
+curation so we are not very often using
+that word but it's actually we are we're
+all familiar with that idea so for
+example Google itself is they in a
+curation agent engine for website so it
+tells you what is a good or less good
+website or less more more or less
+relevant TripAdvisor is a curation for
+for travels and hotels and booking.com
+and Yelp is a curation engine for
+restaurants and so on so forth and we
+already are in the phase in history
+where we are using crowd creation where
+people curate because there's a lot of
+information that is carried by people
+but isn't but there's no effective way
+to enable that at large scale so imagine
+millions of people coordinated with
+those decentralized curation networks
+and by that exchange information about
+quality of basically anything you can
+think of much more effectively than
+today's applications I'd like I'd love
+to get your thoughts on another area
+where Dow could be applied which is
+financial markets right I've talked to a
+lot of people about possibilities
+between Dow and financial markets and in
+general and financial market
+particularly in the United States
+there's a sort of distrust of the
+difference in information that different
+players have an assumed manipulation
+that's taking place and the top-down
+hierarchy is concerning to a lot of
+people so on the one hand I've read
+position papers from individuals who say
+listen automating and but using
+algorithms through Dow projects to
+control financial markets in a different
+way than we're doing it now is very very
+exciting the counter that I've heard to
+that and I'm curious as to your thoughts
+on this Matan is that once you take
+something like a financial market and
+you allow algorithms to make decisions
+that that carries with it a crazy amount
+of risk in terms of for the individual
+participant in that financial market do
+you have a strong opinion one way or the
+other on that so let me let me let me
+let me first ask first attend something
+that you mentioned something else that
+you mentioned yeah which is important to
+understand the concept so firstly
+whenever I say Dow by the way let me let
+me also distinct Dow from da you know
+I'll get back to that but whenever I say
+Dow I mean that there is a certain
+collective decision process so let me
+give you a counter example so when you
+talk about the market a market place it
+can be ecommerce market placing the
+token exchange market place whenever you
+talk about a market place where the base
+interaction is peer-to-peer I buy you
+sell whenever you have that kind of
+structure there is no collective
+decision-making it's just in
+peer-to-peer interactions so these I
+will not call them dowse and call them
+peer-to-peer marketplaces now of course
+peer-to-peer magnifies can also be those
+for example they can collectively decide
+about the rules of the game if they want
+you know the peer-to-peer game if they
+want to it actually have true actually
+examples of this sort that we're good
+that are going live in the in there in
+the next few months but when I when I
+purely think about now I think about
+collecting the scene making so if you so
+if I will apply
+now into financial market I will think
+about it more as the kind of the
+dissenters insurance that I mentioned or
+maybe at the central investment fund so
+maybe you know 10,000 vistors our
+co-managing or traders are co-managing
+shared assets and then there is a
+dissenter as decision making process
+to make so that's that's the that's the
+you know one comment and the second
+comment regarding algorithms then it's
+important to note that I mean the the
+the Dow is kind of like hybrid between
+the Machine and the dividend they and
+the human so there is the machine the
+blockchain that kind of like
+algorithmically collects the inputs for
+many many agents but then there is the
+human input into that and it goes in
+also in the way that the protocol the
+rules that people play around also
+include the rules to change the rules so
+so in that sense if there is any danger
+you know for having not-not-not
+optimizer or maybe dangerous rules then
+there is also encoded in the rules the
+rules to change the rules so that would
+be like know the simplest answer to this
+concern
+Matan in the limited time we have left
+I'd love to talk a little bit about the
+coin what is the purpose of the coin
+what does it do and sort of where are
+you in the token sale right so so I
+haven't you know I told you what the Dow
+is but I haven't when you you know we
+can ask like why don't we have them
+already so the answer is that there is a
+really hard problem of making it down
+and the problem is that when you speak
+about collective decision-making you
+kind of like say consensus like everyone
+agree about something yeah right but at
+the same time you want to have a you
+know effective organization so maybe you
+have million people coordinate you know
+collaborating and you know maybe they do
+million actions a day but you don't
+really want million people to look at
+each and every action right it's
+complete completely not scalable
+completely not ineffective so this is a
+conundrum of Sandra's governance how do
+you build the governance protocol rules
+with which 1 million people can on one
+hand have consensus about
+each and everything but the same time
+not really have a consensus and this is
+like a tension and the way that we solve
+that is introducing a new kind of
+consensus protocol we call them
+holographic consensus we won't get into
+that probably in this in this short
+interview yes but that involves certain
+machinery certain prediction game in
+which people can place predictions
+economical predictions about a spate of
+proposals fate of decisions inside
+organizations and this prediction game
+on one hand is super critical for the
+enabling of large-scale collective
+decision-making at the same time that
+that prediction game is being run with
+our token with the gent oaken so the
+gent talkin if you want is the is the
+engine token for if you want gathering
+the collective attention and basically
+it's it's managed via this prediction
+game that is enabling large-scale a
+consensus to take place so this is the
+the token utility it's it's a critical
+element in large-scale governance in
+terms of our our crowd say we make we're
+basically ran a private sale for a few
+months now we've finished that private
+sale we have we are now running
+literally now running a community
+presale it's not it still has like maybe
+36 hours to go but it's already the cap
+is already reached and next week we'll
+have the third phase of a public sale
+but basically out of 30 million dollars
+that we wanted to raise we've already
+raised somewhere around 27 where is the
+best place for people to learn not only
+about Dow stack the project but also the
+ICO so the website I think is the best
+well two places the website and the
+telegram group but then the terror group
+is also linked from the website and vice
+versa excellent and we are linking to
+both in the description to the YouTube
+video Matan field architect and
+co-founder of dow stack thanks so much
+for talking to me about this today thank
+you David thanks a lot

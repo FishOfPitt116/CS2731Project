@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Sample Python code for youtube.channels.list
-# See instructions for running these code samples locally:
-# https://developers.google.com/explorer-help/code-samples#python
-
 import json, os
 
 import google_auth_oauthlib.flow
@@ -45,9 +39,9 @@ MEDIA_SET = [
     Media("UCokqzNPBJ65raczldVuHAww", "Chapo Trap House"),
     Media("UCL_f53ZEJxp8TtlOkHwMV9Q", "Jordan B Peterson"),
     Media("UCNAxrHudMfdzNi6NxruKPLw", "Making Sense with Sam Harris"),
-    Media("UC554eY5jNUfDq3yDOJYirOQ", "Destiny"), # generating starting here
+    Media("UC554eY5jNUfDq3yDOJYirOQ", "Destiny"),
     Media("UCldfgbzNILYZA4dmDt4Cd6A", "Secular Talk"),
-    Media("UCNvsIonJdJ5E4EXMa65VYpA", "Contrapoints"),
+    Media("UCNvsIonJdJ5E4EXMa65VYpA", "Contrapoints"), # error since there was only 1 page of results
     Media("UCvixJtaXuNdMPUGdOPcY8Ag", "The David Pakman Show"),
     Media("UCLtREJY21xRfCuEKvdki1Kw", "H3 Podcast"),
     Media("UCzQUP1qoWDoEbmsQxvdjxgQ", "The Joe Rogan Experience"),
@@ -60,7 +54,7 @@ MEDIA_SET = [
 ]
 
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
-DATE_RANGE = (datetime(2018, 10, 1), datetime(2019, 10, 31))
+DATE_RANGE = (datetime(2017, 10, 1), datetime(2018, 10, 31))
 
 DATABASE_CON = sqlite3.connect("../db/podcasts.db")
 DATABASE_CURSOR = DATABASE_CON.cursor()
@@ -141,7 +135,8 @@ def media_to_videos(media: Media):
     with open("sample_response.json", "w") as file:
         json.dump(uploads_response, file)
     while True:
-        print(uploads_response['nextPageToken'])
+        if 'nextPageToken' in uploads_response:
+            print(uploads_response['nextPageToken'])
         for video in uploads_response['items']:
             id = video['contentDetails']['videoId']
             timestamp = datetime.strptime(video['contentDetails']['videoPublishedAt'], DATETIME_FORMAT)
@@ -149,14 +144,15 @@ def media_to_videos(media: Media):
             transcript_fname = None
             if DATE_RANGE[0] <= timestamp <= DATE_RANGE[1]:
                 transcript_fname = generate_script(media.media_id, id)
-            episode = Episode(id, media.media_id, timestamp, "", API_SERVICE_NAME, transcript_fname)
-            write_to_episode_db(episode)
-            video_ids.append(episode)
+            if transcript_fname != None:
+                episode = Episode(id, media.media_id, timestamp, "", API_SERVICE_NAME, transcript_fname)
+                write_to_episode_db(episode)
+                video_ids.append(episode)
         uploads_request = YOUTUBE.playlistItems().list(
             part="contentDetails",
             playlistId=channels_response['items'][0]['contentDetails']['relatedPlaylists']['uploads'],
             maxResults=50,
-            pageToken=uploads_response['nextPageToken']
+            pageToken=uploads_response['nextPageToken'] if 'nextPageToken' in uploads_response else None
         )
         uploads_response = uploads_request.execute()
         if "nextPageToken" not in uploads_response:
@@ -174,9 +170,13 @@ def generate_script(channel_id, video_id):
     Path(f"../scripts/{channel_id}").mkdir(parents=True, exist_ok=True)
     try:
         transcript_object = YouTubeTranscriptApi.get_transcript(video_id)
+        if transcript_object[len(transcript_object)-1]['start'] < 900:
+            return None # if video length is less than 15 minutes then don't generate transcript
         with open(f"../scripts/{channel_id}/{video_id}.txt", "w") as file:
-            for line in transcript_object:
-                file.write(line['text'] + "\n")
+            for i in range(min(500, len(transcript_object))): # only generate at most 500 lines
+            # for line in transcript_object:
+                line = transcript_object[i]
+                file.write(line['text'] + "\n") 
     except TranscriptsDisabled:
         return None
     except NoTranscriptFound:
@@ -185,4 +185,6 @@ def generate_script(channel_id, video_id):
 
 
 if __name__ == "__main__":
+    # DATABASE_CURSOR.execute("DELETE FROM Media WHERE title='Contrapoints';")
+    # DATABASE_CON.commit()
     main()

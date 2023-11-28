@@ -1,0 +1,471 @@
+at this time were there any private
+applications of this essentially this
+this large machine were were we're
+private actors allowed into the system I
+mean at what point does and I know that
+as we move into the 70s and you we start
+to have you know personal computers
+essentially early in the early stage I
+mean I you know am old enough to to know
+that in high school the closest that we
+had to personal computers was basically
+a typewriter that had a an extended
+monitor was really and then you could
+actually save some data so I guess it
+was some computing but yeah but but but
+was there at that time any private
+entities that were in any way accessing
+this stuff or using it or how did that
+sort of integration happen well yeah I
+mean look it's it's it's a good question
+I think it was a lot it was um look
+almost immediately when ARPANET
+technology this internet technology was
+demonstrated and it began to connect
+these different research centers and
+military contractors around the country
+and it would begin to be used to develop
+new kind of technologies and and and
+tools for the military people who were
+involved in building this for ARPA you
+know left and set up their own shops and
+set up their own networking companies
+that offered this to corporations
+offered this technology to corporations
+that and corporations large companies
+took this took this technology and you
+know use it to connect internal networks
+and to use it to to digitize their
+operations in a primitive way but you
+know I mean I think the earliest stuff
+was really a military and because there
+was that was that that was a testbed and
+I'd say the first deployment of this
+technology in America
+the civilian world or against the
+civilian population I should say what
+happened almost immediately so in 1969
+the ARPANET went online and that year
+already because you know there was a
+very active anti-war movement and and a
+big movement to to stop military
+research on campuses you know students
+at MIT and in harvard got their hands on
+a research proposal that talked about
+creating this cambrics project which
+talking about creating this data
+technology that could allow analysts to
+ingest data on people in movements and
+political movements and they got their
+hands on the Reese on the proposal and
+our proposal and they and then in the
+text of it was very clearly a
+counterinsurgency weapon an insert and
+the database counterinsurgency weapon
+that that its planners wanted to deploy
+against third world countries where
+there were there were were there
+insurgent movements and so back then
+they were they the students held
+protests at MIT and and against the
+ARPANET a month before I went online and
+they warned that this is going to be
+used to surveil you know to surveil
+civilians and that it was going to be
+deployed maybe overseas at first but
+there was going to come back very
+quickly and going to be used against
+against civil rights activists and and
+left-wing movements and progressive
+movements in general in America and it
+was a huge protest it was written up by
+by it was written up in the press at the
+time it lasted for for a month and there
+was occupations of MIT of buildings on
+campus so it was a pretty big thing and
+of course these kids turned out to be
+right because 1972 just three years
+after the ARPANET went online it was
+used to digitize surveillance files that
+were illegally collected by the army on
+millions of anti-war protesters and
+civil rights activists in the 1960s and
+the army was actually Congress force the
+army to destroy them those files but
+instead of destroying them they actually
+digitized them and then used the ARPANET
+to essentially make them permanent and
+then make them accessible to the White
+House to the NSA to the FBI to the CIA
+to the Pentagon
+and so three years after the ARPANET
+went online it was used to spy on
+Americans almost immediately and so the
+this the surveillance aspect of it and
+the domestic applicant
+was was there from the beginning and and
+in there from the beginning
+it just wasn't it was it started as more
+of a repository and I guess a function
+of the data rather than the data
+collection that it has now become on
+some level right and and let me ask you
+this when you know when we're talking
+about initially in particularly in this
+stage right before the the model of the
+sort of I guess the the the dumb
+terminal and the the the central server
+is is developed how like how many people
+or how many agencies you know are
+actually connected by this like I mean
+like what you're talking about without
+my want years now I don't know I feel
+like in the late sixties when you're
+talking about this month this data
+that's that's fed in there and is it
+just that like a couple of the top
+national security agencies or are they
+at universities MIT have a connection to
+that yeah so so it's some of the top
+universities I guess that the technical
+universities or I mean just how wide it
+is widespread in an expands really
+quickly because you know look you have a
+major universities attached to it that
+are doing that then most of them are
+doing research on this on the ARPANET as
+part of the ARPANET program and so they
+have connections to it you have you have
+the Pentagon connections connections to
+it you have the N and NSA connection to
+it starting in the early 70s you have an
+airforce connection to it that was I
+think almost from the very beginning and
+you have other connections to it which
+are basically unlisted there are there
+are maps published and there are
+discussions of it you know of the
+different nodes and expansion of the
+network and and the main thing is look
+the internet with the ARPANET was
+created as a general-purpose network
+that could connect any kind of computer
+right and it could also connect to any
+other kind of network that was based on
+the same
+in protocol so you could take all the
+ARPANET right and then you can connect
+it to a different network that was ran
+on the same kind of design and they
+could communicate just like you know you
+your local network your local ISP could
+can communicate with them with an ISP in
+China right because they're they
+function on the same principle and so
+they're intact they're interconnected
+and so what would happen what started
+happening very quickly when the ARPANET
+design was shown to be very effective
+was that the NSA and the Pentagon more
+broadly would began to convert their
+internal networks to the ARPANET design
+and so and so they could those networks
+were classified some of them some of
+them were not classified but they could
+connect to the to the actual ARPANET so
+they could communicate through the sort
+of unclassified ARPANET which was which
+was a civilian network because it was it
+did connect the universities right and
+there wasn't like it wasn't a secret
+network right but they could communicate
+through that network so to secure
+networks to communicate with each other
+through the ARPANET and so there were
+these other networks that would began to
+be connected to it and and so the which
+is exactly what kind of is happens today
+you have there's portions of the of the
+Internet or military networks that are
+that are secret and that civilians can't
+access them but they are connected to
+the Internet and in certain exchanges
+that are also secret obviously and so
+look this is the Pentagon began to adopt
+um the internet as its default
+networking and telecommunications
+infrastructure almost from the very
+beginning and so but when as soon as it
+was proven to be effective and so this
+was something that this is something
+that's been going on for 50 years
+alright so so in and sort of I guess a
+tangential question had because this is
+relevant insofar as I think it it
+undercuts the the posing I think on some
+level of the the the
+the libertarian to the extent that
+there's a libertarian ethos in you know
+Silicon Valley and I'm using Silicon
+Valley you know broadly speaking core
+I guess my question is to just sort of
+expose the sort of hypocrisy of this is
+that had this this the network protocols
+the networking the design been developed
+in the private in private industry
+presumably there wouldn't be people who
+would spin off of it and then go and
+start up their own entities right I mean
+it would have been someone would have
+said this is our technology and you need
+to do it through us essentially to be a
+part of this right I mean we would add
+yeah and okay so with that said let's
+talk about how this technology does
+migrate to to private corporations as
+you know as we we get better I guess
+more advanced technology and and and I
+should also just remind people that the
+point of this is because the structure
+from a very beginning defines the way
+the problems or defines I guess the
+context in which we have problems with
+the Internet today right I mean this is
+the this is the point if I the DNA was
+laid there and because it was used for
+these purposes all of its use reflected
+from there sort of has this DNA in it is
+that a fair yeah yeah no look it's a
+fair thing looks easy the internet was
+developed as a military project right to
+develop new kinds of to use computer
+technology and networking knowledge to
+create a management system for the
+military that could help them run
+operations in you know an on a global
+scale right
+and to create a kind of a radar system
+for the world the way that you could see
+and an aircraft moving across a radar
+screen right you presumably would want
+to have the same thing but for your
+troops to understand what's going on to
+understand all the conference in all
+different places that America is
+involved in as an empire to get to get
+in a bird's-eye view of the world and
+and and that's what it was that's what
+the idea was behind it you know I don't
+under kind of a high level of course the
+tools at the time we're not would do not
+allow that right away but that was the
+that was the driving force and this
+technology was built by a military
+contractor so right away you had a
+military design for this technology or
+an intent the reason why I was being
+funded as a pentagon project and then
+you had it actually being built by a
+military contractor and so already
+there's this private public aspect to it
+right from the very beginning that plugs
+into the military industrial complex
+the plug plugs into corporate America
+and that plugs into you know Empire
+management in the age of the Cold War
+and so yeah it's it's it's there and
+look the internet was privatized
+starting in the late 80s and it's
+finished in the mid 90s and that was a
+various there was specific process that
+actually very few people know about so
+the National Science Foundation was
+essentially tasked with bringing the
+ARPANET right this military network that
+was to connect attach to military
+research to transfer to the civilian
+sector and the way that it did that it
+starting in the late 1980s was to was to
+essentially behind closed doors without
+really any public debate come up with a
+plan that would fund a national internet
+infrastructure and then but design it in
+a way that as soon as it was
+commercially viable that is as soon as
+there were enough customers out there
+that could sustain a business model for
+Internet service providers the National
+Science Foundation which is a federal
+agency would privatize it too and so
+that's exactly what happened starting in
+beginning in the late 80s and concluding
+in 1995 when it was when the National
+find sound science foundation finally
+got out completely of the network but
+the Internet as the Internet as we the
+the foundation of this civilian internet
+right it was actually another government
+network called the NSFNET the National
+Science Foundation network that was
+completely funded by the federal
+government and privatized and it was
+that was done explicitly that was that
+was a plan and I even you know in my
+book I even talked to a guy who you know
+who privatized the internet and I asked
+him like is it safe is it fair to call
+you the man who privatized the Internet
+and he had told me yeah it's it's fair
+to say that and we don't even know who
+this guy is
+I mean ask ask ask any American you know
+do you know the name of the guy who
+privatized the Internet and you know you
+would probably get it you know Sarah
+back at you like they were
+insane like what are you talking about
+the internet was privatized was created
+by but you know the the the brilliant
+guys in Silicon Valley who innovated it
+out of thin air but that's exactly what
+happened and so it there's a couple of
+steps to it it began as a military
+project if the the technology was
+absorbed into operational military
+networks and and start in the late 70s
+began became the foundation of military
+telecommunication systems and as that
+was happening the project was then
+handed over to a civilian agency which
+funded a national network that connected
+all these universities and research
+institutions and then privatized it to
+companies that would later be absorbed
+by the giant telecommunication companies
+and become part of the ISPs that we all
+use today and in this I mean this is the
+and just to sort of give a sense of what
+the alternate world could have been I
+mean we had a situation where you have
+these central servers right where these
+are the information repositories and
+then we have these terminals that people
+access this information from afar as
+opposed to a disaggregated system where
+everybody has computer
+power and there is no central terminal
+and we now have that capacity on some
+level but we're still sort of the the
+the genetic structure I guess of the way
+the internet was set up where where was
+sort of Terminal based in a central and
+it was centralized still remains and is
+imprinted upon everything and that is
+now where we have a situation where I
+mean it seems to me that was the genetic
+code that has led to the almost the the
+concentration of power with what we
+think with entities like Google or with
+like Facebook or with the or or the
+infrastructure itself where yes I can't
+really communicate to anybody on the
+internet without the government having
+access and having access via really two
+or three companies essentially right I
+mean it's not it's not just that the
+government is eavesdropping it's that
+these there's there's such a
+concentration of entities through which
+I would communicate to other people
+private entities that the government
+just needs to go to two or three outlets
+and say give us what you got exactly
+yeah look I mean you're totally right
+look there's a there's a certain DNA in
+the way that it was the architecture of
+the network which was again these
+computers were expensive and and even
+the way that the the the network was
+structured you know the routers that
+controlled the flow of traffic these are
+you know pretty expensive computers
+obviously not everyone could own one and
+have them in a bedroom and that'd be
+kind of ridiculous because it would be
+you know you didn't need that many of
+them but the structure of the Internet
+as we have it today is also partially
+because of the of the protocols and
+because of over the original original
+design but also its political right it's
+very political and so there was a there
+could have been a a world in which you
+know in the late 80s when the federal
+government began to create a civilian
+national infrastructure where this
+wasn't handed over to a bunch of private
+companies and wasn't designed
+privatised to be eventually privatized
+but would be I don't know hand it over
+to the Postal Service or something or or
+handed over to municipalities right to
+the some kind of democratic institutions
+and public institutions that could
+control chunks of the network and could
+oversee those chunks of the network and
+then have and have power over them right
+and that maybe maybe on a state level
+right I mean there's a lot of different
+possibilities but those things were not
+discussed because public ownership was
+not something that was going to be
+pursued in the Reagan years right
+especially over new telecommunications
+infrastructure that everybody back then
+knew was going to be a huge moneymaker
+everyone understood in the 80s that the
+internet they are the NSFNET was which
+was being privatized was going to that
+is the new profit center and so this is
+not going to be given over to a some
+kinda municipal agency right it wasn't
+going to be given to the post office
+which Reagan was destroying right and
+and and and gutting and and so at the
+time all right so there are
+possibilities where the the the the
+original sort of military corporate
+military structure of the internet could
+have morphed into something a bit more
+democratic right and but that didn't
+happen obviously because of politics and
+culture so that's a very big part of a
+very big part of the story of the
+internet so it's not just that there was
+some kind of DNA in the internet and
+then that you could it's immutable right
+you couldn't really change it anymore
+because that's just how it was and so we
+almost have a like a fatalistic view of
+this no I mean the society created this
+technology and it had it has the power
+to change it it still does but just the
+cultural forces and the political
+culture of the country I mean it was not
+going to push it in that direction at
+all because how could you all pull all
+the political alignment was actually
+privatizing everything and pushing
+everything to the market sector and
+gutting gutting public ownership of
+resources and public and gutting public
+oversight of undemocratic over cycles of
+of the country right so um so I think
+that's a big story that we don't really
+know about the internet like basically
+alternative
+it's alternative futures maybe you know
+I'm aware this internet could have gone
+and this is something that we need to
+think about because I think I mean we
+shouldn't be fatalistic about this stuff

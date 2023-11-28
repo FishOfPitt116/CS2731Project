@@ -1,0 +1,500 @@
+hi everybody welcome to the jimmy dore
+show im here with steps at murano hi
+Jimmy romp Lakotas on a very
+high-powered panel right now very
+high-powered high-powered so we told you
+that the problem with the elections that
+the people who are saying that they're
+concerned about the elections integrity
+and Russia hacking they it's all if they
+really are concerned they're doing
+nothing about it absolutely nothing
+because we've known that you can aid the
+vote of the suppressed right the Greg
+Palast doing great work on that the vote
+is suppressed number two you can hack
+the voting machines and number three
+we're gonna find out something even
+Alice look at this an 11 year old
+changed election results on a replica
+Florida State website in under 10
+minutes an 11 year old and so it was at
+this thing called the the DEFCON to have
+this DEFCON conference in Las Vegas and
+it's a bunch of these computer people or
+tech nerds how I say that in the best
+way possible
+these tech nerds and they get together
+and they have a thing where they try to
+hack into people's websites or whatever
+they try to find vulnerabilities as a
+service so what they'll do is they'll
+set up at the exact replica of a website
+say like for the Florida State Secretary
+of State they set up the exact using the
+exact and then they go hey try to hack
+into it and and then when they find the
+vulnerabilities they tell the people
+that here's your vulnerabilities you
+should try to fix these and then well
+here's the guy from DEFCON and here's
+what he had to say about it but the
+first kid got in it was a 11 year old
+girl she got in and took over the kind
+of mock Florida website in under 10
+minutes and was able to change election
+results and
+you know change the winners and losers
+and all that stuff by the end of the
+weekend the kids were you know changing
+people's names to like Bob the Builder
+and and and all that kind of stuff
+coming up with some pretty creative
+things to do too to mess with the
+election results you're saying children
+were able to do this her voice went up
+so high only dogs can hear you're saying
+I can't even go up that how you want to
+hear that you're saying children were
+able to do this I can't even give my
+voice if that I can't even do it but
+that's that's very fun
+that's very funny and now watch out
+watch what he says this was this
+response even more mind-blowing here we
+go yeah so the unfortunately it's so
+easy to do that we didn't put this
+particular challenge in the main room
+where the adult hackers are hacking into
+voting machines because it's so easy to
+hack into these websites that they
+wouldn't find it interesting or fun or
+challenging so we decided to give it to
+kids to do and so we had about 50 kids
+doing it and almost all of them were
+able to get in and change election
+results or something else on the page so
+it's so easy to do this that they give
+it to kids to do and an 11 year old got
+in its head anyway so this is from PBS
+newshour thousands of adults hackers
+attended the convention annually while a
+group of children attempted to hack 13
+imitation websites linked to voting in
+presidential battleground states nichols
+al the co-founder of the non-profit
+roots asylum which that's a really
+clever way to write roots asylum is it
+that's kind of a bright roots anyway
+which teaches children how to become
+hackers and help to organize the event
+that sounds like it almost sounds like
+it almost sounds like we teach children
+how to become criminals organized that
+sounds like a great summer camp right
+like if you're into all that kind of
+yeah yeah like that would be totally
+great that would be oh to be to go to
+this
+hey you get too good we go to Vegas as a
+kid
+by the way fake hot Vegas you know how
+kids love Vegas
+oh the whoring the boozing the gambling
+the titty shows it's a children's
+paradise
+it's a children's paradise he's they
+teach children to become hackers and
+organize the event said that an 11 year
+old girl also managed to make changes to
+the same floor to replica website in
+about 15 minutes
+tripling the number of votes found their
+cell said that more than 30 children
+hacked a variety of similar state
+replica websites at under a half an hour
+these are very accurate replicas of all
+the sites cell told PBS newshour on
+Sunday the things should these things
+should not be and be easy enough for an
+eight-year-old kid to hack within 30
+minutes it's negligent for us as a
+society yes it is negligent for us as a
+society but I'm gonna bet you nothing is
+done to fix this problem cell said the
+idea for the event began last year after
+adult hackers were able to access
+similar voting sites in less than five
+minutes so the idea for the event this
+DEFCON thing or the I think I guess
+that's what it is in a statement
+regarding the event the National
+Association of secretaries of state
+there's an association for that did you
+know in that while I did not know
+socialization of secretary of
+secretaries of State and that's
+something said it's ready to work with
+civic minded group members of DEFCON
+community wanting to become part of a
+proactive team effort to secure our
+elections
+well that sounds encouraging now do you
+have something discouraging sure but the
+organizers expressed skepticism over the
+hackers abilities to access the actual
+state websites then let them then let
+those kids have some fun with your soul
+website so but if those kids do that
+that's illegal so that they can't but
+they I would still find a way to do it
+and be anonymous and then blame it on
+the Russians it would be extremely
+difficult to replicate the system since
+many state States utilize unique Network
+custom-built databases with new and
+updated security protocols that's what
+the secretaries of state organization
+says everything's fine that's what they
+say everything's fine
+even though year after year you guys
+have proven that you can hack into these
+things in under five minutes and 11 year
+olds can do it in under ten the site may
+be a replica but the vulnerabilities
+that so this is the this is a quote from
+the DEFCON guy he says the Site may be a
+replica but the vulnerabilities that
+these kids were exploiting were not
+replicas they're the real thing so he's
+saying no sorry this is an exact replica
+of your Secretary of State website the
+exact thing and they were able to hack
+into that so but so they're saying well
+by the way so a lot of people say well
+or they also said in that article that
+they didn't hack into the actual and by
+the way even if they hack into our
+Secretary of State website that's not
+hacking into the voting machines that
+actually that that would that would just
+be we would eventually recognize that
+someone hacked into our website our
+Secretary of State website and changed
+the numbers because we get the numbers
+of the voting machines and we know what
+they are and when they go up on the
+website we would notice that there would
+be a difference so that that's why they
+say they also say so don't pay any
+attention to this because they're not
+actually acting in to them to them
+voting machines but hey check it out
+Def Con hackers easily bust into the
+voting machines but we'll tech companies
+listen the answer is no so here's a
+woman Rachel tobik she's gonna show you
+how how to how easy it is so here's what
+she says I'm at DEFCON hacking
+conference and just learned how easy it
+is to physically gain administrative
+access on a voting machine that is used
+in 18 states
+it requires no tools and takes under two
+minutes so she's gonna show you right
+now I'm gonna show you the video of her
+she's gonna show you how you can hack
+into one of these voting machines that
+are used in 18 states and you can
+get administration as an administrator
+so you can do whatever you want in under
+two two minutes so here she goes you're
+gonna do it for you right there I'm very
+concerned for a living election because
+this voting machine is most in eighteen
+different states and it's extremely easy
+to get admin access on this machine so
+let me show you how quick it is that's a
+little under two minutes so all they
+have to do this bad actor would be to
+open up the scene by pressing this
+button right here when it's off we're
+moving the card reader we're moving this
+you don't need any tools to do this
+unplugging this again you don't need any
+tools to do this
+turning it on all you have to do is pick
+this lock here with a ballpoint pen open
+this up press the red button and we're
+going to let it boot up here and then
+I'll show you the admin access okay so
+I'm gonna let this play for a few
+seconds to show you how long it takes in
+real time it takes a few seconds but
+here we go
+let's watch
+so it's loading what would they call a
+six year voting terminal right now a
+secure voting terminal being loaded
+that's ironic
+yeah we're gonna see a couple of error
+messages and all you have to do to
+bypass those error messages is just
+click cancel and okay and there you go I
+have full admin access to to error
+messages come up you'd click cancel and
+then you click OK and then she has an
+admin administrative access as if she is
+the administrator of that thing of that
+voting machine geez total control of it
+it looks pretty secure Jimmy super
+secure hackers at defconn's voting
+village managed to swap out software
+wrest control of tabulation and
+manipulate the behavior of voting
+machines that will likely be used in
+midterm elections the voting machines
+were put to the test at the second
+annual conference in Las Vegas last
+weekend the goal to give tech company
+some insight into flaws that should be
+addressed before voters head to the
+polls but a leading manufacturer of
+voting equipment complained that the
+exercise wasn't a fair test of
+vulnerabilities to the real world
+hackers who would have to do their worst
+remotely and get past additional
+security hurdles I think this is a
+misprint it said they would have to do
+their worst remotely I think they would
+have to do their work I think that's a
+misprint but we'll see hackers will
+absolutely access so listen to this so
+hackers will absolutely access some
+voting systems internal components
+because they will have full and
+unfettered access to a unit without the
+advantage of trained poll workers locks
+tamper evidence seals passwords and
+other security measures that are in
+place in an actual voting situation
+election systems and software wrote in a
+letter sent to customers and seen by the
+journal so they're saying oh sure you
+can hack into a thing at the Def Con but
+you couldn't do that in real life
+because in real life we have trained
+poll workers
+oh you're oh you could have you you got
+to get up pretty early in the morning
+to slip something past a non-paid poll
+worker
+how could you pot those people you know
+they come right from the FBI to poll
+working I mean they you can't get past
+them again so so they show them how it's
+easy this to hack and the people who
+make this software and the systems go
+don't pay attention it you guys don't
+want to fix this no we're not gonna
+that's what that says don't pay
+attention to those people nothing's
+nothing to see here
+yeah the Russians we could always blame
+what other Russians the National
+Association of secretaries of state
+which represents the top state officials
+in charge of elections also criticized
+the Soyo
+exercise saying it quote in no way
+replicates state election systems
+networks or physical security and that's
+coming from the social national
+associations of secretaries of state and
+I'm gonna say that's what I would have
+say to them you don't think you don't
+think that agency is is lying you don't
+think they are you don't think they're
+completely incompetent full of I'm
+pretty sure they are they just showed
+you anyway even still a number of
+election officials from across the
+country attended the conference so yeah
+the secretary took no one cares the
+makers of the voting machines don't care
+the secretaries of state don't care yeah
+and then next thing you know I mean it's
+just like Wall Street now I keep giving
+them no keep giving them more Dow what
+could go wrong book crash so what so
+what it crashed here's from their
+Twitter the official DEF CON voting
+village here's here's they said here's a
+DEFCON voting machines hacking village
+roundup of
+discoveries from day one so here's some
+of the stuff they discovered 39 kids
+from ages 6 to 17 attempted to hack
+replicas of secretaries of states
+websites of 6 swing states 35 kids were
+able to complete and exploit the
+quickest exploit was done by an 11 year
+old in 10 minutes kids were given an
+introductory walkthrough of how to
+perform a SQL injection who have you
+ever had an SQL injection why I couldn't
+sit down for two days
+SQL injection from there they ran with
+it and were able to complete the hacks
+kids tampered with vote tallies party
+names candidate names total vote counts
+were changed to numbers like 12 billion
+and candidates names were changed at
+things like Bob the Builder or Richard
+Nixon's head so Bob - bill that's like
+the it's like the 24 that's like the new
+Joe the Plumber so that's all let's go
+on it said also says active Diebold tsx
+voting machines were found to be running
+an expired ssl certificate in 2013 which
+makes these machines vulnerable to any
+vulnerabilities cataloged since then so
+they're running so what this says is
+that there are no you're a computer guy
+so you'd listen in and let me know if
+I'm right about this but it sounds to me
+like
+so the Diebold got people who make the
+voting machines have their voting
+machines running on an old system from
+2013 now since 2013 that's five years
+ago since 2013 they found a lot of
+vulnerabilities in those machines and B
+and because they're running the old
+system 2013 they haven't been those
+everybody who knows about those
+vulnerabilities knows how to get in
+there they haven't fixed them so you're
+not they're not running the 2017 SSL
+Certificates there or the 22 or 2018
+they're running five year old so now
+everybody so that's and they worry about
+it so it was I right yeah yeah
+essentially the SS
+is what like encrypts the data so it's
+like protected right and if it's you
+know five years old six years old since
+then there have been all these
+vulnerabilities you know I've been found
+out foreign hackers have found different
+and they didn't update their machine yet
+it's not updated basically it's so all
+those old hacker hacker tricks still
+work it also found out that a hacker was
+able to reprogram addy Abel tsx to play
+gifts and music after uploading a Linux
+operating system while this cannot be
+easily carried out in the time it may
+take a voter to vote it illustrates the
+malleability of these systems I I take
+forever to vote well well now I don't
+actually go in anymore when I used to
+vote go in to vote but now I vote by
+mail so but I remember I would take
+forever in there and know no one's
+timing you no one's paying attention at
+all to how long people are staying and
+I've never been to a polling place where
+the anyone was paying attention to
+anything the voters were doing - have
+you ever been to a place like that stuff
+Jimmy I have never been to a place where
+somebody's gone into their little cubby
+and suddenly hear hey what's taking me
+what's taking you so long with the
+voting are you hacking our machine in
+there I just need two more minutes when
+I was a kid they used to have voting at
+my school I went to Our Lady of the
+snows that was the name of our school
+Catholic and they would have the voting
+they would have that was like a polling
+place so they would and the voting
+machines were gigantic gigantic and they
+had a curtain that you pulled he walked
+in it was like a big thing I don't know
+what was on the inside because I was too
+long I was too young I never voted there
+but anyway let's see some else some
+other stuff they found polled book
+machines Express poll 5000 were found to
+be vulnerable to having they're easily
+accessible memory cards removed from the
+top of the machines and replaced with
+market purchased copy preloaded with
+alternative voting poll information the
+means that voters that attempt to vote
+at a polling place may find that they
+are no longer in the precincts records
+or other voters could be added who could
+then vote in that polling place the hack
+can easily be performed by a voter
+within five seconds using a distraction
+or by a poll worker with access to all
+machines that's the thing that they're
+forgetting so when those secretaries of
+states organizations and their and the
+people from the DIA bold machine and
+whoever else just said I don't pay
+attention to this now because oh well we
+have trained poll workers how easy is it
+for one of those poll workers to go pull
+this off you have trust and effort your
+poll workers aren't corrupt how about if
+I go to a poll worker and I go hey I'm
+gonna give you five grand could you go
+do this could you go takes two seconds
+here's five grand
+here's 50 grand hey here's a hundred
+grand could you go switch the boat cuz
+this is a important district people
+would do that for five hundred bucks by
+the way poll workers I there's no doubt
+that I'm not saying you're not
+advocating I'm not advocating but I'm
+saying I would bet that you could get a
+poll worker to roll for about five
+hundred bucks
+I don't know I'm guessing but that's
+what the thing people in this economy
+absolutely in this economy all right how
+about you just offer them a free trip to
+the doctor I'll cover your expenses
+I'll cover the doctor it's on me at tell
+them you want the works Thank You Jimmy
+I'm thinking what a perfect way to start
+a third party it's called hackers
+hackers that's it and you're in you
+don't forget this due process and you
+know trying to get on our ballots why we
+just like you're called hackers you call
+hackers you start them young certainly
+they sir do well polled book machines
+Express poll 5,000 also keep supervisor
+passwords on these cards and they are
+listed in plain text the poll book
+machines also keep personal records for
+all voters including the last four of
+your social security number your address
+your driver's license numbers and are
+completely unencoded
+of course expanding on the password
+details above the hackers were able to
+read and write the database inside using
+SQL light a simple database program
+available everywhere they discovered
+that the root password get this this is
+right here they discovered that the root
+password and administrative passwords
+are stored in the device in clear-text
