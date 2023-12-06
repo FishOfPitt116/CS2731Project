@@ -176,7 +176,7 @@ def generate_script(channel_id, video_id):
             for i in range(min(500, len(transcript_object))): # only generate at most 500 lines
             # for line in transcript_object:
                 line = transcript_object[i]
-                file.write(line['text'] + "\n") 
+                file.write(line['text'] + "\n")
     except TranscriptsDisabled:
         return None
     except NoTranscriptFound:

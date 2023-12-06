@@ -41,8 +41,10 @@ SUBREDDIT_DICT = {
     "hbomberguy": "hbomberguy"
 }
 
+comment_counts = {}
+
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
-DATE_RANGE = (datetime(2018, 10, 1), datetime(2019, 10, 31))
+DATE_RANGE = (datetime(2017, 10, 1), datetime(2018, 10, 31))
 
 DATABASE_CON = sqlite3.connect("../db/podcasts.db")
 DATABASE_CURSOR = DATABASE_CON.cursor()
@@ -60,10 +62,7 @@ def main():
             continue
 
         media_id = media_id[0]
-
-        # DEBUG
-        if name != "Louder with Crowder":
-            continue
+        comment_counts[name] = 0
 
         # delete current contents of working directory
         if os.path.exists('../comments/data/tmp') and os.path.isdir('../comments/data/tmp'):
@@ -74,18 +73,24 @@ def main():
         with zipfile.ZipFile(path_to_zipped, 'r') as z:
             z.extractall('../comments/tmp')
 
-        post_file = '../comments/tmp/conversations.json'
-        comment_file = '../comments/tmp/utterances.jsonl'
+        post_file = '../comments/tmp/' + SUBREDDIT_DICT[name] + '.corpus/conversations.json'
+        comment_file = '../comments/tmp/' + SUBREDDIT_DICT[name] + '.corpus/utterances.jsonl'
 
         # save posts within target period
         with open(post_file) as f:
             post_data = json.loads(f.read())
             for post_id in post_data.keys():
                 content = post_data[post_id]['title']
+
+                # filter out empty, deleted, and short (<10 characters)
                 if content == "":
                     continue
+                if "[removed]" in content or "[deleted]" in content:
+                    continue
+                if len(content) < 10:
+                    continue
+
                 timestamp = datetime.fromtimestamp(post_data[post_id]['timestamp'])
-                print(timestamp)
                 if DATE_RANGE[0] <= timestamp and timestamp <= DATE_RANGE[1]:
                     write_to_post_db(Post(media_id, post_id, timestamp, content))
 
@@ -105,12 +110,21 @@ def main():
                 if result_id is None:
                     continue
 
-                # skip if no content
+                # filter out empty, deleted, and short (<10 characters)
                 if content == "":
+                    continue
+                if "[removed]" in content or "[deleted]" in content:
+                    continue
+                if len(content) < 10:
                     continue
 
                 if DATE_RANGE[0] <= timestamp <= DATE_RANGE[1]:
                     write_to_comment_db(Comment(media_id, post_id, user, content, timestamp))
+                    comment_counts[name] += 1
+        print("SAVED " + str(comment_counts[name]) + " COMMENTS FOR " + name)
+
+    print("Total Comments Added...")
+    print(comment_counts)
 
 """
 Method which writes a post object to the Post database table.

@@ -1,0 +1,105 @@
+
+from the new york times on michael vaughan
+
+today it was a young comedians data expert who came up with the plan to harvest people's personal data off facebook and use it to influence their voting behavior
+why the brains behind cambridge analytical is now dog whistle blower
+it's wednesday march twenty first
+when did you first get introduced to christopher wily so i was london in august and a reporter wanted to be introduced to this kid crist for wiley who had been one of the people op sound cambridge analytical man rosenberg was one of the reporters who broke the story
+three of cambridge analytical we met in east london are staying at this hotel is kind of hotel in east london
+and in walks this guy he's skinny sort of webster ish a twenty year old like east london kid was in from canada
+he's wearing a bikini from the obama two thousand and all the inauguration and is come in there and it's all it's all about how he found this from that you know what's supposed to be the arsenal of weapons and steve bands culture war to reshape america into a right wing nationalist country
+and what was interesting about this guy store and why did you care what he had to say so you know by the summer twenty seventeen we all knew cambridge america and work for the trump campaign we also knew that there had been facebook data somehow he used by this company
+chris had to say was that it was tens of millions of profiles it was scale and scope of data are seeing that we did not know so chris understood how cambridge and let it go
+had used facebook in a way that hadn't yet been disclosed or understood by the public yeah he's he was integral to it
+you at this bar in london with christopher wily what's the story that he tells you i home to start of the beginning he has a high school drop out from british columbia in canada he left high school after suing the school district over inclusion issues chris is gay very openly so after dropping out he drew
+to to ottawa where he started working for the liberal party and canada and there he mac can straw summer who was obama has a date a guy new thousand and eight and can kind of became his mentor and tottenham about data science and using it for elections
+after a while though he kind of want to go back to school he gets into the london school of economics and heads of the london
+but while he's there i mean he has this seeming kind of passion or compulsion to do political data in a
+mama he sucked back into the data world and ends up with this company called se ela elections now
+as part of the bigger company called the silk group which has a lot of defense and intelligence contracting it's like a research communications company and as sale elections their election division is this a small part of this company but it's run by this guy hours and or next who is very posh britain and alexander niche really wants to get a bigger chunk of
+of the american political market
+it was to break into the us he really wants a break in the us and mix is on a flight from london to new york and as is completely habit sense meeting with people work for herman cain the republican presidential candidate
+and threw them they get into the world of the kind of far right of the republican party and that eventually leads knicks and wiley in the small dated team assembled to steve ban and robert mercer the kind of kings of american conservative politics get knicks and while he gets know the merge
+teachers and see ban and it was braveheart empires exploding and he's now setting up rape or u k and really wants to reshape american politics
+and how are they going to do this so they've got this idea that they're going to take a new field of study called second graphic research and they're gonna sell the mergers and ban in on this idea of creating a political data from then instead of going out and polling people make what issued what do you support on country
+do you think about taxes you're to go out and you're going to figure out the actual per se what emotionally drive each american voter and you're going to tailor messages to them
+and through that you're going to be a particular voters can be influenced them it's that whole idea that break or idea of kind of politics been downstream of culture that if you want to change the politics can change the culture and it's sacred graphics is this key to doing so and now where did this idea of psychotic research come from this it originated few years
+earlier at cambridge university to be called the sake of graphic center which is dedicated this idea of using big data to kind of map personalities so chris have been hanging around the center an ad that center a graduate student had developed this technique to predict personalities by looking at facebook likes and this grad student had done this study where he'd gone
+through facebook and harvested likes and at this point based because wide open likes by default republic so scraping them is very easy and he found an average of sixty eight likes you predict amazing things like your skin color with ninety five percent accuracy her sexual orientation when eighty five percent accuracy
+these guys to develop this technique that they claimed could reveal tremendous amount of with people's personalities even semi lakes and they would know you better than your friends at one hundred fifty that in your parents at three hundred better than your own partners so this research said that two three hundred likes you could be known by an outsider better and your spouse pretty
+much you know after kind of harvesting all this facebook data they would unleash the algorithms that had been developed in kind of cradle hands correlations they'd find like let's say you like hello kitty kitty brand the family with a lot of accuracy that you are probably a very open minded person but not particularly conscientious if you like the wu tang clan your her said
+mel so guilty as charged
+and you know big claim people's personalities could be simply measured to facebook likes nothing yeah chris sees this and he's like what we can do this
+you know at the same time he's kind of hanging around this and are learning about this
+well is working with the mergers and small pilot project to kind of tests like a graphics in the virginia twenty thirteen gubernatorial race
+you can catch nellie the republican who when they were backing running against terry mcauliffe who was democrat who that was the one they weren't using and in the face but data for this the chinese polling data and other kinds of dated to measure personality the results were in the us but promising enough that the mercer said you know what let's go ahead we're going to try and create a new company here that focused on the
+idea of of collateral groceries he's actually and then by june of two thousand and fourteen the mercer said put in about fifteen million dollars
+steve banning was on the board one of the founders and these guys suddenly had a problem because it was easy enough to get that kind of polling data and all kinds of other data points you needed to measure personality in in some small virginia counties
+they'd only tested two counties virginia
+getting that kind of data on a national scale was just didn't have the resources to do it or the time
+but chris busy have been hanging around cambridge knew that there was a data set out there that could work to measure personality and that was that facebook data that the young phd in an been or alice
+the graphics and or they wouldn't play ball and give that data over know so they found a professor familiar with the research also at cambridge university an assistant psychology professor name alexander kogan he's a russian american and he agrees to do it he agrees to recreate the dataset
+so here's our word people would take a personality it was i think it's really important to know when listeners your facebook was there thinking some kind of quiz like what kind of vegetable or you are which game of throne of archers that's not what was going on here
+they are told that this is for academic research when we get paid a small sample to this very standard sally
+there would then log into facebook and download an app and for taking the swiss would get a small payment coat that's how they we get paid meanwhile the app and scrape era of data and other fans and that was you know basic bio data and what they have liked on facebook
+the researchers would use the answers that these people are provided on the proceeding with and their facebook data can create the algorithm that tells you if you're going like that tang clan or whatever and then once you felt that algorithm can predict that kind of thing and enough accuracy you with an omniscient on the tens of billions of friends
+asked for which you have no answers you know how the personality was answers
+almost all this harvesting of data was done in june and july and little bit of august two thousand and fourteen and they came up with about fifty million profile fifty million yeah
+this system seems to exploit the fact that you can get permission from just a few people and once you're in their world you can gather up all the information you need from their friends which is the whole notion of facebook anyway exactly now i think in all fairness the facebook while this was going on they were already tightening up their permissions
+in april twenty fourteen new apps for no longer allowed to straight friends like this but any apps that had already existed in coggins did exist or grandfather in for another year so this was told the allowed by facebook at the time
+go on and take all this data the thing is is you weren't supposed to give it a third parties you we're not supposed to say you were doing it for academic research and and handed over to a political data from that also it's a commercial are that's a problem
+it's also a problem for the researcher who was an academic you know there's not an academic study on earth that allows you to deceive people
+what to chris and cambridge analytical ultimately get out what do they learn by doing this research they're getting the data they need to build the tools in a psychological picture tens of millions of americans and so they're testing messages office they're saying okay we've got an erotic voters here let's show them a wall so that people sneaking over a long
+like a wall with mexico yeah any increase showed me some the slide some of them are like you see people coming in over a wall and it says like there's more than one kind of national security leak stuff like that how can we appeal to people out in the appeal of their fears most it was fear based from what i saw there wasn't a whole lotta hope is so if you fit a particular kind of personality profile
+ow cambridge angelica is going to start to build messages and you're going to get served a particular kind of ad based on exactly a it's so interesting this idea of using social media to tap into people's kind of crime or desires and fears is the same tactics that we now know
+no russian used in the twenty six you know actions in their own effort to influence the results and to try to hurt hillary clinton and favor
+downturn
+yeah
+
+will the way back
+
+chris starts telling you this whole story back in august why do you think he came forward he been called now a whistle blower but this whole thing was in many ways his idea it sounded like so i think chris was really wrestling with all this he had joined up
+as a twenty three and a twenty four year old kid it was really into his idea of playing i researched how to get people and out of their views he was doing a phd in kind of fashion and fashion marketing i remember the name has mental where was the name of his and he wanted to use the site your graphic research try
+predict kind of consumer fashion choices any crypt to me i remember sitting there saying he wanted to be in fashion not fashionable and i think he really saw the bands and mergers and their ideas the waters leading to fascism in a way that he and deeply apart
+he left of the in two thousand and fourteen so i think by then he knew what he was getting into what he got into they don't have a lot of pretty friend right wing american candidates one of his colleague told me about a moment when a bunch of evangelical christians showed up and his colleague was also gay and they wanted you know the like a graphic research was good for identifying on
+it's actual so they can message them to in much about these guys knew they were running or
+what happens after chris tells you this story what are the big questions for you and where did you go next with the story
+so chris said he had a whole bunch of documents you wanted to show us we wanted to see those documents the documents that showed the scale and scope of the date hours doing that show cambridge america's involvement and also documents that sure what facebook new and what facebook doesn't know and when he's home is they are documents including letters from facebook seeking to make sure the state has been deleted
+wait so facebook knows that this amount of data has been harvested it's never said a word publicly because if they're asking for the data to be deleted presumably they knew it had been harvested exactly and we now know facebook shut down the app and they started investigating and the throughout first have thousand and sixteen they were chasing down kogan
+chasing on cambridge and they were chased now chris and others to try and get that data delete it in twenty seventeen when we started coming out with some figures about the data that was out there facebook still buddhist you would think it's fine nothing to look at here and suddenly we're sitting with this guy who's got these documents that say well actually there was some look at your this law
+hot out there so these documents are making clear that facebook new this information had been taken and taken without permission and from everything you can tell they do not alert the people from home it was taken without their permission me i know they did not alert them and one of the things about this data said it this like a graphic research actually work
+it's it's not something you need to update every few years you know people's positions i'm can control or taxes me change but if you're an erotic at twenty four you're an erotic at forty four maybe a moderator your personality of a personality is a constant so the data is good for decades presumably
+this is what you're arguing
+a lifetime's worth of psycho graphic information about tens of millions of voters yes so do you go to facebook with this information of course i mean we went to them
+more than a week before the story was supposed to publish and facebook decided knowing this story was going to come out they decided to preemptively put up their own statement and say you know we're going to come clean this happened in were trying to get to the bottom of it and really present themselves as proactive and in fact hadn't been proactive it's hard to see somebody has proactive
+when they're putting out statements that what they're doing and to fix something less than twenty four hours before they know a story that includes all these details published which she was more like saving face but actually than actually fixing it yes
+now what's happening now what's been the result of all this reporting and chris decision to come forward and talk all hell broke loose for facebook their stock has lost nearly fifty billion dollars in the last two days
+lawmakers can both the us and britain calling for the mark zuckerberg come testify that they've got state attorney general's in new york and massachusetts opening up investigations and i think for them it's becoming this real crisis of you know what kind of company are we had a people see us and what you can we do to fix you know is is their business model
+i think people
+facebook is a fun place you know through your kids pictures of area kind of like a country star or about guy and you tell people about your life and what they're realizing now is in you tell people about their life they can try to manipulate you can look for ways to find her vulnerabilities and either sell you something whether it's
+a new jacket or a political idea
+that's something that that scares lot of people you know there's something i don't think people are used to living in a world where where there's massive surveillance and people think it smells it's cameras people in your phone but mostly it's putting yourself on facebook and letting a giant company know about it this is one of those stories that helps bring them home to people it's not the only story is not a new idea
+but it is one of those moments where people are thinking that and for public facebook it does represent a real crisis
+that the same time cambridge let it because really they had our stories and that's been immediately followed up by channel four news in britain which told the independent of us had done their own investigation where they had sent one of the reporters posing as prospective client from sri lanka one of the higher cambridge to help their political allies when elections that
+blanca and of alexander next the ceo on a secret camera they were using where he's telling this fake client that you know where we can go after your rivals we can use people to pass bribes to them was in women to entrap them and we can see the film at all and then put it on the internet
+that's a pretty remarkable thing for the ceo of a company that was hired by a winning candidate and the us presidential election today he he was suspended today
+so the ceo of cambridge america is no longer in charge yes
+what do you think that the next questions are in the store or what are you interested in now
+so you know what cambridge athletic a did turns out it wasn't very hard it and take him on a special mission especially before twenty fourteen thousand and fifteen so how many other people were doing it how many of them had more time had more money and were just better at it and how much detail as yeah
+
+thank you very much it's my around
+
+here's what else you need to know
+call when president
+congratulated him on the victory has their electoral victory
+during a news conference at the white house on tuesday
+didn't trump described a warm telephone conversation with vladimir
+about his overwhelmingly election as russia's president
+not as couldn't about the fairness of the reports that was poisoned a former spy in britain or russia's meddling in the twenty six election and the president not raise the issue of rational actually meddling in
+really they came up on this specific call by is something that we smoke and extensively about continue to look at ways and steps forward to make sure it never happens again instead the president focused on what the white house called shared interests including north korea to ukraine
+any escalating arms race between the united states and russia were at a very good call and i suspect that will probably be reading and math tutors and if you can discuss the arms race
+getting outta control and a second woman claiming to have had an affair with president filed a lawsuit on tuesday seeking to be released from a legal agreement requiring her silence
+the playboy model named karen mcdougall says she was misled by the company that owns the national enquirer
+which paid her one hundred and fifty thousand dollars in return for not discussing the relationship her lawsuit comes to weeks after stephanie clifford an adult film actress challenge a similar confidentiality agreement both woman claim their contracts are invalid and that they should be free to this
+their experiences with the press
+that's it for the i'm like moore bar
