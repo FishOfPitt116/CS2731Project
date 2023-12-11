@@ -1,7 +1,7 @@
 import json, os, shutil
 from datetime import datetime
 from pathlib import Path
-from structs import Comment, Post
+from structs import Comment
 import sqlite3
 import zipfile
 
@@ -30,7 +30,7 @@ SUBREDDIT_DICT = {
     "The David Pakman Show": "thedavidpakmanshow",
     "H3 Podcast": "h3h3productions",
     "The Joe Rogan Experience": "JoeRogan",
-    "Alex Jones Radio Show": "infowarsdotcom",
+    "The Alex Jones Show": "infowarsdotcom",
     "Tucker Carlson Tonight": "tucker_carlson",
     "The Ramsey Show": "DaveRamsey",
     "Democracy Now!": "DemocracyNow",
@@ -40,6 +40,8 @@ SUBREDDIT_DICT = {
     "Human Rights Watch": "hrw",
     "hbomberguy": "hbomberguy"
 }
+
+# NOTE: We removed the date range for The Alex Jones Show, Democracy Now!, Political Gabfest and Human Rights Watch due to limited data within that range (<100 commnets).
 
 comment_counts = {}
 
@@ -55,6 +57,8 @@ Main method stores raw comment data in database
 def main():
     create_db_tables()
     for name in SUBREDDIT_DICT.keys():
+        users = {}
+
         result = DATABASE_CURSOR.execute(f"SELECT media_id FROM Media WHERE title='{name}'")
         media_id = result.fetchone()
 
@@ -65,50 +69,30 @@ def main():
         comment_counts[name] = 0
 
         # delete current contents of working directory
-        if os.path.exists('../comments/data/tmp') and os.path.isdir('../comments/data/tmp'):
-            shutil.rmtree('../comments/data/tmp')
+        if os.path.exists('../comments/tmp') and os.path.isdir('../comments/tmp'):
+            shutil.rmtree('../comments/tmp')
 
         # pull subreddit data to working directory
         path_to_zipped = '../comments/data/' + SUBREDDIT_DICT[name] + '.corpus.zip'
         with zipfile.ZipFile(path_to_zipped, 'r') as z:
             z.extractall('../comments/tmp')
 
-        post_file = '../comments/tmp/' + SUBREDDIT_DICT[name] + '.corpus/conversations.json'
         comment_file = '../comments/tmp/' + SUBREDDIT_DICT[name] + '.corpus/utterances.jsonl'
 
-        # save posts within target period
-        with open(post_file) as f:
-            post_data = json.loads(f.read())
-            for post_id in post_data.keys():
-                content = post_data[post_id]['title']
-
-                # filter out empty, deleted, and short (<10 characters)
-                if content == "":
-                    continue
-                if "[removed]" in content or "[deleted]" in content:
-                    continue
-                if len(content) < 10:
-                    continue
-
-                timestamp = datetime.fromtimestamp(post_data[post_id]['timestamp'])
-                if DATE_RANGE[0] <= timestamp and timestamp <= DATE_RANGE[1]:
-                    write_to_post_db(Post(media_id, post_id, timestamp, content))
-
         # save comments within target period
+
+        try:
+            open(comment_file).close()
+        except FileNotFoundError:
+            comment_file = '../comments/tmp/utterances.jsonl'
+
         with open(comment_file) as f:
             lines = f.readlines()
             for line in lines:
                 comment_data = json.loads(line)
-                post_id = comment_data['root']
                 user = comment_data['user']
                 content = comment_data['text']
                 timestamp = datetime.fromtimestamp(comment_data['timestamp'])
-
-                # skip if post_id not in database
-                result = DATABASE_CURSOR.execute(f"SELECT post_id FROM Post WHERE post_id=?", (post_id,))
-                result_id = result.fetchone()
-                if result_id is None:
-                    continue
 
                 # filter out empty, deleted, and short (<10 characters)
                 if content == "":
@@ -119,26 +103,23 @@ def main():
                     continue
 
                 if DATE_RANGE[0] <= timestamp <= DATE_RANGE[1]:
-                    write_to_comment_db(Comment(media_id, post_id, user, content, timestamp))
-                    comment_counts[name] += 1
+                    # only write first 500 comments, and all comments from first 50 users, to DB
+                    c = Comment(media_id, user, content, timestamp)
+                    if user in users and users[user] < 100:
+                        write_to_comment_db(c)
+                        comment_counts[name] += 1
+                        users[user] += 1
+                    elif len(users) < 50:
+                        write_to_comment_db(c)
+                        comment_counts[name] += 1
+                        users[user] = 1
+                    elif comment_counts[name] < 500:
+                        write_to_comment_db(c)
+                        comment_counts[name] += 1
         print("SAVED " + str(comment_counts[name]) + " COMMENTS FOR " + name)
 
     print("Total Comments Added...")
     print(comment_counts)
-
-"""
-Method which writes a post object to the Post database table.
-
-@param media: Post object to be added to ../db/podcasts.db
-@return: True if entry is successfully added, False if entry is already present
-"""
-def write_to_post_db(post: Post):
-    post_exists = DATABASE_CURSOR.execute(f"SELECT post_id FROM Post WHERE post_id='{post.post_id}'")
-    if post_exists.fetchone() is not None:
-        return False
-    DATABASE_CURSOR.execute("INSERT INTO Post VALUES (?, ?, ?, ?)", (post.media_id, post.post_id, post.content, post.timestamp))
-    DATABASE_CON.commit()
-    return True
 
 """
 Method which writes a comment object to the Comment database table.
@@ -147,10 +128,10 @@ Method which writes a comment object to the Comment database table.
 @return: True if entry is successfully added, False if entry is already present
 """
 def write_to_comment_db(comment: Comment):
-    comment_exists = DATABASE_CURSOR.execute(f"SELECT post_id FROM Comment WHERE timestamp=? AND user=? AND content=?", (comment.timestamp, comment.user, comment.content))
+    comment_exists = DATABASE_CURSOR.execute(f"SELECT media_id FROM Comment WHERE timestamp=? AND user=? AND content=?", (comment.timestamp, comment.user, comment.content))
     if comment_exists.fetchone() is not None:
         return False
-    DATABASE_CURSOR.execute("INSERT INTO Comment VALUES (?, ?, ?, ?, ?)", (comment.media_id, comment.post_id, comment.user, comment.content, comment.timestamp))
+    DATABASE_CURSOR.execute("INSERT INTO Comment VALUES (?, ?, ?, ?)", (comment.media_id, comment.user, comment.content, comment.timestamp))
     DATABASE_CON.commit()
     return True
 
@@ -159,13 +140,9 @@ def write_to_comment_db(comment: Comment):
 Method which creates database tables if they aren't already present in ../db/podcasts.db
 """
 def create_db_tables():
-    post_exists = DATABASE_CURSOR.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Post';")
-    if post_exists.fetchone() is None:
-        DATABASE_CURSOR.execute("CREATE TABLE Post(media_id string, post_id string, content string, timestamp timestamp, foreign key(media_id) references Media(media_id))")
-
     comment_exists = DATABASE_CURSOR.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='Comment';")
     if comment_exists.fetchone() is None:
-        DATABASE_CURSOR.execute("CREATE TABLE Comment(media_id string, post_id string, user string, content string, timestamp timestamp, foreign key(post_id) references Post(post_id), foreign key(media_id) references Media(media_id))")
+        DATABASE_CURSOR.execute("CREATE TABLE Comment(media_id string, user string, content string, timestamp timestamp, foreign key(media_id) references Media(media_id))")
 
     DATABASE_CON.commit()
 
