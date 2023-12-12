@@ -65,7 +65,8 @@ Main method which fetches podcast information for all podcasts listed in MEDIA_S
 def main():
     create_db_tables()
     for media in MEDIA_SET:
-        if write_to_media_db(media):
+        # if write_to_media_db(media):
+        if not query_episode_db(media.media_id):
             media_to_videos(media)
 
 """
@@ -111,6 +112,13 @@ def write_to_episode_db(episode: Episode):
     DATABASE_CURSOR.execute(f"INSERT INTO Episode VALUES ('{episode.episode_id}', '{episode.media_id}', '{str(episode.timestamp)}', '{episode.episode_name}', '{episode.platform}', '{episode.transcript}')")
     DATABASE_CON.commit()
     return True
+
+"""
+
+"""
+def query_episode_db(media_id: str):
+    res = DATABASE_CURSOR.execute(f"SELECT * FROM Episode WHERE media_id='{media_id}'")
+    return res.fetchone() != None
 
 """
 Method which fetches YouTube videos given a media object and generates transcripts for all videos it possibly can.
